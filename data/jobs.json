@@ -1,5 +1,324 @@
 [
   {
+    "id": 2315861493,
+    "date_posted": "2026-08-17T17:20:47",
+    "date_created": "2026-08-17T15:56:53.159288",
+    "title": "Chief Product Officer – Product, Growth Systems & AI (m/w/d)",
+    "organization": "ucm",
+    "organization_url": null,
+    "date_valid_through": null,
+    "locations": [
+      {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Heidestraße 46-52",
+          "addressLocality": "Berlin",
+          "addressRegion": "Berlin",
+          "postalCode": "10557",
+          "addressCountry": "DE"
+        }
+      }
+    ],
+    "locations_alt": null,
+    "location_type": null,
+    "location_requirements": null,
+    "salary": null,
+    "employment_type": [
+      "Festanstellung"
+    ],
+    "url": "https://ucm.jobs.personio.de/job/2757415",
+    "source_type": "ats",
+    "source": "personio",
+    "source_domain": "ucm.jobs.personio.de",
+    "source_slug": null,
+    "organization_logo": "https://assets.cdn.personio.de/logos/4567/social/ae4cc55792f4da3e9cf45a1e2088a9e3.png",
+    "cities_derived": [
+      "Berlin"
+    ],
+    "counties_derived": null,
+    "regions_derived": [
+      "Berlin"
+    ],
+    "countries_derived": [
+      "Germany"
+    ],
+    "locations_derived": [
+      "Berlin, Berlin, Germany"
+    ],
+    "timezones_derived": [
+      "Europe/Berlin"
+    ],
+    "lats_derived": [
+      52.5303161
+    ],
+    "lngs_derived": [
+      13.3670835
+    ],
+    "domain_derived": "ucmo.edu",
+    "org_linkedin_slug": "ucm-solution",
+    "ai_salary_currency": "EUR",
+    "ai_salary_value": 120000,
+    "ai_salary_min_value": null,
+    "ai_salary_max_value": null,
+    "ai_salary_unit_text": "YEAR",
+    "ai_benefits": [
+      "Equity",
+      "Competitive salary",
+      "Performance bonuses",
+      "C-level leadership exposure"
+    ],
+    "ai_experience_level": "5-10",
+    "ai_work_arrangement": "On-site",
+    "ai_work_arrangement_office_days": null,
+    "ai_remote_location": null,
+    "ai_remote_location_derived": null,
+    "ai_key_skills": [
+      "Product Strategy",
+      "Growth Systems",
+      "AI-first development",
+      "Marketplace platforms",
+      "Vertical SaaS",
+      "Product Delivery",
+      "Discovery",
+      "Prototyping",
+      "Automation",
+      "LLMs",
+      "Product Analytics",
+      "SQL",
+      "API integration",
+      "CRM management",
+      "Marketing Automation",
+      "Team leadership"
+    ],
+    "ai_hiring_manager_name": null,
+    "ai_hiring_manager_email_address": null,
+    "ai_core_responsibilities": "The Chief Product Officer will lead the product, engineering, and growth teams to build an AI-first platform for flexible labor. Responsibilities include driving product strategy, automating operational processes, and managing the integration of acquired companies.",
+    "ai_requirements_summary": "Candidates must have extensive experience with digital platforms or vertical SaaS and a proven track record in product delivery and growth. Strong technical proficiency in AI tools, data analytics, and leadership is required, along with professional fluency in German and English.",
+    "ai_working_hours": 40,
+    "ai_employment_type": [
+      "FULL_TIME",
+      "PART_TIME"
+    ],
+    "ai_job_language": "German",
+    "ai_visa_sponsorship": false,
+    "ai_keywords": [
+      "Chief Product Officer",
+      "CPO",
+      "Product Management",
+      "Growth",
+      "Marketplace",
+      "SaaS",
+      "AI",
+      "Artificial Intelligence",
+      "Automation",
+      "HR-Tech",
+      "LLMs",
+      "SQL",
+      "APIs",
+      "HubSpot",
+      "Product Analytics",
+      "Due Diligence",
+      "Post-Merger Integration",
+      "Workforce Management",
+      "Engineering",
+      "Marketing Automation"
+    ],
+    "ai_taxonomies_a": [
+      "Management & Leadership",
+      "Software",
+      "Technology",
+      "Human Resources",
+      "Data & Analytics"
+    ],
+    "ai_education": null
+  },
+  {
+    "id": 2315735300,
+    "date_posted": "2026-08-17T15:52:05",
+    "date_created": "2026-08-17T13:56:51.68145",
+    "title": "Senior Product Designer - Heartbeat AI (m/f/d)",
+    "organization": "1KOMMA5°",
+    "organization_url": null,
+    "date_valid_through": null,
+    "locations": [
+      {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Neuer Wall 35",
+          "addressLocality": "Hamburg",
+          "addressRegion": "Hamburg",
+          "postalCode": "20354",
+          "addressCountry": "DE"
+        }
+      },
+      {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Neuer Wall 35",
+          "addressLocality": "Hamburg",
+          "addressRegion": "Hamburg",
+          "postalCode": "20354",
+          "addressCountry": "DE"
+        }
+      },
+      {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Rollbergstraße C/O Impact Hub 28A",
+          "addressLocality": "Berlin",
+          "addressRegion": "Berlin",
+          "postalCode": "12053",
+          "addressCountry": "DE"
+        }
+      },
+      {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "München",
+          "addressRegion": "Bayern",
+          "postalCode": "80331",
+          "addressCountry": "DE"
+        }
+      }
+    ],
+    "locations_alt": null,
+    "location_type": null,
+    "location_requirements": null,
+    "salary": null,
+    "employment_type": [
+      "Permanent employee"
+    ],
+    "url": "https://1komma5grad.jobs.personio.com/job/2757360",
+    "source_type": "ats",
+    "source": "personio",
+    "source_domain": "1komma5grad.jobs.personio.com",
+    "source_slug": null,
+    "organization_logo": "https://assets.cdn.personio.de/logos/80535/social/7d7e045fa1b5f075ff3ebe4c00b5066d.jpg",
+    "cities_derived": [
+      "Hamburg",
+      "Munich",
+      "Berlin"
+    ],
+    "counties_derived": null,
+    "regions_derived": [
+      "Bavaria"
+    ],
+    "countries_derived": [
+      "Germany",
+      "Germany",
+      "Germany"
+    ],
+    "locations_derived": [
+      "Munich, Bavaria, Germany",
+      "Berlin, Germany",
+      "Hamburg, Germany"
+    ],
+    "timezones_derived": [
+      "Europe/Berlin",
+      "Europe/Berlin",
+      "Europe/Berlin"
+    ],
+    "lats_derived": [
+      53.55151875,
+      48.1356168,
+      52.4775104
+    ],
+    "lngs_derived": [
+      9.990832008973168,
+      11.5732955,
+      13.432281732443183
+    ],
+    "domain_derived": "1komma5.com",
+    "org_linkedin_slug": "1komma5grad",
+    "ai_salary_currency": null,
+    "ai_salary_value": null,
+    "ai_salary_min_value": null,
+    "ai_salary_max_value": null,
+    "ai_salary_unit_text": null,
+    "ai_benefits": [
+      "International team",
+      "Climate impact",
+      "Professional development",
+      "Direct contact with decision-makers",
+      "Remote work",
+      "EGYM Wellpass",
+      "Futurebens discounts",
+      "Job bike leasing"
+    ],
+    "ai_experience_level": "5-10",
+    "ai_work_arrangement": "Remote OK",
+    "ai_work_arrangement_office_days": null,
+    "ai_remote_location": [
+      "Germany"
+    ],
+    "ai_remote_location_derived": [
+      "Germany"
+    ],
+    "ai_key_skills": [
+      "AI-First Design",
+      "Prototyping",
+      "User Research",
+      "UX Process",
+      "Data Visualization",
+      "Mobile App Design",
+      "Figma",
+      "Cursor",
+      "Claude",
+      "Notion",
+      "Linear",
+      "Visual Design",
+      "UI Craft",
+      "Cross-functional collaboration",
+      "Product discovery",
+      "Product delivery"
+    ],
+    "ai_hiring_manager_name": null,
+    "ai_hiring_manager_email_address": null,
+    "ai_core_responsibilities": "You will own the end-to-end design process for the Heartbeat app, from initial discovery to production-ready delivery. You will collaborate closely with product managers, engineers, and data scientists to synthesize complex data into elegant user experiences.",
+    "ai_requirements_summary": "You are an AI-native designer with strong mobile app design fluency and a proven track record of taking features from concept to shipment. You possess a builder mindset and the ability to effectively leverage AI tools to enhance your design workflow.",
+    "ai_working_hours": 40,
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_job_language": "English",
+    "ai_visa_sponsorship": false,
+    "ai_keywords": [
+      "AI-native",
+      "Product Design",
+      "Heartbeat AI",
+      "Energy transition",
+      "Renewable energy",
+      "B2C",
+      "Figma",
+      "Cursor",
+      "Claude",
+      "Notion",
+      "Linear",
+      "User research",
+      "Usability testing",
+      "Data visualization",
+      "Mobile app design",
+      "UI/UX",
+      "End-to-end ownership",
+      "Virtual power plant",
+      "Sustainability",
+      "Agile"
+    ],
+    "ai_taxonomies_a": [
+      "Technology",
+      "Software",
+      "Energy",
+      "Art & Design",
+      "Environmental & Sustainability"
+    ],
+    "ai_education": null
+  },
+  {
     "id": 2315735671,
     "date_posted": "2026-08-17T15:17:45",
     "date_created": "2026-08-17T13:57:28.302821",
@@ -146,6 +465,283 @@
     "ai_education": null
   },
   {
+    "id": 2315673125,
+    "date_posted": "2026-08-17T14:38:19",
+    "date_created": "2026-08-17T12:55:56.052999",
+    "title": "AI Transformation Manager (m/w/d)",
+    "organization": "CKM Group",
+    "organization_url": null,
+    "date_valid_through": null,
+    "locations": [
+      {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Schlesische Straße Gebäude F - Getreidesilo 38",
+          "addressLocality": "Berlin",
+          "addressRegion": "Berlin",
+          "postalCode": "10997",
+          "addressCountry": "DE"
+        }
+      }
+    ],
+    "locations_alt": null,
+    "location_type": null,
+    "location_requirements": null,
+    "salary": null,
+    "employment_type": [
+      "Festanstellung"
+    ],
+    "url": "https://ckm-group.jobs.personio.com/job/2593276",
+    "source_type": "ats",
+    "source": "personio",
+    "source_domain": "ckm-group.jobs.personio.com",
+    "source_slug": null,
+    "organization_logo": "https://assets.cdn.personio.de/logos/272806/social/d69c4831e801e05b8b8e57421b4ea4d6.png",
+    "cities_derived": [
+      "Berlin"
+    ],
+    "counties_derived": null,
+    "regions_derived": null,
+    "countries_derived": [
+      "Germany"
+    ],
+    "locations_derived": [
+      "Berlin, Germany"
+    ],
+    "timezones_derived": [
+      "Europe/Berlin"
+    ],
+    "lats_derived": [
+      52.505137
+    ],
+    "lngs_derived": [
+      13.4482078
+    ],
+    "domain_derived": "ckmgroupllc.com",
+    "org_linkedin_slug": "ckmgroup",
+    "ai_salary_currency": null,
+    "ai_salary_value": null,
+    "ai_salary_min_value": null,
+    "ai_salary_max_value": null,
+    "ai_salary_unit_text": null,
+    "ai_benefits": [
+      "Flexible working hours",
+      "31 days of vacation",
+      "Professional development opportunities",
+      "Company pension scheme",
+      "Wellpass fitness and health access",
+      "Employee discount platform",
+      "Modern office environment"
+    ],
+    "ai_experience_level": "5-10",
+    "ai_work_arrangement": "Hybrid",
+    "ai_work_arrangement_office_days": null,
+    "ai_remote_location": null,
+    "ai_remote_location_derived": null,
+    "ai_key_skills": [
+      "AI transformation",
+      "Workflow automation",
+      "Process analysis",
+      "Agent orchestration",
+      "RAG",
+      "Human-in-the-loop",
+      "Power Platform",
+      "Make",
+      "Zapier",
+      "n8n",
+      "API integration",
+      "Stakeholder management",
+      "Project management",
+      "Data governance",
+      "KPI tracking",
+      "Consulting"
+    ],
+    "ai_hiring_manager_name": null,
+    "ai_hiring_manager_email_address": null,
+    "ai_core_responsibilities": "You will identify automation potential, design scalable AI workflows, and manage the implementation of intelligent agent solutions across various business departments. Additionally, you will establish governance standards, monitor AI performance metrics, and train teams to ensure successful adoption of AI tools.",
+    "ai_requirements_summary": "You should have proven experience with AI tools in a corporate context and hands-on expertise in workflow automation platforms like Power Platform, Make, or n8n. Strong analytical skills, an entrepreneurial mindset, and excellent communication abilities in both German and English are required.",
+    "ai_working_hours": 40,
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_job_language": "German",
+    "ai_visa_sponsorship": false,
+    "ai_keywords": [
+      "AI Transformation",
+      "Automation",
+      "Workflow Orchestration",
+      "Agent-based solutions",
+      "RAG",
+      "Guardrails",
+      "Human-in-the-loop",
+      "API",
+      "Webhooks",
+      "CRM",
+      "Ticketing systems",
+      "Knowledge management",
+      "Data governance",
+      "KPIs",
+      "Digitalization",
+      "Healthcare",
+      "eHealth",
+      "Public Health",
+      "Diagnostics",
+      "Preventive medicine",
+      "Change management",
+      "Stakeholder management",
+      "Process optimization",
+      "Business analysis",
+      "Tech stack",
+      "Compliance",
+      "Data protection",
+      "Agile",
+      "Innovation",
+      "Scalability"
+    ],
+    "ai_taxonomies_a": [
+      "Technology",
+      "Management & Leadership",
+      "Healthcare",
+      "Software",
+      "Consulting"
+    ],
+    "ai_education": null
+  },
+  {
+    "id": 2315770404,
+    "date_posted": "2026-08-17T14:03:26.664",
+    "date_created": "2026-08-17T14:37:10.061821",
+    "title": "Senior Product Designer - Heartbeat AI (m/f/d)",
+    "organization": "1KOMMA5˚",
+    "organization_url": "http://1komma5grad.com",
+    "date_valid_through": null,
+    "locations": null,
+    "locations_alt": null,
+    "location_type": "TELECOMMUTE",
+    "location_requirements": [
+      {
+        "@type": "Country",
+        "name": "Germany"
+      }
+    ],
+    "salary": null,
+    "employment_type": [
+      "FULL_TIME"
+    ],
+    "url": "https://join.com/companies/1komma5grad/16591527-senior-product-designer-heartbeat-ai-m-f-d",
+    "source_type": "ats",
+    "source": "join.com",
+    "source_domain": "join.com",
+    "source_slug": null,
+    "organization_logo": "https://cdn.join.com/62f0e4ce67191f000935c720/1-komma-5-o-logo-m.png",
+    "cities_derived": null,
+    "counties_derived": null,
+    "regions_derived": null,
+    "countries_derived": [
+      "Germany"
+    ],
+    "locations_derived": [
+      "Germany"
+    ],
+    "timezones_derived": [
+      "Europe/Berlin"
+    ],
+    "lats_derived": [
+      51.1638175
+    ],
+    "lngs_derived": [
+      10.4478313
+    ],
+    "domain_derived": "1komma5.com",
+    "org_linkedin_slug": "1komma5grad",
+    "ai_salary_currency": null,
+    "ai_salary_value": null,
+    "ai_salary_min_value": null,
+    "ai_salary_max_value": null,
+    "ai_salary_unit_text": null,
+    "ai_benefits": [
+      "International and dynamic team",
+      "Climate impact contribution",
+      "Direct contact with decision-makers",
+      "Remote work options",
+      "EGYM Wellpass",
+      "Futurebens discounts",
+      "Job bike leasing"
+    ],
+    "ai_experience_level": "5-10",
+    "ai_work_arrangement": "Remote OK",
+    "ai_work_arrangement_office_days": null,
+    "ai_remote_location": [
+      "Germany"
+    ],
+    "ai_remote_location_derived": [
+      "Germany"
+    ],
+    "ai_key_skills": [
+      "AI-First Design",
+      "Prototyping",
+      "User Research",
+      "UX Process",
+      "Data Visualization",
+      "Mobile App Design",
+      "Figma",
+      "Cursor",
+      "Claude",
+      "Notion",
+      "Linear",
+      "Visual Design",
+      "UI Craft",
+      "Cross-functional Collaboration",
+      "Product Discovery"
+    ],
+    "ai_hiring_manager_name": null,
+    "ai_hiring_manager_email_address": null,
+    "ai_core_responsibilities": "You will own the end-to-end design process for the Heartbeat app, from initial discovery to final delivery. You will collaborate closely with product managers, engineers, and data scientists to translate complex energy data into elegant user experiences.",
+    "ai_requirements_summary": "The ideal candidate is an AI-native designer with strong mobile app design fluency and a proven track record of taking features from concept to production. You should possess a builder mindset, excellent communication skills, and the ability to leverage AI tools to enhance the design workflow.",
+    "ai_working_hours": 40,
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_job_language": "English",
+    "ai_visa_sponsorship": false,
+    "ai_keywords": [
+      "Senior Product Designer",
+      "Heartbeat AI",
+      "Energy Transition",
+      "B2C Product",
+      "AI-Native",
+      "Figma",
+      "Cursor",
+      "Claude",
+      "Notion",
+      "Linear",
+      "UX Design",
+      "UI Design",
+      "User Research",
+      "Data Visualization",
+      "Mobile App Design",
+      "Product Discovery",
+      "Prototyping",
+      "Renewable Energy",
+      "Virtual Power Plant",
+      "Cross-functional Collaboration",
+      "End-to-end Ownership",
+      "Agile",
+      "Product Management",
+      "Software Engineering",
+      "Data Science"
+    ],
+    "ai_taxonomies_a": [
+      "Technology",
+      "Software",
+      "Art & Design",
+      "Energy",
+      "Environmental & Sustainability"
+    ],
+    "ai_education": null
+  },
+  {
     "id": 2315619204,
     "date_posted": "2026-08-17T13:21:44",
     "date_created": "2026-08-17T11:56:33.336706",
@@ -285,6 +881,135 @@
     ]
   },
   {
+    "id": 2315602098,
+    "date_posted": "2026-08-17T11:00:17.813",
+    "date_created": "2026-08-17T11:33:16.947729",
+    "title": "Physical AI Sales Engineer (m/w/d) ",
+    "organization": "ONE WARE",
+    "organization_url": "https://one-ware.com",
+    "date_valid_through": null,
+    "locations": [
+      {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "Deutschland",
+          "addressLocality": "Osnabrück"
+        }
+      }
+    ],
+    "locations_alt": null,
+    "location_type": null,
+    "location_requirements": null,
+    "salary": null,
+    "employment_type": [
+      "FULL_TIME"
+    ],
+    "url": "https://join.com/companies/one-warecom/16590091-physical-ai-sales-engineer-m-w-d",
+    "source_type": "ats",
+    "source": "join.com",
+    "source_domain": "join.com",
+    "source_slug": null,
+    "organization_logo": "https://cdn.join.com/68c26e5648b97400085692a6/one-ware-logo-m.png",
+    "cities_derived": [
+      "Osnabrück"
+    ],
+    "counties_derived": null,
+    "regions_derived": [
+      "Lower Saxony"
+    ],
+    "countries_derived": [
+      "Germany"
+    ],
+    "locations_derived": [
+      "Osnabrück, Lower Saxony, Germany"
+    ],
+    "timezones_derived": [
+      "Europe/Berlin"
+    ],
+    "lats_derived": [
+      52.2719595
+    ],
+    "lngs_derived": [
+      8.047635
+    ],
+    "domain_derived": "one-ware.com",
+    "org_linkedin_slug": "one-ware",
+    "ai_salary_currency": null,
+    "ai_salary_value": null,
+    "ai_salary_min_value": null,
+    "ai_salary_max_value": null,
+    "ai_salary_unit_text": null,
+    "ai_benefits": [
+      "Competitive compensation",
+      "Responsibility from day one",
+      "Access to proprietary AI technology",
+      "Budget for automation tools",
+      "Flexible working arrangements"
+    ],
+    "ai_experience_level": "2-5",
+    "ai_work_arrangement": "Remote OK",
+    "ai_work_arrangement_office_days": null,
+    "ai_remote_location": [
+      "Osnabrück, Germany"
+    ],
+    "ai_remote_location_derived": [
+      "Osnabrück, Lower Saxony, Germany"
+    ],
+    "ai_key_skills": [
+      "Sales",
+      "Technical sales",
+      "Artificial intelligence",
+      "Computer vision",
+      "Automation",
+      "Electronics",
+      "Customer acquisition",
+      "Lead generation",
+      "Technical consulting",
+      "Product demonstration",
+      "Market research",
+      "Networking",
+      "Strategic planning",
+      "Communication",
+      "Problem solving"
+    ],
+    "ai_hiring_manager_name": null,
+    "ai_hiring_manager_email_address": null,
+    "ai_core_responsibilities": "You will identify and acquire new customers by demonstrating how AI solutions solve production problems and optimize industrial processes. Additionally, you will build partnerships with equipment manufacturers to integrate the company's AI technology into their products under license.",
+    "ai_requirements_summary": "You should have proven experience in customer acquisition and a strong technical background in fields like computer vision, automation, or electronics. The role requires a proactive mindset, the ability to explain complex technical solutions, and proficiency in both German and English.",
+    "ai_working_hours": 40,
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_job_language": "German",
+    "ai_visa_sponsorship": false,
+    "ai_keywords": [
+      "Physical AI",
+      "Sales Engineer",
+      "Computer Vision",
+      "Automation",
+      "Electronics",
+      "Lead Generation",
+      "B2B Sales",
+      "AI Agents",
+      "Manufacturing",
+      "Product Licensing",
+      "Technical Sales",
+      "Startup",
+      "DACH Region",
+      "Customer Success",
+      "Process Optimization"
+    ],
+    "ai_taxonomies_a": [
+      "Sales",
+      "Technology",
+      "Engineering",
+      "Manufacturing",
+      "Software"
+    ],
+    "ai_education": null
+  },
+  {
     "id": 2315489737,
     "date_posted": "2026-08-17T10:09:41",
     "date_created": "2026-08-17T08:58:32.327006",
@@ -417,6 +1142,275 @@
       "Technology",
       "Software",
       "Engineering"
+    ],
+    "ai_education": null
+  },
+  {
+    "id": 2315552186,
+    "date_posted": "2026-08-17T09:57:26.33",
+    "date_created": "2026-08-17T10:31:22.799788",
+    "title": "Product Engineer (Growth) // AI Music Video Platform",
+    "organization": "neural frames",
+    "organization_url": "https://neuralframes.com",
+    "date_valid_through": null,
+    "locations": [
+      {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "Germany",
+          "addressLocality": "Berlin"
+        }
+      }
+    ],
+    "locations_alt": null,
+    "location_type": null,
+    "location_requirements": null,
+    "salary": null,
+    "employment_type": [
+      "FULL_TIME"
+    ],
+    "url": "https://join.com/companies/neuralframescom/16589617-product-engineer-growth-ai-music-video-platform",
+    "source_type": "ats",
+    "source": "join.com",
+    "source_domain": "join.com",
+    "source_slug": null,
+    "organization_logo": "https://cdn.join.com/68e51a080cda320008bbdac3/neural-frames-logo-m.jpeg",
+    "cities_derived": [
+      "Berlin"
+    ],
+    "counties_derived": null,
+    "regions_derived": null,
+    "countries_derived": [
+      "Germany"
+    ],
+    "locations_derived": [
+      "Berlin, Germany"
+    ],
+    "timezones_derived": [
+      "Europe/Berlin"
+    ],
+    "lats_derived": [
+      52.510885
+    ],
+    "lngs_derived": [
+      13.3989367
+    ],
+    "domain_derived": "neuralframes.com",
+    "org_linkedin_slug": "neural-frames",
+    "ai_salary_currency": null,
+    "ai_salary_value": null,
+    "ai_salary_min_value": null,
+    "ai_salary_max_value": null,
+    "ai_salary_unit_text": null,
+    "ai_benefits": [
+      "Vsops",
+      "Profit sharing",
+      "Bi-weekly team lunches",
+      "Team events",
+      "Annual summer offsite",
+      "Learning & development support",
+      "Productivity tools",
+      "Headphone budget",
+      "Deutschlandticket",
+      "Referral bonus"
+    ],
+    "ai_experience_level": "2-5",
+    "ai_work_arrangement": "Hybrid",
+    "ai_work_arrangement_office_days": 4,
+    "ai_remote_location": null,
+    "ai_remote_location_derived": null,
+    "ai_key_skills": [
+      "React",
+      "Next.js",
+      "TypeScript",
+      "Python",
+      "SQL",
+      "Product engineering",
+      "Growth marketing",
+      "Conversion rate optimization",
+      "Technical SEO",
+      "Data analysis",
+      "A/B testing",
+      "Funnel optimization",
+      "API integration",
+      "Product-led growth",
+      "User onboarding",
+      "Lifecycle marketing"
+    ],
+    "ai_hiring_manager_name": null,
+    "ai_hiring_manager_email_address": null,
+    "ai_core_responsibilities": "You will own the growth funnel by managing marketing pages, landing pages, and conversion experiments to drive revenue. Additionally, you will contribute to the core product by building features that enhance user acquisition, activation, and retention.",
+    "ai_requirements_summary": "You are a product engineer proficient in React, Next.js, TypeScript, and Python with a strong focus on conversion and data-driven decision-making. You must be based in Berlin and capable of working from the office at least four days per week.",
+    "ai_working_hours": 40,
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_job_language": "English",
+    "ai_visa_sponsorship": false,
+    "ai_keywords": [
+      "Product Engineer",
+      "Growth",
+      "AI",
+      "Music Video Generator",
+      "React",
+      "Next.js",
+      "TypeScript",
+      "Python",
+      "SQL",
+      "PostHog",
+      "Google Search Console",
+      "Google Analytics",
+      "Technical SEO",
+      "Conversion Tracking",
+      "Funnel Optimization",
+      "Landing Pages",
+      "A/B Testing",
+      "Product-led Growth",
+      "Lifecycle Experiments",
+      "API",
+      "Attribution Logic",
+      "Startup",
+      "Programmatic SEO",
+      "User Activation",
+      "Paywalls"
+    ],
+    "ai_taxonomies_a": [
+      "Technology",
+      "Software",
+      "Marketing",
+      "Data & Analytics",
+      "Engineering"
+    ],
+    "ai_education": null
+  },
+  {
+    "id": 2315552185,
+    "date_posted": "2026-08-17T09:42:01.384",
+    "date_created": "2026-08-17T10:31:22.793434",
+    "title": "Creator Growth Manager // AI Music Video Platform",
+    "organization": "neural frames",
+    "organization_url": "https://neuralframes.com",
+    "date_valid_through": null,
+    "locations": [
+      {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "Germany",
+          "addressLocality": "Berlin"
+        }
+      }
+    ],
+    "locations_alt": null,
+    "location_type": null,
+    "location_requirements": null,
+    "salary": null,
+    "employment_type": [
+      "FULL_TIME"
+    ],
+    "url": "https://join.com/companies/neuralframescom/16589600-creator-growth-manager-ai-music-video-platform",
+    "source_type": "ats",
+    "source": "join.com",
+    "source_domain": "join.com",
+    "source_slug": null,
+    "organization_logo": "https://cdn.join.com/68e51a080cda320008bbdac3/neural-frames-logo-m.jpeg",
+    "cities_derived": [
+      "Berlin"
+    ],
+    "counties_derived": null,
+    "regions_derived": null,
+    "countries_derived": [
+      "Germany"
+    ],
+    "locations_derived": [
+      "Berlin, Germany"
+    ],
+    "timezones_derived": [
+      "Europe/Berlin"
+    ],
+    "lats_derived": [
+      52.510885
+    ],
+    "lngs_derived": [
+      13.3989367
+    ],
+    "domain_derived": "neuralframes.com",
+    "org_linkedin_slug": "neural-frames",
+    "ai_salary_currency": null,
+    "ai_salary_value": null,
+    "ai_salary_min_value": null,
+    "ai_salary_max_value": null,
+    "ai_salary_unit_text": null,
+    "ai_benefits": [
+      "Profit sharing",
+      "Stock options",
+      "Team lunches",
+      "Team events",
+      "Annual summer offsite",
+      "Learning and development support",
+      "Productivity tools",
+      "Headphone budget",
+      "Deutschlandticket",
+      "Referral bonus"
+    ],
+    "ai_experience_level": "2-5",
+    "ai_work_arrangement": "On-site",
+    "ai_work_arrangement_office_days": null,
+    "ai_remote_location": null,
+    "ai_remote_location_derived": null,
+    "ai_key_skills": [
+      "Growth marketing",
+      "Influencer marketing",
+      "Affiliate marketing",
+      "Content strategy",
+      "Short-form video",
+      "Campaign management",
+      "Data analysis",
+      "Community building",
+      "Social media marketing",
+      "Relationship management",
+      "Performance marketing",
+      "Digital marketing",
+      "AI tools",
+      "Music industry knowledge"
+    ],
+    "ai_hiring_manager_name": null,
+    "ai_hiring_manager_email_address": null,
+    "ai_core_responsibilities": "You will own the creator growth channel by recruiting and managing musicians and AI creators to drive signups and revenue. You will be responsible for testing incentives, managing campaigns, and tracking performance metrics to scale the program effectively.",
+    "ai_requirements_summary": "The role requires at least 2 years of experience in growth, influencer, or affiliate marketing with a proven track record of managing creators. Candidates must possess strong instincts for short-form content, be data-driven, and be based in or willing to relocate to Berlin.",
+    "ai_working_hours": 40,
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_job_language": "English",
+    "ai_visa_sponsorship": false,
+    "ai_keywords": [
+      "Growth Marketing",
+      "Influencer Marketing",
+      "Affiliate Marketing",
+      "AI Music",
+      "Content Creation",
+      "TikTok",
+      "Instagram",
+      "YouTube",
+      "CAC",
+      "Revenue Growth",
+      "Community Management",
+      "Digital Strategy",
+      "Performance Tracking",
+      "Berlin",
+      "Start-up",
+      "Neural Frames",
+      "Short-form Content",
+      "Campaign Optimization",
+      "Creator Economy"
+    ],
+    "ai_taxonomies_a": [
+      "Marketing",
+      "Creative & Media",
+      "Management & Leadership",
+      "Technology"
     ],
     "ai_education": null
   },
@@ -649,6 +1643,154 @@
     ]
   },
   {
+    "id": 2315469105,
+    "date_posted": "2026-08-17T07:59:30",
+    "date_created": "2026-08-17T08:34:47.925221",
+    "title": "Staff Engineer, AI, Engineering Experience",
+    "organization": "Vinted",
+    "organization_url": null,
+    "date_valid_through": null,
+    "locations": [
+      {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "",
+          "addressLocality": "Berlin, Germany"
+        }
+      }
+    ],
+    "locations_alt": null,
+    "location_type": null,
+    "location_requirements": null,
+    "salary": null,
+    "employment_type": null,
+    "url": "https://careers.vinted.com/jobs/4847380101?gh_jid=4847380101",
+    "source_type": "ats",
+    "source": "greenhouse",
+    "source_domain": "careers.vinted.com",
+    "source_slug": "vinteden",
+    "organization_logo": null,
+    "cities_derived": [
+      "Berlin"
+    ],
+    "counties_derived": null,
+    "regions_derived": null,
+    "countries_derived": [
+      "Germany"
+    ],
+    "locations_derived": [
+      "Berlin, Germany"
+    ],
+    "timezones_derived": [
+      "Europe/Berlin"
+    ],
+    "lats_derived": [
+      52.510885
+    ],
+    "lngs_derived": [
+      13.3989367
+    ],
+    "domain_derived": "vinted.com",
+    "org_linkedin_slug": "vinted",
+    "ai_salary_currency": "EUR",
+    "ai_salary_value": null,
+    "ai_salary_min_value": 115600,
+    "ai_salary_max_value": 156400,
+    "ai_salary_unit_text": "YEAR",
+    "ai_benefits": [
+      "Share options programme",
+      "30 days of paid annual leave",
+      "Newest MacBook models",
+      "Digital mental and emotional health support",
+      "Employee Assistant Program",
+      "Home office support",
+      "Daily lunch allowance",
+      "Team-building events",
+      "Personal monthly budget for shopping on Vinted",
+      "Subsidised gym membership",
+      "Subsidised pension plan",
+      "Supplemental health insurance",
+      "Life and disability insurance",
+      "Subsidised Deutschlandticket",
+      "Workation",
+      "Individual Learning Budget"
+    ],
+    "ai_experience_level": "10+",
+    "ai_work_arrangement": "Hybrid",
+    "ai_work_arrangement_office_days": 2,
+    "ai_remote_location": null,
+    "ai_remote_location_derived": null,
+    "ai_key_skills": [
+      "AI infrastructure",
+      "Agentic AI",
+      "Technical strategy",
+      "Software development lifecycle",
+      "LLM application architecture",
+      "Agent design",
+      "Tool use",
+      "MCP",
+      "Retrieval and knowledge indexing",
+      "System architecture",
+      "Technical leadership",
+      "Stakeholder management",
+      "Engineering workflows",
+      "Platform engineering",
+      "Coding",
+      "Debugging"
+    ],
+    "ai_hiring_manager_name": null,
+    "ai_hiring_manager_email_address": null,
+    "ai_core_responsibilities": "You will own the technical strategy for AI-assisted and agentic infrastructure to enhance engineering productivity across the organization. You will lead high-stakes experiments and define standards for AI-ready services, workflows, and repositories.",
+    "ai_requirements_summary": "The role requires extensive experience as a staff engineer or architect with deep expertise in modern AI coding tools and LLM application architecture. You must possess strong communication skills to drive technical adoption and consensus across diverse engineering teams.",
+    "ai_working_hours": 40,
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_job_language": "English",
+    "ai_visa_sponsorship": false,
+    "ai_keywords": [
+      "AI",
+      "Staff Engineer",
+      "Engineering Experience",
+      "Agentic AI",
+      "Copilot",
+      "Cursor",
+      "Claude Code",
+      "Codex",
+      "MCP",
+      "LLM",
+      "Platform Engineering",
+      "Software Development",
+      "Technical Strategy",
+      "Automation",
+      "Refactoring",
+      "System Context",
+      "Developer Productivity",
+      "Architecture",
+      "Infrastructure",
+      "Agile",
+      "Technical Writing",
+      "Mentorship",
+      "Product Engineering",
+      "Cloud",
+      "Data Indexing",
+      "Incident Investigation",
+      "Runbook",
+      "Scalability",
+      "Experimentation",
+      "Engineering Leadership"
+    ],
+    "ai_taxonomies_a": [
+      "Technology",
+      "Software",
+      "Engineering",
+      "Management & Leadership",
+      "Data & Analytics"
+    ],
+    "ai_education": null
+  },
+  {
     "id": 2315461285,
     "date_posted": "2026-08-17T07:34:42",
     "date_created": "2026-08-17T08:15:36.811121",
@@ -784,6 +1926,456 @@
     ]
   },
   {
+    "id": 2315414578,
+    "date_posted": "2026-08-17T06:43:17",
+    "date_created": "2026-08-17T06:51:24.603618",
+    "title": "Power Module Multiphysics Modeling & Simulation Expert | Virtual Product Development | Autonomous Design & Synthesis | AI-Augmented Design Optimization",
+    "organization": "onsemi",
+    "organization_url": "https://hctz.fa.us2.oraclecloud.com:443/hcmUI/CandidateExperience/",
+    "date_valid_through": null,
+    "locations": [
+      {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Aschheim-Dornach",
+          "addressRegion": "Bayern",
+          "addressCountry": "DE",
+          "postalCode": "85609",
+          "streetAddress": "Einsteinring 28"
+        }
+      }
+    ],
+    "locations_alt": null,
+    "location_type": "",
+    "location_requirements": null,
+    "salary": null,
+    "employment_type": [
+      "Full time"
+    ],
+    "url": "https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/2506298",
+    "source_type": "ats",
+    "source": "oraclecloud",
+    "source_domain": "hctz.fa.us2.oraclecloud.com",
+    "source_slug": null,
+    "organization_logo": null,
+    "cities_derived": [
+      "Aschheim"
+    ],
+    "counties_derived": [
+      "Landkreis München"
+    ],
+    "regions_derived": [
+      "Bavaria"
+    ],
+    "countries_derived": [
+      "Germany"
+    ],
+    "locations_derived": [
+      "Aschheim, Bavaria, Germany"
+    ],
+    "timezones_derived": [
+      "Europe/Berlin"
+    ],
+    "lats_derived": [
+      48.1479298
+    ],
+    "lngs_derived": [
+      11.68614319192368
+    ],
+    "domain_derived": "onsemi.com",
+    "org_linkedin_slug": "onsemi",
+    "ai_salary_currency": null,
+    "ai_salary_value": null,
+    "ai_salary_min_value": null,
+    "ai_salary_max_value": null,
+    "ai_salary_unit_text": null,
+    "ai_benefits": [
+      "Career benefits"
+    ],
+    "ai_experience_level": "2-5",
+    "ai_work_arrangement": "On-site",
+    "ai_work_arrangement_office_days": null,
+    "ai_remote_location": null,
+    "ai_remote_location_derived": null,
+    "ai_key_skills": [
+      "Power electronics",
+      "Multiphysics modeling",
+      "Simulation",
+      "Thermal management",
+      "Packaging technologies",
+      "Reliability",
+      "AI",
+      "Machine learning",
+      "Virtual product development",
+      "Digital twins",
+      "Ansys",
+      "SiC",
+      "GaN",
+      "Design optimization",
+      "Electrical engineering"
+    ],
+    "ai_hiring_manager_name": null,
+    "ai_hiring_manager_email_address": null,
+    "ai_core_responsibilities": "Develop and advance power module technologies through automated design synthesis and multiphysics modeling. Utilize physics-based models and machine learning to accelerate the design, optimization, and validation of power modules for SiC and GaN applications.",
+    "ai_requirements_summary": "Requires a Master's or PhD degree in Electrical Engineering, Physics, or Mechanical Engineering. Candidates must have at least 3 years of experience in power module modeling and simulation.",
+    "ai_working_hours": 40,
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_job_language": "English",
+    "ai_visa_sponsorship": false,
+    "ai_keywords": [
+      "Power electronics",
+      "Multiphysics modeling",
+      "Simulation",
+      "Thermal management",
+      "Packaging technologies",
+      "Reliability",
+      "AI",
+      "Machine learning",
+      "Virtual product development",
+      "Digital twins",
+      "Ansys",
+      "SiC",
+      "GaN",
+      "Design optimization",
+      "Electrical engineering",
+      "Physics",
+      "Mechanical engineering",
+      "Automotive",
+      "Industrial automation",
+      "Vehicle electrification"
+    ],
+    "ai_taxonomies_a": [
+      "Engineering",
+      "Technology",
+      "Science & Research",
+      "Manufacturing",
+      "Energy"
+    ],
+    "ai_education": [
+      "postgraduate degree"
+    ]
+  },
+  {
+    "id": 2315833890,
+    "date_posted": "2026-08-17T00:00:00",
+    "date_created": "2026-08-17T15:34:18.358671",
+    "title": "Lead Architekt AI Data Platform & GraphRAG (m/w/d)",
+    "organization": "edagengine",
+    "organization_url": null,
+    "date_valid_through": null,
+    "locations": [
+      {
+        "address": {
+          "addressLocality": "Böblingen",
+          "addressRegion": "BW",
+          "postalCode": "71034",
+          "addressCountry": "DE"
+        }
+      },
+      {
+        "address": {
+          "addressLocality": "Ingolstadt",
+          "addressRegion": "BY",
+          "postalCode": "85049",
+          "addressCountry": "DE"
+        }
+      },
+      {
+        "address": {
+          "addressLocality": "München",
+          "addressRegion": "BY",
+          "postalCode": "81371",
+          "addressCountry": "DE"
+        }
+      },
+      {
+        "address": {
+          "addressLocality": "Fulda",
+          "addressRegion": "Hess",
+          "postalCode": "36037",
+          "addressCountry": "DE"
+        }
+      }
+    ],
+    "locations_alt": null,
+    "location_type": null,
+    "location_requirements": null,
+    "salary": null,
+    "employment_type": null,
+    "url": "https://careers.edag.com/job/Fulda-Lead-Architekt-AI-Data-Platform-&-GraphRAG-%28mwd%29-Hess-36037/1427125733/",
+    "source_type": "ats",
+    "source": "successfactors",
+    "source_domain": "careers.edag.com",
+    "source_slug": null,
+    "organization_logo": null,
+    "cities_derived": [
+      "Böblingen",
+      "Munich",
+      "Fulda",
+      "Ingolstadt"
+    ],
+    "counties_derived": [
+      "Landkreis Böblingen",
+      "Landkreis Fulda"
+    ],
+    "regions_derived": [
+      "Baden-Württemberg",
+      "Bavaria",
+      "Hesse",
+      "Bavaria"
+    ],
+    "countries_derived": [
+      "Germany",
+      "Germany",
+      "Germany",
+      "Germany"
+    ],
+    "locations_derived": [
+      "Böblingen, Baden-Württemberg, Germany",
+      "Ingolstadt, Bavaria, Germany",
+      "Munich, Bavaria, Germany",
+      "Fulda, Hesse, Germany"
+    ],
+    "timezones_derived": [
+      "Europe/Berlin",
+      "Europe/Berlin",
+      "Europe/Berlin",
+      "Europe/Berlin"
+    ],
+    "lats_derived": [
+      48.67807145,
+      48.112400449999996,
+      50.55848055,
+      48.763799750000004
+    ],
+    "lngs_derived": [
+      8.972852843287122,
+      11.546979178726534,
+      9.688378903700432,
+      11.353434687477474
+    ],
+    "domain_derived": "edag.com",
+    "org_linkedin_slug": "edaggroup",
+    "ai_salary_currency": null,
+    "ai_salary_value": null,
+    "ai_salary_min_value": null,
+    "ai_salary_max_value": null,
+    "ai_salary_unit_text": null,
+    "ai_benefits": null,
+    "ai_experience_level": "5-10",
+    "ai_work_arrangement": "On-site",
+    "ai_work_arrangement_office_days": null,
+    "ai_remote_location": null,
+    "ai_remote_location_derived": null,
+    "ai_key_skills": [
+      "Kubernetes",
+      "Docker",
+      "Python",
+      "CI/CD",
+      "OpenSearch",
+      "Vector Search",
+      "Milvus",
+      "Knowledge Graphs",
+      "RDF",
+      "SPARQL",
+      "GraphRAG",
+      "LLMs",
+      "Agentic AI",
+      "Data Engineering",
+      "Multi-Cloud Architecture",
+      "Enterprise Architecture"
+    ],
+    "ai_hiring_manager_name": null,
+    "ai_hiring_manager_email_address": null,
+    "ai_core_responsibilities": "You will be responsible for the architecture, technical implementation, and further development of the metys platform. This includes designing the target AI and data platform, managing Kubernetes-based infrastructure, and leading the developer team.",
+    "ai_requirements_summary": "The role requires several years of experience in developing multi-cloud architectures and cloud-native technologies. Proficiency in Python, data engineering, and specialized AI technologies like LLMs, Vector Search, and Knowledge Graphs is essential.",
+    "ai_working_hours": 40,
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_job_language": "German",
+    "ai_visa_sponsorship": false,
+    "ai_keywords": [
+      "AI Platform",
+      "Data Platform",
+      "GraphRAG",
+      "Kubernetes",
+      "Docker",
+      "CI/CD",
+      "Python",
+      "APIs",
+      "Data Engineering",
+      "OpenSearch",
+      "Vector Search",
+      "Milvus",
+      "Knowledge Graphs",
+      "RDF",
+      "SPARQL",
+      "LLMs",
+      "Agentic AI",
+      "Lakehouse",
+      "Enterprise Architecture",
+      "Multi-Cloud",
+      "Cloud Native",
+      "Software Architecture",
+      "Technical Leadership"
+    ],
+    "ai_taxonomies_a": [
+      "Technology",
+      "Data & Analytics",
+      "Software",
+      "Engineering",
+      "Management & Leadership"
+    ],
+    "ai_education": null
+  },
+  {
+    "id": 2315764873,
+    "date_posted": "2026-08-17T00:00:00",
+    "date_created": "2026-08-17T14:33:58.116714",
+    "title": "Senior AI & Automation Expert",
+    "organization": "Zalando",
+    "organization_url": null,
+    "date_valid_through": null,
+    "locations": [
+      {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "Germany",
+          "addressLocality": "Ansbach"
+        }
+      }
+    ],
+    "locations_alt": [
+      "Ansbach, Germany"
+    ],
+    "location_type": null,
+    "location_requirements": null,
+    "salary": null,
+    "employment_type": [
+      "Full time"
+    ],
+    "url": "https://zalando.wd3.myworkdayjobs.com/ZalandoSiteWD/job/Ansbach/Senior-AI---Automation-Expert_2724917",
+    "source_type": "ats",
+    "source": "workday",
+    "source_domain": "zalando.wd3.myworkdayjobs.com",
+    "source_slug": null,
+    "organization_logo": null,
+    "cities_derived": [
+      "Ansbach"
+    ],
+    "counties_derived": [
+      "Ansbach"
+    ],
+    "regions_derived": [
+      "Bavaria"
+    ],
+    "countries_derived": [
+      "Germany"
+    ],
+    "locations_derived": [
+      "Ansbach, Bavaria, Germany"
+    ],
+    "timezones_derived": [
+      "Europe/Berlin"
+    ],
+    "lats_derived": [
+      49.3028611
+    ],
+    "lngs_derived": [
+      10.5722288
+    ],
+    "domain_derived": "zalando.com",
+    "org_linkedin_slug": "zalando",
+    "ai_salary_currency": null,
+    "ai_salary_value": null,
+    "ai_salary_min_value": null,
+    "ai_salary_max_value": null,
+    "ai_salary_unit_text": null,
+    "ai_benefits": [
+      "Employee shares program",
+      "40% off fashion and beauty products",
+      "30% off Lounge by Zalando",
+      "Discounts from external partners",
+      "2 paid volunteering days a year",
+      "Hybrid working model",
+      "Work from abroad for up to 30 working days a year",
+      "27 days of vacation a year",
+      "Relocation assistance",
+      "Family services",
+      "Health and wellbeing options",
+      "Mental health support and coaching",
+      "Training offerings",
+      "Biannual peer-to-peer review"
+    ],
+    "ai_experience_level": "5-10",
+    "ai_work_arrangement": "Hybrid",
+    "ai_work_arrangement_office_days": null,
+    "ai_remote_location": null,
+    "ai_remote_location_derived": null,
+    "ai_key_skills": [
+      "Team leadership",
+      "AI automation",
+      "Strategic roadmap planning",
+      "Customer enablement",
+      "SaaS",
+      "Stakeholder management",
+      "Change management",
+      "Process optimization",
+      "Data analysis",
+      "Product management",
+      "Self-service solutions",
+      "Cross-functional team coaching",
+      "Customer journey mapping",
+      "Service design",
+      "Predictive performance modeling"
+    ],
+    "ai_hiring_manager_name": null,
+    "ai_hiring_manager_email_address": null,
+    "ai_core_responsibilities": "Lead a multidisciplinary team to transform customer enablement operations into an automation-first, proactive strategic engine. Define and execute the product and AI roadmap while governing knowledge foundations to maximize customer value and system efficiency.",
+    "ai_requirements_summary": "Requires proven experience in leading multidisciplinary teams and implementing AI-assisted self-service capabilities within operations. Candidates must demonstrate strong strategic roadmap ownership, stakeholder management skills, and a customer-centric mindset.",
+    "ai_working_hours": 40,
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_job_language": "English",
+    "ai_visa_sponsorship": false,
+    "ai_keywords": [
+      "AI",
+      "Automation",
+      "Customer Enablement",
+      "SaaS",
+      "Team Lead",
+      "E-commerce",
+      "Product Roadmap",
+      "Self-service",
+      "Customer Journey",
+      "Stakeholder Management",
+      "Transformation",
+      "Data-driven",
+      "B2B",
+      "Service Operations",
+      "Scalability",
+      "Knowledge Management",
+      "Predictive Analytics",
+      "Cross-functional Leadership",
+      "Strategy Execution",
+      "Zalando Group"
+    ],
+    "ai_taxonomies_a": [
+      "Management & Leadership",
+      "Technology",
+      "Customer Service & Support",
+      "Software",
+      "Data & Analytics"
+    ],
+    "ai_education": null
+  },
+  {
     "id": 2315710147,
     "date_posted": "2026-08-17T00:00:00",
     "date_created": "2026-08-17T13:38:09.053807",
@@ -907,6 +2499,287 @@
       "Data & Analytics",
       "Software",
       "Engineering"
+    ],
+    "ai_education": [
+      "bachelor degree"
+    ]
+  },
+  {
+    "id": 2315705717,
+    "date_posted": "2026-08-17T00:00:00",
+    "date_created": "2026-08-17T13:36:33.571808",
+    "title": "AI-Driven Test Manager (d/f/m)",
+    "organization": "Airbus",
+    "organization_url": null,
+    "date_valid_through": null,
+    "locations": [
+      {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "Germany",
+          "addressLocality": "Hamburg - Finkenwerder"
+        }
+      }
+    ],
+    "locations_alt": [
+      "Hamburg, Germany",
+      "Finkenwerder, Hamburg, Germany"
+    ],
+    "location_type": null,
+    "location_requirements": null,
+    "salary": null,
+    "employment_type": [
+      "Full time"
+    ],
+    "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Hamburg-Area/AI-Driven-Test-Manager--d-f-m-_JR10424050",
+    "source_type": "ats",
+    "source": "workday",
+    "source_domain": "ag.wd3.myworkdayjobs.com",
+    "source_slug": null,
+    "organization_logo": null,
+    "cities_derived": [
+      "Hamburg"
+    ],
+    "counties_derived": null,
+    "regions_derived": null,
+    "countries_derived": [
+      "Germany"
+    ],
+    "locations_derived": [
+      "Hamburg, Germany"
+    ],
+    "timezones_derived": [
+      "Europe/Berlin"
+    ],
+    "lats_derived": [
+      53.550341
+    ],
+    "lngs_derived": [
+      10.000654
+    ],
+    "domain_derived": "airbus.com",
+    "org_linkedin_slug": "airbus-defence-and-space",
+    "ai_salary_currency": null,
+    "ai_salary_value": null,
+    "ai_salary_min_value": null,
+    "ai_salary_max_value": null,
+    "ai_salary_unit_text": null,
+    "ai_benefits": [
+      "Attractive salary",
+      "Special payments",
+      "30 days paid vacation",
+      "Employer-funded pension",
+      "Employee stock options",
+      "Discounted car leasing",
+      "Insurance special conditions",
+      "Transportation subsidy",
+      "On-site kindergarten",
+      "Medical services",
+      "Canteen and cafeteria",
+      "Flexible working hours",
+      "Job sharing",
+      "Part-time models"
+    ],
+    "ai_experience_level": "5-10",
+    "ai_work_arrangement": "On-site",
+    "ai_work_arrangement_office_days": null,
+    "ai_remote_location": null,
+    "ai_remote_location_derived": null,
+    "ai_key_skills": [
+      "AI-driven testing",
+      "SAP S/4HANA",
+      "Quality assurance",
+      "Test strategy",
+      "Tricentis Tosca",
+      "SAP Solution Manager",
+      "End-to-end testing",
+      "Defect management",
+      "Agile project management",
+      "SAFe",
+      "Supply chain management",
+      "Manufacturing processes",
+      "Data analytics",
+      "Leadership",
+      "Stakeholder management",
+      "English fluency"
+    ],
+    "ai_hiring_manager_name": null,
+    "ai_hiring_manager_email_address": null,
+    "ai_core_responsibilities": "The AI-Driven Test Manager will architect and execute global testing strategies by integrating AI tools to optimize coverage across SAP environments. They will lead international testing teams and manage the complete lifecycle of testing, from data preparation to UAT and Go-Live readiness.",
+    "ai_requirements_summary": "Candidates must hold a degree in Informatics, Manufacturing Engineering, or a related field with extensive experience in SAP development and quality assurance. Proficiency in AI-driven testing, SAP modules, and Agile/SAFe methodologies is required, along with strong leadership and communication skills.",
+    "ai_working_hours": 40,
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_job_language": "English",
+    "ai_visa_sponsorship": false,
+    "ai_keywords": [
+      "AI",
+      "SAP",
+      "S/4HANA",
+      "Quality Assurance",
+      "Tricentis Tosca",
+      "SAP Solution Manager",
+      "Supply Chain",
+      "Manufacturing",
+      "Data Analytics",
+      "SAFe",
+      "Agile",
+      "Test Management",
+      "Aerospace",
+      "UAT",
+      "Defect Management",
+      "Project Management",
+      "Informatics",
+      "Logistics",
+      "Digital Ecosystem",
+      "System Launch"
+    ],
+    "ai_taxonomies_a": [
+      "Technology",
+      "Management & Leadership",
+      "Engineering",
+      "Manufacturing",
+      "Data & Analytics"
+    ],
+    "ai_education": [
+      "bachelor degree"
+    ]
+  },
+  {
+    "id": 2315700611,
+    "date_posted": "2026-08-17T00:00:00",
+    "date_created": "2026-08-17T13:33:56.481116",
+    "title": "Manager Operational Excellence & AI - Wertpapierabwicklung (m/w/d)",
+    "organization": "flatexDEGIRO AG",
+    "organization_url": null,
+    "date_valid_through": null,
+    "locations": [
+      {
+        "address": {
+          "addressLocality": "Neuss",
+          "addressRegion": "NW",
+          "postalCode": "41460",
+          "addressCountry": "DE"
+        }
+      }
+    ],
+    "locations_alt": null,
+    "location_type": null,
+    "location_requirements": null,
+    "salary": null,
+    "employment_type": null,
+    "url": "https://jobs.flatexdegiro.com/job/Neuss-Manager-Operational-Excellence-&-AI-Wertpapierabwicklung-%28mwd%29-NW-41460/1427033933/",
+    "source_type": "ats",
+    "source": "successfactors",
+    "source_domain": "jobs.flatexdegiro.com",
+    "source_slug": null,
+    "organization_logo": null,
+    "cities_derived": [
+      "Neuss"
+    ],
+    "counties_derived": [
+      "Rhein-Kreis Neuss"
+    ],
+    "regions_derived": [
+      "North Rhine-Westphalia"
+    ],
+    "countries_derived": [
+      "Germany"
+    ],
+    "locations_derived": [
+      "Neuss, North Rhine-Westphalia, Germany"
+    ],
+    "timezones_derived": [
+      "Europe/Berlin"
+    ],
+    "lats_derived": [
+      51.2074219
+    ],
+    "lngs_derived": [
+      6.708413005860736
+    ],
+    "domain_derived": "flatexdegiro.com",
+    "org_linkedin_slug": "flatexdegiro-ag",
+    "ai_salary_currency": null,
+    "ai_salary_value": null,
+    "ai_salary_min_value": null,
+    "ai_salary_max_value": null,
+    "ai_salary_unit_text": null,
+    "ai_benefits": [
+      "Flexible working hours",
+      "Work from home",
+      "30 days paid vacation",
+      "Mobility benefit",
+      "E-mobility benefit",
+      "Professional development",
+      "Childcare cost coverage",
+      "Occupational pension scheme",
+      "Company laptop",
+      "Company monitor",
+      "Headphones",
+      "Pluxee benefits pass or EGYM wellpass",
+      "Referral bonus"
+    ],
+    "ai_experience_level": "5-10",
+    "ai_work_arrangement": "Hybrid",
+    "ai_work_arrangement_office_days": null,
+    "ai_remote_location": null,
+    "ai_remote_location_derived": null,
+    "ai_key_skills": [
+      "Securities processing",
+      "Process optimization",
+      "Digital transformation",
+      "Artificial intelligence",
+      "Change management",
+      "Stakeholder management",
+      "Brokerage operations",
+      "Capital markets",
+      "Strategic planning",
+      "Analytical skills",
+      "Jira",
+      "MS Office",
+      "Leadership",
+      "Financial services"
+    ],
+    "ai_hiring_manager_name": "Mattheos Savvidis",
+    "ai_hiring_manager_email_address": null,
+    "ai_core_responsibilities": "You will be responsible for the transformation and optimization of securities processing operations through automation and AI integration. Additionally, you will lead a team and act as the primary point of contact for internal and external stakeholders regarding process quality and compliance.",
+    "ai_requirements_summary": "Candidates must hold a degree in economics, finance, or digital management and possess significant experience in securities processing and transformation projects. Strong analytical skills, leadership experience, and proficiency in English and German are required.",
+    "ai_working_hours": 40,
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_job_language": "German",
+    "ai_visa_sponsorship": false,
+    "ai_keywords": [
+      "Securities processing",
+      "Operational excellence",
+      "Artificial intelligence",
+      "Automation",
+      "Digitalization",
+      "Brokerage",
+      "Capital markets",
+      "Transformation",
+      "Change management",
+      "Stakeholder management",
+      "Compliance",
+      "Risk management",
+      "Audit",
+      "Jira",
+      "MS Office",
+      "Financial services",
+      "Process optimization",
+      "Leadership",
+      "Strategy",
+      "Banking"
+    ],
+    "ai_taxonomies_a": [
+      "Finance & Accounting",
+      "Management & Leadership",
+      "Technology",
+      "Data & Analytics"
     ],
     "ai_education": [
       "bachelor degree"
@@ -1448,6 +3321,979 @@
     ],
     "ai_education": [
       "bachelor degree"
+    ]
+  },
+  {
+    "id": 2315468845,
+    "date_posted": "2026-08-17T00:00:00",
+    "date_created": "2026-08-17T08:34:07.378506",
+    "title": "AI Test Engineer (m/f/d)",
+    "organization": "HARMAN International",
+    "organization_url": null,
+    "date_valid_through": null,
+    "locations": [
+      {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "Germany",
+          "addressLocality": "DE_Garching_Parkring 1-5"
+        }
+      }
+    ],
+    "locations_alt": [
+      "Garching, Bavaria, Germany"
+    ],
+    "location_type": null,
+    "location_requirements": null,
+    "salary": null,
+    "employment_type": [
+      "Full time"
+    ],
+    "url": "https://harman.wd3.myworkdayjobs.com/HARMAN/job/Garching---Bavaria-Germany---Parking-1-5-Business-Campus/AI-Test-Engineer--m-f-d-_R-54774-2026",
+    "source_type": "ats",
+    "source": "workday",
+    "source_domain": "harman.wd3.myworkdayjobs.com",
+    "source_slug": null,
+    "organization_logo": null,
+    "cities_derived": [
+      "Garching"
+    ],
+    "counties_derived": [
+      "München"
+    ],
+    "regions_derived": [
+      "Bavaria"
+    ],
+    "countries_derived": [
+      "Germany"
+    ],
+    "locations_derived": [
+      "Garching, Bavaria, Germany"
+    ],
+    "timezones_derived": [
+      "Europe/Berlin"
+    ],
+    "lats_derived": [
+      48.24896
+    ],
+    "lngs_derived": [
+      11.65101
+    ],
+    "domain_derived": "harman.com",
+    "org_linkedin_slug": "harman-international",
+    "ai_salary_currency": null,
+    "ai_salary_value": null,
+    "ai_salary_min_value": null,
+    "ai_salary_max_value": null,
+    "ai_salary_unit_text": null,
+    "ai_benefits": [
+      "Flexible work environment",
+      "Employee discounts on HARMAN/Samsung products",
+      "Extensive training opportunities",
+      "Professional and personal development",
+      "Employee recognition and rewards program"
+    ],
+    "ai_experience_level": "5-10",
+    "ai_work_arrangement": "Hybrid",
+    "ai_work_arrangement_office_days": null,
+    "ai_remote_location": null,
+    "ai_remote_location_derived": null,
+    "ai_key_skills": [
+      "AI testing",
+      "Software quality engineering",
+      "Test automation",
+      "Python",
+      "REST APIs",
+      "LLM evaluation",
+      "Agentic workflows",
+      "System integration",
+      "CI/CD",
+      "Git",
+      "Troubleshooting",
+      "Data analysis",
+      "Technical documentation",
+      "Cloud services",
+      "Edge services",
+      "API testing"
+    ],
+    "ai_hiring_manager_name": null,
+    "ai_hiring_manager_email_address": null,
+    "ai_core_responsibilities": "Lead end-to-end quality engineering for AI-enabled applications, including conversational workflows and model integrations. Design and execute structured evaluations for LLM behavior while maintaining automated test solutions and API validation pipelines.",
+    "ai_requirements_summary": "Requires a Bachelor’s or Master’s degree in a technical field and at least 5 years of experience in software quality engineering or validation. Candidates must have hands-on experience testing AI-enabled software and proficiency in Python and automated testing frameworks.",
+    "ai_working_hours": 40,
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_job_language": "English",
+    "ai_visa_sponsorship": false,
+    "ai_keywords": [
+      "AI Test Engineer",
+      "Quality Engineering",
+      "LLM",
+      "Generative AI",
+      "Python",
+      "REST APIs",
+      "Test Automation",
+      "CI/CD",
+      "Git",
+      "System Integration",
+      "Conversational AI",
+      "Agentic Workflows",
+      "Cloud Services",
+      "Edge Computing",
+      "Telemetry",
+      "Observability",
+      "Linux",
+      "Windows",
+      "Mobile Platforms",
+      "Hardware-in-the-loop",
+      "Software Validation",
+      "JSON",
+      "Schema Validation",
+      "Debugging",
+      "Technical Documentation",
+      "Connected Devices",
+      "Multimodal Interaction",
+      "Regression Testing",
+      "Quality Assurance",
+      "Embedded Systems"
+    ],
+    "ai_taxonomies_a": [
+      "Technology",
+      "Software",
+      "Engineering",
+      "Data & Analytics"
+    ],
+    "ai_education": [
+      "bachelor degree",
+      "postgraduate degree"
+    ]
+  },
+  {
+    "id": 2315463504,
+    "date_posted": "2026-08-17T00:00:00",
+    "date_created": "2026-08-17T08:21:14.730479",
+    "title": "Senior ML Research Scientist – AI & Generative Recommendation (m/f/d)",
+    "organization": "adjoe",
+    "organization_url": null,
+    "date_valid_through": null,
+    "locations": [
+      {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Berlin",
+          "addressRegion": "Berlin",
+          "addressCountry": "Germany"
+        }
+      }
+    ],
+    "locations_alt": null,
+    "location_type": "TELECOMMUTE",
+    "location_requirements": [
+      {
+        "@type": "Country",
+        "name": "Germany"
+      }
+    ],
+    "salary": null,
+    "employment_type": [
+      "FULL_TIME"
+    ],
+    "url": "https://jobs.ashbyhq.com/adjoe/147d4798-84f3-4110-b7c4-3ffb2106bb51",
+    "source_type": "ats",
+    "source": "ashby",
+    "source_domain": "jobs.ashbyhq.com",
+    "source_slug": null,
+    "organization_logo": "https://app.ashbyhq.com/api/images/org-theme-logo/78c8a632-3b8b-4886-9e14-0ba0d5852e3e/eba0a6ef-fd7c-4b58-9d3b-bf701c6409b0/5907077b-de35-4273-a124-49580e49af79.png",
+    "cities_derived": [
+      "Berlin"
+    ],
+    "counties_derived": null,
+    "regions_derived": null,
+    "countries_derived": [
+      "Germany"
+    ],
+    "locations_derived": [
+      "Berlin, Germany"
+    ],
+    "timezones_derived": [
+      "Europe/Berlin"
+    ],
+    "lats_derived": [
+      52.5103817
+    ],
+    "lngs_derived": [
+      13.4349112
+    ],
+    "domain_derived": "adjoe.io",
+    "org_linkedin_slug": "adjoe",
+    "ai_salary_currency": null,
+    "ai_salary_value": null,
+    "ai_salary_min_value": null,
+    "ai_salary_max_value": null,
+    "ai_salary_unit_text": null,
+    "ai_benefits": [
+      "Relocation support"
+    ],
+    "ai_experience_level": "5-10",
+    "ai_work_arrangement": "Hybrid",
+    "ai_work_arrangement_office_days": null,
+    "ai_remote_location": null,
+    "ai_remote_location_derived": null,
+    "ai_key_skills": [
+      "Machine learning",
+      "Generative AI",
+      "Deep learning",
+      "Recommender systems",
+      "PyTorch",
+      "Python",
+      "Model optimization",
+      "Model quantization",
+      "Model distillation",
+      "Data science",
+      "High-throughput systems",
+      "AdTech",
+      "Information retrieval",
+      "Embeddings",
+      "Software engineering"
+    ],
+    "ai_hiring_manager_name": null,
+    "ai_hiring_manager_email_address": null,
+    "ai_core_responsibilities": "You will develop foundational machine learning representations and advanced generative AI capabilities to enhance mobile advertising products. The role involves translating academic research into robust, production-ready code for high-throughput, real-time recommendation pipelines.",
+    "ai_requirements_summary": "Candidates must hold a PhD or equivalent research depth in a quantitative field with a proven track record in production environments. You are required to have at least 4 years of experience building large-scale recommender systems and deep expertise in PyTorch and model optimization.",
+    "ai_working_hours": 40,
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_job_language": "English",
+    "ai_visa_sponsorship": true,
+    "ai_keywords": [
+      "Machine Learning",
+      "Generative AI",
+      "Deep Learning",
+      "Recommender Systems",
+      "PyTorch",
+      "Ray",
+      "Hugging Face",
+      "Trino",
+      "Athena",
+      "AdTech",
+      "Data Science",
+      "Model Quantization",
+      "Model Distillation",
+      "High-dimensional Embeddings",
+      "Generative Retrieval",
+      "Deep Ranking",
+      "Production Engineering",
+      "Big Data",
+      "Algorithms",
+      "Statistics",
+      "Mathematics",
+      "Physics",
+      "Software Architecture",
+      "Mentorship",
+      "R&D"
+    ],
+    "ai_taxonomies_a": [
+      "Technology",
+      "Science & Research",
+      "Data & Analytics",
+      "Software",
+      "Engineering"
+    ],
+    "ai_education": [
+      "postgraduate degree"
+    ]
+  },
+  {
+    "id": 2315408392,
+    "date_posted": "2026-08-17T00:00:00",
+    "date_created": "2026-08-17T06:35:19.75759",
+    "title": "Senior AI Adoption Consultant (m/f/d) - with salary details",
+    "organization": "Covestro",
+    "organization_url": null,
+    "date_valid_through": null,
+    "locations": [
+      {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "Germany",
+          "addressLocality": "Leverkusen"
+        }
+      }
+    ],
+    "locations_alt": [
+      "Leverkusen, Germany"
+    ],
+    "location_type": null,
+    "location_requirements": null,
+    "salary": null,
+    "employment_type": [
+      "Full time"
+    ],
+    "url": "https://covestro.wd3.myworkdayjobs.com/cov_external/job/Leverkusen/Senior-AI-Adoption-Consultant--m-w-d----mit-Gehaltsangabe_JR-2026-01672-1",
+    "source_type": "ats",
+    "source": "workday",
+    "source_domain": "covestro.wd3.myworkdayjobs.com",
+    "source_slug": null,
+    "organization_logo": null,
+    "cities_derived": [
+      "Leverkusen"
+    ],
+    "counties_derived": null,
+    "regions_derived": [
+      "North Rhine-Westphalia"
+    ],
+    "countries_derived": [
+      "Germany"
+    ],
+    "locations_derived": [
+      "Leverkusen, North Rhine-Westphalia, Germany"
+    ],
+    "timezones_derived": [
+      "Europe/Berlin"
+    ],
+    "lats_derived": [
+      51.0324743
+    ],
+    "lngs_derived": [
+      6.9881194
+    ],
+    "domain_derived": "covestro.com",
+    "org_linkedin_slug": "covestro",
+    "ai_salary_currency": "EUR",
+    "ai_salary_value": null,
+    "ai_salary_min_value": 104800,
+    "ai_salary_max_value": 127100,
+    "ai_salary_unit_text": "YEAR",
+    "ai_benefits": [
+      "Flexible working hours",
+      "Health promotion",
+      "Retirement savings",
+      "Long-term savings",
+      "Work-life balance"
+    ],
+    "ai_experience_level": "5-10",
+    "ai_work_arrangement": "On-site",
+    "ai_work_arrangement_office_days": null,
+    "ai_remote_location": null,
+    "ai_remote_location_derived": null,
+    "ai_key_skills": [
+      "AI adoption",
+      "Strategic planning",
+      "Change management",
+      "Stakeholder management",
+      "Agile methodologies",
+      "Design thinking",
+      "Project management",
+      "Communication",
+      "Influencing",
+      "Leadership",
+      "Technology architecture",
+      "Vendor management",
+      "Training design",
+      "Consulting",
+      "Cross-functional collaboration"
+    ],
+    "ai_hiring_manager_name": "Chris Rziha",
+    "ai_hiring_manager_email_address": "Chris.Rziha@covestro.com",
+    "ai_core_responsibilities": "The Senior AI Adoption Consultant drives the sustainable adoption of AI solutions across the organization by translating business needs into concrete initiatives. They act as a bridge between technical teams and operating units while managing stakeholders and external vendors to ensure value delivery.",
+    "ai_requirements_summary": "Candidates must hold a university degree (Master's or PhD) and possess over 7 years of experience in international AI or transformation projects. Strong communication skills and a deep understanding of the current AI technology landscape are essential for this role.",
+    "ai_working_hours": 40,
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_job_language": "English",
+    "ai_visa_sponsorship": false,
+    "ai_keywords": [
+      "AI",
+      "Artificial Intelligence",
+      "Generative AI",
+      "Predictive AI",
+      "Agentic AI",
+      "Digital Transformation",
+      "Change Management",
+      "Agile",
+      "Design Thinking",
+      "Chemical Industry",
+      "Manufacturing",
+      "Consulting",
+      "Strategy",
+      "Stakeholder Engagement",
+      "Innovation Management",
+      "Technology Architecture",
+      "Vendor Management",
+      "Leadership",
+      "Project Delivery",
+      "Value Hypothesis"
+    ],
+    "ai_taxonomies_a": [
+      "Technology",
+      "Consulting",
+      "Management & Leadership",
+      "Data & Analytics",
+      "Manufacturing"
+    ],
+    "ai_education": [
+      "postgraduate degree"
+    ]
+  },
+  {
+    "id": 2315364459,
+    "date_posted": "2026-08-17T00:00:00",
+    "date_created": "2026-08-17T05:31:47.049737",
+    "title": "Lead Software Engineer (C#.NET) - Data & AI Products",
+    "organization": "SimCorp",
+    "organization_url": null,
+    "date_valid_through": null,
+    "locations": [
+      {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "Germany",
+          "addressLocality": "Bad Homburg"
+        }
+      }
+    ],
+    "locations_alt": [
+      "Bad Homburg, Germany",
+      "Vienna"
+    ],
+    "location_type": null,
+    "location_requirements": null,
+    "salary": null,
+    "employment_type": [
+      "Full time"
+    ],
+    "url": "https://simcorp.wd3.myworkdayjobs.com/SimCorp_Private/job/Bad-Homburg/Lead-Software-Engineer--C-NET----Data---AI-Products_R-212209",
+    "source_type": "ats",
+    "source": "workday",
+    "source_domain": "simcorp.wd3.myworkdayjobs.com",
+    "source_slug": null,
+    "organization_logo": null,
+    "cities_derived": [
+      "Bad Homburg vor der Höhe",
+      "Vienna"
+    ],
+    "counties_derived": [
+      "Hochtaunuskreis"
+    ],
+    "regions_derived": [
+      "Hesse"
+    ],
+    "countries_derived": [
+      "Germany",
+      "Austria"
+    ],
+    "locations_derived": [
+      "Vienna, Austria",
+      "Bad Homburg vor der Höhe, Hesse, Germany"
+    ],
+    "timezones_derived": [
+      "Europe/Berlin",
+      "Europe/Vienna"
+    ],
+    "lats_derived": [
+      50.2363508,
+      48.2083537
+    ],
+    "lngs_derived": [
+      8.5980265,
+      16.3725042
+    ],
+    "domain_derived": "simcorp.com",
+    "org_linkedin_slug": "simcorp",
+    "ai_salary_currency": null,
+    "ai_salary_value": null,
+    "ai_salary_min_value": null,
+    "ai_salary_max_value": null,
+    "ai_salary_unit_text": null,
+    "ai_benefits": [
+      "Attractive salary",
+      "Bonus scheme",
+      "Pension",
+      "Flexible working hours",
+      "Hybrid workplace model",
+      "Professional development",
+      "IP sprints"
+    ],
+    "ai_experience_level": "5-10",
+    "ai_work_arrangement": "Hybrid",
+    "ai_work_arrangement_office_days": 2,
+    "ai_remote_location": null,
+    "ai_remote_location_derived": null,
+    "ai_key_skills": [
+      "C#",
+      ".NET",
+      "AI application development",
+      "LLM",
+      "Retrieval-augmented generation",
+      "Azure",
+      "Cloud development",
+      "Snowflake",
+      "API design",
+      "Object-oriented design",
+      "CI/CD",
+      "Git",
+      "Automated testing",
+      "Data integration",
+      "Software architecture",
+      "Agentic workflows"
+    ],
+    "ai_hiring_manager_name": null,
+    "ai_hiring_manager_email_address": null,
+    "ai_core_responsibilities": "You will design and build AI-powered application features, including LLM-based workflows and agent integrations, while translating complex client needs into sustainable technical designs. Additionally, you will raise engineering standards through code reviews, automated testing, and mentorship to ensure the delivery of reliable, scalable enterprise solutions.",
+    "ai_requirements_summary": "The role requires 5+ years of experience in C#/.NET backend development and a strong practical understanding of AI, LLM-based systems, and cloud platforms like Azure. Candidates must demonstrate leadership in technical design, experience with modern engineering practices, and the ability to collaborate effectively in an agile environment.",
+    "ai_working_hours": 40,
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_job_language": "English",
+    "ai_visa_sponsorship": false,
+    "ai_keywords": [
+      "C#",
+      ".NET",
+      "AI",
+      "LLM",
+      "Retrieval-augmented generation",
+      "Agentic workflows",
+      "Azure",
+      "Snowflake",
+      "FinTech",
+      "Backend development",
+      "API design",
+      "Object-oriented design",
+      "Clean code",
+      "CI/CD",
+      "Git",
+      "Azure DevOps",
+      "Cloud computing",
+      "Observability",
+      "Agile",
+      "Software architecture",
+      "Data integration",
+      "Prompting strategies",
+      "Production monitoring",
+      "Investment management",
+      "Enterprise software"
+    ],
+    "ai_taxonomies_a": [
+      "Software",
+      "Technology",
+      "Data & Analytics",
+      "Finance & Accounting",
+      "Engineering"
+    ],
+    "ai_education": null
+  },
+  {
+    "id": 2315505434,
+    "date_posted": "2026-08-13T00:00:00",
+    "date_created": "2026-08-17T09:23:56.486309",
+    "title": "Senior AI Architect im GKV-Umfeld (m/w/d)",
+    "organization": "virtual7 GmbH",
+    "organization_url": null,
+    "date_valid_through": null,
+    "locations": [
+      {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "DE",
+          "addressLocality": "Karlsruhe",
+          "addressRegion": "BW",
+          "postalCode": "76227",
+          "streetAddress": "Amalienbadstraße 41d"
+        }
+      }
+    ],
+    "locations_alt": null,
+    "location_type": "TELECOMMUTE",
+    "location_requirements": [
+      {
+        "@type": "Country",
+        "name": "Deutschland"
+      }
+    ],
+    "salary": null,
+    "employment_type": [
+      "FULL_TIME"
+    ],
+    "url": "https://virtual7jobs.recruitee.com/o/senior-ai-architect-im-gkv-umfeld-mwd",
+    "source_type": "ats",
+    "source": "recruitee",
+    "source_domain": "virtual7jobs.recruitee.com",
+    "source_slug": null,
+    "organization_logo": "https://careers.recruiteecdn.com/image/upload/production/images/Bo3H/DV_Jkzx30o5-.png",
+    "cities_derived": [
+      "Karlsruhe"
+    ],
+    "counties_derived": null,
+    "regions_derived": [
+      "Baden-Württemberg"
+    ],
+    "countries_derived": [
+      "Germany"
+    ],
+    "locations_derived": [
+      "Karlsruhe, Baden-Württemberg, Germany"
+    ],
+    "timezones_derived": [
+      "Europe/Berlin"
+    ],
+    "lats_derived": [
+      48.9962434
+    ],
+    "lngs_derived": [
+      8.464985650000006
+    ],
+    "domain_derived": "virtual7.de",
+    "org_linkedin_slug": "virtual7-gmbh",
+    "ai_salary_currency": null,
+    "ai_salary_value": null,
+    "ai_salary_min_value": null,
+    "ai_salary_max_value": null,
+    "ai_salary_unit_text": null,
+    "ai_benefits": [
+      "Flexible working hours",
+      "Remote work",
+      "Individual hardware budget",
+      "Mental health support",
+      "Individual training budget",
+      "Employee PC program",
+      "Job bike",
+      "Company car"
+    ],
+    "ai_experience_level": "5-10",
+    "ai_work_arrangement": "Remote OK",
+    "ai_work_arrangement_office_days": null,
+    "ai_remote_location": [
+      "Karlsruhe, Germany"
+    ],
+    "ai_remote_location_derived": [
+      "Karlsruhe, Baden-Württemberg, Germany"
+    ],
+    "ai_key_skills": [
+      "IT architecture",
+      "Software development",
+      "GKV environment",
+      "Healthcare",
+      "AI",
+      "IT security",
+      "Data protection",
+      "Technical conception",
+      "Stakeholder management",
+      "Analytical thinking"
+    ],
+    "ai_hiring_manager_name": "Julia Tismer",
+    "ai_hiring_manager_email_address": "julia.tismer@virtual7.de",
+    "ai_core_responsibilities": "You will be responsible for the technical conception and architectural design of innovative solutions within the GKV (statutory health insurance) sector. This involves ensuring IT security and data protection while collaborating with various stakeholders to implement sustainable, AI-driven healthcare solutions.",
+    "ai_requirements_summary": "Candidates must have at least 5 years of practical experience in software development or IT architecture, with a strong background in the GKV environment. A structured, analytical approach and excellent German language skills are required for this role.",
+    "ai_working_hours": 40,
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_job_language": "German",
+    "ai_visa_sponsorship": false,
+    "ai_keywords": [
+      "AI Architect",
+      "GKV",
+      "Healthcare",
+      "Software Development",
+      "IT Architecture",
+      "IT Security",
+      "Data Protection",
+      "Digitalization",
+      "Public Sector",
+      "Customer Cluster Healthcare",
+      "Technical Conception",
+      "Stakeholder Management",
+      "Artificial Intelligence",
+      "Patient Data"
+    ],
+    "ai_taxonomies_a": [
+      "Technology",
+      "Healthcare",
+      "Software",
+      "Government & Public Sector",
+      "Data & Analytics"
+    ],
+    "ai_education": null
+  },
+  {
+    "id": 2315769978,
+    "date_posted": "2026-08-11T15:06:09.396",
+    "date_created": "2026-08-17T14:36:52.564638",
+    "title": "(Junior) Conversational AI Specialist (m/w/d) - Knowledge & Customer Experience",
+    "organization": "1KOMMA5˚",
+    "organization_url": "http://1komma5grad.com",
+    "date_valid_through": null,
+    "locations": [
+      {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "Deutschland",
+          "addressLocality": "Hamburg"
+        }
+      }
+    ],
+    "locations_alt": null,
+    "location_type": null,
+    "location_requirements": null,
+    "salary": null,
+    "employment_type": [
+      "FULL_TIME"
+    ],
+    "url": "https://join.com/companies/1komma5grad/16568165-junior-conversational-ai-specialist-m-w-d-knowledge-und-customer-experience",
+    "source_type": "ats",
+    "source": "join.com",
+    "source_domain": "join.com",
+    "source_slug": null,
+    "organization_logo": "https://cdn.join.com/62f0e4ce67191f000935c720/1-komma-5-o-logo-m.png",
+    "cities_derived": [
+      "Hamburg"
+    ],
+    "counties_derived": null,
+    "regions_derived": null,
+    "countries_derived": [
+      "Germany"
+    ],
+    "locations_derived": [
+      "Hamburg, Germany"
+    ],
+    "timezones_derived": [
+      "Europe/Berlin"
+    ],
+    "lats_derived": [
+      53.550341
+    ],
+    "lngs_derived": [
+      10.000654
+    ],
+    "domain_derived": "1komma5.com",
+    "org_linkedin_slug": "1komma5grad",
+    "ai_salary_currency": null,
+    "ai_salary_value": null,
+    "ai_salary_min_value": null,
+    "ai_salary_max_value": null,
+    "ai_salary_unit_text": null,
+    "ai_benefits": [
+      "Remote work options",
+      "Modern office spaces",
+      "Technical equipment for personal use",
+      "Professional development opportunities",
+      "Flat hierarchies",
+      "Sustainable energy industry impact",
+      "EGYM Wellpass sports membership",
+      "Job bike leasing",
+      "Futurebens discounts"
+    ],
+    "ai_experience_level": "0-2",
+    "ai_work_arrangement": "Hybrid",
+    "ai_work_arrangement_office_days": null,
+    "ai_remote_location": null,
+    "ai_remote_location_derived": null,
+    "ai_key_skills": [
+      "Conversational AI",
+      "Knowledge management",
+      "Customer service",
+      "Dialogue modeling",
+      "Flow design",
+      "AI testing",
+      "Communication",
+      "Empathy",
+      "German language",
+      "English language",
+      "Stakeholder management",
+      "Data analysis",
+      "Process optimization",
+      "User-centric design"
+    ],
+    "ai_hiring_manager_name": null,
+    "ai_hiring_manager_email_address": null,
+    "ai_core_responsibilities": "You will create and maintain knowledge content for conversational AI solutions and design service processes, including dialogue flows and procedures. Additionally, you will test AI performance and collaborate with internal departments to translate requirements into user-friendly AI solutions.",
+    "ai_requirements_summary": "The ideal candidate holds a university degree in a field such as communication science, media informatics, or marketing, and possesses initial practical experience in customer service or digital products. You must be fluent in German at a C-level and proficient in English, with a strong interest in AI technologies.",
+    "ai_working_hours": 40,
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_job_language": "German",
+    "ai_visa_sponsorship": false,
+    "ai_keywords": [
+      "Conversational AI",
+      "Knowledge Management",
+      "Customer Experience",
+      "Artificial Intelligence",
+      "Virtual Power Plant",
+      "Renewable Energy",
+      "Solar",
+      "Heat Pump",
+      "E-Mobility",
+      "Dialogue Design",
+      "Service Processes",
+      "Communication Science",
+      "Media Informatics",
+      "Marketing",
+      "Social Sciences",
+      "Digital Products",
+      "User Experience",
+      "Energy Transition",
+      "Sustainability"
+    ],
+    "ai_taxonomies_a": [
+      "Technology",
+      "Software",
+      "Energy",
+      "Customer Service & Support",
+      "Environmental & Sustainability"
+    ],
+    "ai_education": [
+      "bachelor degree"
+    ]
+  },
+  {
+    "id": 2315616858,
+    "date_posted": "2026-08-03T11:41:34",
+    "date_created": "2026-08-17T11:53:17.849456",
+    "title": "Master Student - AI Modeling for WSS and OCS Switching Systems",
+    "organization": "Huawei Research Center Germany",
+    "organization_url": "https://huaweiresearchcentergermanyaustria.teamtailor.com",
+    "date_valid_through": null,
+    "locations": [
+      {
+        "@type": "Place",
+        "address": {
+          "streetAddress": "Riesstraße 25",
+          "addressLocality": "München",
+          "postalCode": "80992",
+          "addressCountry": "DE",
+          "addressRegion": null,
+          "@type": "PostalAddress"
+        }
+      }
+    ],
+    "locations_alt": null,
+    "location_type": null,
+    "location_requirements": null,
+    "salary": null,
+    "employment_type": [
+      "FULL_TIME"
+    ],
+    "url": "https://huaweiresearchcentergermanyaustria.teamtailor.com/jobs/8161963-master-student-ai-modeling-for-wss-and-ocs-switching-systems",
+    "source_type": "ats",
+    "source": "teamtailor",
+    "source_domain": "huaweiresearchcentergermanyaustria.teamtailor.com",
+    "source_slug": null,
+    "organization_logo": null,
+    "cities_derived": [
+      "Munich"
+    ],
+    "counties_derived": null,
+    "regions_derived": [
+      "Bavaria"
+    ],
+    "countries_derived": [
+      "Germany"
+    ],
+    "locations_derived": [
+      "Munich, Bavaria, Germany"
+    ],
+    "timezones_derived": [
+      "Europe/Berlin"
+    ],
+    "lats_derived": [
+      48.18003765
+    ],
+    "lngs_derived": [
+      11.53552924581686
+    ],
+    "domain_derived": "huawei.com",
+    "org_linkedin_slug": "huawei-germany",
+    "ai_salary_currency": null,
+    "ai_salary_value": null,
+    "ai_salary_min_value": null,
+    "ai_salary_max_value": null,
+    "ai_salary_unit_text": null,
+    "ai_benefits": [
+      "Training opportunities",
+      "Language courses",
+      "Company canteen",
+      "Global network access"
+    ],
+    "ai_experience_level": "0-2",
+    "ai_work_arrangement": "On-site",
+    "ai_work_arrangement_office_days": null,
+    "ai_remote_location": null,
+    "ai_remote_location_derived": null,
+    "ai_key_skills": [
+      "Artificial Intelligence",
+      "Machine Learning",
+      "Deep Learning",
+      "PyTorch",
+      "TensorFlow",
+      "Optical Engineering",
+      "Photonics",
+      "WSS",
+      "OCS",
+      "LCOS",
+      "Physics-informed neural networks",
+      "Reinforcement learning",
+      "Inverse design",
+      "Optical design",
+      "Multi-objective optimization",
+      "Data center networks"
+    ],
+    "ai_hiring_manager_name": null,
+    "ai_hiring_manager_email_address": null,
+    "ai_core_responsibilities": "The student will develop AI/ML surrogate models and inverse design frameworks to optimize Wavelength Selective Switch (WSS) and Optical Circuit Switching (OCS) systems. Responsibilities include building system-level performance models and validating AI predictions against experimental measurements.",
+    "ai_requirements_summary": "Candidates must be enrolled in a Master's program in EE, Photonics, Applied Physics, Optical Engineering, CS, or a related field. Strong proficiency in deep learning, PyTorch/TensorFlow, and foundational knowledge of physical optics and LCOS technology is required.",
+    "ai_working_hours": 40,
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_job_language": "English",
+    "ai_visa_sponsorship": false,
+    "ai_keywords": [
+      "AI Modeling",
+      "WSS",
+      "OCS",
+      "LCOS",
+      "Deep Learning",
+      "Neural Networks",
+      "PyTorch",
+      "TensorFlow",
+      "Physics-informed neural networks",
+      "Reinforcement Learning",
+      "Inverse Design",
+      "Optical Switching",
+      "Photonics",
+      "Insertion Loss",
+      "Crosstalk",
+      "Polarization-dependent loss",
+      "FDTD",
+      "RCWA",
+      "FEM",
+      "Metasurface",
+      "DWDM",
+      "ROADM",
+      "Optical Interconnects",
+      "Surrogate Modeling",
+      "Multi-objective Optimization"
+    ],
+    "ai_taxonomies_a": [
+      "Technology",
+      "Science & Research",
+      "Engineering",
+      "Software",
+      "Data & Analytics"
+    ],
+    "ai_education": [
+      "postgraduate degree"
     ]
   }
 ]
