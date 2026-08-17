@@ -131,6 +131,23 @@
   .is-stale .card__age{color:var(--stale);background:var(--stale-bg)}
   .card__age .tick{width:6px;height:6px;border-radius:50%;background:currentColor}
 
+  /* top row: age, NEW flag, and the per-card actions */
+  .card__top{display:flex;align-items:center;gap:7px}
+  .card__top .spacer{flex:1}
+  .chip{display:inline-flex;align-items:center;font-family:"IBM Plex Mono",monospace;
+    font-size:9.5px;font-weight:500;letter-spacing:.12em;padding:4px 7px;border-radius:6px}
+  .chip--new{background:var(--accent);color:#fff}
+
+  .card__acts{display:flex;gap:4px;opacity:0;transition:opacity .14s}
+  .card:hover .card__acts,.card__acts:focus-within,.card.is-marked .card__acts{opacity:1}
+  .act{width:25px;height:25px;padding:0;line-height:1;border-radius:7px;cursor:pointer;
+    border:1px solid var(--line);background:var(--card);color:var(--faint);
+    display:inline-flex;align-items:center;justify-content:center;font-size:12px}
+  .act:hover{color:var(--ink);border-color:var(--faint)}
+  .act[aria-pressed="true"]{background:var(--fresh-bg);color:var(--fresh);border-color:transparent}
+  .card.is-marked{opacity:.5}
+  .card.is-marked:hover{opacity:.85}
+
   .card__head{display:flex;gap:12px;align-items:flex-start}
   .logo{width:38px;height:38px;border-radius:9px;flex:none;object-fit:contain;
     background:var(--paper);border:1px solid var(--line)}
@@ -148,6 +165,9 @@
   .pill--src{font-family:"IBM Plex Mono",monospace;font-size:11px;letter-spacing:.02em;
     background:#fff;border:1px solid var(--line);color:var(--ink)}
   .pill--salary{color:var(--fresh);background:var(--fresh-bg)}
+  .pill--visa{color:var(--fresh);background:var(--fresh-bg)}
+  .pill--lang{font-family:"IBM Plex Mono",monospace;font-size:11px;letter-spacing:.06em;
+    background:#f1ecff;color:#5a3fc0}
 
   .card__foot{display:flex;align-items:center;justify-content:space-between;
     gap:10px;padding-top:13px;border-top:1px solid var(--line)}
@@ -201,6 +221,7 @@
     </div>
     <div class="stats">
       <div class="stat"><span class="stat__num" id="stat-total">—</span><span class="stat__label">roles</span></div>
+      <div class="stat"><span class="stat__num" id="stat-new">—</span><span class="stat__label">new</span></div>
       <div class="stat"><span class="stat__num" id="stat-fresh">—</span><span class="stat__label">freshest</span></div>
     </div>
   </div>
@@ -221,6 +242,14 @@
     <label class="toggle">
       <input id="remote" type="checkbox">
       <span class="toggle__track"></span> Remote only
+    </label>
+    <label class="toggle">
+      <input id="newonly" type="checkbox">
+      <span class="toggle__track"></span> New only
+    </label>
+    <label class="toggle">
+      <input id="showmarked" type="checkbox">
+      <span class="toggle__track"></span> Show marked
     </label>
     <button class="btn-clear" id="clear" type="button">Clear</button>
   </div>
@@ -261,7 +290,9 @@ const F = {
   },
   // source_type is "ats" on every row; `source` holds the actual ATS name.
   source:    j => j.source ?? j.source_type ?? "",
-  empType:   j => j.employment_type ?? j.ai_employment_type ?? j.employmentType ?? null,
+  // AI-normalised first: the raw field is null on some rows and German on others
+  // ("Festanstellung"), which would put two languages of label on one board.
+  empType:   j => j.ai_employment_type ?? j.employment_type ?? j.employmentType ?? null,
   // `salary` is null on nearly every row; the usable numbers are the ai_salary_* fields.
   salary:    j => {
     const min = j.ai_salary_min_value ?? j.ai_salary_value;
@@ -274,6 +305,11 @@ const F = {
     };
     return j.salary_raw ?? j.salary ?? null;
   },
+  // AI-enriched fields. Language matters now that the search includes German
+  // postings; visa and experience answer questions that otherwise cost a click.
+  lang:      j => j.ai_job_language ?? "",
+  experience:j => j.ai_experience_level ?? "",
+  visa:      j => j.ai_visa_sponsorship === true,
   location:  j => {
     const d = j.locations_derived;
     if (Array.isArray(d) && d.length) return d.slice(0,2).join("  ·  ");
@@ -342,9 +378,56 @@ function salaryText(raw){
 }
 const esc = s => String(s).replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
 
+const LANG2 = {English:"EN",German:"DE",French:"FR",Spanish:"ES",Italian:"IT",
+  Dutch:"NL",Portuguese:"PT",Polish:"PL",Swedish:"SV",Danish:"DA"};
+// English is the assumed default, so only flag what isn't — a badge on every
+// card carries no information.
+function langBadge(l){
+  if(!l || l === "English") return "";
+  return LANG2[l] || String(l).slice(0,2).toUpperCase();
+}
+function expLabel(e){
+  if(!e) return "";
+  return e === "10+" ? "10+ yrs" : String(e).replace("-","–") + " yrs";
+}
+
+/* ---- local state: what you've seen and what you've acted on ----
+   Kept in localStorage, keyed by job id, so it survives the daily data
+   refresh. Nothing leaves the browser; there is no backend to send it to. */
+const STORE = "freshroles.v1";
+const SESSION_MS = 6 * 3.6e6;        // reloads within this window keep their NEW flags
+let store = (() => {
+  try { return JSON.parse(localStorage.getItem(STORE)) || {}; } catch(e){ return {}; }
+})();
+store.marks = store.marks || {};
+let NEW = new Set();
+
+function saveStore(){
+  try { localStorage.setItem(STORE, JSON.stringify(store)); } catch(e){ /* private mode */ }
+}
+// Diffs the current board against the ids present on your last visit. Ids, not
+// dates: a role backfilled with an older posting date is still new *to you*.
+function computeNew(){
+  const ids = ALL.map(j => String(F.id(j)));
+  const known = store.seen ? new Set(store.seen) : null;
+  if(known && Date.now() - (store.seenAt || 0) <= SESSION_MS){
+    NEW = new Set(store.newIds || []);        // same visit, just a reload
+    return;
+  }
+  // First ever visit marks nothing new — shouting NEW at all 30 rows is noise.
+  NEW = known ? new Set(ids.filter(id => !known.has(id))) : new Set();
+  store.seen = ids; store.seenAt = Date.now(); store.newIds = [...NEW];
+  saveStore();
+}
+const markOf = id => store.marks[String(id)] || "";
+function setMark(id, m){
+  if(m) store.marks[String(id)] = m; else delete store.marks[String(id)];
+  saveStore(); buildStats(); apply();
+}
+
 /* ---- state ---- */
 let ALL = [];
-const state = {q:"", source:"", sort:"fresh", remote:false};
+const state = {q:"", source:"", sort:"fresh", remote:false, newOnly:false, showMarked:false};
 
 /* ---- rendering ---- */
 const board = document.getElementById("board");
@@ -358,6 +441,11 @@ const icon = {
 
 function cardHTML(j){
   const age = ageInfo(F.datePosted(j));
+  const id = String(F.id(j));
+  const mark = markOf(id);
+  const isNew = NEW.has(id);
+  const lang = langBadge(F.lang(j));
+  const exp = expLabel(F.experience(j));
   const title = esc(F.title(j));
   const org = esc(F.org(j));
   const loc = esc(F.location(j));
@@ -377,11 +465,28 @@ function cardHTML(j){
     `<span class="pill">${icon.pin}${loc}</span>`,
     isRemote ? `<span class="pill pill--remote">Remote</span>` : "",
     emp ? `<span class="pill">${icon.bag}${esc(emp)}</span>` : "",
+    exp ? `<span class="pill">${esc(exp)}</span>` : "",
     sal ? `<span class="pill pill--salary">${esc(sal)}</span>` : "",
+    F.visa(j) ? `<span class="pill pill--visa">Visa sponsorship</span>` : "",
+    lang ? `<span class="pill pill--lang" title="Posting language">${esc(lang)}</span>` : "",
   ].filter(Boolean).join("");
 
-  return `<article class="card is-${age.tier}">
-    <span class="card__age"><span class="tick"></span>${esc(age.label)}</span>
+  const acts = `<div class="card__acts">
+      <button class="act" type="button" data-act="applied" aria-pressed="${mark==="applied"}"
+        title="${mark==="applied" ? "Applied — click to undo" : "Mark as applied"}"
+        aria-label="Mark as applied">&#10003;</button>
+      <button class="act" type="button" data-act="hidden" aria-pressed="${mark==="hidden"}"
+        title="${mark==="hidden" ? "Hidden — click to undo" : "Not interested"}"
+        aria-label="Not interested">&#10005;</button>
+    </div>`;
+
+  return `<article class="card is-${age.tier}${mark ? " is-marked" : ""}" data-id="${esc(id)}">
+    <div class="card__top">
+      <span class="card__age"><span class="tick"></span>${esc(age.label)}</span>
+      ${isNew ? `<span class="chip chip--new">NEW</span>` : ""}
+      <span class="spacer"></span>
+      ${acts}
+    </div>
     <div class="card__head">
       ${logoHTML}
       <div>
@@ -400,6 +505,9 @@ function cardHTML(j){
 function apply(){
   const q = state.q.trim().toLowerCase();
   let rows = ALL.filter(j=>{
+    const mark = markOf(F.id(j));
+    if(mark && !state.showMarked) return false;
+    if(state.newOnly && !NEW.has(String(F.id(j)))) return false;
     if(state.remote && !F.remote(j)) return false;
     if(state.source && prettySource(F.source(j)) !== state.source) return false;
     if(q){
@@ -415,12 +523,18 @@ function apply(){
     return state.sort==="old" ? bm-am : am-bm;
   });
 
+  const marked = ALL.filter(j => markOf(F.id(j))).length;
   document.getElementById("count").innerHTML =
-    `Showing <b>${rows.length}</b> of ${ALL.length} roles`;
+    `Showing <b>${rows.length}</b> of ${ALL.length} roles` +
+    (marked ? ` · <b>${marked}</b> marked` : "");
 
   if(!rows.length){
-    board.innerHTML = `<div class="state"><h2>No roles match those filters</h2>
-      <p>Try clearing the search or turning off Remote only.</p></div>`;
+    // An empty board and an over-filtered board are different problems.
+    board.innerHTML = ALL.length
+      ? `<div class="state"><h2>No roles match those filters</h2>
+          <p>Try clearing the search or switching off a toggle.</p></div>`
+      : `<div class="state"><h2>No roles on the board yet</h2>
+          <p>The next refresh will fill this in.</p></div>`;
     return;
   }
   board.innerHTML = rows.map((j,i)=>cardHTML(j).replace('class="card',
@@ -436,6 +550,7 @@ function buildSources(){
 }
 function buildStats(){
   document.getElementById("stat-total").textContent = ALL.length;
+  document.getElementById("stat-new").textContent = NEW.size || "—";
   const freshest = ALL.reduce((m,j)=>Math.min(m, ageInfo(F.datePosted(j)).ms), Infinity);
   document.getElementById("stat-fresh").textContent =
     freshest===Infinity ? "—" : ageInfo(new Date(Date.now()-freshest).toISOString()).label;
@@ -446,18 +561,31 @@ document.getElementById("q").addEventListener("input", e=>{state.q=e.target.valu
 document.getElementById("source").addEventListener("change", e=>{state.source=e.target.value; apply();});
 document.getElementById("sort").addEventListener("change", e=>{state.sort=e.target.value; apply();});
 document.getElementById("remote").addEventListener("change", e=>{state.remote=e.target.checked; apply();});
+document.getElementById("newonly").addEventListener("change", e=>{state.newOnly=e.target.checked; apply();});
+document.getElementById("showmarked").addEventListener("change", e=>{state.showMarked=e.target.checked; apply();});
 document.getElementById("clear").addEventListener("click", ()=>{
   state.q=""; state.source=""; state.sort="fresh"; state.remote=false;
+  state.newOnly=false; state.showMarked=false;
   document.getElementById("q").value="";
   document.getElementById("source").value="";
   document.getElementById("sort").value="fresh";
-  document.getElementById("remote").checked=false;
+  for(const id of ["remote","newonly","showmarked"]) document.getElementById(id).checked=false;
   apply();
+});
+
+// Delegated so it keeps working after every re-render.
+board.addEventListener("click", e=>{
+  const btn = e.target.closest(".act");
+  if(!btn) return;
+  const id = btn.closest(".card").dataset.id;
+  const want = btn.dataset.act;
+  setMark(id, markOf(id) === want ? "" : want);   // clicking the active mark clears it
 });
 
 /* ---- load ---- */
 function start(data, note){
   ALL = Array.isArray(data) ? data : (data.jobs || data.items || []);
+  computeNew();
   buildSources(); buildStats(); apply();
   if(note) document.getElementById("last-note").textContent = note;
 }
