@@ -2,7 +2,7 @@ name: Refresh job board
 
 on:
   schedule:
-    - cron: '0 6 * * *'      # every day at 06:00 UTC
+    - cron: '0 6 * * *'      # every day at 06:00 UTC — this is the only clock now
   workflow_dispatch:          # lets you run it by hand from the Actions tab
 
 permissions:
@@ -12,21 +12,69 @@ concurrency:
   group: refresh
   cancel-in-progress: false
 
+env:
+  WINDOW_DAYS: 30             # how long a role stays on the board
+  MAX_RECORDS: 400            # safety cap (~1.3 MB) if the search is ever widened
+
 jobs:
   refresh:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
 
-      - name: Pull latest dataset from Apify
+      - name: Run the Apify task and fetch its results
         env:
           APIFY_TOKEN: ${{ secrets.APIFY_TOKEN }}
           APIFY_TASK_ID: ${{ vars.APIFY_TASK_ID }}   # e.g. yourname~my-job-task
         run: |
+          set -euo pipefail
+          # Starts the task, waits for it, and returns the dataset in one call, so this
+          # workflow is the only schedule involved — no Apify-side cron to stay in sync
+          # with. Runs at the same hour daily, which is what the 24h timeRange expects.
+          # The sync endpoint gives up after 300s; this task finishes in seconds.
+          URL="https://api.apify.com/v2/actor-tasks/${APIFY_TASK_ID}/run-sync-get-dataset-items"
+          curl -fsSL -X POST "${URL}?token=${APIFY_TOKEN}&format=json&clean=true" -o raw.json
+          echo "This run returned $(jq length raw.json) jobs"
+
+      - name: Merge into the rolling window
+        run: |
+          set -euo pipefail
           mkdir -p data
-          URL="https://api.apify.com/v2/actor-tasks/${APIFY_TASK_ID}/runs/last/dataset/items"
-          curl -fsSL "${URL}?token=${APIFY_TOKEN}&status=SUCCEEDED&format=json&clean=true" -o data/jobs.json
-          echo "Pulled $(grep -o '\"id\"' data/jobs.json | wc -l) records"
+          [ -f data/jobs.json ] || echo '[]' > data/jobs.json
+
+          # Merge today's jobs into what the board already shows, de-duplicated by id,
+          # then drop anything past the window. A skipped or failed run no longer loses
+          # a day's postings, and the board holds a browsable list instead of ~6 rows.
+          #
+          # Descriptions are dropped here: the board never renders them and they are
+          # about two thirds of the payload. To show them on a card later, remove the
+          # `del(...)` below and the field comes straight back on the next run.
+          jq -n \
+            --slurpfile old data/jobs.json \
+            --slurpfile new raw.json \
+            --argjson window_days "${WINDOW_DAYS}" \
+            --argjson max_records "${MAX_RECORDS}" '
+              # date_posted has no timezone marker and date_created carries fractional
+              # seconds; normalise both before fromdateiso8601, which accepts neither.
+              def stamp:
+                try (((.date_posted // .date_created // "")
+                      | split(".")[0] | sub("Z$"; "")) + "Z" | fromdateiso8601)
+                catch null;
+
+              ($old[0] + $new[0])
+              | map(del(.description_html, .description_text))
+              | map(select(.id != null and stamp != null))
+              | INDEX(.id | tostring) | [.[]]            # later wins, so today overwrites
+              | map(select(stamp > (now - ($window_days * 86400))))
+              # id breaks ties: many rows share a midnight timestamp, and without a
+              # total order the file reshuffles each run and commits a no-op diff.
+              | sort_by([stamp, (.id | tostring)]) | reverse
+              | .[0:$max_records]
+            ' > merged.json
+          mv merged.json data/jobs.json
+
+          echo "Board now holds $(jq length data/jobs.json) roles ($(du -h data/jobs.json | cut -f1))"
+          rm -f raw.json
 
       - name: Commit if changed
         run: |

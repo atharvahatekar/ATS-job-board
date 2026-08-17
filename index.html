@@ -250,10 +250,30 @@ const F = {
   orgLogo:   j => j.organization_logo ?? j.organization_logo_permalink ?? j.logo ?? "",
   url:       j => j.url ?? j.job_url ?? j.apply_url ?? "#",
   datePosted:j => j.date_posted ?? j.date_created ?? j.posted_at ?? null,
-  remote:    j => j.remote_derived === true || j.remote === true,
-  source:    j => j.source_type ?? j.source ?? "",
-  empType:   j => j.employment_type ?? j.employmentType ?? null,
-  salary:    j => j.salary_raw ?? j.salary ?? null,
+  // The dataset has no remote flag. Work arrangement comes from ai_work_arrangement
+  // ("On-site" | "Hybrid" | "Remote OK" | "Remote Solely"); location_type is the
+  // raw-schema fallback for rows the AI pass didn't classify.
+  remote:    j => {
+    const w = j.ai_work_arrangement;
+    if(w) return w === "Remote Solely" || w === "Remote OK";
+    if(j.location_type === "TELECOMMUTE") return true;
+    return j.remote_derived === true || j.remote === true;
+  },
+  // source_type is "ats" on every row; `source` holds the actual ATS name.
+  source:    j => j.source ?? j.source_type ?? "",
+  empType:   j => j.employment_type ?? j.ai_employment_type ?? j.employmentType ?? null,
+  // `salary` is null on nearly every row; the usable numbers are the ai_salary_* fields.
+  salary:    j => {
+    const min = j.ai_salary_min_value ?? j.ai_salary_value;
+    const max = j.ai_salary_max_value;
+    if(min != null || max != null) return {
+      currency: j.ai_salary_currency ?? "",
+      minValue: min,
+      maxValue: max,
+      unitText: j.ai_salary_unit_text ?? "",
+    };
+    return j.salary_raw ?? j.salary ?? null;
+  },
   location:  j => {
     const d = j.locations_derived;
     if (Array.isArray(d) && d.length) return d.slice(0,2).join("  ·  ");
@@ -261,7 +281,7 @@ const F = {
     const pick = x => Array.isArray(x) ? x[0] : x;
     const parts = [pick(j.cities_derived), pick(j.regions_derived), pick(j.countries_derived)].filter(Boolean);
     if (parts.length) return [...new Set(parts)].join(", ");
-    if (j.remote_derived) return "Remote";
+    if (F.remote(j)) return "Remote";
     return "Location not specified";
   },
 };
@@ -273,16 +293,27 @@ const EMP = {FULL_TIME:"Full-time",PART_TIME:"Part-time",CONTRACT:"Contract",CON
 function prettyEmp(v){
   const one = Array.isArray(v) ? v[0] : v;
   if(!one) return "";
-  return EMP[String(one).toUpperCase()] || String(one).replace(/_/g," ").toLowerCase()
+  const key = String(one).toUpperCase().replace(/[\s-]/g,"_");   // "Full-time" -> FULL_TIME
+  return EMP[key] || String(one).replace(/_/g," ").toLowerCase()
     .replace(/\b\w/g,c=>c.toUpperCase());
 }
 function prettySource(s){
   if(!s) return "";
-  return String(s).replace(/_/g," ").replace(/\b\w/g,c=>c.toUpperCase());
+  // Only word-start after space/underscore, so "lever.co" stays "Lever.co".
+  return String(s).replace(/_/g," ").replace(/(^|\s)\w/g,c=>c.toUpperCase());
+}
+// Dataset timestamps are UTC but arrive with no zone marker ("2026-08-17T08:02:16").
+// Without the Z the browser reads them as local time and every age is off by the
+// viewer's offset — enough to show jobs as "just now" hours before they were posted.
+function parseWhen(iso){
+  if(!iso) return null;
+  const s = typeof iso === "string" && /^\d{4}-\d{2}-\d{2}T[\d:.]+$/.test(iso) ? iso+"Z" : iso;
+  const d = new Date(s);
+  return isNaN(d) ? null : d;
 }
 function ageInfo(iso){
-  const d = iso ? new Date(iso) : null;
-  if(!d || isNaN(d)) return {label:"date n/a", tier:"stale", ms:Infinity};
+  const d = parseWhen(iso);
+  if(!d) return {label:"date n/a", tier:"stale", ms:Infinity};
   const ms = Date.now() - d.getTime();
   const h = ms/3.6e6;
   if(h < 1)  return {label:"just now", tier:"fresh", ms};
