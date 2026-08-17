@@ -1,3 +1,946 @@
-[
-  {"id":"sample-1","title":"Machine Learning Engineer","organization":"Example AI GmbH","organization_logo":"","url":"https://example.com","date_posted":"2026-08-16T09:00:00Z","locations_derived":["Berlin, Germany"],"employment_type":["FULL_TIME"],"source_type":"greenhouse","remote_derived":true}
-]
+[{
+  "id": 2315486627,
+  "date_posted": "2026-08-17T08:02:16",
+  "date_created": "2026-08-17T08:50:42.951154",
+  "title": "Senior Data Scientist",
+  "organization": "team.blue Global",
+  "organization_url": "https://careers.team.blue",
+  "date_valid_through": null,
+  "locations": [
+    {
+      "@type": "Place",
+      "address": {
+        "streetAddress": "Skaldenstraat 121",
+        "addressLocality": "Gent",
+        "postalCode": "9042",
+        "addressCountry": "BE",
+        "addressRegion": "Belgium",
+        "@type": "PostalAddress"
+      }
+    },
+    {
+      "@type": "Place",
+      "address": {
+        "streetAddress": "Viale della Giovine Italia, 17",
+        "addressLocality": "Firenze",
+        "postalCode": "50122",
+        "addressCountry": "IT",
+        "addressRegion": "Italy",
+        "@type": "PostalAddress"
+      }
+    },
+    {
+      "@type": "Place",
+      "address": {
+        "streetAddress": "Hardenbergstraße 36",
+        "addressLocality": "Berlin",
+        "postalCode": "10623",
+        "addressCountry": "DE",
+        "addressRegion": null,
+        "@type": "PostalAddress"
+      }
+    },
+    {
+      "@type": "Place",
+      "address": {
+        "streetAddress": "Science and Technology Park of Crete - Step-C",
+        "addressLocality": "Iraklio",
+        "postalCode": "715 00",
+        "addressCountry": "GR",
+        "addressRegion": "Greece",
+        "@type": "PostalAddress"
+      }
+    },
+    {
+      "@type": "Place",
+      "address": {
+        "streetAddress": "Carrer d'Ulldecona, 21",
+        "addressLocality": "Barcelona",
+        "postalCode": "08038",
+        "addressCountry": "ES",
+        "addressRegion": "Spain",
+        "@type": "PostalAddress"
+      }
+    }
+  ],
+  "locations_alt": null,
+  "location_type": "TELECOMMUTE",
+  "location_requirements": [
+    {
+      "@type": "Country",
+      "name": "Belgium"
+    }
+  ],
+  "salary": null,
+  "employment_type": [
+    "FULL_TIME"
+  ],
+  "url": "https://careers.team.blue/jobs/8226956-senior-data-scientist",
+  "source_type": "ats",
+  "source": "teamtailor",
+  "source_domain": "careers.team.blue",
+  "source_slug": null,
+  "organization_logo": "https://images.teamtailor-cdn.com/images/s3/teamtailor-production/logotype-v3/image_uploads/fa99a5ef-328f-4b8d-ad66-b353273d1c52/original.png",
+  "cities_derived": [
+    "Berlin",
+    "Ghent",
+    "Barcelona",
+    "Florence"
+  ],
+  "counties_derived": [
+    "Oost-Vlaanderen",
+    "Barcelonès",
+    "Heraklion Regional Unit",
+    "Florence"
+  ],
+  "regions_derived": [
+    "Berlin",
+    "Flemish Region",
+    "Catalonia",
+    "Region of Crete",
+    "Tuscany"
+  ],
+  "countries_derived": [
+    "Germany",
+    "Belgium",
+    "Spain",
+    "Greece",
+    "Italy"
+  ],
+  "locations_derived": [
+    "Ghent, Flemish Region, Belgium",
+    "Berlin, Berlin, Germany",
+    "Heraklion Regional Unit, Region of Crete, Greece",
+    "Florence, Tuscany, Italy",
+    "Barcelona, Catalonia, Spain"
+  ],
+  "timezones_derived": [
+    "Europe/Berlin",
+    "Europe/Brussels",
+    "Europe/Madrid",
+    "Europe/Athens",
+    "Europe/Rome"
+  ],
+  "lats_derived": [
+    52.5108787,
+    51.1138,
+    41.3505585,
+    35.34470704893617,
+    43.7698383
+  ],
+  "lngs_derived": [
+    13.3246279,
+    3.78906,
+    2.1409574,
+    25.120697638297873,
+    11.2701916
+  ],
+  "domain_derived": "team.blue",
+  "org_linkedin_slug": "teamblue",
+  "ai_salary_currency": null,
+  "ai_salary_value": null,
+  "ai_salary_min_value": null,
+  "ai_salary_max_value": null,
+  "ai_salary_unit_text": null,
+  "ai_benefits": null,
+  "ai_experience_level": "5-10",
+  "ai_work_arrangement": "Remote Solely",
+  "ai_work_arrangement_office_days": null,
+  "ai_remote_location": [
+    "Gent, Belgium",
+    "Firenze, Italy",
+    "Berlin, Germany",
+    "Iraklio, Greece",
+    "Barcelona, Spain"
+  ],
+  "ai_remote_location_derived": [
+    "Barcelona, Catalonia, Spain",
+    "Berlin, Germany",
+    "Florence, Tuscany, Italy",
+    "Ghent, Flanders, Belgium",
+    "Heraklion, Region of Crete, Greece"
+  ],
+  "ai_key_skills": [
+    "Python",
+    "R",
+    "Scala",
+    "Machine Learning",
+    "Predictive Modeling",
+    "Statistical Analysis",
+    "SQL",
+    "TensorFlow",
+    "Scikit-learn",
+    "AWS",
+    "Azure",
+    "Hadoop",
+    "Spark",
+    "Data Visualization",
+    "Data Strategy",
+    "Analytical Thinking"
+  ],
+  "ai_hiring_manager_name": null,
+  "ai_hiring_manager_email_address": null,
+  "ai_core_responsibilities": "The Senior Data Scientist will develop data-driven solutions and predictive models to support business strategy and decision-making. They will collaborate with cross-functional teams to build and maintain data pipelines while extracting actionable insights from complex datasets.",
+  "ai_requirements_summary": "Candidates must hold a degree in Data Science, Statistics, Mathematics, Computer Science, or a related field. A minimum of 5 years of experience in data science with proficiency in programming languages like Python, R, or Scala is required.",
+  "ai_working_hours": 40,
+  "ai_employment_type": [
+    "FULL_TIME"
+  ],
+  "ai_job_language": "English",
+  "ai_visa_sponsorship": false,
+  "ai_keywords": [
+    "Data Science",
+    "Analytics",
+    "Machine Learning",
+    "Predictive Modeling",
+    "Statistical Analysis",
+    "Python",
+    "R",
+    "Scala",
+    "SQL",
+    "TensorFlow",
+    "Scikit-learn",
+    "AWS",
+    "Azure",
+    "Hadoop",
+    "Spark",
+    "Data Pipeline",
+    "Data Visualization",
+    "Business Intelligence",
+    "Strategy",
+    "Cross-functional Collaboration",
+    "Big Data",
+    "Cloud Platforms",
+    "Forecasting",
+    "Data Strategy",
+    "ESG"
+  ],
+  "ai_taxonomies_a": [
+    "Data & Analytics",
+    "Technology",
+    "Software",
+    "Science & Research",
+    "Environmental & Sustainability"
+  ],
+  "ai_education": [
+    "bachelor degree"
+  ],
+  "description_html": "<p><strong>Position Overview</strong></p><p>We are looking for an experienced <strong>Data Scientist</strong> to join our <strong>Data &amp; Analytics</strong> team. As a Data Scientist you will not only bring technical expertise but also a deep understanding of business operations and strategy. Your work will directly influence decision-making and help shape the future of our organization through actionable insights drawn from complex datasets.</p><p>As a Data Scientist, you will collaborate with cross-functional teams, including business leaders, product managers, and engineers, to design and implement data-driven solutions that align with the company’s goals. You will be expected to translate complex data into business value, leveraging machine learning, predictive modeling, and statistical analysis.</p><p><strong>Key Responsibilities:</strong></p><ul><li><p><strong>Business Insight Development:</strong> Understand the key business challenges and opportunities, and use data to develop solutions that align with strategic objectives.</p></li><li><p><strong>Data Strategy:</strong> Collaborate with leadership to define the data science roadmap and priorities based on business needs and opportunities.</p></li><li><p><strong>Predictive Modeling &amp; Machine Learning:</strong> Build, deploy, and maintain machine learning models to forecast trends, optimize processes, and drive business outcomes.</p></li><li><p><strong>Data Analysis &amp; Visualization:</strong> Analyze large, complex datasets to extract actionable insights, and present findings to both technical and non-technical stakeholders.</p></li></ul><ul><li><p><strong>Data science pipeline:</strong> Advise, build and continuously improve the data science pipeline which best responds to team.blue analytics needs.</p></li></ul><ul><li><p><strong>Cross-functional Collaboration:</strong> Work closely with business leaders, product teams, and engineers to ensure that data solutions meet business requirements.</p></li><li><p><strong>Continuous Improvement:</strong> Stay up to date with the latest trends in data science, AI, and machine learning to continuously improve the team’s capabilities.</p></li></ul><p><strong>Requirements:</strong></p><ul><li><p>Degree in Data Science, Statistics, Mathematics, Computer Science, or a related field.</p></li><li><p><strong>5</strong>+ years of experience in data science, with a proven track record of solving complex business problems using data.</p></li><li><p>Strong understanding of business operations and the ability to align data science projects with business objectives.</p></li><li><p><strong>Communication Skills:</strong> Ability to translate technical insights into business recommendations and communicate with stakeholders at all levels.</p></li><li><p><strong>Problem-solving:</strong> Strong analytical thinking with the ability to handle complex and unstructured data.</p></li><li><p><strong>Technical Skills:</strong></p><ul><li><p>Proficiency in programming languages such as Python, R, or Scala.</p></li><li><p>Experience with machine learning frameworks (e.g., TensorFlow, Scikit-learn).</p></li><li><p>Experience with SQL and working with large data sets. </p></li><li><p>Familiarity with cloud platforms (e.g., AWS, Azure) and big data tools (e.g., Hadoop, Spark).</p></li></ul></li></ul><p>\"<strong>Come as you are</strong>\"</p><p><em>Everyone is welcome here. </em>Diversity &amp; Inclusion are at our core. Far above any technical competence, we value respect, openness, and trusted collaboration. We do not tolerate intolerance.</p><p><strong>ESG</strong></p><p><span>\"</span>At team.blue, our commitment to caring for the environment and each other is at the heart of everything we do. Our latest impact report showcases our ongoing ESG efforts and ambitious sustainability goals. Interested in learning more about our dedication to making a positive impact? Check it out <a target=\"_blank\" href=\"https://i.tb-content.net/cms/f63401/team.blue_impact_report_25.pdf\">here</a>.”</p><p>#LI-CC1</p>"
+},
+{
+  "id": 2315692749,
+  "date_posted": "2026-08-17T00:00:00",
+  "date_created": "2026-08-17T13:21:34.054261",
+  "title": "Data Engineer",
+  "organization": "Superhuman",
+  "organization_url": "https://superhuman.com",
+  "date_valid_through": null,
+  "locations": [
+    {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Berlin",
+        "addressRegion": "Germany",
+        "addressCountry": "Germany"
+      }
+    }
+  ],
+  "locations_alt": null,
+  "location_type": "TELECOMMUTE",
+  "location_requirements": [
+    {
+      "@type": "Country",
+      "name": "Germany"
+    }
+  ],
+  "salary": null,
+  "employment_type": [
+    "FULL_TIME"
+  ],
+  "url": "https://jobs.ashbyhq.com/Superhuman%20Platform%20Inc/41e5e9f9-d3ba-42ea-a446-55ad8bb3430c",
+  "source_type": "ats",
+  "source": "ashby",
+  "source_domain": "jobs.ashbyhq.com",
+  "source_slug": null,
+  "organization_logo": "https://app.ashbyhq.com/api/images/org-theme-logo/08d5acec-097b-4eaf-bc95-3995760988bb/6554a383-6f1a-48ff-af62-9bf8eb921281/c7d901bb-5b5a-4000-8285-8f6e160ec222.png",
+  "cities_derived": [
+    "Berlin"
+  ],
+  "counties_derived": null,
+  "regions_derived": null,
+  "countries_derived": [
+    "Germany"
+  ],
+  "locations_derived": [
+    "Berlin, Germany"
+  ],
+  "timezones_derived": [
+    "Europe/Berlin"
+  ],
+  "lats_derived": [
+    52.510885
+  ],
+  "lngs_derived": [
+    13.3989367
+  ],
+  "domain_derived": "superhuman.com",
+  "org_linkedin_slug": "superhuman-co",
+  "ai_salary_currency": "EUR",
+  "ai_salary_value": null,
+  "ai_salary_min_value": 91000,
+  "ai_salary_max_value": 125000,
+  "ai_salary_unit_text": "YEAR",
+  "ai_benefits": [
+    "Health care",
+    "Paid time off",
+    "Catered lunches",
+    "Gym stipend",
+    "Recreation stipend",
+    "Relocation support",
+    "Visa assistance",
+    "Relocation bonus"
+  ],
+  "ai_experience_level": "5-10",
+  "ai_work_arrangement": "Hybrid",
+  "ai_work_arrangement_office_days": null,
+  "ai_remote_location": null,
+  "ai_remote_location_derived": null,
+  "ai_key_skills": [
+    "Data engineering",
+    "Distributed computing",
+    "SQL",
+    "Spark",
+    "Kafka",
+    "Terraform",
+    "Python",
+    "Scala",
+    "Java",
+    "ETL/ELT",
+    "Airflow",
+    "dbt",
+    "Dagster",
+    "Data modeling",
+    "Data governance",
+    "Cloud infrastructure"
+  ],
+  "ai_hiring_manager_name": null,
+  "ai_hiring_manager_email_address": null,
+  "ai_core_responsibilities": "You will architect and lead the development of large-scale data systems and pipelines capable of handling billions of daily events. Additionally, you will collaborate with cross-functional teams to build data products and frameworks that support analytics, product features, and business-critical workflows.",
+  "ai_requirements_summary": "The role requires extensive experience in large-scale distributed computing, data modeling, and managing high-load production environments. Candidates must be proficient in SQL, Spark, Kafka, and modern ETL/ELT orchestration tools, along with a strong understanding of data governance and cloud infrastructure.",
+  "ai_working_hours": 40,
+  "ai_employment_type": [
+    "FULL_TIME"
+  ],
+  "ai_job_language": "English",
+  "ai_visa_sponsorship": true,
+  "ai_keywords": [
+    "Data Engineering",
+    "Distributed Systems",
+    "SQL",
+    "Spark",
+    "Kafka",
+    "Terraform",
+    "Python",
+    "Scala",
+    "Java",
+    "ETL",
+    "ELT",
+    "Airflow",
+    "dbt",
+    "Dagster",
+    "Data Lakes",
+    "Delta Lake",
+    "Snowflake",
+    "BigQuery",
+    "Redshift",
+    "Data Governance",
+    "GDPR",
+    "CCPA",
+    "Cloud Infrastructure",
+    "Data Modeling",
+    "Machine Learning",
+    "Analytics Engineering",
+    "Data Science",
+    "Product Engineering",
+    "Scalability",
+    "Reliability"
+  ],
+  "ai_taxonomies_a": [
+    "Data & Analytics",
+    "Software",
+    "Engineering",
+    "Technology"
+  ],
+  "ai_education": null,
+  "description_html": "<p style=\"min-height:1.5em\"><em>Superhuman offers a dynamic hybrid working model for this role. This flexible approach gives team members the best of both worlds: plenty of focus time along with in-person collaboration that helps foster trust, innovation, and a strong team culture.</em></p><p style=\"min-height:1.5em\"></p><h2><strong>About Superhuman</strong></h2><p style=\"min-height:1.5em\">Grammarly is now part of Superhuman, the AI productivity platform on a mission to unlock the superhuman potential in everyone. The Superhuman suite of apps and agents brings AI wherever people work, integrating with over 1 million applications and websites. The company’s products include Grammarly’s writing assistance, Superhuman Docs’s collaborative workspaces, Mail’s inbox management, and Go, the proactive AI assistant that understands context and delivers help automatically. Founded in 2009, Superhuman empowers over 40 million people, 50,000 organizations, and 3,000 educational institutions worldwide to eliminate busywork and focus on what matters. Learn more at<a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"http://superhuman.com/\"> superhuman.com</a> and about our <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://blog.superhuman.com/our-values/\">values here</a>.</p><p style=\"min-height:1.5em\"></p><h2><strong>The Opportunity</strong></h2><p style=\"min-height:1.5em\">To achieve our ambitious goals, we’re looking for a Data Engineer to join our Data Enablement Engineering team and help us build a world-class data platform. Superhuman's success depends on its ability to efficiently ingest over 60 to 70 billion daily events while using our systems to improve our product. This role presents a unique opportunity to experience all aspects of building complex software systems, including contributing to the strategy, defining the architecture, and developing and shipping to production.</p><p style=\"min-height:1.5em\">Superhuman's engineers and researchers have the freedom to innovate and uncover breakthroughs—and, in turn, influence our product roadmap. The complexity of our technical challenges is growing rapidly as we scale our interfaces, algorithms, and infrastructure. You can hear more from our team on our <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"http://grammarly.com/blog/engineering\">technical blog</a>.</p><p style=\"min-height:1.5em\"></p><h2>Your Impact</h2><p style=\"min-height:1.5em\">As a Data Engineer on the Data Enablement Engineering team, you will shape the architecture and technical strategy of our data platform, ensuring scalability, security, and efficiency across data engineering systems. You will design and lead the implementation of robust, scalable, and reliable systems that handle large volumes of data, empowering both product features and data-driven decision-making across the company. Your work will span areas such as real-time &amp; ETL data pipelines, cloud infrastructure, data lakes, and back-end services.</p><p style=\"min-height:1.5em\">This role requires you to collaborate with cross-functional teams, including back-end engineers, Analytics engineering, Data Science engineering, and machine learning teams, to drive initiatives that support various business outcomes. As a senior IC, you will also mentor engineers and help set the strategic direction for the platform.</p><p style=\"min-height:1.5em\">In this role, you will:</p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Architect and lead the development of large-scale systems for data pipelines, data lakes that handle billions of daily events.</p></li><li><p style=\"min-height:1.5em\">Design and implement solutions that ensure data is available, secure, and scalable across the platform, enabling real-time and batch processing.</p></li><li><p style=\"min-height:1.5em\">Make high-level architectural decisions about system design, technology choices, and platform evolution, ensuring scalability and long-term sustainability.</p></li><li><p style=\"min-height:1.5em\">Collaborate with key stakeholders, such as product teams, data engineers, back-end developers, and ML engineers, to build tools &amp; frameworks that power analytics, product features, and data-driven workflows.</p></li><li><p style=\"min-height:1.5em\">Work with business stakeholders such as Analytics Eng, Data Science, Machine Learning, and Product teams to build high-impact data products enabling business-critical features, research, and experimentation with a focus on efficiency and alignment</p></li><li><p style=\"min-height:1.5em\">Collaborate with Leadership in devising the charter and technical roadmaps</p></li><li><p style=\"min-height:1.5em\">Mentor engineers across back-end infrastructure and data engineering disciplines, fostering a culture of collaboration and technical excellence.</p></li></ul><p style=\"min-height:1.5em\"></p><h2><strong>Qualifications</strong></h2><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Has experience in large-scale distributed computing systems, with expertise in both data engineering and data modeling.</p></li><li><p style=\"min-height:1.5em\">Has experience managing live production environments, including high-load systems or data-intensive workflows, with a focus on uptime and reliability.</p></li><li><p style=\"min-height:1.5em\">Expert in SQL and proficient in technologies like Spark, Kafka, Terraform, and in at least one programming language commonly used for data engineering (e.g., Python, Scala, or Java).</p></li><li><p style=\"min-height:1.5em\">Strong knowledge of ETL/ELT design patterns, orchestration tools (e.g., Airflow, dbt, Dagster), and data quality frameworks.</p></li><li><p style=\"min-height:1.5em\">Ability to design scalable, secure, and maintainable data models and architectures, and understanding of data governance, privacy regulations (GDPR/CCPA).</p></li><li><p style=\"min-height:1.5em\">Hands-on experience with modern data storage technologies (e.g., Delta Lake, Snowflake, BigQuery, Redshift).</p></li><li><p style=\"min-height:1.5em\">Is a strategic thinker, able to evaluate whether to build internally or leverage third-party solutions, ensuring the right balance between speed, scalability, and long-term viability.</p></li><li><p style=\"min-height:1.5em\">Is an excellent communicator and collaborator, able to work across diverse teams and stakeholders, translates business needs into robust data solutions, and ensures alignment on technical goals.</p></li><li><p style=\"min-height:1.5em\">Has a demonstrated ability to work independently with minimal to zero guidance, proactively manages tasks and priorities across multiple projects, analyzes and executes work efficiently, collaborates effectively with cross-functional teams, and thrives in fast-paced, results-driven environments.</p></li></ul><p style=\"min-height:1.5em\"></p><h2><strong>Support for you, professionally and personally</strong></h2><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\"><em>Professional growth</em>: We hire people we trust, and we give team members autonomy to do their best work. We also support professional development with training, coaching, and regular feedback.</p></li><li><p style=\"min-height:1.5em\"><em>A connected team</em>: Superhuman builds a product that helps people connect, and we apply this mindset to our own team. We have a highly collaborative culture. We also take time to celebrate our colleagues and accomplishments with global, local, and team-specific events and programs.</p></li><li><p style=\"min-height:1.5em\"><em>Comprehensive benefits</em>: Superhuman offers all team members competitive pay along with a benefits package that includes superior health care. We also offer ample and defined time off, catered lunches, gym and recreation stipends, admission discounts, and more.</p></li><li><p style=\"min-height:1.5em\"><em>Relocation Support: </em>Superhuman provides comprehensive relocation support to make your move to Berlin seamless. Our package includes visa assistance, destination services to help you and your family settle in comfortably, and a relocation bonus to cover additional expenses, such as temporary housing.</p></li></ul><p style=\"min-height:1.5em\">Compensation range: <strong>€91,000–€125,000</strong></p><p style=\"min-height:1.5em\"></p><h2><strong>We encourage you to apply</strong></h2><p style=\"min-height:1.5em\">At Superhuman, we value our differences, and we encourage all—especially those whose identities are traditionally underrepresented in tech organizations—to apply. Superhuman is an equal opportunity company. We do not discriminate on the basis of race or ethnic origin, religion or belief, color, gender expression or identity, sexual orientation, sexual identity, national origin, citizenship, age, marital status, veteran status, disability status, criminal prosecution, judgment in a criminal case, or any other characteristic protected by law.</p><p style=\"min-height:1.5em\">For more details about the personal data Superhuman collects during the recruitment process, for what purposes, and how you can address your rights, please see the Superhuman Data Privacy Notice for Candidates <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://superhuman.com/media-resources/candidate-data-privacy\">here</a>.</p>"
+},
+{
+  "id": 2315692517,
+  "date_posted": "2026-08-17T00:00:00",
+  "date_created": "2026-08-17T13:21:26.681054",
+  "title": "RevOps & Data Engineer (AI x Greentech) (m/f/d)",
+  "organization": "Reonic",
+  "organization_url": "https://reonic.com/en",
+  "date_valid_through": null,
+  "locations": [
+    {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Berlin",
+        "addressRegion": "Berlin/ Brandenburg metropolitan region",
+        "addressCountry": "Germany"
+      }
+    },
+    {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Augsburg",
+        "addressRegion": "Bavaria",
+        "addressCountry": "Germany"
+      }
+    }
+  ],
+  "locations_alt": null,
+  "location_type": null,
+  "location_requirements": null,
+  "salary": null,
+  "employment_type": [
+    "FULL_TIME"
+  ],
+  "url": "https://jobs.ashbyhq.com/reonic/e7871924-5f83-4793-91f8-6a32ad07646c",
+  "source_type": "ats",
+  "source": "ashby",
+  "source_domain": "jobs.ashbyhq.com",
+  "source_slug": null,
+  "organization_logo": null,
+  "cities_derived": [
+    "Augsburg",
+    "Schönefeld"
+  ],
+  "counties_derived": [
+    "Dahme-Spreewald"
+  ],
+  "regions_derived": [
+    "Bavaria",
+    "Brandenburg"
+  ],
+  "countries_derived": [
+    "Germany",
+    "Germany"
+  ],
+  "locations_derived": [
+    "Augsburg, Bavaria, Germany",
+    "Schönefeld, Brandenburg, Germany"
+  ],
+  "timezones_derived": [
+    "Europe/Berlin",
+    "Europe/Berlin"
+  ],
+  "lats_derived": [
+    48.3690341,
+    52.366493500000004
+  ],
+  "lngs_derived": [
+    10.8979522,
+    13.488038876885103
+  ],
+  "domain_derived": "reonic.com",
+  "org_linkedin_slug": "reonic",
+  "ai_salary_currency": null,
+  "ai_salary_value": null,
+  "ai_salary_min_value": null,
+  "ai_salary_max_value": null,
+  "ai_salary_unit_text": null,
+  "ai_benefits": [
+    "Gym membership",
+    "Coffee",
+    "Team events",
+    "MacBook",
+    "Professional growth opportunities"
+  ],
+  "ai_experience_level": "2-5",
+  "ai_work_arrangement": "On-site",
+  "ai_work_arrangement_office_days": null,
+  "ai_remote_location": null,
+  "ai_remote_location_derived": null,
+  "ai_key_skills": [
+    "RevOps",
+    "Data Engineering",
+    "Python",
+    "TypeScript",
+    "SQL",
+    "n8n",
+    "BI tools",
+    "Data warehousing",
+    "HubSpot",
+    "Aircall",
+    "AI implementation",
+    "Predictive modeling",
+    "Lead scoring",
+    "Data pipelines",
+    "Process innovation"
+  ],
+  "ai_hiring_manager_name": null,
+  "ai_hiring_manager_email_address": null,
+  "ai_core_responsibilities": "You will architect the data ecosystem by building pipelines and applications to make customer and revenue data accessible. Additionally, you will implement AI-driven workflows and predictive models to optimize sales, marketing, and success processes.",
+  "ai_requirements_summary": "The ideal candidate is an expert in Python, SQL, and BI tools with a strong background in data engineering and SaaS tool integration. You must be proactive, structured, and possess C2 English proficiency to thrive in this fast-paced, on-site environment.",
+  "ai_working_hours": 40,
+  "ai_employment_type": [
+    "FULL_TIME"
+  ],
+  "ai_job_language": "English",
+  "ai_visa_sponsorship": false,
+  "ai_keywords": [
+    "RevOps",
+    "Data Engineering",
+    "AI",
+    "Renewable Energy",
+    "Python",
+    "TypeScript",
+    "SQL",
+    "n8n",
+    "BI",
+    "Data Warehousing",
+    "HubSpot",
+    "Aircall",
+    "Predictive Models",
+    "Lead Scoring",
+    "Data Pipelines",
+    "SaaS",
+    "Startup",
+    "B2B",
+    "Analytics",
+    "Automation"
+  ],
+  "ai_taxonomies_a": [
+    "Data & Analytics",
+    "Software",
+    "Engineering",
+    "Energy",
+    "Technology"
+  ],
+  "ai_education": null,
+  "description_html": "<p style=\"min-height:1.5em\"><strong>Do you thrive in fast-paced environments and have a passion for renewable energy?</strong></p><p style=\"min-height:1.5em\">As our <strong>RevOps &amp; Data Engineer</strong>, you will be the co-architect of our data ecosystem. You’ll take full ownership of making customer and revenue data accessible, building internally used applications from the ground up, and deploying AI to supercharge our growth.</p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\"><em><strong>Please note that for this role, C2 English proficiency is required. This is a full-time, on-site position based in Berlin.</strong></em></p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\"><strong>What You’ll Do</strong></p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\"><strong>Process Innovation &amp; AI Implementation:</strong> You will dive deep into our customer-oriented workflows to reshape them with your creative, AI-driven ideas and technical skills. As the owner of the implementation, you won't just strategize - you will personally drive these improvements from concept to reality.</p></li><li><p style=\"min-height:1.5em\"><strong>Vertical Owner (Data Driven Analytics):</strong> You will relentlessly improve our data product experience by working with internal and external stakeholders to identify bottlenecks, refine analytical fit, and personally onboard them into a world-class, data-driven workflow.</p></li><li><p style=\"min-height:1.5em\"><strong>Data Accessibility:</strong> Design and maintain robust pipelines to make data from our customers, HubSpot, and Aircall fully usable and accessible across the organization.</p></li><li><p style=\"min-height:1.5em\"><strong>AI Integration:</strong> Implement AI-driven workflows and predictive models to automate insights, lead scoring, and trend forecasting.</p></li><li><p style=\"min-height:1.5em\"><strong>Hands-on Engineering:</strong> Work directly in Python (or TypeScript) to integrate diverse data sources yourself.</p></li><li><p style=\"min-height:1.5em\"><strong>Strategic Impact:</strong> Collaborate with Sales, Marketing, and Success teams to transform complex datasets into powerful BI dashboards that drive faster, smarter decisions.</p></li></ul><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\"><strong>What Makes You a Great Fit</strong></p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">You are hungry, driven, and eager to find smart, efficient solutions. You don't just accept the status quo - you constantly look for ways to innovate and optimize.</p></li><li><p style=\"min-height:1.5em\">You are an expert in using n8n, Python (TypeScript is a bonus) and have a deep understanding of modern BI tools and SQL.</p></li><li><p style=\"min-height:1.5em\">You are passionate about how AI can optimize revenue processes and have the skills to implement it.</p></li><li><p style=\"min-height:1.5em\">Bonus: Ideally, you have experience in BI or Data Engineering, with a proven track record of building data warehouses and integrating SaaS tools (like HubSpot or Aircall)</p></li><li><p style=\"min-height:1.5em\">You are proactive and structured, you don’t wait for a ticket; you identify bottlenecks in our data flow and fix them.</p></li><li><p style=\"min-height:1.5em\">You are fluent in English. Proficiency in German, Italian, French or Portuguese is a plus.</p></li></ul><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\"><strong>Why Join Us?</strong></p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Be part of one of the fastest growing VC-backed startup in Germany with 3000+ satisfied B2B customers.</p></li><li><p style=\"min-height:1.5em\">A vibrant, collaborative office culture where great ideas happen face-to-face - we're a full in-person team (5 days/week) in a beautiful Berlin office near Hackescher Markt.</p></li><li><p style=\"min-height:1.5em\">Enjoy opportunities for personal and professional growth.</p></li><li><p style=\"min-height:1.5em\">Receive competitive pay.</p></li><li><p style=\"min-height:1.5em\">Perks include gym membership, coffee, regular team events, MacBook and more.</p></li><li><p style=\"min-height:1.5em\">Embrace the freedom to innovate and make quick changes in a dynamic team.</p></li></ul><div style=\"min-height:1.2em;margin-top:0;margin-bottom:0\"> </div><p style=\"min-height:1.5em\">Even if you don’t meet every requirement, we encourage you to apply! Imposter syndrome shouldn't hold you back - we value talent and passion above all.</p><div style=\"min-height:1.2em;margin-top:0;margin-bottom:0\"> </div><p style=\"min-height:1.5em\"><strong>About Reonic</strong></p><p style=\"min-height:1.5em\">At Reonic, we’re on a mission to simplify renewable technology with our AI operating system for renewable installers. Backed by top-tier investors and trusted by 3000+ business customers, we’re growing fast - and we need YOU to help us accommodate our new and existing customers.</p>"
+},
+{
+  "id": 2315651552,
+  "date_posted": "2026-08-17T00:00:00",
+  "date_created": "2026-08-17T12:34:51.209364",
+  "title": "Coordinator BigData Data Engineer (m/w/d)",
+  "organization": "Vodafone",
+  "organization_url": null,
+  "date_valid_through": null,
+  "locations": [
+    {
+      "address": {
+        "streetAddress": "Düsseldorf, DE"
+      }
+    }
+  ],
+  "locations_alt": null,
+  "location_type": null,
+  "location_requirements": null,
+  "salary": null,
+  "employment_type": null,
+  "url": "https://opportunities.vodafone.com/job/D%C3%BCsseldorf-Coordinator-BigData-Data-Engineer-%28mwd%29/1427004133/",
+  "source_type": "ats",
+  "source": "successfactors",
+  "source_domain": "opportunities.vodafone.com",
+  "source_slug": null,
+  "organization_logo": null,
+  "cities_derived": [
+    "Düsseldorf"
+  ],
+  "counties_derived": null,
+  "regions_derived": [
+    "North Rhine-Westphalia"
+  ],
+  "countries_derived": [
+    "Germany"
+  ],
+  "locations_derived": [
+    "Düsseldorf, North Rhine-Westphalia, Germany"
+  ],
+  "timezones_derived": [
+    "Europe/Berlin"
+  ],
+  "lats_derived": [
+    51.2254018
+  ],
+  "lngs_derived": [
+    6.7763137
+  ],
+  "domain_derived": "vodafone.com",
+  "org_linkedin_slug": "vois",
+  "ai_salary_currency": null,
+  "ai_salary_value": null,
+  "ai_salary_min_value": null,
+  "ai_salary_max_value": null,
+  "ai_salary_unit_text": null,
+  "ai_benefits": [
+    "Hybrid working",
+    "Company pension plan",
+    "Holiday and Christmas bonus",
+    "Learning and training programs",
+    "Childcare support",
+    "Health and mindfulness programs",
+    "Fitness studio access",
+    "Employee discounts on mobile, landline, internet, and TV products"
+  ],
+  "ai_experience_level": "0-2",
+  "ai_work_arrangement": "Hybrid",
+  "ai_work_arrangement_office_days": 2,
+  "ai_remote_location": null,
+  "ai_remote_location_derived": null,
+  "ai_key_skills": [
+    "Big Data",
+    "Data Engineering",
+    "Data Science",
+    "Hadoop",
+    "Spark",
+    "Hive",
+    "Impala",
+    "HBase",
+    "Yarn",
+    "Scala",
+    "Java",
+    "Python",
+    "Teradata SQL",
+    "Oracle ODI",
+    "Shell scripting",
+    "Agile"
+  ],
+  "ai_hiring_manager_name": null,
+  "ai_hiring_manager_email_address": null,
+  "ai_core_responsibilities": "You will be responsible for identifying and specifying data from structured and unstructured sources for data science use cases. Additionally, you will manage data extraction, transformation, and transfer to the Big Data platform while collaborating with the data science team to develop automated models.",
+  "ai_requirements_summary": "Candidates should hold a degree in Computer Science, Data Science, Mathematics, Physics, or a related field. Practical experience with the Hadoop ecosystem, functional programming languages, and agile project management tools is highly desirable.",
+  "ai_working_hours": 40,
+  "ai_employment_type": [
+    "FULL_TIME",
+    "PART_TIME"
+  ],
+  "ai_job_language": "English",
+  "ai_visa_sponsorship": false,
+  "ai_keywords": [
+    "Big Data",
+    "Data Engineering",
+    "Data Science",
+    "Hadoop",
+    "Spark",
+    "Hive",
+    "Impala",
+    "HBase",
+    "Yarn",
+    "Cloudera",
+    "Scala",
+    "Java",
+    "Python",
+    "Teradata SQL",
+    "Oracle ODI",
+    "Unix",
+    "Shell",
+    "Bash",
+    "Ksh",
+    "Business Requirements Engineering",
+    "Agile",
+    "JIRA",
+    "Data Extraction",
+    "Data Transformation",
+    "Metadata Management",
+    "Parquet",
+    "Privacy",
+    "Pseudonymization"
+  ],
+  "ai_taxonomies_a": [
+    "Data & Analytics",
+    "Technology",
+    "Software",
+    "Engineering"
+  ],
+  "ai_education": [
+    "bachelor degree"
+  ],
+  "description_html": "<div><div style=\"padding:10.0px 0.0px;border:1.0px solid transparent\"><div style=\"font-size:16.0px;word-wrap:break-word\"><h2 style=\"font-size:1.0em;margin:0.0px\"></h2>\n</div><div><p><span style=\"font-size:24.0pt\"><strong>Coordinator BigData Data Engineer (m/w/d)</strong></span><br><strong>Stellen-ID:</strong> 288577</p>\n<p><br>Bei Vodafone arbeiten wir jeden Tag an einer besseren Zukunft. Für eine Welt, die besser vernetzt, inklusiver und nachhaltiger ist. Denn für uns ist Technologie nur so stark wie die Menschen, die sie nutzen. Sei dabei und lass uns gemeinsam die Welt von morgen gestalten.</p>\n<p><br><strong>Was Dich erwartet:</strong></p>\n<ul>\n<li>Du verantwortest als Coordinator BigData Data Engineer (m/w/d) die Identifikation und Spezifikation der für Data-Science-Use-Cases benötigten Daten aus strukturierten und unstrukturierten Datenquellen, die sowohl innerhalb von Vodafone als auch extern bereitgestellt werden können.</li>\n<li>Du stimmst die Pseudonymisierungs- und Blurring-Mechanismen sowie Lieferfrequenzen und Vorhaltezeiten mit Local Privacy, den Data Source Ownern, Lieferanten und Data Scientists ab.</li>\n<li>Du extrahierst, transformierst und transferierst Daten zur Big-Data-Plattform, sowohl eigenständig als auch in Zusammenarbeit mit externen Lieferanten.</li>\n<li>Du importierst Daten im Parquet-Format gemäß den Standards des globalen Data Engineerings in die Big-Data-Plattform, übernimmst das Metadatenmanagement und begleitest die Übergabe in den Lifecycle von Group Operations.</li>\n<li>Du entwickelst automatisierte Analysemodelle und Anwendungen auf der Big-Data-Plattform und arbeitest dabei eng mit dem Data-Science-Team zusammen.</li>\n</ul>\n<p>&nbsp;</p>\n<p><strong>Was Dich auszeichnet:</strong></p>\n<ul>\n<li>Erfolgreich abgeschlossenes Studium der (WirtschaftsInformatik, Data Science, Mathematik, Physik oder eine vergleichbare Qualifikation</li>\n<li>Wünschenswert erste Erfahrungen mit dem Hadoop Ökosystem (Spark, Hive/Impala, HBase, Yarn); idealerweise mit der Cloudera Distribution</li>\n<li>Erste Software Entwicklungserfahrung in einer functionalen Programmiersprache, z.B.. Scala, Java oder python&nbsp;</li>\n<li>Einführende Kenntnisse von Datenextraktion und Transformation, z.B. Teradata SQL and Oracle ODI&nbsp;</li>\n<li>Erfahrung mit Unix Systemen, insbesondere Shell (bash, ksh) Programmierung&nbsp;</li>\n<li>Business Requirements Engineering für Big Data Anwendungen&nbsp;</li>\n<li>Erste praktische Erfahrung in agilen Projekten und der dort eingesetzten Management Tools wie JIRA&nbsp;</li>\n<li>Sehr gute Englischkenntnisse in Wort und Schrift (B2 nach GER)</li>\n</ul>\n<p>&nbsp;</p>\n<p><br>Diese Stelle kann in Vollzeit oder vollzeitnaher Teilzeit (mind. 30 Stunden) ausgeübt werden.</p>\n<p><br>Deine Stärken und Erfahrungen zählen. Uns sind Vielfalt und gleiche Chancen wichtig. Wir freuen uns über Bewerbungen von Menschen mit Behinderung. Und beachten sie bei gleicher Eignung besonders.</p>\n<p><br>Wir besetzen diese Stelle am Standort Düsseldorf für die Vodafone GmbH.&nbsp;</p></div></div><div style=\"padding:10.0px 0.0px;border:1.0px solid transparent\"><div style=\"font-size:16.0px;word-wrap:break-word\"><h2 style=\"font-size:1.0em;margin:0.0px\"></h2>\n</div><div><p><strong>Was wir Dir bieten</strong>:</p>\n<ul>\n<li>Flexibilität: Hybrid Working ermöglicht Dir die Arbeit im Büro oder bis zu 3 Tage/Woche aus dem Homeoffice. Zusätzlich kannst Du bis zu 20 Tage pro Jahr im EU-Ausland sowie in immer mehr Nicht-EU-Ländern arbeiten.</li>\n<li>Attraktive Vergütung und Altersvorsorge: Als Tarif-Mitarbeiter:in bekommst Du je nach Vergütungsmodell Urlaubs- und Weihnachtsgeld oder ein 13. Gehalt. Und mit unserem Pensionsplan auch eine betriebliche Altersvorsorge.</li>\n<li>Weiterbildung: Du entscheidest, mit welchen unserer Lern- und Trainingsprogrammen Du Deine individuelle Entwicklung förderst.</li>\n<li>Work-Life-Balance: Ob Kita, Gesundheits- &amp; Achtsamkeitsprogramme oder Fitnessstudio: Du gestaltest flexibel Deinen Job und Dein Privatleben. Wir unterstützen Dich. Auch bei der Pflege von Angehörigen.</li>\n<li>Rabatte und Zusatzleistungen: Als Mitarbeiter:in bekommst Du besondere Angebote auf alle unsere Produkte für Mobilfunk, Festnetz, Internet und TV.&nbsp;</li>\n</ul>\n<p>&nbsp;</p>\n<p><strong>Wer wir sind:</strong><br>Vodafone feiert und fördert Diversität und Inklusion. Wir sind so verschieden wie unsere Kund:innen und unsere Gesellschaft. Ob ethnische Herkunft, Hautfarbe, Alter, Geschlechtsidentität, sexuelle Orientierung, Behinderung, Religion, politische Zugehörigkeit, Gewerkschaftszugehörigkeit, Nationalität, Gesundheitszustand, soziale Herkunft oder kultureller Hintergrund: Bei Vodafone ist kein Platz für Diskriminierung.</p>\n<p>Together we can.</p></div></div></div>\n        "
+},
+{
+  "id": 2315618025,
+  "date_posted": "2026-08-17T00:00:00",
+  "date_created": "2026-08-17T11:54:26.776058",
+  "title": "Data Science Lead",
+  "organization": "Jobgether",
+  "organization_url": null,
+  "date_valid_through": null,
+  "locations": [
+    {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Germany",
+        "addressRegion": null,
+        "addressCountry": null,
+        "postalCode": null
+      }
+    }
+  ],
+  "locations_alt": null,
+  "location_type": null,
+  "location_requirements": null,
+  "salary": null,
+  "employment_type": [
+    "Full-time"
+  ],
+  "url": "https://jobs.lever.co/jobgether/dc29df06-efa5-4351-aa5e-af03e261942f",
+  "source_type": "ats",
+  "source": "lever.co",
+  "source_domain": "jobs.lever.co",
+  "source_slug": null,
+  "organization_logo": "https://lever-client-logos.s3.us-west-2.amazonaws.com/b9babb10-6786-42c6-a3c5-9eebd25117d5-1762181104361.png",
+  "cities_derived": null,
+  "counties_derived": null,
+  "regions_derived": null,
+  "countries_derived": [
+    "Germany"
+  ],
+  "locations_derived": [
+    "Germany"
+  ],
+  "timezones_derived": [
+    "Europe/Berlin"
+  ],
+  "lats_derived": [
+    51.1638175
+  ],
+  "lngs_derived": [
+    10.4478313
+  ],
+  "domain_derived": "jobgether.com",
+  "org_linkedin_slug": "jobgether",
+  "ai_salary_currency": null,
+  "ai_salary_value": null,
+  "ai_salary_min_value": null,
+  "ai_salary_max_value": null,
+  "ai_salary_unit_text": null,
+  "ai_benefits": [
+    "Competitive salary package",
+    "Healthcare coverage",
+    "Long-term B2B contract",
+    "Fully remote working model"
+  ],
+  "ai_experience_level": "5-10",
+  "ai_work_arrangement": "Remote Solely",
+  "ai_work_arrangement_office_days": null,
+  "ai_remote_location": [
+    "Germany"
+  ],
+  "ai_remote_location_derived": [
+    "Germany"
+  ],
+  "ai_key_skills": [
+    "Data Science",
+    "Machine Learning",
+    "LLM",
+    "GenAI",
+    "RAG",
+    "Python",
+    "Vector databases",
+    "Embeddings",
+    "Model evaluation",
+    "Benchmarking",
+    "Regulatory compliance",
+    "System architecture",
+    "Productionization",
+    "NLP",
+    "Explainable AI"
+  ],
+  "ai_hiring_manager_name": null,
+  "ai_hiring_manager_email_address": null,
+  "ai_core_responsibilities": "You will lead the architecture and evolution of machine learning and GenAI capabilities to support automated regulatory validation workflows. This involves designing RAG pipelines, establishing evaluation frameworks, and collaborating with engineering teams to productionize AI components.",
+  "ai_requirements_summary": "The role requires strong hands-on experience in data science, applied machine learning, and the deployment of LLM-based solutions in production environments. Candidates must possess architectural judgment, Python programming skills, and experience working within regulated or compliance-heavy industries.",
+  "ai_working_hours": 40,
+  "ai_employment_type": [
+    "FULL_TIME"
+  ],
+  "ai_job_language": "English",
+  "ai_visa_sponsorship": false,
+  "ai_keywords": [
+    "Data Science",
+    "Machine Learning",
+    "LLM",
+    "GenAI",
+    "RAG",
+    "Python",
+    "Vector databases",
+    "Embeddings",
+    "Regulatory compliance",
+    "Explainable AI",
+    "NLP",
+    "Productionization",
+    "Benchmarking",
+    "System architecture",
+    "Enterprise scale",
+    "Pharmaceutical",
+    "Healthcare",
+    "Data engineering",
+    "Model validation",
+    "Traceability"
+  ],
+  "ai_taxonomies_a": [
+    "Data & Analytics",
+    "Technology",
+    "Software",
+    "Management & Leadership",
+    "Engineering"
+  ],
+  "ai_education": null,
+  "description_html": "<p>\n</p><p data-start=\"0\" data-end=\"172\"><strong>This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Data Science Lead based in Germany.</strong></p>\n<p data-start=\"174\" data-end=\"1193\">This is a strategic technical leadership opportunity within a high-impact AI program operating in a highly regulated environment.<br data-start=\"303\" data-end=\"306\">You will lead the architecture and evolution of machine learning and GenAI capabilities supporting automated regulatory validation workflows.<br data-start=\"447\" data-end=\"450\">The role combines hands-on expertise in LLM systems with architectural ownership, evaluation, and productionisation.<br data-start=\"566\" data-end=\"569\">You will design sophisticated RAG pipelines and retrieval strategies while ensuring AI workflows are reliable, reproducible, explainable, and traceable.<br data-start=\"721\" data-end=\"724\">Working across data science, engineering, product, and compliance teams, you will influence key technical decisions and drive the platform toward enterprise scale.<br data-start=\"887\" data-end=\"890\">The position offers the opportunity to shape production-grade AI systems where quality, governance, and measurable performance are critical.<br data-start=\"1030\" data-end=\"1033\">It is well suited to an experienced data science leader who enjoys solving complex problems and turning advanced AI capabilities into robust business solutions.</p>\n<p></p>\\n<p></p><p><br></p><b>Accountabilities</b><div>\n<ul data-start=\"1221\" data-end=\"2479\">\n<li data-section-id=\"ey24p5\" data-start=\"1221\" data-end=\"1341\">Design, evolve, and oversee AI and machine learning architecture supporting automated compliance validation workflows.</li>\n<li data-section-id=\"1qyr0ll\" data-start=\"1342\" data-end=\"1473\">Design and optimize LLM-powered retrieval and validation pipelines, including Retrieval Augmented Generation (RAG) architectures.</li>\n<li data-section-id=\"1153par\" data-start=\"1474\" data-end=\"1616\">Establish evaluation frameworks, benchmarking approaches, and continuous improvement processes to measure and enhance AI system performance.</li>\n<li data-section-id=\"qg3fal\" data-start=\"1617\" data-end=\"1735\">Develop explainability, traceability, and validation mechanisms that support regulatory and compliance requirements.</li>\n<li data-section-id=\"11b2esa\" data-start=\"1736\" data-end=\"1881\">Collaborate closely with ML Engineers and Backend Engineers to productionize AI components and integrate them into reliable enterprise systems.</li>\n<li data-section-id=\"1k23hme\" data-start=\"1882\" data-end=\"1999\">Drive technical decisions around embeddings, vector databases, retrieval strategies, and related AI infrastructure.</li>\n<li data-section-id=\"1s32pn5\" data-start=\"2000\" data-end=\"2116\">Ensure AI workflows are reproducible, testable, maintainable, and aligned with high-quality engineering standards.</li>\n<li data-section-id=\"c9odn\" data-start=\"2117\" data-end=\"2225\">Support the scaling of AI capabilities from individual workflows into a robust, enterprise-grade platform.</li>\n<li data-section-id=\"1dq9wgy\" data-start=\"2226\" data-end=\"2360\">Lead technical discussions and align architectural decisions across product, engineering, data science, and compliance stakeholders.</li>\n<li data-section-id=\"16kjfy0\" data-start=\"2361\" data-end=\"2479\">Identify opportunities to improve system reliability, model performance, scalability, and operational effectiveness.</li>\n</ul>\n<h3 data-section-id=\"eu7ne2\" data-start=\"2481\" data-end=\"2501\"><span role=\"text\"><strong data-start=\"2485\" data-end=\"2501\">Requirements</strong></span></h3>\n<ul data-start=\"2503\" data-end=\"3828\">\n<li data-section-id=\"1y2jyye\" data-start=\"2503\" data-end=\"2601\">Strong hands-on experience in Data Science, applied Machine Learning, and production AI systems.</li>\n<li data-section-id=\"1ft88hv\" data-start=\"2602\" data-end=\"2693\">Proven experience designing and deploying LLM-based solutions in production environments.</li>\n<li data-section-id=\"1i4khc0\" data-start=\"2694\" data-end=\"2802\">Practical experience with Retrieval Augmented Generation architectures and LLM-driven retrieval workflows.</li>\n<li data-section-id=\"l6jel2\" data-start=\"2803\" data-end=\"2894\">Experience working with vector databases, embeddings, and embedding-generation pipelines.</li>\n<li data-section-id=\"1p2v7ds\" data-start=\"2895\" data-end=\"2993\">Strong Python programming skills and familiarity with modern machine learning and AI frameworks.</li>\n<li data-section-id=\"8bxe13\" data-start=\"2994\" data-end=\"3088\">Demonstrated experience designing model evaluation, benchmarking, and validation frameworks.</li>\n<li data-section-id=\"vohdcj\" data-start=\"3089\" data-end=\"3206\">Understanding of production-grade AI architecture, with an ability to move beyond proof-of-concept implementations.</li>\n<li data-section-id=\"1tx3x3a\" data-start=\"3207\" data-end=\"3304\">Experience operating in regulated, compliance-heavy, or otherwise highly governed environments.</li>\n<li data-section-id=\"13wxv3e\" data-start=\"3305\" data-end=\"3415\">Strong ownership mindset, architectural judgment, and confidence making and influencing technical decisions.</li>\n<li data-section-id=\"1cchecr\" data-start=\"3416\" data-end=\"3546\">Excellent communication and collaboration skills, with the ability to work effectively across technical and non-technical teams.</li>\n<li data-section-id=\"xyhj73\" data-start=\"3547\" data-end=\"3645\">Experience with pharmaceutical, healthcare, or other regulated industries is a strong advantage.</li>\n<li data-section-id=\"m94zf3\" data-start=\"3646\" data-end=\"3755\">Familiarity with explainable AI methodologies, document intelligence, or NLP-heavy pipelines is beneficial.</li>\n<li data-section-id=\"ah8cco\" data-start=\"3756\" data-end=\"3828\">Experience building enterprise-scale AI platforms is highly desirable.</li>\n</ul>\n<h3 data-section-id=\"425p9e\" data-start=\"3830\" data-end=\"3846\"><span role=\"text\"><strong data-start=\"3834\" data-end=\"3846\">Benefits</strong></span></h3>\n<ul data-start=\"3848\" data-end=\"4297\">\n<li data-section-id=\"1mmaaz3\" data-start=\"3848\" data-end=\"3877\">Competitive salary package.</li>\n<li data-section-id=\"x1ra4t\" data-start=\"3878\" data-end=\"3987\">Opportunity to work on international, high-impact AI initiatives within a regulated enterprise environment.</li>\n<li data-section-id=\"1a6x9zh\" data-start=\"3988\" data-end=\"4024\">Comprehensive healthcare coverage.</li>\n<li data-section-id=\"11yx17a\" data-start=\"4025\" data-end=\"4081\">Long-term B2B contract with a stable project pipeline.</li>\n<li data-section-id=\"u4zv3a\" data-start=\"4082\" data-end=\"4111\">Fully remote working model.</li>\n<li data-section-id=\"1lpmb0g\" data-start=\"4112\" data-end=\"4203\">Opportunity to work with modern LLM, RAG, machine learning, and AI platform technologies.</li>\n<li data-section-id=\"1bbycc4\" data-start=\"4204\" data-end=\"4297\">Significant technical ownership and influence over enterprise AI architecture and delivery.</li>\n</ul>\n</div><p><br></p><p></p>\\n<p><strong>How Jobgether works:</strong></p>\n<p>We use an <strong>AI-powered matching process</strong> to ensure your application is reviewed quickly, objectively, and fairly against the role's core requirements. Our system identifies the top-fitting candidates, and this shortlist is then shared directly with the hiring company. The final decision and next steps (interviews, assessments) are managed by their internal team.</p>\n<p>We appreciate your interest and wish you the best!</p>\n<p><a href=\"https://jobgether.com/how-jobgether-works\">&nbsp;Why Apply Through Jobgether?</a>&nbsp;</p>\n<p>&nbsp;</p>\n<p><strong>Data Privacy Notice:</strong> By submitting your application, you acknowledge that Jobgether will process your personal data to evaluate your candidacy and share relevant information with the hiring employer. This processing is based on legitimate interest and pre-contractual measures under applicable data protection laws (including GDPR). You may exercise your rights (access, rectification, erasure, objection) at any time.</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>#LI-CL1</p>"
+},
+{
+  "id": 2315488950,
+  "date_posted": "2026-08-17T00:00:00",
+  "date_created": "2026-08-17T08:54:03.505227",
+  "title": "Senior Geospatial Machine Learning Engineer",
+  "organization": "Jobgether",
+  "organization_url": null,
+  "date_valid_through": null,
+  "locations": [
+    {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Germany",
+        "addressRegion": null,
+        "addressCountry": null,
+        "postalCode": null
+      }
+    }
+  ],
+  "locations_alt": null,
+  "location_type": null,
+  "location_requirements": null,
+  "salary": null,
+  "employment_type": [
+    "Full-time"
+  ],
+  "url": "https://jobs.lever.co/jobgether/004c6be8-b499-4a3e-b35b-371ee929fc0e",
+  "source_type": "ats",
+  "source": "lever.co",
+  "source_domain": "jobs.lever.co",
+  "source_slug": null,
+  "organization_logo": "https://lever-client-logos.s3.us-west-2.amazonaws.com/b9babb10-6786-42c6-a3c5-9eebd25117d5-1762181104361.png",
+  "cities_derived": null,
+  "counties_derived": null,
+  "regions_derived": null,
+  "countries_derived": [
+    "Germany"
+  ],
+  "locations_derived": [
+    "Germany"
+  ],
+  "timezones_derived": [
+    "Europe/Berlin"
+  ],
+  "lats_derived": [
+    51.1638175
+  ],
+  "lngs_derived": [
+    10.4478313
+  ],
+  "domain_derived": "jobgether.com",
+  "org_linkedin_slug": "jobgether",
+  "ai_salary_currency": null,
+  "ai_salary_value": null,
+  "ai_salary_min_value": null,
+  "ai_salary_max_value": null,
+  "ai_salary_unit_text": null,
+  "ai_benefits": [
+    "Fully remote working environment",
+    "Climate action impact",
+    "Wildfire prevention",
+    "Electrical grid resilience",
+    "Project ownership",
+    "Advanced satellite imagery exposure",
+    "Geospatial data access",
+    "Competitive compensation"
+  ],
+  "ai_experience_level": "5-10",
+  "ai_work_arrangement": "Remote Solely",
+  "ai_work_arrangement_office_days": null,
+  "ai_remote_location": [
+    "Germany"
+  ],
+  "ai_remote_location_derived": [
+    "Germany"
+  ],
+  "ai_key_skills": [
+    "Machine Learning",
+    "Deep Learning",
+    "Computer Vision",
+    "Python",
+    "Satellite Imagery",
+    "Geospatial Analysis",
+    "PyTorch",
+    "TensorFlow",
+    "Dagster",
+    "QGIS",
+    "Data Pipelines",
+    "Model Evaluation",
+    "Rasterio",
+    "Geopandas",
+    "GDAL",
+    "Cloud Infrastructure"
+  ],
+  "ai_hiring_manager_name": null,
+  "ai_hiring_manager_email_address": null,
+  "ai_core_responsibilities": "Develop and deploy advanced vegetation intelligence products using machine learning, computer vision, and large-scale satellite imagery. Lead technical projects end-to-end while collaborating with cross-functional teams to optimize data pipelines and model performance.",
+  "ai_requirements_summary": "Requires 5+ years of professional experience in machine learning or data science with a focus on computer vision and deep learning. Proficiency in Python, geospatial libraries, and experience with production-level model deployment and monitoring is essential.",
+  "ai_working_hours": 40,
+  "ai_employment_type": [
+    "FULL_TIME"
+  ],
+  "ai_job_language": "English",
+  "ai_visa_sponsorship": false,
+  "ai_keywords": [
+    "Machine Learning",
+    "Geospatial",
+    "Satellite Imagery",
+    "Computer Vision",
+    "Deep Learning",
+    "Python",
+    "Rasterio",
+    "Geopandas",
+    "Shapely",
+    "GDAL",
+    "PyTorch",
+    "TensorFlow",
+    "Scikit-learn",
+    "Dagster",
+    "Airflow",
+    "Dbt",
+    "QGIS",
+    "Sentry",
+    "Grafana",
+    "Prometheus",
+    "Climate Technology",
+    "Vegetation Modeling",
+    "Data Pipelines",
+    "Infrastructure Resilience",
+    "Multispectral Imagery",
+    "Hyperspectral Imagery",
+    "Remote Sensing",
+    "Model Monitoring",
+    "Observability",
+    "Production Engineering"
+  ],
+  "ai_taxonomies_a": [
+    "Technology",
+    "Software",
+    "Data & Analytics",
+    "Environmental & Sustainability",
+    "Energy"
+  ],
+  "ai_education": null,
+  "description_html": "<p>\n</p><p><strong>This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Senior Geospatial Machine Learning Engineer based in Germany.</strong></p>\n<p>Join a fully remote, mission-driven climate technology environment where machine learning and satellite imagery are used to address critical infrastructure challenges.<br>As part of the Vegetation Modeling team, you will build advanced ML solutions that identify vegetation-related risks before they contribute to wildfires or power outages.<br>You will work with large-scale geospatial datasets, satellite and aerial imagery, computer vision, and deep learning to create production-ready intelligence products.<br>The role combines hands-on engineering with technical ownership, giving you the opportunity to lead projects from initial planning through delivery.<br>You will collaborate with teams across Europe and the Americas, influencing data pipelines, platform architecture, model evaluation, and product delivery.<br>Your work will directly contribute to improving grid resilience while applying technology to complex environmental and climate challenges.<br>This is an opportunity for a senior ML professional who wants meaningful technical challenges and measurable real-world impact.</p>\n<p></p>\\n<p></p><p><br></p><b>Accountabilities</b><div>\n<ul data-spread=\"false\">\n<li>Develop and deploy new vegetation intelligence products using machine learning, deep learning, computer vision, geospatial Python libraries, and large-scale satellite or aerial imagery.</li>\n<li>Explore geospatial datasets, identify opportunities for model improvement, optimize existing ML solutions, and troubleshoot production issues.</li>\n<li>Maintain and enhance existing vegetation modeling products to improve accuracy, reliability, scalability, and overall impact.</li>\n<li>Lead technical projects end-to-end, from defining objectives and planning implementation through execution, delivery, and evaluation.</li>\n<li>Develop measurement frameworks, evaluation tooling, and performance metrics that enable data-driven decisions about model quality and impact.</li>\n<li>Monitor production models and investigate performance issues using appropriate observability, monitoring, and debugging tools.</li>\n<li>Work closely with upstream data ingestion teams to influence data pipelines, processing workflows, and platform architecture.</li>\n<li>Partner with downstream product and delivery teams to ensure geospatial ML outputs can be effectively integrated into customer-facing solutions.</li>\n<li>Use tools such as QGIS, Dagster, Sentry, Grafana, or equivalent platforms to analyze data, manage workflows, monitor systems, and diagnose issues.</li>\n<li>Communicate technical findings, project progress, model performance, and business impact clearly to technical and non-technical stakeholders.</li>\n<li>Contribute to engineering and ML best practices across a distributed team working across Europe and the Americas.</li>\n<li>Help translate complex environmental and geospatial problems into scalable machine learning solutions that support climate resilience and critical infrastructure.</li>\n</ul>\n<h3>Requirements:</h3>\n<ul data-spread=\"false\">\n<li>5+ years of professional experience as a Machine Learning Engineer, Data Scientist, or in a closely related role, with demonstrated experience building and deploying production machine learning or deep learning models.</li>\n<li>Proven experience developing computer vision or deep learning models using satellite or aerial imagery.</li>\n<li>Strong proficiency in Python and geospatial Python libraries such as rasterio, geopandas, shapely, GDAL, or equivalent technologies.</li>\n<li>Solid understanding of geospatial data structures, formats, processing workflows, and analysis techniques.</li>\n<li>Professional experience with ML and deep learning frameworks such as PyTorch, TensorFlow, scikit-learn, or comparable tools.</li>\n<li>Experience designing, implementing, or maintaining data pipelines using orchestration and workflow tools such as Dagster, Airflow, dbt, or equivalent systems.</li>\n<li>Experience with QGIS or comparable geospatial visualization and analysis software.</li>\n<li>Strong understanding of model evaluation, performance measurement, monitoring, and debugging in production environments.</li>\n<li>Ability to work effectively with large-scale, complex datasets and translate technical findings into practical product or business decisions.</li>\n<li>Strong project ownership skills, with the ability to independently drive initiatives from planning through execution and delivery.</li>\n<li>Excellent communication and collaboration skills, particularly in distributed and cross-functional environments.</li>\n<li>Experience with multispectral or hyperspectral satellite imagery is a strong advantage.</li>\n<li>Background in vegetation analysis, forestry, agriculture, environmental monitoring, or related geospatial applications is highly valued.</li>\n<li>Familiarity with observability and monitoring tools such as Grafana, Sentry, Prometheus, or similar platforms is a plus.</li>\n<li>A genuine interest in climate technology, environmental applications, and using advanced technology to solve complex real-world problems is highly desirable.</li>\n<li>Candidates should be comfortable working in a fully remote environment and collaborating across multiple time zones.</li>\n</ul>\n<h3>Benefits:</h3>\n<ul data-spread=\"false\">\n<li>Fully remote working environment.</li>\n<li>Opportunity to work on technology with direct applications in climate action, wildfire prevention, and electrical grid resilience.</li>\n<li>Meaningful ownership of machine learning products and the opportunity to lead projects from concept through production.</li>\n<li>Collaboration with a geographically distributed team spanning Europe and the Americas.</li>\n<li>Exposure to advanced satellite imagery, geospatial data, computer vision, and large-scale machine learning systems.</li>\n<li>High-impact technical challenges involving real-world environmental and infrastructure problems.</li>\n<li>Competitive senior-level compensation package expected, commensurate with experience.</li>\n<li>Opportunity to contribute to the development of production ML systems rather than purely experimental or research-focused models.</li>\n</ul>\n</div><p><br></p><p></p>\\n<p><strong>How Jobgether works:</strong></p>\n<p>We use an <strong>AI-powered matching process</strong> to ensure your application is reviewed quickly, objectively, and fairly against the role's core requirements. Our system identifies the top-fitting candidates, and this shortlist is then shared directly with the hiring company. The final decision and next steps (interviews, assessments) are managed by their internal team.</p>\n<p>We appreciate your interest and wish you the best!</p>\n<p><a href=\"https://jobgether.com/how-jobgether-works\">&nbsp;Why Apply Through Jobgether?</a>&nbsp;</p>\n<p>&nbsp;</p>\n<p><strong>Data Privacy Notice:</strong> By submitting your application, you acknowledge that Jobgether will process your personal data to evaluate your candidacy and share relevant information with the hiring employer. This processing is based on legitimate interest and pre-contractual measures under applicable data protection laws (including GDPR). You may exercise your rights (access, rectification, erasure, objection) at any time.</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>#LI-CL1</p>"
+}]
