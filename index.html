@@ -1,0 +1,458 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Fresh Roles — daily ATS job board</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;600;700&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --paper:#f3f4f7;
+    --card:#ffffff;
+    --ink:#16181d;
+    --muted:#6b7078;
+    --faint:#9aa0a8;
+    --line:#e4e6ec;
+    --accent:#3d5afe;
+    --accent-ink:#2338c9;
+    --fresh:#12885f;
+    --fresh-bg:#e3f5ec;
+    --recent:#b26a12;
+    --recent-bg:#fbeed6;
+    --stale:#8b9098;
+    --stale-bg:#eceef2;
+    --radius:14px;
+    --shadow:0 1px 2px rgba(20,22,28,.04), 0 6px 20px rgba(20,22,28,.05);
+  }
+
+  *{box-sizing:border-box}
+  html,body{margin:0}
+  body{
+    background:var(--paper);
+    color:var(--ink);
+    font-family:"IBM Plex Sans", system-ui, -apple-system, sans-serif;
+    font-size:15px;
+    line-height:1.5;
+    -webkit-font-smoothing:antialiased;
+  }
+  a{color:inherit}
+
+  .wrap{max-width:1080px;margin:0 auto;padding:0 20px}
+
+  /* ---- masthead ---- */
+  .masthead{border-bottom:1px solid var(--line);background:var(--card)}
+  .masthead__inner{
+    display:flex;align-items:flex-end;justify-content:space-between;
+    gap:24px;padding:26px 0 22px;flex-wrap:wrap;
+  }
+  .brand{display:flex;flex-direction:column;gap:6px}
+  .brand__mark{
+    display:inline-flex;align-items:center;gap:9px;
+    font-family:"IBM Plex Mono",monospace;font-size:11px;letter-spacing:.14em;
+    text-transform:uppercase;color:var(--muted);
+  }
+  .brand__dot{width:8px;height:8px;border-radius:50%;background:var(--fresh);
+    box-shadow:0 0 0 4px var(--fresh-bg)}
+  .brand__title{
+    font-family:"Space Grotesk",sans-serif;font-weight:700;
+    font-size:30px;letter-spacing:-.02em;line-height:1.05;margin:0;
+  }
+  .brand__sub{color:var(--muted);font-size:14px;margin:0;max-width:46ch}
+
+  .stats{display:flex;gap:26px;align-items:flex-end}
+  .stat{display:flex;flex-direction:column;gap:2px;text-align:right}
+  .stat__num{font-family:"Space Grotesk",sans-serif;font-weight:600;font-size:24px;
+    letter-spacing:-.01em;line-height:1}
+  .stat__label{font-family:"IBM Plex Mono",monospace;font-size:10.5px;
+    letter-spacing:.1em;text-transform:uppercase;color:var(--faint)}
+
+  /* ---- controls ---- */
+  .controls{position:sticky;top:0;z-index:20;background:var(--paper);
+    border-bottom:1px solid var(--line);padding:14px 0}
+  .controls__row{display:flex;gap:10px;align-items:center;flex-wrap:wrap}
+  .search{flex:1 1 260px;position:relative;min-width:220px}
+  .search svg{position:absolute;left:13px;top:50%;transform:translateY(-50%);
+    width:16px;height:16px;color:var(--faint)}
+  .search input{
+    width:100%;padding:11px 14px 11px 38px;border:1px solid var(--line);
+    background:var(--card);border-radius:10px;font:inherit;color:var(--ink);
+  }
+  select{
+    padding:11px 34px 11px 13px;border:1px solid var(--line);background:var(--card);
+    border-radius:10px;font:inherit;color:var(--ink);cursor:pointer;
+    appearance:none;
+    background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' viewBox='0 0 24 24' fill='none' stroke='%236b7078' stroke-width='2.5'%3E%3Cpath d='M6 9l6 6 6-6'/%3E%3C/svg%3E");
+    background-repeat:no-repeat;background-position:right 12px center;
+  }
+  input:focus-visible, select:focus-visible, .toggle:focus-within, a:focus-visible, button:focus-visible{
+    outline:2px solid var(--accent);outline-offset:2px}
+
+  .toggle{display:inline-flex;align-items:center;gap:8px;padding:11px 14px;
+    border:1px solid var(--line);background:var(--card);border-radius:10px;
+    cursor:pointer;user-select:none;font-size:14px}
+  .toggle input{position:absolute;opacity:0;width:0;height:0}
+  .toggle__track{width:34px;height:19px;border-radius:20px;background:#d5d8df;
+    position:relative;transition:background .16s}
+  .toggle__track::after{content:"";position:absolute;top:2px;left:2px;width:15px;height:15px;
+    border-radius:50%;background:#fff;box-shadow:0 1px 2px rgba(0,0,0,.2);transition:transform .16s}
+  .toggle input:checked + .toggle__track{background:var(--accent)}
+  .toggle input:checked + .toggle__track::after{transform:translateX(15px)}
+
+  .btn-clear{padding:11px 14px;border:1px solid transparent;background:none;
+    color:var(--muted);border-radius:10px;cursor:pointer;font:inherit}
+  .btn-clear:hover{color:var(--ink);background:var(--card);border-color:var(--line)}
+
+  .count{font-family:"IBM Plex Mono",monospace;font-size:12px;color:var(--muted);
+    margin:12px 0 2px}
+  .count b{color:var(--ink);font-weight:500}
+
+  /* ---- board ---- */
+  .board{display:grid;grid-template-columns:repeat(auto-fill,minmax(320px,1fr));
+    gap:14px;padding:8px 0 60px}
+
+  .card{
+    position:relative;background:var(--card);border:1px solid var(--line);
+    border-radius:var(--radius);padding:18px 18px 16px;display:flex;flex-direction:column;
+    gap:13px;box-shadow:var(--shadow);transition:transform .14s ease, box-shadow .14s ease;
+    overflow:hidden;
+  }
+  .card::before{content:"";position:absolute;left:0;top:0;bottom:0;width:3px;background:var(--stale)}
+  .card.is-fresh::before{background:var(--fresh)}
+  .card.is-recent::before{background:var(--recent)}
+  .card:hover{transform:translateY(-2px);box-shadow:0 2px 4px rgba(20,22,28,.05),0 12px 28px rgba(20,22,28,.09)}
+
+  .card__age{display:inline-flex;align-items:center;gap:7px;align-self:flex-start;
+    font-family:"IBM Plex Mono",monospace;font-size:11px;font-weight:500;
+    padding:4px 9px;border-radius:20px;letter-spacing:.02em}
+  .is-fresh .card__age{color:var(--fresh);background:var(--fresh-bg)}
+  .is-recent .card__age{color:var(--recent);background:var(--recent-bg)}
+  .is-stale .card__age{color:var(--stale);background:var(--stale-bg)}
+  .card__age .tick{width:6px;height:6px;border-radius:50%;background:currentColor}
+
+  .card__head{display:flex;gap:12px;align-items:flex-start}
+  .logo{width:38px;height:38px;border-radius:9px;flex:none;object-fit:contain;
+    background:var(--paper);border:1px solid var(--line)}
+  .logo--mono{display:flex;align-items:center;justify-content:center;
+    font-family:"Space Grotesk",sans-serif;font-weight:600;font-size:17px;color:var(--muted)}
+  .card__title{font-family:"Space Grotesk",sans-serif;font-weight:600;font-size:17px;
+    line-height:1.25;letter-spacing:-.01em;margin:0 0 2px}
+  .card__org{color:var(--muted);font-size:13.5px}
+
+  .card__meta{display:flex;flex-wrap:wrap;gap:7px;margin-top:auto}
+  .pill{display:inline-flex;align-items:center;gap:5px;font-size:12px;
+    padding:4px 9px;border-radius:7px;background:var(--paper);color:var(--muted)}
+  .pill svg{width:12px;height:12px;opacity:.7}
+  .pill--remote{background:#eef1ff;color:var(--accent-ink)}
+  .pill--src{font-family:"IBM Plex Mono",monospace;font-size:11px;letter-spacing:.02em;
+    background:#fff;border:1px solid var(--line);color:var(--ink)}
+  .pill--salary{color:var(--fresh);background:var(--fresh-bg)}
+
+  .card__foot{display:flex;align-items:center;justify-content:space-between;
+    gap:10px;padding-top:13px;border-top:1px solid var(--line)}
+  .apply{display:inline-flex;align-items:center;gap:6px;font-weight:600;font-size:13.5px;
+    color:var(--accent-ink);text-decoration:none}
+  .apply svg{width:14px;height:14px;transition:transform .14s}
+  .apply:hover svg{transform:translate(2px,-2px)}
+
+  /* ---- states ---- */
+  .state{grid-column:1/-1;text-align:center;padding:64px 20px;color:var(--muted)}
+  .state h2{font-family:"Space Grotesk",sans-serif;font-weight:600;color:var(--ink);
+    font-size:19px;margin:0 0 8px}
+  .state code{font-family:"IBM Plex Mono",monospace;font-size:12.5px;background:var(--card);
+    padding:2px 6px;border-radius:5px;border:1px solid var(--line)}
+
+  .banner{grid-column:1/-1;display:flex;gap:10px;align-items:center;
+    background:#fff7e8;border:1px solid #f2dcae;color:#7a5410;border-radius:10px;
+    padding:12px 14px;font-size:13.5px;margin-bottom:4px}
+  .banner svg{width:16px;height:16px;flex:none}
+
+  footer{border-top:1px solid var(--line);background:var(--card);color:var(--muted);
+    font-size:13px}
+  .footer__inner{display:flex;justify-content:space-between;gap:16px;flex-wrap:wrap;
+    padding:20px 0;align-items:center}
+  .footer__inner a{color:var(--accent-ink);text-decoration:none}
+
+  @media (max-width:560px){
+    .brand__title{font-size:25px}
+    .stats{gap:18px}
+    .stat__num{font-size:20px}
+    .board{grid-template-columns:1fr}
+  }
+  @media (prefers-reduced-motion:reduce){
+    *{transition:none !important;animation:none !important}
+  }
+
+  /* staggered entrance */
+  @keyframes rise{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
+  .card{animation:rise .32s ease both}
+</style>
+</head>
+<body>
+
+<header class="masthead">
+  <div class="wrap masthead__inner">
+    <div class="brand">
+      <span class="brand__mark"><span class="brand__dot"></span> Fresh Roles · updated daily</span>
+      <!-- Edit this title / tagline to taste -->
+      <h1 class="brand__title">Latest AI &amp; Data roles</h1>
+      <p class="brand__sub">Pulled straight from company ATS every morning. Newest postings first, because the early application wins.</p>
+    </div>
+    <div class="stats">
+      <div class="stat"><span class="stat__num" id="stat-total">—</span><span class="stat__label">roles</span></div>
+      <div class="stat"><span class="stat__num" id="stat-fresh">—</span><span class="stat__label">freshest</span></div>
+    </div>
+  </div>
+</header>
+
+<div class="controls">
+  <div class="wrap controls__row">
+    <label class="search">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/></svg>
+      <input id="q" type="search" placeholder="Search title, company, location…" aria-label="Search roles" autocomplete="off">
+    </label>
+    <select id="source" aria-label="Filter by source"><option value="">All sources</option></select>
+    <select id="sort" aria-label="Sort roles">
+      <option value="fresh">Freshest first</option>
+      <option value="old">Oldest first</option>
+      <option value="company">Company A–Z</option>
+    </select>
+    <label class="toggle">
+      <input id="remote" type="checkbox">
+      <span class="toggle__track"></span> Remote only
+    </label>
+    <button class="btn-clear" id="clear" type="button">Clear</button>
+  </div>
+  <div class="wrap"><p class="count" id="count"></p></div>
+</div>
+
+<main class="wrap">
+  <div class="board" id="board"></div>
+</main>
+
+<footer>
+  <div class="wrap footer__inner">
+    <span>Refreshed every morning from your Apify task. Built as a static page, no server.</span>
+    <span id="last-note"></span>
+  </div>
+</footer>
+
+<script>
+/* =========================================================================
+   FIELD MAP  —  edit here if your dataset uses different keys.
+   These match the Fantastic Jobs / Active Jobs DB Apify output.
+   ========================================================================= */
+const F = {
+  id:        j => j.id ?? j.url,
+  title:     j => j.title ?? j.job_title ?? "Untitled role",
+  org:       j => j.organization ?? j.organization_name ?? j.company ?? "Unknown company",
+  orgLogo:   j => j.organization_logo ?? j.organization_logo_permalink ?? j.logo ?? "",
+  url:       j => j.url ?? j.job_url ?? j.apply_url ?? "#",
+  datePosted:j => j.date_posted ?? j.date_created ?? j.posted_at ?? null,
+  remote:    j => j.remote_derived === true || j.remote === true,
+  source:    j => j.source_type ?? j.source ?? "",
+  empType:   j => j.employment_type ?? j.employmentType ?? null,
+  salary:    j => j.salary_raw ?? j.salary ?? null,
+  location:  j => {
+    const d = j.locations_derived;
+    if (Array.isArray(d) && d.length) return d.slice(0,2).join("  ·  ");
+    if (typeof d === "string" && d) return d;
+    const pick = x => Array.isArray(x) ? x[0] : x;
+    const parts = [pick(j.cities_derived), pick(j.regions_derived), pick(j.countries_derived)].filter(Boolean);
+    if (parts.length) return [...new Set(parts)].join(", ");
+    if (j.remote_derived) return "Remote";
+    return "Location not specified";
+  },
+};
+
+/* ---- helpers ---- */
+const EMP = {FULL_TIME:"Full-time",PART_TIME:"Part-time",CONTRACT:"Contract",CONTRACTOR:"Contract",
+  INTERN:"Internship",INTERNSHIP:"Internship",TEMPORARY:"Temporary",VOLUNTEER:"Volunteer",OTHER:"Other"};
+
+function prettyEmp(v){
+  const one = Array.isArray(v) ? v[0] : v;
+  if(!one) return "";
+  return EMP[String(one).toUpperCase()] || String(one).replace(/_/g," ").toLowerCase()
+    .replace(/\b\w/g,c=>c.toUpperCase());
+}
+function prettySource(s){
+  if(!s) return "";
+  return String(s).replace(/_/g," ").replace(/\b\w/g,c=>c.toUpperCase());
+}
+function ageInfo(iso){
+  const d = iso ? new Date(iso) : null;
+  if(!d || isNaN(d)) return {label:"date n/a", tier:"stale", ms:Infinity};
+  const ms = Date.now() - d.getTime();
+  const h = ms/3.6e6;
+  if(h < 1)  return {label:"just now", tier:"fresh", ms};
+  if(h < 24) return {label:Math.floor(h)+"h ago", tier:"fresh", ms};
+  const days = Math.round(h/24);
+  if(days === 1) return {label:"yesterday", tier:"recent", ms};
+  if(days < 7)   return {label:days+"d ago", tier:"recent", ms};
+  if(days < 35)  return {label:Math.round(days/7)+"w ago", tier:"stale", ms};
+  return {label:d.toLocaleDateString(undefined,{day:"numeric",month:"short"}), tier:"stale", ms};
+}
+function salaryText(raw){
+  try{
+    if(!raw) return "";
+    if(typeof raw === "string") return raw.length < 40 ? raw : "";
+    const v = raw.value ?? raw;
+    const cur = v.currency ?? raw.currency ?? "";
+    const min = v.minValue ?? v.min ?? raw.minValue;
+    const max = v.maxValue ?? v.max ?? raw.maxValue;
+    const unit = String(v.unitText ?? "").toLowerCase();
+    const fmt = n => n!=null && n!=="" ? Number(n).toLocaleString() : "";
+    const range = [fmt(min), fmt(max)].filter(Boolean).join("–");
+    if(!range) return "";
+    const suffix = unit && unit!=="year" ? " / "+unit : "";
+    return (cur+" "+range+suffix).trim();
+  }catch(e){ return ""; }
+}
+const esc = s => String(s).replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+
+/* ---- state ---- */
+let ALL = [];
+const state = {q:"", source:"", sort:"fresh", remote:false};
+
+/* ---- rendering ---- */
+const board = document.getElementById("board");
+
+const icon = {
+  pin:'<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M20 10c0 6-8 12-8 12s-8-6-8-12a8 8 0 0 1 16 0Z"/><circle cx="12" cy="10" r="3"/></svg>',
+  bag:'<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="2" y="7" width="20" height="14" rx="2"/><path d="M8 7V5a2 2 0 0 1 2-2h4a2 2 0 0 1 2 2v2"/></svg>',
+  ext:'<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><path d="M7 17 17 7M9 7h8v8"/></svg>',
+  warn:'<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 9v4M12 17h.01M10.3 3.9 2 18a2 2 0 0 0 1.7 3h16.6a2 2 0 0 0 1.7-3L13.7 3.9a2 2 0 0 0-3.4 0Z"/></svg>',
+};
+
+function cardHTML(j){
+  const age = ageInfo(F.datePosted(j));
+  const title = esc(F.title(j));
+  const org = esc(F.org(j));
+  const loc = esc(F.location(j));
+  const url = F.url(j);
+  const logo = F.orgLogo(j);
+  const emp = prettyEmp(F.empType(j));
+  const src = prettySource(F.source(j));
+  const sal = salaryText(F.salary(j));
+  const isRemote = F.remote(j);
+  const mono = org.trim().charAt(0).toUpperCase() || "?";
+
+  const logoHTML = logo
+    ? `<img class="logo" src="${esc(logo)}" alt="" loading="lazy" onerror="this.outerHTML='<span class=\\'logo logo--mono\\'>${mono}</span>'">`
+    : `<span class="logo logo--mono">${mono}</span>`;
+
+  const pills = [
+    `<span class="pill">${icon.pin}${loc}</span>`,
+    isRemote ? `<span class="pill pill--remote">Remote</span>` : "",
+    emp ? `<span class="pill">${icon.bag}${esc(emp)}</span>` : "",
+    sal ? `<span class="pill pill--salary">${esc(sal)}</span>` : "",
+  ].filter(Boolean).join("");
+
+  return `<article class="card is-${age.tier}">
+    <span class="card__age"><span class="tick"></span>${esc(age.label)}</span>
+    <div class="card__head">
+      ${logoHTML}
+      <div>
+        <h3 class="card__title">${title}</h3>
+        <div class="card__org">${org}</div>
+      </div>
+    </div>
+    <div class="card__meta">${pills}</div>
+    <div class="card__foot">
+      ${src ? `<span class="pill pill--src">${esc(src)}</span>` : "<span></span>"}
+      <a class="apply" href="${esc(url)}" target="_blank" rel="noopener noreferrer">Apply ${icon.ext}</a>
+    </div>
+  </article>`;
+}
+
+function apply(){
+  const q = state.q.trim().toLowerCase();
+  let rows = ALL.filter(j=>{
+    if(state.remote && !F.remote(j)) return false;
+    if(state.source && prettySource(F.source(j)) !== state.source) return false;
+    if(q){
+      const hay = (F.title(j)+" "+F.org(j)+" "+F.location(j)).toLowerCase();
+      if(!hay.includes(q)) return false;
+    }
+    return true;
+  });
+
+  rows.sort((a,b)=>{
+    if(state.sort==="company") return F.org(a).localeCompare(F.org(b));
+    const am = ageInfo(F.datePosted(a)).ms, bm = ageInfo(F.datePosted(b)).ms;
+    return state.sort==="old" ? bm-am : am-bm;
+  });
+
+  document.getElementById("count").innerHTML =
+    `Showing <b>${rows.length}</b> of ${ALL.length} roles`;
+
+  if(!rows.length){
+    board.innerHTML = `<div class="state"><h2>No roles match those filters</h2>
+      <p>Try clearing the search or turning off Remote only.</p></div>`;
+    return;
+  }
+  board.innerHTML = rows.map((j,i)=>cardHTML(j).replace('class="card',
+    `style="animation-delay:${Math.min(i*22,300)}ms" class="card`)).join("");
+}
+
+function buildSources(){
+  const sel = document.getElementById("source");
+  const set = [...new Set(ALL.map(j=>prettySource(F.source(j))).filter(Boolean))].sort();
+  for(const s of set){
+    const o = document.createElement("option"); o.value=s; o.textContent=s; sel.appendChild(o);
+  }
+}
+function buildStats(){
+  document.getElementById("stat-total").textContent = ALL.length;
+  const freshest = ALL.reduce((m,j)=>Math.min(m, ageInfo(F.datePosted(j)).ms), Infinity);
+  document.getElementById("stat-fresh").textContent =
+    freshest===Infinity ? "—" : ageInfo(new Date(Date.now()-freshest).toISOString()).label;
+}
+
+/* ---- wiring ---- */
+document.getElementById("q").addEventListener("input", e=>{state.q=e.target.value; apply();});
+document.getElementById("source").addEventListener("change", e=>{state.source=e.target.value; apply();});
+document.getElementById("sort").addEventListener("change", e=>{state.sort=e.target.value; apply();});
+document.getElementById("remote").addEventListener("change", e=>{state.remote=e.target.checked; apply();});
+document.getElementById("clear").addEventListener("click", ()=>{
+  state.q=""; state.source=""; state.sort="fresh"; state.remote=false;
+  document.getElementById("q").value="";
+  document.getElementById("source").value="";
+  document.getElementById("sort").value="fresh";
+  document.getElementById("remote").checked=false;
+  apply();
+});
+
+/* ---- load ---- */
+function start(data, note){
+  ALL = Array.isArray(data) ? data : (data.jobs || data.items || []);
+  buildSources(); buildStats(); apply();
+  if(note) document.getElementById("last-note").textContent = note;
+}
+
+fetch("./data/jobs.json", {cache:"no-store"})
+  .then(r => { if(!r.ok) throw new Error(r.status); return r.json(); })
+  .then(data => start(data))
+  .catch(() => {
+    // No data file yet (first load, or previewing locally). Show sample + a note.
+    start(SAMPLE_JOBS);
+    board.insertAdjacentHTML("afterbegin",
+      `<div class="banner">${icon.warn}<span>Showing sample data. The GitHub Action will replace <code>data/jobs.json</code> on its next run.</span></div>`);
+  });
+
+/* ---- sample data (only shown until data/jobs.json exists) ---- */
+const _h = h => new Date(Date.now()-h*3.6e6).toISOString();
+const SAMPLE_JOBS = [
+  {id:1,title:"Machine Learning Engineer",organization:"Helsing",organization_logo:"",url:"#",date_posted:_h(3),locations_derived:["Munich, Germany"],employment_type:["FULL_TIME"],source_type:"ashby",remote_derived:false,salary_raw:{currency:"EUR",minValue:75000,maxValue:95000}},
+  {id:2,title:"Data Scientist, Personalization",organization:"Zalando",organization_logo:"",url:"#",date_posted:_h(7),locations_derived:["Berlin, Germany"],employment_type:["FULL_TIME"],source_type:"greenhouse",remote_derived:true},
+  {id:3,title:"Applied Scientist — LLMs",organization:"Aleph Alpha",organization_logo:"",url:"#",date_posted:_h(20),locations_derived:["Heidelberg, Germany"],employment_type:["FULL_TIME"],source_type:"lever",remote_derived:false},
+  {id:4,title:"MLOps Engineer (m/f/d)",organization:"Celonis",organization_logo:"",url:"#",date_posted:_h(30),locations_derived:["Munich, Germany"],employment_type:["FULL_TIME"],source_type:"workday",remote_derived:true},
+  {id:5,title:"AI Engineer, RAG Systems",organization:"DeepL",organization_logo:"",url:"#",date_posted:_h(52),locations_derived:["Cologne, Germany"],employment_type:["FULL_TIME"],source_type:"greenhouse",remote_derived:false,salary_raw:{currency:"EUR",minValue:70000,maxValue:90000}},
+  {id:6,title:"Working Student — Data Analytics",organization:"Trade Republic",organization_logo:"",url:"#",date_posted:_h(96),locations_derived:["Berlin, Germany"],employment_type:["PART_TIME"],source_type:"personio",remote_derived:false},
+  {id:7,title:"Senior Data Scientist",organization:"GetYourGuide",organization_logo:"",url:"#",date_posted:_h(150),locations_derived:["Berlin, Germany"],employment_type:["FULL_TIME"],source_type:"smartrecruiters",remote_derived:true},
+  {id:8,title:"NLP Research Engineer",organization:"Merantix",organization_logo:"",url:"#",date_posted:_h(320),locations_derived:["Berlin, Germany"],employment_type:["FULL_TIME"],source_type:"ashby",remote_derived:false},
+];
+</script>
+</body>
+</html>
