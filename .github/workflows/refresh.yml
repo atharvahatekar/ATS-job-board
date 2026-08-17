@@ -2,7 +2,10 @@ name: Refresh job board
 
 on:
   schedule:
-    - cron: '0 6 * * *'      # every day at 06:00 UTC — this is the only clock now
+    # 14:05 UTC daily = 16:05 CEST / 15:05 CET. Cron is always UTC and does not follow
+    # DST, so the local time shifts by an hour in winter. Five past the hour, not on it:
+    # the :00 slot is the most contended and runs there queue longest.
+    - cron: '5 14 * * *'
   workflow_dispatch:          # lets you run it by hand from the Actions tab
 
 permissions:
@@ -41,6 +44,7 @@ jobs:
           set -euo pipefail
           mkdir -p data
           [ -f data/jobs.json ] || echo '[]' > data/jobs.json
+          cp data/jobs.json before.json
 
           # Merge today's jobs into what the board already shows, de-duplicated by id,
           # then drop anything past the window. A skipped or failed run no longer loses
@@ -73,8 +77,44 @@ jobs:
             ' > merged.json
           mv merged.json data/jobs.json
 
-          echo "Board now holds $(jq length data/jobs.json) roles ($(du -h data/jobs.json | cut -f1))"
-          rm -f raw.json
+          # What is on the board now that was not before. Diffing the merged result
+          # rather than the raw run matters: rows the merge discards (bad dates, past
+          # the cap) would otherwise be announced as new and skew the expiry count.
+          jq -n --slurpfile old before.json --slurpfile now data/jobs.json '
+            ($old[0] | INDEX(.id | tostring)) as $seen
+            | [ $now[0][] | select($seen[(.id | tostring)] == null) ]
+          ' > added.json
+
+          {
+            echo "ADDED=$(jq length added.json)"
+            echo "TOTAL=$(jq length data/jobs.json)"
+            echo "FETCHED=$(jq length raw.json)"
+            echo "BEFORE=$(jq length before.json)"
+          } >> "$GITHUB_ENV"
+
+      - name: Write the run summary
+        run: |
+          set -euo pipefail
+          expired=$(( BEFORE + ADDED - TOTAL ))
+          {
+            echo "## Job board refreshed"
+            echo
+            echo "| | |"
+            echo "|---|--:|"
+            echo "| Returned by this run | ${FETCHED} |"
+            echo "| New to the board | **${ADDED}** |"
+            echo "| Expired past ${WINDOW_DAYS} days | ${expired} |"
+            echo "| Now showing | **${TOTAL}** |"
+            echo
+            if [ "${ADDED}" -gt 0 ]; then
+              echo "### New roles"
+              echo
+              jq -r '.[] | "- [\(.title)](\(.url)) — \(.organization) · \(.locations_derived[0] // "location n/a")"' added.json
+            else
+              echo "_No new postings matched today._"
+            fi
+          } >> "$GITHUB_STEP_SUMMARY"
+          rm -f raw.json before.json added.json
 
       - name: Commit if changed
         run: |
@@ -84,6 +124,6 @@ jobs:
           if git diff --staged --quiet; then
             echo "No changes today."
           else
-            git commit -m "Daily refresh: $(date -u +%Y-%m-%d)"
+            git commit -m "Daily refresh: $(date -u +%Y-%m-%d) — +${ADDED} new, ${TOTAL} showing"
             git push
           fi

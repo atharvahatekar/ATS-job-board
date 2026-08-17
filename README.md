@@ -1,8 +1,9 @@
 # Fresh Roles — a free daily ATS job board
 
 A static job board that shows the latest jobs from your Apify (Fantastic Jobs) task.
-A GitHub Action pulls your newest dataset once a day and commits it as `data/jobs.json`.
-GitHub Pages serves the page. No server, no cost on a public repo.
+Once a day a GitHub Action starts the task, waits for it, merges the results into a
+rolling 30-day window in `data/jobs.json`, and commits. GitHub Pages serves the page.
+No server, no cost on a public repo, and no Apify-side schedule to keep in sync.
 
 ## Files
 
@@ -34,11 +35,20 @@ data/jobs.json                 the data the board reads (Action overwrites this 
    Repo → Actions → "Refresh job board" → Run workflow. When it finishes,
    `data/jobs.json` holds your latest run and the board shows real jobs.
 
-That's it. After this it refreshes every day at 06:00 UTC.
+That's it. After this it refreshes daily at 14:05 UTC (16:05 CEST / 15:05 CET).
+
+Leave the Apify task **unscheduled** — the Action starts each run itself. An Apify
+schedule on top of it would just run the task a second time for nothing.
 
 ## Changing things
 
-- **Time of day**: edit the `cron` line in `refresh.yml`. It's UTC. `0 6 * * *` = 06:00 UTC.
+- **Time of day**: edit the `cron` line in `refresh.yml`. It's UTC and ignores DST, so
+  a fixed cron drifts an hour against local time when the clocks change.
+  `5 14 * * *` = 14:05 UTC. Later runs catch more of the same weekday's postings, since
+  jobs take 1-2 hours to reach the API after they're posted; anything missed is picked
+  up by the next day's run rather than lost.
+- **How long roles stay listed**: `WINDOW_DAYS` in `refresh.yml` (default 30). Runs are
+  de-duplicated by job id, so a role keeps its original posting date as it ages off.
 - **Title and tagline**: edit the two marked lines near the top of `index.html`.
 - **Different field names**: the `FIELD MAP` block at the top of the `<script>` in
   `index.html` maps dataset keys to what the card shows. Adjust there if your output differs.
