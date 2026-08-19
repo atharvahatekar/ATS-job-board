@@ -9,15 +9,20 @@ on:
   workflow_dispatch:          # lets you run it by hand from the Actions tab
 
 permissions:
-  contents: write             # needed so the bot can commit data/jobs.json
+  contents: write             # needed so the bot can commit data/
+  issues: write               # needed so a failed run can raise an issue
 
 concurrency:
   group: refresh
   cancel-in-progress: false
 
 env:
-  WINDOW_DAYS: 30             # how long a role stays on the board
-  MAX_RECORDS: 400            # safety cap (~1.3 MB) if the search is ever widened
+  WINDOW_DAYS: 14             # how long a role stays on the board. Two whole weeks, not
+                              # 15: an even multiple of seven always holds the same
+                              # number of each weekday, so the board's mix doesn't wobble
+                              # with whichever day you happen to look at it.
+  MAX_RECORDS: 1200           # safety cap. Rows are pruned to the fields the board
+                              # renders (~730 B each), so this is ~860 KB, not ~4 MB.
 
 jobs:
   refresh:
@@ -25,19 +30,82 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - name: Decide the time range for this run
+        run: |
+          set -euo pipefail
+          # A daily cron plus a 24h window has no overlap: one skipped or failed run
+          # drops a day of postings for good. data/meta.json records when the last run
+          # actually succeeded, so a gap can be detected and backfilled from the 7d
+          # range instead. The merge de-duplicates by id, so the overlap costs nothing.
+          RANGE=24h
+          LIMIT=$(jq -r '.limit // 500' apify_input.json)
+          WHY="normal daily run"
+          if [ ! -f data/meta.json ]; then
+            RANGE=7d; WHY="no previous run recorded"
+          else
+            LAST=$(jq -r '.last_run // ""' data/meta.json)
+            if [ -z "$LAST" ]; then
+              RANGE=7d; WHY="previous run left no timestamp"
+            else
+              GAP=$(( $(date -u +%s) - $(date -u -d "$LAST" +%s) ))
+              if [ "$GAP" -gt 129600 ]; then          # more than 36h: a run was missed
+                RANGE=7d
+                WHY="last successful run was $(( GAP / 3600 ))h ago"
+              fi
+            fi
+          fi
+          # A 7d catch-up returns several times a normal day's rows, and `limit` is
+          # sized for 24h. Three times it, rather than a flat ceiling: the actor bills
+          # per job returned, so `limit` is the cost cap, and a fixed large number here
+          # would quietly make one missed day the most expensive run of the month.
+          if [ "$RANGE" = "7d" ]; then LIMIT=$(( LIMIT * 3 )); fi
+          {
+            echo "RANGE=${RANGE}"
+            echo "LIMIT=${LIMIT}"
+            echo "RANGE_WHY=${WHY}"
+          } >> "$GITHUB_ENV"
+          echo "Using timeRange=${RANGE} limit=${LIMIT} (${WHY})"
+
       - name: Run the Apify task and fetch its results
         env:
           APIFY_TOKEN: ${{ secrets.APIFY_TOKEN }}
           APIFY_TASK_ID: ${{ vars.APIFY_TASK_ID }}   # e.g. yourname~my-job-task
         run: |
           set -euo pipefail
+          # apify_input.json is POSTed as the run body rather than relying on the input
+          # saved in the Apify console. The console copy is invisible to git, so a
+          # search change there would silently alter what the board means with no record
+          # of when or why. The body is shallow-merged over the task input, so every key
+          # this file sets wins.
+          jq --arg r "$RANGE" --argjson l "$LIMIT" '.timeRange = $r | .limit = $l' \
+            apify_input.json > run_input.json
+
           # Starts the task, waits for it, and returns the dataset in one call, so this
           # workflow is the only schedule involved — no Apify-side cron to stay in sync
-          # with. Runs at the same hour daily, which is what the 24h timeRange expects.
-          # The sync endpoint gives up after 300s; this task finishes in seconds.
+          # with. The sync endpoint gives up after 300s; this task finishes in seconds.
           URL="https://api.apify.com/v2/actor-tasks/${APIFY_TASK_ID}/run-sync-get-dataset-items"
-          curl -fsSL -X POST "${URL}?token=${APIFY_TOKEN}&format=json&clean=true" -o raw.json
-          echo "This run returned $(jq length raw.json) jobs"
+          curl -fsSL -X POST "${URL}?token=${APIFY_TOKEN}&format=json&clean=true" \
+            -H 'Content-Type: application/json' -d @run_input.json -o raw.json
+
+          # curl -f catches HTTP errors, but a 200 carrying an error object would reach
+          # the merge and wipe the board down to whatever survives the window.
+          if ! jq -e 'type == "array"' raw.json > /dev/null; then
+            echo "::error::Apify returned something that is not a job array:"
+            head -c 400 raw.json
+            exit 1
+          fi
+          FETCHED=$(jq length raw.json)
+          echo "FETCHED=${FETCHED}" >> "$GITHUB_ENV"
+          echo "This run returned ${FETCHED} jobs"
+
+          # Hitting the limit exactly means the API had more to give and the extra rows
+          # are gone — not a failure, but the search needs widening or the limit raising.
+          if [ "${FETCHED}" -ge "${LIMIT}" ]; then
+            echo "::warning::Run hit the limit of ${LIMIT} rows; some postings were dropped upstream."
+            echo "HIT_LIMIT=1" >> "$GITHUB_ENV"
+          else
+            echo "HIT_LIMIT=0" >> "$GITHUB_ENV"
+          fi
 
       - name: Merge into the rolling window
         run: |
@@ -47,17 +115,36 @@ jobs:
           cp data/jobs.json before.json
 
           # Merge today's jobs into what the board already shows, de-duplicated by id,
-          # then drop anything past the window. A skipped or failed run no longer loses
-          # a day's postings, and the board holds a browsable list instead of ~6 rows.
+          # then drop anything past the window.
           #
-          # Descriptions are dropped here: the board never renders them and they are
-          # about two thirds of the payload. To show them on a card later, remove the
-          # `del(...)` below and the field comes straight back on the next run.
+          # Rows are projected down to the fields the board actually renders. The raw
+          # record is ~3.3 KB, of which roughly three quarters is text no card shows
+          # (ai_keywords, ai_core_responsibilities, ai_requirements_summary, ai_benefits,
+          # the un-normalised `locations`, lat/lng/timezones). Dropping it is what makes
+          # a 1200-row board affordable to fetch. To surface one of those fields on a
+          # card later, add it to `slim` and it returns on the next run — the rows
+          # already on the board are re-projected every time, so nothing needs a reset.
           jq -n \
             --slurpfile old data/jobs.json \
             --slurpfile new raw.json \
-            --argjson window_days "${WINDOW_DAYS}" \
-            --argjson max_records "${MAX_RECORDS}" '
+            --argjson window_days "${WINDOW_DAYS}" '
+              def slim: {
+                id, title, organization, organization_logo, url,
+                date_posted, date_created,
+                locations_derived, cities_derived, regions_derived, countries_derived,
+                location_type, source, source_type,
+                employment_type, ai_employment_type, ai_work_arrangement,
+                ai_salary_currency, ai_salary_value, ai_salary_min_value,
+                ai_salary_max_value, ai_salary_unit_text,
+                ai_experience_level, ai_job_language, ai_visa_sponsorship,
+                # six is what a card can show without becoming a wall of pills
+                ai_key_skills: (.ai_key_skills // [] | .[0:6]),
+                salary
+              }
+              # null and empty are the common case on most of these; carrying the keys
+              # anyway costs about 15% of the file for no information.
+              | with_entries(select(.value != null and .value != [] and .value != ""));
+
               # date_posted has no timezone marker and date_created carries fractional
               # seconds; normalise both before fromdateiso8601, which accepts neither.
               def stamp:
@@ -66,16 +153,27 @@ jobs:
                 catch null;
 
               ($old[0] + $new[0])
-              | map(del(.description_html, .description_text))
+              | map(slim)
               | map(select(.id != null and stamp != null))
               | INDEX(.id | tostring) | [.[]]            # later wins, so today overwrites
               | map(select(stamp > (now - ($window_days * 86400))))
               # id breaks ties: many rows share a midnight timestamp, and without a
               # total order the file reshuffles each run and commits a no-op diff.
               | sort_by([stamp, (.id | tostring)]) | reverse
-              | .[0:$max_records]
-            ' > merged.json
-          mv merged.json data/jobs.json
+            ' > windowed.json
+
+          # Slicing is a separate step so the overflow can be counted. A silent cut
+          # turns "everything inside the window" into "the newest N" without
+          # anything on the board or in the log saying the window stopped being real.
+          IN_WINDOW=$(jq length windowed.json)
+          jq --argjson max "${MAX_RECORDS}" '.[0:$max]' windowed.json > data/jobs.json
+          TRUNCATED=0
+          if [ "${IN_WINDOW}" -gt "${MAX_RECORDS}" ]; then
+            TRUNCATED=$(( IN_WINDOW - MAX_RECORDS ))
+          fi
+          if [ "${TRUNCATED}" -gt 0 ]; then
+            echo "::warning::${TRUNCATED} roles inside the ${WINDOW_DAYS}-day window did not fit under MAX_RECORDS=${MAX_RECORDS}."
+          fi
 
           # What is on the board now that was not before. Diffing the merged result
           # rather than the raw run matters: rows the merge discards (bad dates, past
@@ -88,9 +186,40 @@ jobs:
           {
             echo "ADDED=$(jq length added.json)"
             echo "TOTAL=$(jq length data/jobs.json)"
-            echo "FETCHED=$(jq length raw.json)"
             echo "BEFORE=$(jq length before.json)"
+            echo "IN_WINDOW=${IN_WINDOW}"
+            echo "TRUNCATED=${TRUNCATED}"
+            echo "BYTES=$(wc -c < data/jobs.json)"
           } >> "$GITHUB_ENV"
+
+      - name: Write data/meta.json
+        run: |
+          set -euo pipefail
+          # Three jobs in one small file: it tells the next run when this one succeeded
+          # (so a missed day can be backfilled), it gives the board a "last refreshed"
+          # line and a truncation warning it can show the reader, and because the
+          # timestamp always changes it guarantees a daily commit — which is what keeps
+          # GitHub from pausing the cron after 60 days of an otherwise quiet repo.
+          jq -n \
+            --arg last_run "$(date -u +%Y-%m-%dT%H:%M:%SZ)" \
+            --arg range "${RANGE}" \
+            --argjson window_days "${WINDOW_DAYS}" \
+            --argjson max_records "${MAX_RECORDS}" \
+            --argjson fetched "${FETCHED}" \
+            --argjson added "${ADDED}" \
+            --argjson total "${TOTAL}" \
+            --argjson in_window "${IN_WINDOW}" \
+            --argjson truncated "${TRUNCATED}" \
+            --argjson hit_limit "${HIT_LIMIT}" \
+            --slurpfile input apify_input.json '
+              {
+                last_run: $last_run, range: $range,
+                window_days: $window_days, max_records: $max_records,
+                fetched: $fetched, added: $added, total: $total,
+                in_window: $in_window, truncated: $truncated,
+                hit_limit: ($hit_limit == 1),
+                searching: ($input[0].locationSearch // [])
+              }' > data/meta.json
 
       - name: Write the run summary
         run: |
@@ -101,11 +230,27 @@ jobs:
             echo
             echo "| | |"
             echo "|---|--:|"
-            echo "| Returned by this run | ${FETCHED} |"
+            echo "| Returned by this run (\`${RANGE}\`) | ${FETCHED} |"
             echo "| New to the board | **${ADDED}** |"
             echo "| Expired past ${WINDOW_DAYS} days | ${expired} |"
             echo "| Now showing | **${TOTAL}** |"
+            echo "| Payload | $(( BYTES / 1024 )) KB |"
             echo
+            if [ "${RANGE}" != "24h" ]; then
+              echo "> Backfilled with the \`${RANGE}\` range — ${RANGE_WHY}."
+              echo
+            fi
+            if [ "${HIT_LIMIT}" = "1" ]; then
+              echo "> **The run hit its row limit.** The API had more matches than it"
+              echo "> returned. Raise \`limit\` in \`apify_input.json\` or narrow the search."
+              echo
+            fi
+            if [ "${TRUNCATED}" -gt 0 ]; then
+              echo "> **${TRUNCATED} roles did not fit.** ${IN_WINDOW} roles are inside the"
+              echo "> ${WINDOW_DAYS}-day window but \`MAX_RECORDS\` is ${MAX_RECORDS}, so the board is"
+              echo "> really showing the newest ${MAX_RECORDS}. Raise the cap or shorten the window."
+              echo
+            fi
             if [ "${ADDED}" -gt 0 ]; then
               echo "### New roles"
               echo
@@ -114,16 +259,54 @@ jobs:
               echo "_No new postings matched today._"
             fi
           } >> "$GITHUB_STEP_SUMMARY"
-          rm -f raw.json before.json added.json
+          rm -f raw.json run_input.json before.json added.json windowed.json
 
-      - name: Commit if changed
+      - name: Commit
         run: |
+          set -euo pipefail
           git config user.name  "job-board-bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/jobs.json
+          git add data/jobs.json data/meta.json
           if git diff --staged --quiet; then
-            echo "No changes today."
+            echo "Nothing to commit."
           else
-            git commit -m "Daily refresh: $(date -u +%Y-%m-%d) — +${ADDED} new, ${TOTAL} showing"
-            git push
+            if [ "${ADDED}" -gt 0 ]; then
+              msg="Daily refresh: $(date -u +%Y-%m-%d) — +${ADDED} new, ${TOTAL} showing"
+            else
+              msg="Daily refresh: $(date -u +%Y-%m-%d) — no new roles, ${TOTAL} showing"
+            fi
+            git commit -m "${msg}"
+            # A push can lose a race with a manual commit; rebasing and retrying once is
+            # cheaper than a failed run that also skips tomorrow's gap detection.
+            git push || (git pull --rebase && git push)
+          fi
+
+      - name: Report a failure
+        if: failure()
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          set -euo pipefail
+          # A daily cron that starts failing is invisible — the board just quietly stops
+          # updating and still looks fine. One open issue, reused rather than duplicated,
+          # is enough to notice.
+          title="Job board refresh is failing"
+          url="${GITHUB_SERVER_URL}/${GITHUB_REPOSITORY}/actions/runs/${GITHUB_RUN_ID}"
+          existing=$(gh issue list --state open --search "$title in:title" --json number --jq '.[0].number // ""')
+          if [ -n "$existing" ]; then
+            gh issue comment "$existing" --body "Failed again on $(date -u +%Y-%m-%d). [Run log]($url)"
+          else
+            # printf rather than a quoted literal: this is inside a YAML block scalar, so
+            # a body written across real lines would have to be indented, and four spaces
+            # of indent renders as a code block on the issue.
+            printf '%s\n' \
+              "The daily refresh failed on $(date -u +%Y-%m-%d) and the board is now stale." \
+              "" \
+              "[Run log]($url)" \
+              "" \
+              "Usual causes: an expired \`APIFY_TOKEN\`, a renamed task in \`APIFY_TASK_ID\`, an exhausted Apify plan, or a key in \`apify_input.json\` the actor no longer accepts." \
+              "" \
+              "This issue is reused for later failures — close it once the refresh is green again." \
+              > issue_body.md
+            gh issue create --title "$title" --body-file issue_body.md
           fi
