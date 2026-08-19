@@ -8,7 +8,8 @@
     ],
     "aiHasSalary": false,
     "aiLanguageFilter": [
-        "English"
+        "English",
+        "German"
     ],
     "aiVisaSponsorshipFilter": false,
     "descriptionType": "html",
