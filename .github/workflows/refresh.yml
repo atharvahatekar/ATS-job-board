@@ -112,6 +112,20 @@ jobs:
           set -euo pipefail
           mkdir -p data
           [ -f data/jobs.json ] || echo '[]' > data/jobs.json
+
+          # The board on disk is an input to this step, so it gets the same guard the
+          # API response gets. Without it a hand-resolved merge that left conflict
+          # markers in the file surfaces as jq's "Invalid numeric literal at line 1,
+          # column 8", which names neither the file nor the cause.
+          if ! jq -e 'type == "array"' data/jobs.json > /dev/null 2>&1; then
+            echo "::error::data/jobs.json is not a JSON array, so the board cannot be merged."
+            if grep -qE '^(<<<<<<<|=======|>>>>>>>)' data/jobs.json; then
+              echo "::error::It contains git conflict markers. Keep one side of the conflict whole and commit that — the next run rebuilds the window from the API either way."
+            fi
+            head -c 200 data/jobs.json
+            exit 1
+          fi
+
           cp data/jobs.json before.json
 
           # Merge today's jobs into what the board already shows, de-duplicated by id,

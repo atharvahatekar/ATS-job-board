@@ -5,8 +5,8 @@
   "max_records": 1200,
   "fetched": 20,
   "added": 20,
-  "total": 30,
-  "in_window": 30,
+  "total": 31,
+  "in_window": 31,
   "truncated": 0,
   "hit_limit": false,
   "searching": ["Germany"]
