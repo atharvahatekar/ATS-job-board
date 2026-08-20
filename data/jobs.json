@@ -1,5 +1,499 @@
 [
   {
+    "id": 2321861404,
+    "title": "Data Scientist, Buyer",
+    "organization": "Vinted",
+    "url": "https://careers.vinted.com/jobs/4923334101?gh_jid=4923334101",
+    "date_posted": "2026-08-20T13:53:06",
+    "date_created": "2026-08-20T13:57:41.376495",
+    "locations_derived": [
+      "Berlin, Germany"
+    ],
+    "cities_derived": [
+      "Berlin"
+    ],
+    "countries_derived": [
+      "Germany"
+    ],
+    "source": "greenhouse",
+    "source_type": "ats",
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "Hybrid",
+    "ai_salary_currency": "EUR",
+    "ai_salary_min_value": 61200,
+    "ai_salary_max_value": 100100,
+    "ai_salary_unit_text": "YEAR",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "English",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Python",
+      "SQL",
+      "Machine learning",
+      "Deep learning",
+      "Gradient boosting",
+      "Information retrieval"
+    ]
+  },
+  {
+    "id": 2321851467,
+    "title": "Junior Data Engineer - Data Management AI & Analytics",
+    "organization": "Techrytera AB",
+    "url": "https://www.techrytera.se/jobs/8249127-junior-data-engineer-data-management-ai-analytics",
+    "date_posted": "2026-08-20T13:39:18",
+    "date_created": "2026-08-20T13:53:09.511769",
+    "locations_derived": [
+      "Lund, Scania, Sweden"
+    ],
+    "cities_derived": [
+      "Lund"
+    ],
+    "regions_derived": [
+      "Scania"
+    ],
+    "countries_derived": [
+      "Sweden"
+    ],
+    "source": "teamtailor",
+    "source_type": "ats",
+    "employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "Hybrid",
+    "ai_experience_level": "0-2",
+    "ai_job_language": "English",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Microsoft Azure",
+      "Data Lake",
+      "Data Factory",
+      "Databricks",
+      "Data Warehouse",
+      "Azure DevOps"
+    ]
+  },
+  {
+    "id": 2321760861,
+    "title": "Databricks Data Engineer",
+    "organization": "Devoteam",
+    "url": "https://jobs.smartrecruiters.com/Devoteam/744000144546126-databricks-data-engineer-",
+    "date_posted": "2026-08-20T12:52:56.458",
+    "date_created": "2026-08-20T12:53:15.091016",
+    "locations_derived": [
+      "Amsterdam, North Holland, Netherlands"
+    ],
+    "cities_derived": [
+      "Amsterdam"
+    ],
+    "regions_derived": [
+      "North Holland"
+    ],
+    "countries_derived": [
+      "Netherlands"
+    ],
+    "source": "smartrecruiters",
+    "source_type": "ats",
+    "employment_type": [
+      "Voltijds"
+    ],
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "Hybrid",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "English",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Databricks",
+      "Python",
+      "Scala",
+      "PySpark",
+      "Spark SQL",
+      "Azure"
+    ]
+  },
+  {
+    "id": 2321614501,
+    "title": "Senior Data Scientist",
+    "organization": "Workato",
+    "url": "https://www.workato.com/careers?gh_jid=8661025002#open-roles",
+    "date_posted": "2026-08-20T10:27:00",
+    "date_created": "2026-08-20T11:12:56.125931",
+    "locations_derived": [
+      "Munich, Bavaria, Germany",
+      "Frankfurt, Hesse, Germany",
+      "Berlin, Germany"
+    ],
+    "cities_derived": [
+      "Frankfurt",
+      "Berlin",
+      "Munich"
+    ],
+    "regions_derived": [
+      "Hesse",
+      "Bavaria"
+    ],
+    "countries_derived": [
+      "Germany",
+      "Germany",
+      "Germany"
+    ],
+    "source": "greenhouse",
+    "source_type": "ats",
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "Remote OK",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "English",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Python",
+      "Machine Learning",
+      "LLM",
+      "NLP",
+      "Software Engineering",
+      "Data Science"
+    ]
+  },
+  {
+    "id": 2321439178,
+    "title": "Data & Machine Learning Engineer (All genders)",
+    "organization": "STARK",
+    "organization_logo": "https://assets.cdn.personio.de/logos/221201/social/10d52c6594577fdd7a4f540f59e3f8eb.png",
+    "url": "https://stark.jobs.personio.com/job/2761425",
+    "date_posted": "2026-08-20T10:02:46",
+    "date_created": "2026-08-20T08:57:32.347282",
+    "locations_derived": [
+      "Berlin, Germany"
+    ],
+    "cities_derived": [
+      "Berlin"
+    ],
+    "countries_derived": [
+      "Germany"
+    ],
+    "source": "personio",
+    "source_type": "ats",
+    "employment_type": [
+      "Permanent employee"
+    ],
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "On-site",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "English",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Python",
+      "SQL",
+      "Machine Learning",
+      "Data Engineering",
+      "MLOps",
+      "Scikit-learn"
+    ]
+  },
+  {
+    "id": 2321378397,
+    "title": "AI Engineer (m/w/d)",
+    "organization": "synvert consulting GmbH",
+    "organization_logo": "https://assets.cdn.personio.de/logos/285715/social/56f7adc9748a0d45c909247e838bcab1.png",
+    "url": "https://synvert.jobs.personio.com/job/2440442",
+    "date_posted": "2026-08-20T09:25:10",
+    "date_created": "2026-08-20T07:58:34.094566",
+    "locations_derived": [
+      "Munich, Bavaria, Germany",
+      "Münster, North Rhine-Westphalia, Germany",
+      "Hamburg, Germany",
+      "Baden, Aargau, Switzerland"
+    ],
+    "cities_derived": [
+      "Münster",
+      "Hamburg",
+      "Munich",
+      "Baden"
+    ],
+    "regions_derived": [
+      "North Rhine-Westphalia",
+      "Bavaria",
+      "Aargau"
+    ],
+    "countries_derived": [
+      "Germany",
+      "Germany",
+      "Germany",
+      "Switzerland"
+    ],
+    "source": "personio",
+    "source_type": "ats",
+    "employment_type": [
+      "Festanstellung"
+    ],
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "Hybrid",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "German",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Artificial Intelligence",
+      "Generative AI",
+      "Cloud Computing",
+      "Machine Learning",
+      "LLM Integration",
+      "Data Engineering"
+    ]
+  },
+  {
+    "id": 2321711085,
+    "title": "Data Scientist",
+    "organization": "Pwc CEE",
+    "url": "https://jobs-cee.pwc.com/ce/en/job/753895WD/Data-Scientist",
+    "date_posted": "2026-08-20T00:00:00",
+    "date_created": "2026-08-20T12:21:56.261698",
+    "locations_derived": [
+      "Warsaw, Masovian Voivodeship, Poland"
+    ],
+    "cities_derived": [
+      "Warsaw"
+    ],
+    "regions_derived": [
+      "Masovian Voivodeship"
+    ],
+    "countries_derived": [
+      "Poland"
+    ],
+    "source": "phenompeople",
+    "source_type": "ats",
+    "employment_type": [
+      "Full time"
+    ],
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "Hybrid",
+    "ai_experience_level": "0-2",
+    "ai_job_language": "English",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Python",
+      "Data Science",
+      "Machine Learning",
+      "Pandas",
+      "Polars",
+      "Scikit-learn"
+    ]
+  },
+  {
+    "id": 2321584501,
+    "title": "Senior Data Engineer - Lounge by Zalando (all genders)",
+    "organization": "Zalando",
+    "url": "https://zalando.wd3.myworkdayjobs.com/ZalandoSiteWD/job/Berlin/Senior-Data-Engineer---Lounge-by-Zalando--all-genders-_2724044-1",
+    "date_posted": "2026-08-20T00:00:00",
+    "date_created": "2026-08-20T10:41:51.693471",
+    "locations_derived": [
+      "Berlin, Germany"
+    ],
+    "cities_derived": [
+      "Berlin"
+    ],
+    "countries_derived": [
+      "Germany"
+    ],
+    "source": "workday",
+    "source_type": "ats",
+    "employment_type": [
+      "Full time"
+    ],
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "Hybrid",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "English",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Data engineering",
+      "Python",
+      "Java",
+      "Spark",
+      "Hadoop",
+      "Flink"
+    ]
+  },
+  {
+    "id": 2321554240,
+    "title": "Junior AI / Data Engineer (m/f/d)",
+    "organization": "DCMN GmbH",
+    "organization_logo": "https://images7.bamboohr.com/19286/logos/cropped.jpg?v=34",
+    "url": "https://dcmn.bamboohr.com/careers/20",
+    "date_posted": "2026-08-20T00:00:00",
+    "date_created": "2026-08-20T10:07:12.6998",
+    "locations_derived": [
+      "Berlin, Germany"
+    ],
+    "cities_derived": [
+      "Berlin"
+    ],
+    "countries_derived": [
+      "Germany"
+    ],
+    "source": "bamboohr",
+    "source_type": "ats",
+    "employment_type": [
+      "Full-time"
+    ],
+    "ai_employment_type": [
+      "FULL_TIME",
+      "TEMPORARY"
+    ],
+    "ai_work_arrangement": "Hybrid",
+    "ai_experience_level": "0-2",
+    "ai_job_language": "English",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Python",
+      "Data Engineering",
+      "Backend Engineering",
+      "Data Pipelines",
+      "APIs",
+      "Cloud Environments"
+    ]
+  },
+  {
+    "id": 2321527658,
+    "title": "Data Scientist",
+    "organization": "PwC",
+    "url": "https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Warszawa/Data-Scientist_753895WD",
+    "date_posted": "2026-08-20T00:00:00",
+    "date_created": "2026-08-20T09:47:05.887627",
+    "locations_derived": [
+      "Gdańsk, Pomeranian Voivodeship, Poland",
+      "Warszawa, Pomeranian Voivodeship, Poland"
+    ],
+    "cities_derived": [
+      "Gdańsk",
+      "Warszawa"
+    ],
+    "regions_derived": [
+      "Pomeranian Voivodeship",
+      "Pomeranian Voivodeship"
+    ],
+    "countries_derived": [
+      "Poland",
+      "Poland"
+    ],
+    "source": "workday",
+    "source_type": "ats",
+    "employment_type": [
+      "Full time"
+    ],
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "Hybrid",
+    "ai_experience_level": "0-2",
+    "ai_job_language": "English",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Python",
+      "Pandas",
+      "Polars",
+      "Scikit-learn",
+      "Keras",
+      "PyTorch"
+    ]
+  },
+  {
+    "id": 2321437970,
+    "title": "AI Engineer",
+    "organization": "XTB",
+    "organization_logo": "https://s3.eu-central-1.amazonaws.com/co.lever.eu.client-logos/ff117984-1113-4889-a8c3-1f775a3d243a-1780657751680.png",
+    "url": "https://jobs.eu.lever.co/xtb/86486b19-dfaf-4f88-8b78-cc1fa5017e09",
+    "date_posted": "2026-08-20T00:00:00",
+    "date_created": "2026-08-20T08:56:19.225632",
+    "locations_derived": [
+      "Warsaw, Masovian Voivodeship, Poland"
+    ],
+    "cities_derived": [
+      "Warsaw"
+    ],
+    "regions_derived": [
+      "Masovian Voivodeship"
+    ],
+    "countries_derived": [
+      "Poland"
+    ],
+    "source": "lever.co",
+    "source_type": "ats",
+    "employment_type": [
+      "Full-time"
+    ],
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "Remote OK",
+    "ai_salary_currency": "PLN",
+    "ai_salary_min_value": 15300,
+    "ai_salary_max_value": 19400,
+    "ai_salary_unit_text": "MONTH",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "English",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Python",
+      "GenAI",
+      "LLM",
+      "RAG",
+      "LangGraph",
+      "LangChain"
+    ]
+  },
+  {
+    "id": 2320210905,
+    "title": "Senior Data Engineer",
+    "organization": "phData",
+    "url": "https://www.phdata.io/jobs?gh_jid=8095016",
+    "date_posted": "2026-08-19T19:16:35",
+    "date_created": "2026-08-19T19:27:45.089776",
+    "locations_derived": [
+      "Jyväskylä, Central Finland, Finland"
+    ],
+    "cities_derived": [
+      "Jyväskylä"
+    ],
+    "regions_derived": [
+      "Central Finland"
+    ],
+    "countries_derived": [
+      "Finland"
+    ],
+    "source": "greenhouse",
+    "source_type": "ats",
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "Remote OK",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "English",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Java",
+      "Python",
+      "Scala",
+      "Snowflake",
+      "AWS",
+      "Azure"
+    ]
+  },
+  {
     "id": 2319841399,
     "title": "Data Engineer",
     "organization": "Nordhealth",
@@ -39,6 +533,43 @@
       "Data engineering",
       "Data modeling",
       "ETL processes"
+    ]
+  },
+  {
+    "id": 2320902790,
+    "title": "IT Data Engineer",
+    "organization": "Ericsson",
+    "url": "https://jobs.ericsson.com/careers/job/563121776986347-it-data-engineer-link%C3%B6ping-%C3%B6sterg%C3%B6tland-sweden",
+    "date_posted": "2026-08-19T12:38:02",
+    "date_created": "2026-08-20T01:46:42.03867",
+    "locations_derived": [
+      "Linköping, Sweden"
+    ],
+    "cities_derived": [
+      "Linköping"
+    ],
+    "countries_derived": [
+      "Sweden"
+    ],
+    "source": "eightfold",
+    "source_type": "ats",
+    "employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "On-site",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "English",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Python",
+      "SQL",
+      "Shell/BASH",
+      "PostgreSQL",
+      "MySQL",
+      "Microsoft SQL Server"
     ]
   },
   {
@@ -373,6 +904,166 @@
       "SQL",
       "AWS",
       "Redshift"
+    ]
+  },
+  {
+    "id": 2321912494,
+    "title": "Senior AI Engineer ID80138",
+    "organization": "AgileEngine",
+    "url": "https://agileengine.zohorecruit.com/jobs/Careers/248544000259021834/Senior-AI-Engineer-ID80138",
+    "date_posted": "2026-08-19T00:00:00",
+    "date_created": "2026-08-20T14:35:13.250725",
+    "locations_derived": [
+      "Gdańsk, Pomeranian Voivodeship, Poland"
+    ],
+    "cities_derived": [
+      "Gdańsk"
+    ],
+    "regions_derived": [
+      "Pomeranian Voivodeship"
+    ],
+    "countries_derived": [
+      "Poland"
+    ],
+    "source": "zoho",
+    "source_type": "ats",
+    "employment_type": [
+      "Full time"
+    ],
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "Remote Solely",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "English",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Python",
+      "Agentic AI",
+      "ServiceNow Discovery",
+      "LLM APIs",
+      "RAG",
+      "Vector databases"
+    ]
+  },
+  {
+    "id": 2321912450,
+    "title": "Senior AI Engineer ID80138",
+    "organization": "AgileEngine",
+    "url": "https://agileengine.zohorecruit.com/jobs/Careers/248544000259019793/Senior-AI-Engineer-ID80138",
+    "date_posted": "2026-08-19T00:00:00",
+    "date_created": "2026-08-20T14:35:11.779628",
+    "locations_derived": [
+      "Lublin, Lublin Voivodeship, Poland"
+    ],
+    "cities_derived": [
+      "Lublin"
+    ],
+    "regions_derived": [
+      "Lublin Voivodeship"
+    ],
+    "countries_derived": [
+      "Poland"
+    ],
+    "source": "zoho",
+    "source_type": "ats",
+    "employment_type": [
+      "Full time"
+    ],
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "Remote Solely",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "English",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Python",
+      "Agentic AI",
+      "ServiceNow Discovery",
+      "LLM APIs",
+      "RAG",
+      "Vector databases"
+    ]
+  },
+  {
+    "id": 2321912428,
+    "title": "Senior AI Engineer ID80138",
+    "organization": "AgileEngine",
+    "url": "https://agileengine.zohorecruit.com/jobs/Careers/248544000259027415/Senior-AI-Engineer-ID80138",
+    "date_posted": "2026-08-19T00:00:00",
+    "date_created": "2026-08-20T14:35:11.359606",
+    "locations_derived": [
+      "gmina Kołbaskowo, West Pomeranian Voivodeship, Poland"
+    ],
+    "cities_derived": [
+      "gmina Kołbaskowo"
+    ],
+    "regions_derived": [
+      "West Pomeranian Voivodeship"
+    ],
+    "countries_derived": [
+      "Poland"
+    ],
+    "source": "zoho",
+    "source_type": "ats",
+    "employment_type": [
+      "Full time"
+    ],
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "Remote Solely",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "English",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Python",
+      "Agentic AI",
+      "ServiceNow Discovery",
+      "LLM APIs",
+      "RAG",
+      "Vector databases"
+    ]
+  },
+  {
+    "id": 2321912339,
+    "title": "Senior AI Engineer ID80138",
+    "organization": "AgileEngine",
+    "url": "https://agileengine.zohorecruit.com/jobs/Careers/248544000259021831/Senior-AI-Engineer-ID80138",
+    "date_posted": "2026-08-19T00:00:00",
+    "date_created": "2026-08-20T14:35:08.314496",
+    "locations_derived": [
+      "Warsaw, Masovian Voivodeship, Poland"
+    ],
+    "cities_derived": [
+      "Warsaw"
+    ],
+    "regions_derived": [
+      "Masovian Voivodeship"
+    ],
+    "countries_derived": [
+      "Poland"
+    ],
+    "source": "zoho",
+    "source_type": "ats",
+    "employment_type": [
+      "Full time"
+    ],
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "Remote Solely",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "English",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Python",
+      "Agentic AI",
+      "ServiceNow Discovery",
+      "LLM APIs",
+      "RAG",
+      "Vector databases"
     ]
   },
   {
@@ -1253,6 +1944,46 @@
     ]
   },
   {
+    "id": 2321625992,
+    "title": "Junior Data Scientist",
+    "organization": "Rewire",
+    "url": "https://rewire.recruitee.com/o/junior-data-scientist-1",
+    "date_posted": "2026-08-18T00:00:00",
+    "date_created": "2026-08-20T11:23:55.825885",
+    "locations_derived": [
+      "Amsterdam, North Holland, Netherlands"
+    ],
+    "cities_derived": [
+      "Amsterdam"
+    ],
+    "regions_derived": [
+      "North Holland"
+    ],
+    "countries_derived": [
+      "Netherlands"
+    ],
+    "source": "recruitee",
+    "source_type": "ats",
+    "employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "Hybrid",
+    "ai_experience_level": "0-2",
+    "ai_job_language": "English",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Data analysis",
+      "Machine learning",
+      "Algorithmic solutions",
+      "Data science",
+      "Statistics",
+      "Computer science"
+    ]
+  },
+  {
     "id": 2317630882,
     "title": "Data Engineer (Scala)  - Data Assets",
     "organization": "allegrospz",
@@ -1873,6 +2604,44 @@
       "Airflow",
       "SQL",
       "Python"
+    ]
+  },
+  {
+    "id": 2321531060,
+    "title": "Applied AI Engineer, Finance - Ledgentic",
+    "organization": "Ants",
+    "organization_logo": "https://images.teamtailor-cdn.com/images/s3/teamtailor-production/logotype-v3/image_uploads/7e1f506b-76ae-4281-aca9-90acc6c52a27/original.png",
+    "url": "https://jobb.ants.se/jobs/8226441-applied-ai-engineer-finance-ledgentic",
+    "date_posted": "2026-08-17T06:49:25",
+    "date_created": "2026-08-20T09:51:34.919002",
+    "locations_derived": [
+      "Stockholm, Sweden"
+    ],
+    "cities_derived": [
+      "Stockholm"
+    ],
+    "countries_derived": [
+      "Sweden"
+    ],
+    "source": "teamtailor",
+    "source_type": "ats",
+    "employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "Hybrid",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "English",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "TypeScript",
+      "React",
+      "NestJS",
+      "PostgreSQL",
+      "LLM",
+      "Gemini"
     ]
   },
   {
@@ -4024,6 +4793,41 @@
       "TypeScript",
       "AI development",
       "LLMs"
+    ]
+  },
+  {
+    "id": 2321405947,
+    "title": "AI Engineer (m/f/d)",
+    "organization": "Nordex Group",
+    "url": "https://jobs.nordex-online.com/job/Hamburg-AI-Engineer-%28mfd%29-22419/1425301833/",
+    "date_posted": "2026-08-11T00:00:00",
+    "date_created": "2026-08-20T08:27:24.710666",
+    "locations_derived": [
+      "Hamburg, Germany"
+    ],
+    "cities_derived": [
+      "Hamburg"
+    ],
+    "countries_derived": [
+      "Germany"
+    ],
+    "source": "successfactors",
+    "source_type": "ats",
+    "ai_employment_type": [
+      "FULL_TIME",
+      "PART_TIME"
+    ],
+    "ai_work_arrangement": "On-site",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "English",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Artificial Intelligence",
+      "Python",
+      "C#",
+      "JavaScript",
+      "TypeScript",
+      "Java"
     ]
   },
   {
