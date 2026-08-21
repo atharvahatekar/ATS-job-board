@@ -17,18 +17,9 @@
     "hasSalary": false,
     "includeCompanyDetails": false,
     "includeLinkedIn": false,
-    "limit": 150,
+    "limit": 50,
     "locationSearch": [
-        "Germany",
-        "Netherlands",
-        "Poland",
-        "Switzerland",
-        "Denmark",
-        "Finland",
-        "Sweden",
-        "Austria",
-        "Luxembourg",
-        "Norway"
+        "Germany"
     ],
     "populateAiRemoteLocation": false,
     "populateAiRemoteLocationDerived": false,
@@ -58,33 +49,13 @@
         "Platform Engineering",
         "Lead",
         "Account Executive",
-        "Director",
-        "stagiair",
-        "stagiaire",
-        "afstudeerstage",
-        "staż",
-        "stażysta",
-        "praktyki",
-        "praktykant",
-        "harjoittelija",
-        "harjoittelu",
-        "kesätyö",
-        "opinnäytetyö",
-        "examensarbete",
-        "sommarjobb",
-        "praktikplats",
-        "studentmedarbejder",
-        "studentmedhjælper",
-        "studentassistent",
-        "sommerjobb"
+        "Director"
     ],
     "titleSearch": [
         "data scientist",
         "ai engineer",
         "machine learning engineer",
         "ml engineer",
-        "data engineer",
-        "applied scientist",
-        "research scientist"
+        "data engineer"
     ]
 }

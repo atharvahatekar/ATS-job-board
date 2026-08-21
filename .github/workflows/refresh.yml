@@ -141,6 +141,7 @@ jobs:
           jq -n \
             --slurpfile old data/jobs.json \
             --slurpfile new raw.json \
+            --slurpfile input apify_input.json \
             --argjson window_days "${WINDOW_DAYS}" '
               def slim: {
                 id, title, organization, organization_logo, url,
@@ -166,15 +167,46 @@ jobs:
                       | split(".")[0] | sub("Z$"; "")) + "Z" | fromdateiso8601)
                 catch null;
 
-              ($old[0] + $new[0])
+              # The board keeps a row for WINDOW_DAYS, so the search area has to be
+              # re-applied to rows already on it, not only to the rows fetched
+              # today. Without this, dropping a country from `locationSearch` leaves
+              # two weeks of its roles on the board with nothing to remove them, and
+              # a narrowed search shows no effect for a fortnight. Countries are read
+              # from the input file rather than hard-coded here, so adding one back
+              # later stays a one-line edit to `locationSearch`.
+              #
+              # Matched as a substring of the whole location string, not just against
+              # `countries_derived`, so a city or region in `locationSearch` ("Berlin",
+              # "Bavaria") scopes the window as well as a country name does. A posting
+              # that lists several offices is kept if any one of them is in scope.
+              def in_scope($wanted):
+                $wanted == [] or (
+                  ([ (.countries_derived // [])[], (.locations_derived // [])[] ]
+                   | join(" ") | ascii_downcase) as $hay
+                  | any($wanted[]; . as $w | $hay | contains($w))
+                );
+
+              ($input[0].locationSearch // [] | map(ascii_downcase)) as $wanted
+              | ($old[0] + $new[0])
               | map(slim)
               | map(select(.id != null and stamp != null))
               | INDEX(.id | tostring) | [.[]]            # later wins, so today overwrites
               | map(select(stamp > (now - ($window_days * 86400))))
-              # id breaks ties: many rows share a midnight timestamp, and without a
-              # total order the file reshuffles each run and commits a no-op diff.
-              | sort_by([stamp, (.id | tostring)]) | reverse
-            ' > windowed.json
+              # Both halves are wanted: the rows themselves, and how many the search
+              # area removed, so narrowing the search reads as itself in the summary
+              # rather than as an unexplained spike in the expiry count.
+              | { out_of_scope: (map(select(in_scope($wanted) | not)) | length),
+                  # id breaks ties: many rows share a midnight timestamp, and without
+                  # a total order the file reshuffles each run and commits a no-op diff.
+                  jobs: (map(select(in_scope($wanted)))
+                         | sort_by([stamp, (.id | tostring)]) | reverse) }
+            ' > merged.json
+
+          OUT_OF_SCOPE=$(jq -r '.out_of_scope' merged.json)
+          jq '.jobs' merged.json > windowed.json
+          if [ "${OUT_OF_SCOPE}" -gt 0 ]; then
+            echo "Dropped ${OUT_OF_SCOPE} rows outside $(jq -r '.locationSearch | join(", ")' apify_input.json)."
+          fi
 
           # Slicing is a separate step so the overflow can be counted. A silent cut
           # turns "everything inside the window" into "the newest N" without
@@ -203,6 +235,7 @@ jobs:
             echo "BEFORE=$(jq length before.json)"
             echo "IN_WINDOW=${IN_WINDOW}"
             echo "TRUNCATED=${TRUNCATED}"
+            echo "OUT_OF_SCOPE=${OUT_OF_SCOPE}"
             echo "BYTES=$(wc -c < data/jobs.json)"
           } >> "$GITHUB_ENV"
 
@@ -259,6 +292,12 @@ jobs:
               echo "> returned. Raise \`limit\` in \`apify_input.json\` or narrow the search."
               echo
             fi
+            if [ "${OUT_OF_SCOPE}" -gt 0 ]; then
+              echo "> **Outside the search area: ${OUT_OF_SCOPE}.** \`locationSearch\` is"
+              echo "> $(jq -r '.locationSearch | join(", ")' apify_input.json). Any of these that were already on"
+              echo "> the board are counted above as expired; the rest the API returned and the merge rejected."
+              echo
+            fi
             if [ "${TRUNCATED}" -gt 0 ]; then
               echo "> **${TRUNCATED} roles did not fit.** ${IN_WINDOW} roles are inside the"
               echo "> ${WINDOW_DAYS}-day window but \`MAX_RECORDS\` is ${MAX_RECORDS}, so the board is"
@@ -273,7 +312,7 @@ jobs:
               echo "_No new postings matched today._"
             fi
           } >> "$GITHUB_STEP_SUMMARY"
-          rm -f raw.json run_input.json before.json added.json windowed.json
+          rm -f raw.json run_input.json before.json added.json merged.json windowed.json
 
       - name: Commit
         run: |

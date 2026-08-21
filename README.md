@@ -50,12 +50,20 @@ overridden key by key. Keeping the search in git is the point: a board is only
 meaningful if you can see what query produced it, and a change made in the console
 leaves no record of when or why the board's meaning shifted.
 
-Two consequences worth knowing:
+Three consequences worth knowing:
 
 - The merge is **shallow**. A key that exists only in the console still applies,
   invisibly. Keep this file an exact mirror of the console input so that never bites.
 - `timeRange` and `limit` are overwritten by the workflow on every run (see backfill
   below), so editing those two here only sets the normal-day baseline.
+- `locationSearch` also scopes the **rolling window**, not just the fetch. Rows already
+  on the board are re-checked against it every run, so removing a country drops its
+  roles on the next refresh instead of leaving them there for `WINDOW_DAYS`, and adding
+  one back lets its roles return with no other change. Terms are matched as substrings
+  of a posting's full location, so cities and regions (`"Berlin"`, `"Bavaria"`) scope
+  the board as well as country names do, and a posting listing several offices stays
+  on the board if any one of them is in scope. An empty `locationSearch` filters
+  nothing.
 
 The actor's input schema is public, so key names can be checked rather than guessed:
 
@@ -71,8 +79,10 @@ agree — worth deleting from the console and this file together.
 
 `titleSearch` and `titleExclusionSearch` match whole phrases, not substrings, so
 `"data science"` does not match `"data scientist"` and both need listing. Exclusions
-are per-language: a search that covers ten countries needs each country's words for
-student and intern roles, which is why that list is long.
+are per-language, so the list has to track `locationSearch`: a Germany-only search
+needs `werkstudent` and `praktikum`, and adding Sweden or Poland back means restoring
+their words for student and intern roles at the same time, or those roles start
+appearing on the board again. `aiLanguageFilter` needs the same treatment.
 
 Search for **role names, not topics**. `"artificial intelligence"`, `"applied ai"` and
 `"generative ai"` match anything AI-adjacent — sales engineers, product designers, QA
@@ -84,10 +94,11 @@ it does not reach `"AI Sales Engineer"` or `"AI Test Engineer"`.
 
 The actor bills **per job returned** (an `apify-default-dataset-item` event each, plus
 a small actor-start fee), last published at $0.012/job — check your own rate in the
-Apify console. So `limit` is not a safety valve, it is the cost ceiling: 150 jobs is
-about $1.80, and the workflow triples it on a 7d catch-up, so a missed day is about
-$5.40 rather than an open-ended bill. Narrowing `titleSearch` lowers the bill only
-because fewer rows come back.
+Apify console. So `limit` is not a safety valve, it is the cost ceiling: at the
+current `limit` of 50 a normal day is about $0.60, and the workflow triples it on a 7d
+catch-up, so a missed day is about $1.80 rather than an open-ended bill. Narrowing
+`titleSearch` or `locationSearch` lowers the bill only because fewer rows come back —
+the ceiling is `limit` either way.
 
 ## Changing everything else
 

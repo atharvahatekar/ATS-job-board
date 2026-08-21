@@ -5,20 +5,11 @@
   "max_records": 1200,
   "fetched": 90,
   "added": 67,
-  "total": 98,
-  "in_window": 98,
+  "total": 39,
+  "in_window": 39,
   "truncated": 0,
   "hit_limit": false,
   "searching": [
-    "Germany",
-    "Netherlands",
-    "Poland",
-    "Switzerland",
-    "Denmark",
-    "Finland",
-    "Sweden",
-    "Austria",
-    "Luxembourg",
-    "Norway"
+    "Germany"
   ]
 }
