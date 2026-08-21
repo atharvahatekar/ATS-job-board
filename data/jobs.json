@@ -1,5 +1,830 @@
 [
   {
+    "id": 2323620413,
+    "title": "Data Scientist - Linear Optimization (All Genders)",
+    "organization": "zooplus SE",
+    "url": "https://jobs.smartrecruiters.com/ZooplusSE/744000144741253-data-scientist-linear-optimization-all-genders-",
+    "date_posted": "2026-08-21T11:08:08.387",
+    "date_created": "2026-08-21T11:09:11.832361",
+    "locations_derived": [
+      "Munich, Bavaria, Germany"
+    ],
+    "cities_derived": [
+      "Munich"
+    ],
+    "regions_derived": [
+      "Bavaria"
+    ],
+    "countries_derived": [
+      "Germany"
+    ],
+    "source": "smartrecruiters",
+    "source_type": "ats",
+    "employment_type": [
+      "Full-time"
+    ],
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "Hybrid",
+    "ai_salary_currency": "EUR",
+    "ai_salary_min_value": 63300,
+    "ai_salary_max_value": 77400,
+    "ai_salary_unit_text": "YEAR",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "English",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Linear optimization",
+      "Mixed integer programming",
+      "Gurobi",
+      "Python",
+      "SQL",
+      "Pandas"
+    ]
+  },
+  {
+    "id": 2323601004,
+    "title": "Data Engineer  (Focus AI & Data Platform) (m/w/d)",
+    "organization": "Evernest",
+    "url": "https://www.evernest.com/de/karriere/job/4957926101/?gh_jid=4957926101",
+    "date_posted": "2026-08-21T10:16:24",
+    "date_created": "2026-08-21T10:42:41.489354",
+    "locations_derived": [
+      "Hamburg, Germany"
+    ],
+    "cities_derived": [
+      "Hamburg"
+    ],
+    "countries_derived": [
+      "Germany"
+    ],
+    "source": "greenhouse",
+    "source_type": "ats",
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "Hybrid",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "German",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Data Engineering",
+      "Python",
+      "SQL",
+      "Google Cloud Platform",
+      "BigQuery",
+      "dbt"
+    ]
+  },
+  {
+    "id": 2323537954,
+    "title": "AI Engineer / Specialist (m/f/d)",
+    "organization": "REPA GROUP",
+    "url": "https://jobs.smartrecruiters.com/REPAGROUP/744000144725420-ai-engineer-specialist-m-f-d-",
+    "date_posted": "2026-08-21T09:38:53.797",
+    "date_created": "2026-08-21T09:41:11.747807",
+    "locations_derived": [
+      "Feldgeding, Bavaria, Germany"
+    ],
+    "cities_derived": [
+      "Feldgeding"
+    ],
+    "regions_derived": [
+      "Bavaria"
+    ],
+    "countries_derived": [
+      "Germany"
+    ],
+    "source": "smartrecruiters",
+    "source_type": "ats",
+    "employment_type": [
+      "Full-time"
+    ],
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "Hybrid",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "English",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Python",
+      "SQL",
+      "Generative AI",
+      "LLMs",
+      "RAG",
+      "Prompt Engineering"
+    ]
+  },
+  {
+    "id": 2323521783,
+    "title": "AI Engineer / Specialist (m/f/d)",
+    "organization": "REPA GROUP",
+    "url": "https://jobs.smartrecruiters.com/REPAGROUP/744000144722810-ai-engineer-specialist-m-f-d-",
+    "date_posted": "2026-08-21T09:25:47.523",
+    "date_created": "2026-08-21T09:29:15.175588",
+    "locations_derived": [
+      "Feldgeding, Bavaria, Germany"
+    ],
+    "cities_derived": [
+      "Feldgeding"
+    ],
+    "regions_derived": [
+      "Bavaria"
+    ],
+    "countries_derived": [
+      "Germany"
+    ],
+    "source": "smartrecruiters",
+    "source_type": "ats",
+    "employment_type": [
+      "Full-time"
+    ],
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "Hybrid",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "English",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Python",
+      "SQL",
+      "Generative AI",
+      "LLMs",
+      "RAG",
+      "Prompt Engineering"
+    ]
+  },
+  {
+    "id": 2323569685,
+    "title": "(Junior) Data Scientist (m/w/d) – Generative AI Mietwagen International",
+    "organization": "CHECK24",
+    "url": "https://jobs.smartrecruiters.com/CHECK24/744000144719238--junior-data-scientist-m-w-d-generative-ai-mietwagen-international",
+    "date_posted": "2026-08-21T09:05:25.258",
+    "date_created": "2026-08-21T10:15:47.816302",
+    "locations_derived": [
+      "Munich, Bavaria, Germany"
+    ],
+    "cities_derived": [
+      "Munich"
+    ],
+    "regions_derived": [
+      "Bavaria"
+    ],
+    "countries_derived": [
+      "Germany"
+    ],
+    "source": "smartrecruiters",
+    "source_type": "ats",
+    "employment_type": [
+      "Vollzeit"
+    ],
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "On-site",
+    "ai_experience_level": "0-2",
+    "ai_job_language": "German",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Generative AI",
+      "Large Language Models",
+      "Python",
+      "Data Science",
+      "Context Engineering",
+      "Git"
+    ]
+  },
+  {
+    "id": 2323503943,
+    "title": "AI Engineer (m/f/d)",
+    "organization": "BEUMER Group",
+    "url": "https://jobs.smartrecruiters.com/BEUMERGroup1/744000144715728-ai-engineer-m-f-d-",
+    "date_posted": "2026-08-21T08:44:29.694",
+    "date_created": "2026-08-21T09:13:33.684898",
+    "locations_derived": [
+      "Dortmund, North Rhine-Westphalia, Germany"
+    ],
+    "cities_derived": [
+      "Dortmund"
+    ],
+    "regions_derived": [
+      "North Rhine-Westphalia"
+    ],
+    "countries_derived": [
+      "Germany"
+    ],
+    "source": "smartrecruiters",
+    "source_type": "ats",
+    "employment_type": [
+      "Full-time"
+    ],
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "On-site",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "English",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Python",
+      "JavaScript",
+      "Azure AI Foundry",
+      "Generative AI",
+      "Prompt Engineering",
+      "AI Agents"
+    ]
+  },
+  {
+    "id": 2323503946,
+    "title": "AI Engineer (m/f/d)",
+    "organization": "BEUMER Group",
+    "url": "https://jobs.smartrecruiters.com/BEUMERGroup1/744000144715588-ai-engineer-m-f-d-",
+    "date_posted": "2026-08-21T08:44:00.568",
+    "date_created": "2026-08-21T09:13:33.772217",
+    "locations_derived": [
+      "Beckum, North Rhine-Westphalia, Germany"
+    ],
+    "cities_derived": [
+      "Beckum"
+    ],
+    "regions_derived": [
+      "North Rhine-Westphalia"
+    ],
+    "countries_derived": [
+      "Germany"
+    ],
+    "source": "smartrecruiters",
+    "source_type": "ats",
+    "employment_type": [
+      "Full-time"
+    ],
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "On-site",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "English",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Python",
+      "JavaScript",
+      "Azure AI Foundry",
+      "Generative AI",
+      "Prompt Engineering",
+      "AI Agents"
+    ]
+  },
+  {
+    "id": 2323436060,
+    "title": "Data Engineer for Live Intelligence (m/w/d)",
+    "organization": "Sopra Steria",
+    "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000144707619-data-engineer-for-live-intelligence-m-w-d-",
+    "date_posted": "2026-08-21T08:02:01.789",
+    "date_created": "2026-08-21T08:21:02.137945",
+    "locations_derived": [
+      "Hamburg, Germany"
+    ],
+    "cities_derived": [
+      "Hamburg"
+    ],
+    "countries_derived": [
+      "Germany"
+    ],
+    "source": "smartrecruiters",
+    "source_type": "ats",
+    "employment_type": [
+      "Vollzeit"
+    ],
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "Hybrid",
+    "ai_experience_level": "0-2",
+    "ai_job_language": "German",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Data engineering",
+      "Data analytics",
+      "Data science",
+      "Python",
+      "SQL",
+      "JavaScript"
+    ]
+  },
+  {
+    "id": 2323451236,
+    "title": "Data Scientist (w/m/d)",
+    "organization": "JENOPTIK AG",
+    "url": "https://careers.jenoptik.com/job/Jena-Data-Scientist-%28wmd%29-Thur/1365224455/",
+    "date_posted": "2026-08-21T00:00:00",
+    "date_created": "2026-08-21T08:37:43.544378",
+    "locations_derived": [
+      "Jena, Thuringia, Germany"
+    ],
+    "cities_derived": [
+      "Jena"
+    ],
+    "regions_derived": [
+      "Thuringia"
+    ],
+    "countries_derived": [
+      "Germany"
+    ],
+    "source": "successfactors",
+    "source_type": "ats",
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "On-site",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "German",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Machine Learning",
+      "Artificial Intelligence",
+      "Web Development",
+      "Fullstack Development",
+      "Docker",
+      "Kubernetes"
+    ]
+  },
+  {
+    "id": 2323451235,
+    "title": "Data Scientist (w/m/d)",
+    "organization": "JENOPTIK AG",
+    "url": "https://careers.jenoptik.com/job/Jena-Data-Scientist-%28wmd%29-Th%C3%BCr/1365224355/",
+    "date_posted": "2026-08-21T00:00:00",
+    "date_created": "2026-08-21T08:37:43.529246",
+    "locations_derived": [
+      "Jena, Thuringia, Germany"
+    ],
+    "cities_derived": [
+      "Jena"
+    ],
+    "regions_derived": [
+      "Thuringia"
+    ],
+    "countries_derived": [
+      "Germany"
+    ],
+    "source": "successfactors",
+    "source_type": "ats",
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "On-site",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "German",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Machine Learning",
+      "Artificial Intelligence",
+      "Web Development",
+      "Fullstack Development",
+      "Docker",
+      "Kubernetes"
+    ]
+  },
+  {
+    "id": 2322214637,
+    "title": "Geospatial Data Engineer - Customer & AI Solutions",
+    "organization": "VIDA.place",
+    "organization_logo": "https://assets.cdn.personio.de/logos/148404/social/11f3dcb3b1828eceb1a6c6b386b5c579.png",
+    "url": "https://vida-place.jobs.personio.de/job/2762571",
+    "date_posted": "2026-08-20T19:12:46",
+    "date_created": "2026-08-20T17:56:56.999751",
+    "locations_derived": [
+      "Munich, Bavaria, Germany",
+      "Nairobi, Nairobi County, Kenya"
+    ],
+    "cities_derived": [
+      "Munich",
+      "Nairobi"
+    ],
+    "regions_derived": [
+      "Bavaria",
+      "Nairobi County"
+    ],
+    "countries_derived": [
+      "Germany",
+      "Kenya"
+    ],
+    "source": "personio",
+    "source_type": "ats",
+    "employment_type": [
+      "Permanent employee"
+    ],
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "Remote OK",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "English",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Python",
+      "Geospatial data engineering",
+      "Software engineering",
+      "Agentic AI",
+      "Data science",
+      "Satellite imagery"
+    ]
+  },
+  {
+    "id": 2322001713,
+    "title": "Data Engineer (Professional) (Databricks) (m/w/d)",
+    "organization": "Collaboration Betters The World GmbH",
+    "organization_logo": "https://cdn.join.com/64b7c86da30d530009b73201/positive-thinking-company-gmb-h-logo-m.png",
+    "url": "https://join.com/companies/positivethinkingcompanytech/16605071-data-engineer-professional-databricks-m-w-d",
+    "date_posted": "2026-08-20T14:57:04.433",
+    "date_created": "2026-08-20T15:33:58.14988",
+    "locations_derived": [
+      "Stuttgart, Baden-Württemberg, Germany"
+    ],
+    "cities_derived": [
+      "Stuttgart"
+    ],
+    "regions_derived": [
+      "Baden-Württemberg"
+    ],
+    "countries_derived": [
+      "Germany"
+    ],
+    "source": "join.com",
+    "source_type": "ats",
+    "employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "Hybrid",
+    "ai_salary_currency": "EUR",
+    "ai_salary_min_value": 65000,
+    "ai_salary_max_value": 80000,
+    "ai_salary_unit_text": "YEAR",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "German",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Data engineering",
+      "Databricks",
+      "SQL",
+      "Python",
+      "Azure",
+      "AWS"
+    ]
+  },
+  {
+    "id": 2322007239,
+    "title": "Junior Data Engineer (Databricks) (m/w/d)",
+    "organization": "Collaboration Betters The World GmbH",
+    "organization_logo": "https://cdn.join.com/64b7c86da30d530009b73201/positive-thinking-company-gmb-h-logo-m.png",
+    "url": "https://join.com/companies/positivethinkingcompanytech/16605070-junior-data-engineer-databricks-m-w-d",
+    "date_posted": "2026-08-20T14:55:39.8",
+    "date_created": "2026-08-20T15:36:18.216187",
+    "locations_derived": [
+      "Stuttgart, Baden-Württemberg, Germany"
+    ],
+    "cities_derived": [
+      "Stuttgart"
+    ],
+    "regions_derived": [
+      "Baden-Württemberg"
+    ],
+    "countries_derived": [
+      "Germany"
+    ],
+    "source": "join.com",
+    "source_type": "ats",
+    "employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "Hybrid",
+    "ai_salary_currency": "EUR",
+    "ai_salary_min_value": 50000,
+    "ai_salary_max_value": 65000,
+    "ai_salary_unit_text": "YEAR",
+    "ai_experience_level": "0-2",
+    "ai_job_language": "German",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Data engineering",
+      "Databricks",
+      "SQL",
+      "Python",
+      "Cloud technologies",
+      "Data analytics"
+    ]
+  },
+  {
+    "id": 2321999675,
+    "title": "AI Engineer (LLM/RAG) (m/w/d)",
+    "organization": "Nejo",
+    "organization_logo": "https://cdn.join.com/68d2add67f5a4300088d1339/nejo-logo-m.png",
+    "url": "https://join.com/companies/mynejocom/16605066-ai-engineer-llm-rag-m-w-d",
+    "date_posted": "2026-08-20T14:48:10.615",
+    "date_created": "2026-08-20T15:32:47.51107",
+    "locations_derived": [
+      "Cologne, North Rhine-Westphalia, Germany"
+    ],
+    "cities_derived": [
+      "Cologne"
+    ],
+    "regions_derived": [
+      "North Rhine-Westphalia"
+    ],
+    "countries_derived": [
+      "Germany"
+    ],
+    "source": "join.com",
+    "source_type": "ats",
+    "employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "Hybrid",
+    "ai_salary_currency": "EUR",
+    "ai_salary_value": 60000,
+    "ai_salary_unit_text": "YEAR",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "English",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "TypeScript",
+      "Node.js",
+      "Next.js",
+      "LLM",
+      "RAG",
+      "Postgres"
+    ],
+    "salary": {
+      "@type": "MonetaryAmount",
+      "currency": "EUR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "value": 60000,
+        "unitText": "YEAR"
+      }
+    }
+  },
+  {
+    "id": 2321861404,
+    "title": "Data Scientist, Buyer",
+    "organization": "Vinted",
+    "url": "https://careers.vinted.com/jobs/4923334101?gh_jid=4923334101",
+    "date_posted": "2026-08-20T13:53:06",
+    "date_created": "2026-08-20T13:57:41.376495",
+    "locations_derived": [
+      "Berlin, Germany"
+    ],
+    "cities_derived": [
+      "Berlin"
+    ],
+    "countries_derived": [
+      "Germany"
+    ],
+    "source": "greenhouse",
+    "source_type": "ats",
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "Hybrid",
+    "ai_salary_currency": "EUR",
+    "ai_salary_min_value": 61200,
+    "ai_salary_max_value": 100100,
+    "ai_salary_unit_text": "YEAR",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "English",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Python",
+      "SQL",
+      "Machine learning",
+      "Deep learning",
+      "Gradient boosting",
+      "Information retrieval"
+    ]
+  },
+  {
+    "id": 2321614501,
+    "title": "Senior Data Scientist",
+    "organization": "Workato",
+    "url": "https://www.workato.com/careers?gh_jid=8661025002#open-roles",
+    "date_posted": "2026-08-20T10:27:00",
+    "date_created": "2026-08-20T11:12:56.125931",
+    "locations_derived": [
+      "Munich, Bavaria, Germany",
+      "Frankfurt, Hesse, Germany",
+      "Berlin, Germany"
+    ],
+    "cities_derived": [
+      "Frankfurt",
+      "Berlin",
+      "Munich"
+    ],
+    "regions_derived": [
+      "Hesse",
+      "Bavaria"
+    ],
+    "countries_derived": [
+      "Germany",
+      "Germany",
+      "Germany"
+    ],
+    "source": "greenhouse",
+    "source_type": "ats",
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "Remote OK",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "English",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Python",
+      "Machine Learning",
+      "LLM",
+      "NLP",
+      "Software Engineering",
+      "Data Science"
+    ]
+  },
+  {
+    "id": 2321439178,
+    "title": "Data & Machine Learning Engineer (All genders)",
+    "organization": "STARK",
+    "organization_logo": "https://assets.cdn.personio.de/logos/221201/social/10d52c6594577fdd7a4f540f59e3f8eb.png",
+    "url": "https://stark.jobs.personio.com/job/2761425",
+    "date_posted": "2026-08-20T10:02:46",
+    "date_created": "2026-08-20T08:57:32.347282",
+    "locations_derived": [
+      "Berlin, Germany"
+    ],
+    "cities_derived": [
+      "Berlin"
+    ],
+    "countries_derived": [
+      "Germany"
+    ],
+    "source": "personio",
+    "source_type": "ats",
+    "employment_type": [
+      "Permanent employee"
+    ],
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "On-site",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "English",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Python",
+      "SQL",
+      "Machine Learning",
+      "Data Engineering",
+      "MLOps",
+      "Scikit-learn"
+    ]
+  },
+  {
+    "id": 2321378397,
+    "title": "AI Engineer (m/w/d)",
+    "organization": "synvert consulting GmbH",
+    "organization_logo": "https://assets.cdn.personio.de/logos/285715/social/56f7adc9748a0d45c909247e838bcab1.png",
+    "url": "https://synvert.jobs.personio.com/job/2440442",
+    "date_posted": "2026-08-20T09:25:10",
+    "date_created": "2026-08-20T07:58:34.094566",
+    "locations_derived": [
+      "Munich, Bavaria, Germany",
+      "Münster, North Rhine-Westphalia, Germany",
+      "Hamburg, Germany",
+      "Baden, Aargau, Switzerland"
+    ],
+    "cities_derived": [
+      "Münster",
+      "Hamburg",
+      "Munich",
+      "Baden"
+    ],
+    "regions_derived": [
+      "North Rhine-Westphalia",
+      "Bavaria",
+      "Aargau"
+    ],
+    "countries_derived": [
+      "Germany",
+      "Germany",
+      "Germany",
+      "Switzerland"
+    ],
+    "source": "personio",
+    "source_type": "ats",
+    "employment_type": [
+      "Festanstellung"
+    ],
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "Hybrid",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "German",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Artificial Intelligence",
+      "Generative AI",
+      "Cloud Computing",
+      "Machine Learning",
+      "LLM Integration",
+      "Data Engineering"
+    ]
+  },
+  {
+    "id": 2321584501,
+    "title": "Senior Data Engineer - Lounge by Zalando (all genders)",
+    "organization": "Zalando",
+    "url": "https://zalando.wd3.myworkdayjobs.com/ZalandoSiteWD/job/Berlin/Senior-Data-Engineer---Lounge-by-Zalando--all-genders-_2724044-1",
+    "date_posted": "2026-08-20T00:00:00",
+    "date_created": "2026-08-20T10:41:51.693471",
+    "locations_derived": [
+      "Berlin, Germany"
+    ],
+    "cities_derived": [
+      "Berlin"
+    ],
+    "countries_derived": [
+      "Germany"
+    ],
+    "source": "workday",
+    "source_type": "ats",
+    "employment_type": [
+      "Full time"
+    ],
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "Hybrid",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "English",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Data engineering",
+      "Python",
+      "Java",
+      "Spark",
+      "Hadoop",
+      "Flink"
+    ]
+  },
+  {
+    "id": 2321554240,
+    "title": "Junior AI / Data Engineer (m/f/d)",
+    "organization": "DCMN GmbH",
+    "organization_logo": "https://images7.bamboohr.com/19286/logos/cropped.jpg?v=34",
+    "url": "https://dcmn.bamboohr.com/careers/20",
+    "date_posted": "2026-08-20T00:00:00",
+    "date_created": "2026-08-20T10:07:12.6998",
+    "locations_derived": [
+      "Berlin, Germany"
+    ],
+    "cities_derived": [
+      "Berlin"
+    ],
+    "countries_derived": [
+      "Germany"
+    ],
+    "source": "bamboohr",
+    "source_type": "ats",
+    "employment_type": [
+      "Full-time"
+    ],
+    "ai_employment_type": [
+      "FULL_TIME",
+      "TEMPORARY"
+    ],
+    "ai_work_arrangement": "Hybrid",
+    "ai_experience_level": "0-2",
+    "ai_job_language": "English",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Python",
+      "Data Engineering",
+      "Backend Engineering",
+      "Data Pipelines",
+      "APIs",
+      "Cloud Environments"
+    ]
+  },
+  {
     "id": 2319380485,
     "title": "Applied AI Engineer (m/w/d)",
     "organization": "SIXT",
