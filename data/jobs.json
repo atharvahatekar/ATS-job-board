@@ -315,6 +315,63 @@
     ]
   },
   {
+    "id": 2324343793,
+    "title": "Senior Associate Biomarker Data Scientist",
+    "organization": "Parexel",
+    "url": "https://wd1.myworkdaysite.com/recruiting/parexel/Parexel_External_Careers/job/United-Kingdom-Harrow-Remote/Senior-Associate-Biomarker-Data-Scientist_R0000044246-1",
+    "date_posted": "2026-08-21T00:00:00",
+    "date_created": "2026-08-21T19:30:53.147386",
+    "locations_derived": [
+      "Paris, Ile-de-France, France",
+      "Berlin, Germany",
+      "Harrow, England, United Kingdom",
+      "Lithuania",
+      "Poland",
+      "Romania",
+      "Serbia",
+      "Spain"
+    ],
+    "cities_derived": [
+      "Harrow",
+      "Berlin",
+      "Paris"
+    ],
+    "regions_derived": [
+      "England",
+      "Ile-de-France"
+    ],
+    "countries_derived": [
+      "Spain",
+      "United Kingdom",
+      "Germany",
+      "Romania",
+      "Lithuania",
+      "France",
+      "Serbia",
+      "Poland"
+    ],
+    "source": "workday",
+    "source_type": "ats",
+    "employment_type": [
+      "Full time"
+    ],
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "Remote OK",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "English",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "R",
+      "R Shiny",
+      "Bash",
+      "Git",
+      "Claude Code",
+      "SQL"
+    ]
+  },
+  {
     "id": 2323451236,
     "title": "Data Scientist (w/m/d)",
     "organization": "JENOPTIK AG",
@@ -1426,6 +1483,40 @@
       "Databricks",
       "Azure Data Factory",
       "Data Pipelines"
+    ]
+  },
+  {
+    "id": 2323926839,
+    "title": "Data Engineer (f/m/d)",
+    "organization": "Moonfare",
+    "url": "https://www.moonfare.com/open-position/?gh_jid=7773348003",
+    "date_posted": "2026-08-18T16:33:15",
+    "date_created": "2026-08-21T15:12:45.819241",
+    "locations_derived": [
+      "Berlin, Germany"
+    ],
+    "cities_derived": [
+      "Berlin"
+    ],
+    "countries_derived": [
+      "Germany"
+    ],
+    "source": "greenhouse",
+    "source_type": "ats",
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "On-site",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "English",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Python",
+      "SQL",
+      "AWS",
+      "DBT",
+      "Data pipelines",
+      "Data modeling"
     ]
   },
   {
