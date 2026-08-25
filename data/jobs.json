@@ -1,5 +1,161 @@
 [
   {
+    "id": 2328989232,
+    "title": "Oracle AI Engineer (f/m/x)",
+    "organization": "AUTO1 Group",
+    "url": "https://jobs.smartrecruiters.com/Auto1/744000145478269-oracle-ai-engineer-f-m-x-",
+    "date_posted": "2026-08-25T10:33:41.339",
+    "date_created": "2026-08-25T10:37:12.206726",
+    "locations_derived": [
+      "Berlin, Germany"
+    ],
+    "cities_derived": [
+      "Berlin"
+    ],
+    "countries_derived": [
+      "Germany"
+    ],
+    "source": "smartrecruiters",
+    "source_type": "ats",
+    "employment_type": [
+      "Full-time"
+    ],
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "Remote OK",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "English",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Oracle Cloud Infrastructure",
+      "Python",
+      "Java",
+      "Docker",
+      "n8n",
+      "SQL"
+    ]
+  },
+  {
+    "id": 2328993325,
+    "title": "Data Scientist Supply Chain Consulting (d/w/m)",
+    "organization": "4flow",
+    "url": "https://4flow.wd3.myworkdayjobs.com/4flow/job/Berlin/Data-Scientist-Supply-Chain-Consulting--d-w-m-_R4456",
+    "date_posted": "2026-08-25T00:00:00",
+    "date_created": "2026-08-25T10:39:02.478633",
+    "locations_derived": [
+      "Berlin, Germany"
+    ],
+    "cities_derived": [
+      "Berlin"
+    ],
+    "countries_derived": [
+      "Germany"
+    ],
+    "source": "workday",
+    "source_type": "ats",
+    "employment_type": [
+      "Full time"
+    ],
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "Hybrid",
+    "ai_experience_level": "0-2",
+    "ai_job_language": "German",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Python",
+      "Data Science",
+      "Machine Learning",
+      "Mathematical optimization",
+      "GenAI",
+      "Supply Chain Management"
+    ]
+  },
+  {
+    "id": 2327389289,
+    "title": "AI Engineer (w/m/d)",
+    "organization": "Ppc Ag",
+    "organization_logo": "https://assets.cdn.personio.de/logos/83264/social/bfe0628cbd6badc3d7c7c286667f5a0a.png",
+    "url": "https://ppc-ag.jobs.personio.de/job/2765580/apply",
+    "date_posted": "2026-08-24T15:22:26",
+    "date_created": "2026-08-24T14:59:43.097484",
+    "locations_derived": [
+      "Mannheim, Baden-Württemberg, Germany"
+    ],
+    "cities_derived": [
+      "Mannheim"
+    ],
+    "regions_derived": [
+      "Baden-Württemberg"
+    ],
+    "countries_derived": [
+      "Germany"
+    ],
+    "source": "personio",
+    "source_type": "ats",
+    "employment_type": [
+      "Festanstellung"
+    ],
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "Hybrid",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "German",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Artificial Intelligence",
+      "Machine Learning",
+      "Large Language Models",
+      "Generative AI",
+      "Python",
+      "API Integration"
+    ]
+  },
+  {
+    "id": 2327324058,
+    "title": "AI Engineer (w/m/d)",
+    "organization": "Ppc Ag",
+    "organization_logo": "https://assets.cdn.personio.de/logos/83264/social/bfe0628cbd6badc3d7c7c286667f5a0a.png",
+    "url": "https://ppc-ag.jobs.personio.de/job/2765580",
+    "date_posted": "2026-08-24T15:22:26",
+    "date_created": "2026-08-24T13:58:30.495624",
+    "locations_derived": [
+      "Mannheim, Baden-Württemberg, Germany"
+    ],
+    "cities_derived": [
+      "Mannheim"
+    ],
+    "regions_derived": [
+      "Baden-Württemberg"
+    ],
+    "countries_derived": [
+      "Germany"
+    ],
+    "source": "personio",
+    "source_type": "ats",
+    "employment_type": [
+      "Festanstellung"
+    ],
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "Hybrid",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "German",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Artificial Intelligence",
+      "Machine Learning",
+      "Large Language Models",
+      "Generative AI",
+      "Prompt Engineering",
+      "Retrieval-Augmented Generation"
+    ]
+  },
+  {
     "id": 2327162502,
     "title": "Full-Stack Data Engineer (w/m/d)",
     "organization": "mellow NOIR - Karriere",
@@ -236,6 +392,51 @@
       "Machine Learning",
       "Product Analytics",
       "A/B Testing"
+    ]
+  },
+  {
+    "id": 2327342386,
+    "title": "Forward Deployed AI Engineer",
+    "organization": "DL Remote",
+    "organization_logo": "https://images.teamtailor-cdn.com/images/s3/teamtailor-production/logotype-v3/image_uploads/089860b7-4b5d-4dab-a282-8149ac330be6/original.png",
+    "url": "https://jobs.dl-remote.com/jobs/8255904-forward-deployed-ai-engineer",
+    "date_posted": "2026-08-22T07:33:06",
+    "date_created": "2026-08-24T14:20:39.01821",
+    "locations_derived": [
+      "Berlin, Berlin, Germany"
+    ],
+    "cities_derived": [
+      "Berlin"
+    ],
+    "regions_derived": [
+      "Berlin"
+    ],
+    "countries_derived": [
+      "Germany"
+    ],
+    "location_type": "TELECOMMUTE",
+    "source": "teamtailor",
+    "source_type": "ats",
+    "employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "Remote OK",
+    "ai_salary_currency": "EUR",
+    "ai_salary_max_value": 100000,
+    "ai_salary_unit_text": "YEAR",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "German",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Python",
+      "TypeScript",
+      "AI Systems",
+      "LLMs",
+      "RAG",
+      "Prompting"
     ]
   },
   {
