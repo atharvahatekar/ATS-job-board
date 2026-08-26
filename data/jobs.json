@@ -1,5 +1,246 @@
 [
   {
+    "id": 2331165450,
+    "title": "AI Engineer (m/w/d)",
+    "organization": "adorsys GmbH",
+    "organization_logo": "https://assets.cdn.personio.de/logos/13523/social/9d2c2ece9c438cbdf99cec806e59c858.png",
+    "url": "https://adorsys.jobs.personio.com/job/2768966",
+    "date_posted": "2026-08-26T12:55:31",
+    "date_created": "2026-08-26T11:58:58.091554",
+    "locations_derived": [
+      "Nuremberg, Bavaria, Germany"
+    ],
+    "cities_derived": [
+      "Nuremberg"
+    ],
+    "regions_derived": [
+      "Bavaria"
+    ],
+    "countries_derived": [
+      "Germany"
+    ],
+    "source": "personio",
+    "source_type": "ats",
+    "employment_type": [
+      "Festanstellung"
+    ],
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "Remote OK",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "German",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Python",
+      "GenAI",
+      "Multi-agent systems",
+      "LangChain",
+      "LangGraph",
+      "LLM fine-tuning"
+    ]
+  },
+  {
+    "id": 2331039803,
+    "title": "Data Engineer (all genders)",
+    "organization": "Eraneos",
+    "organization_logo": "https://assets.cdn.personio.de/logos/16814/social/c750e4323c50be4099e01aeb125ef4d1.png",
+    "url": "https://eraneos.jobs.personio.com/job/2767212",
+    "date_posted": "2026-08-26T10:59:19",
+    "date_created": "2026-08-26T09:57:37.172312",
+    "locations_derived": [
+      "Hamburg, Germany"
+    ],
+    "cities_derived": [
+      "Hamburg"
+    ],
+    "countries_derived": [
+      "Germany"
+    ],
+    "source": "personio",
+    "source_type": "ats",
+    "employment_type": [
+      "Permanent employee"
+    ],
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "Hybrid",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "English",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Python",
+      "AWS",
+      "Azure",
+      "GCP",
+      "Apache Airflow",
+      "Dagster"
+    ]
+  },
+  {
+    "id": 2330995067,
+    "title": "(Senior) Data Engineer im Fachbereich (m/w/d)",
+    "organization": "AXA",
+    "organization_logo": "https://axa.icims.com/icims2/servlet/icims2?module=AppInert&action=download&id=213&hashed=555321108",
+    "url": "https://careers-de-axa.icims.com/jobs/26253/%28senior%29-data-engineer-im-fachbereich-%28m-w-d%29/job",
+    "date_posted": "2026-08-26T09:26:25.299",
+    "date_created": "2026-08-26T09:26:28.478302",
+    "locations_derived": [
+      "Cologne, North Rhine-Westphalia, Germany"
+    ],
+    "cities_derived": [
+      "Cologne"
+    ],
+    "regions_derived": [
+      "North Rhine-Westphalia"
+    ],
+    "countries_derived": [
+      "Germany"
+    ],
+    "source": "icims",
+    "source_type": "ats",
+    "employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "Hybrid",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "German",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Data Engineering",
+      "Snowflake",
+      "AWS",
+      "Dbt",
+      "SQL",
+      "ETL Pipelines"
+    ]
+  },
+  {
+    "id": 2330906810,
+    "title": "(Junior) Data Engineer (d/f/m)",
+    "organization": "mobile.de GmbH",
+    "url": "https://mobilede.careers.hibob.com/jobs/58644184-bc4f-4fa0-bf2a-8f2879e2fad4",
+    "date_posted": "2026-08-26T08:27:36.781623",
+    "date_created": "2026-08-26T08:30:54.835621",
+    "locations_derived": [
+      "Berlin, Germany"
+    ],
+    "cities_derived": [
+      "Berlin"
+    ],
+    "countries_derived": [
+      "Germany"
+    ],
+    "source": "hibob",
+    "source_type": "ats",
+    "employment_type": [
+      "Regular"
+    ],
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "Hybrid",
+    "ai_experience_level": "0-2",
+    "ai_job_language": "English",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Data Engineering",
+      "SQL",
+      "Python",
+      "Scala",
+      "Java",
+      "GCP"
+    ]
+  },
+  {
+    "id": 2330901980,
+    "title": "Senior Agentic AI Engineer",
+    "organization": "CUBE",
+    "organization_logo": "https://app.ashbyhq.com/api/images/org-theme-logo/690cb084-af6f-4df4-809f-c551a9fa6081/4c7b2045-844c-4835-ba28-b91152d2b990/ad439dc3-649d-484d-ae69-705f0145bc17.png",
+    "url": "https://jobs.ashbyhq.com/CUBE/ee6f78e2-0abd-4841-9a63-51d21758d8f1",
+    "date_posted": "2026-08-26T00:00:00",
+    "date_created": "2026-08-26T08:21:31.350069",
+    "locations_derived": [
+      "Berlin, Germany"
+    ],
+    "cities_derived": [
+      "Berlin"
+    ],
+    "countries_derived": [
+      "Germany"
+    ],
+    "location_type": "TELECOMMUTE",
+    "source": "ashby",
+    "source_type": "ats",
+    "employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "Hybrid",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "English",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Python",
+      "LLM Engineering",
+      "Agentic AI",
+      "LangChain",
+      "LlamaIndex",
+      "Prompt Engineering"
+    ]
+  },
+  {
+    "id": 2330747912,
+    "title": "Data Engineer  - Remote in Germany",
+    "organization": "Synera GmbH",
+    "url": "https://synera.recruitee.com/o/data-engineer-remote-in-germany",
+    "date_posted": "2026-08-26T00:00:00",
+    "date_created": "2026-08-26T06:21:30.07775",
+    "locations_derived": [
+      "Bremen, Bremen, Germany",
+      "Bremerhaven, Bremen, Germany"
+    ],
+    "cities_derived": [
+      "Bremen",
+      "Bremerhaven"
+    ],
+    "regions_derived": [
+      "Bremen",
+      "Bremen"
+    ],
+    "countries_derived": [
+      "Germany",
+      "Germany"
+    ],
+    "location_type": "TELECOMMUTE",
+    "source": "recruitee",
+    "source_type": "ats",
+    "employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "Remote OK",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "English",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "SQL",
+      "ETL",
+      "Data pipelines",
+      "Airflow",
+      "Data modeling",
+      "LLM applications"
+    ]
+  },
+  {
     "id": 2328989232,
     "title": "Oracle AI Engineer (f/m/x)",
     "organization": "AUTO1 Group",
@@ -437,6 +678,47 @@
       "LLMs",
       "RAG",
       "Prompting"
+    ]
+  },
+  {
+    "id": 2329230233,
+    "title": "AI Engineer / AI Platform Engineer (w/m/d)",
+    "organization": "MTG AG",
+    "organization_logo": "https://assets.cdn.personio.de/logos/182519/social/daaf508e62cdc56a6d2feccae89300ae.png",
+    "url": "https://mtg-ag.jobs.personio.de/job/2758671",
+    "date_posted": "2026-08-21T13:41:11",
+    "date_created": "2026-08-25T13:57:48.54622",
+    "locations_derived": [
+      "Darmstadt, Hesse, Germany"
+    ],
+    "cities_derived": [
+      "Darmstadt"
+    ],
+    "regions_derived": [
+      "Hesse"
+    ],
+    "countries_derived": [
+      "Germany"
+    ],
+    "source": "personio",
+    "source_type": "ats",
+    "employment_type": [
+      "Festanstellung"
+    ],
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "Hybrid",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "German",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Artificial Intelligence",
+      "Large Language Models",
+      "RAG",
+      "Vector Databases",
+      "Python",
+      "Docker"
     ]
   },
   {
