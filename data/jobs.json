@@ -1,5 +1,283 @@
 [
   {
+    "id": 2333447142,
+    "title": "AI / ML Engineer (m/w/d)",
+    "organization": "PROFI Engineering Systems AG",
+    "organization_logo": "https://assets.cdn.personio.de/logos/107515/social/6fd1737a98821f951f1eeb318a6ffb4c.png",
+    "url": "https://profi-engineering-systems-ag.jobs.personio.de/job/2502243",
+    "date_posted": "2026-08-27T14:10:12",
+    "date_created": "2026-08-27T12:57:02.980153",
+    "locations_derived": [
+      "Darmstadt, Hesse, Germany",
+      "Bavaria, Germany"
+    ],
+    "cities_derived": [
+      "Darmstadt"
+    ],
+    "regions_derived": [
+      "Bavaria",
+      "Hesse"
+    ],
+    "countries_derived": [
+      "Germany",
+      "Germany"
+    ],
+    "source": "personio",
+    "source_type": "ats",
+    "employment_type": [
+      "Festanstellung"
+    ],
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "Remote OK",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "German",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Python",
+      "PyTorch",
+      "TensorFlow",
+      "Scikit-learn",
+      "Pandas",
+      "Agentic AI"
+    ]
+  },
+  {
+    "id": 2333522373,
+    "title": "AI Engineer",
+    "organization": "Shopfully",
+    "url": "https://job-boards.greenhouse.io/shopfully/jobs/8027218",
+    "date_posted": "2026-08-27T13:47:42",
+    "date_created": "2026-08-27T13:52:50.870042",
+    "locations_derived": [
+      "Austria",
+      "Germany",
+      "Italy",
+      "Spain"
+    ],
+    "countries_derived": [
+      "Spain",
+      "Germany",
+      "Austria",
+      "Italy"
+    ],
+    "source": "greenhouse",
+    "source_type": "ats",
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "Hybrid",
+    "ai_salary_currency": "EUR",
+    "ai_salary_min_value": 50000,
+    "ai_salary_max_value": 80000,
+    "ai_salary_unit_text": "YEAR",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "English",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Artificial Intelligence",
+      "Software Engineering",
+      "Data Engineering",
+      "Data Science",
+      "Machine Learning",
+      "Agentic Methodologies"
+    ]
+  },
+  {
+    "id": 2333352911,
+    "title": "PreMaster Programm – Data Engineer im Bereich Business Excellence",
+    "organization": "Bosch Group",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000145961699-premaster-programm-data-engineer-im-bereich-business-excellence",
+    "date_posted": "2026-08-27T11:38:23.662",
+    "date_created": "2026-08-27T11:41:11.780912",
+    "locations_derived": [
+      "Happenbach, Baden-Württemberg, Germany"
+    ],
+    "cities_derived": [
+      "Happenbach"
+    ],
+    "regions_derived": [
+      "Baden-Württemberg"
+    ],
+    "countries_derived": [
+      "Germany"
+    ],
+    "source": "smartrecruiters",
+    "source_type": "ats",
+    "employment_type": [
+      "Vollzeit"
+    ],
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "On-site",
+    "ai_experience_level": "0-2",
+    "ai_job_language": "German",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Python",
+      "TypeScript",
+      "Node.js",
+      "NoSQL",
+      "MongoDB",
+      "Full stack development"
+    ]
+  },
+  {
+    "id": 2333383189,
+    "title": "AI Engineer",
+    "organization": "DEPT®",
+    "url": "https://job-boards.greenhouse.io/dept/jobs/7613452",
+    "date_posted": "2026-08-27T11:12:54",
+    "date_created": "2026-08-27T12:11:40.550495",
+    "locations_derived": [
+      "Split, Croatia",
+      "Zagreb, Croatia",
+      "Berlin, Germany",
+      "Hamburg, Germany",
+      "Budapest, Central Hungary, Hungary",
+      "Amsterdam, North Holland, Netherlands",
+      "Rotterdam, South Holland, Netherlands",
+      "Skopje, North Macedonia",
+      "London, England, United Kingdom",
+      "Manchester, England, United Kingdom"
+    ],
+    "cities_derived": [
+      "Skopje",
+      "Hamburg",
+      "Zagreb",
+      "Berlin",
+      "Amsterdam",
+      "Manchester",
+      "Split",
+      "Budapest",
+      "Rotterdam",
+      "London"
+    ],
+    "regions_derived": [
+      "North Holland",
+      "England",
+      "Central Hungary",
+      "South Holland",
+      "England"
+    ],
+    "countries_derived": [
+      "North Macedonia",
+      "Germany",
+      "Croatia",
+      "Germany",
+      "Netherlands",
+      "United Kingdom",
+      "Croatia",
+      "Hungary",
+      "Netherlands",
+      "United Kingdom"
+    ],
+    "source": "greenhouse",
+    "source_type": "ats",
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "Hybrid",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "English",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Python",
+      "Machine Learning",
+      "Artificial Intelligence",
+      "TensorFlow",
+      "PyTorch",
+      "Scikit-learn"
+    ]
+  },
+  {
+    "id": 2333117505,
+    "title": "(Junior) Data Engineer (m/w/d)",
+    "organization": "Dataciders GmbH",
+    "organization_logo": "https://assets.cdn.personio.de/logos/20364/social/0ed4ed98d047f63e0d0e6188caf52823.png",
+    "url": "https://dataciders.jobs.personio.com/job/2759791",
+    "date_posted": "2026-08-27T10:39:56",
+    "date_created": "2026-08-27T08:59:32.541766",
+    "locations_derived": [
+      "Nuremberg, Bavaria, Germany",
+      "Dortmund, North Rhine-Westphalia, Germany"
+    ],
+    "cities_derived": [
+      "Nuremberg",
+      "Dortmund"
+    ],
+    "regions_derived": [
+      "Bavaria",
+      "North Rhine-Westphalia"
+    ],
+    "countries_derived": [
+      "Germany",
+      "Germany"
+    ],
+    "source": "personio",
+    "source_type": "ats",
+    "employment_type": [
+      "Festanstellung"
+    ],
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "Hybrid",
+    "ai_experience_level": "0-2",
+    "ai_job_language": "German",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Data engineering",
+      "Data modeling",
+      "ETL",
+      "Data architecture",
+      "SQL",
+      "Java"
+    ]
+  },
+  {
+    "id": 2333107464,
+    "title": "PreMaster Programm – Data Engineer im Bereich Business Excellence",
+    "organization": "Bosch Group",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000145926040-premaster-programm-data-engineer-im-bereich-business-excellence",
+    "date_posted": "2026-08-27T08:49:53.266",
+    "date_created": "2026-08-27T08:53:14.554879",
+    "locations_derived": [
+      "Happenbach, Baden-Württemberg, Germany"
+    ],
+    "cities_derived": [
+      "Happenbach"
+    ],
+    "regions_derived": [
+      "Baden-Württemberg"
+    ],
+    "countries_derived": [
+      "Germany"
+    ],
+    "source": "smartrecruiters",
+    "source_type": "ats",
+    "employment_type": [
+      "Vollzeit"
+    ],
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "On-site",
+    "ai_experience_level": "0-2",
+    "ai_job_language": "German",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Data pipelines",
+      "ETL",
+      "ELT",
+      "Python",
+      "TypeScript",
+      "Node.js"
+    ]
+  },
+  {
     "id": 2331165450,
     "title": "AI Engineer (m/w/d)",
     "organization": "adorsys GmbH",
@@ -154,6 +432,46 @@
       "Scala",
       "Java",
       "GCP"
+    ]
+  },
+  {
+    "id": 2331709028,
+    "title": "AI Engineer (m/f/d) for Semiconductor Innovation",
+    "organization": "KLA",
+    "url": "https://kla.wd1.myworkdayjobs.com/Search/job/DEU-Saxony-Dresden-City-Center/AI-Engineer--m-f-d--for-Semiconductor-Innovation_2640055",
+    "date_posted": "2026-08-26T00:00:00",
+    "date_created": "2026-08-26T17:42:02.382926",
+    "locations_derived": [
+      "Dresden, Saxony, Germany"
+    ],
+    "cities_derived": [
+      "Dresden"
+    ],
+    "regions_derived": [
+      "Saxony"
+    ],
+    "countries_derived": [
+      "Germany"
+    ],
+    "source": "workday",
+    "source_type": "ats",
+    "employment_type": [
+      "Full time"
+    ],
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "Hybrid",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "English",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Agentic AI",
+      "Multi-agent systems",
+      "Reinforcement learning",
+      "Python",
+      "JavaScript",
+      "Angular"
     ]
   },
   {
@@ -3164,43 +3482,6 @@
       "Data pipelines",
       "Cloud technology",
       "Databricks"
-    ]
-  },
-  {
-    "id": 2309192807,
-    "title": "Senior Applied Scientist / Lounge by Zalando (all genders)",
-    "organization": "Zalando",
-    "url": "https://zalando.wd3.myworkdayjobs.com/ZalandoSiteWD/job/Berlin/Senior-Applied-Scientist---Lounge-by-Zalando--all-genders-_2724313",
-    "date_posted": "2026-08-13T00:00:00",
-    "date_created": "2026-08-13T01:49:00.749774",
-    "locations_derived": [
-      "Berlin, Germany"
-    ],
-    "cities_derived": [
-      "Berlin"
-    ],
-    "countries_derived": [
-      "Germany"
-    ],
-    "source": "workday",
-    "source_type": "ats",
-    "employment_type": [
-      "Full time"
-    ],
-    "ai_employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_work_arrangement": "Hybrid",
-    "ai_experience_level": "2-5",
-    "ai_job_language": "English",
-    "ai_visa_sponsorship": false,
-    "ai_key_skills": [
-      "Economics",
-      "Experimentation",
-      "A/B testing",
-      "Causal inference",
-      "Statistical modeling",
-      "Python"
     ]
   }
 ]
