@@ -1,5 +1,87 @@
 [
   {
+    "id": 2333828683,
+    "title": "Data Engineer (m/f/d)",
+    "organization": "ecoplanet",
+    "organization_logo": "https://assets.cdn.personio.de/logos/138734/social/f72d3af589a65fad1af28abcf85f60a2.png",
+    "url": "https://ecoplanet-green-operations-gmbh.jobs.personio.de/job/2771235",
+    "date_posted": "2026-08-27T17:59:50",
+    "date_created": "2026-08-27T16:58:40.018301",
+    "locations_derived": [
+      "Munich, Bavaria, Germany"
+    ],
+    "cities_derived": [
+      "Munich"
+    ],
+    "regions_derived": [
+      "Bavaria"
+    ],
+    "countries_derived": [
+      "Germany"
+    ],
+    "source": "personio",
+    "source_type": "ats",
+    "employment_type": [
+      "Permanent employee"
+    ],
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "On-site",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "English",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Python",
+      "SQL",
+      "Data engineering",
+      "Data science",
+      "Cloud data infrastructure",
+      "Time-series data"
+    ]
+  },
+  {
+    "id": 2333652966,
+    "title": "Applied AI Engineer",
+    "organization": "CHAPTERS Group AG",
+    "organization_logo": "https://cdn.join.com/6a8459613df3500008e90cf8/chapters-group-ag-logo-m.jpg",
+    "url": "https://join.com/companies/chaptersgroupcom/16633631-applied-ai-engineer",
+    "date_posted": "2026-08-27T14:26:49.122",
+    "date_created": "2026-08-27T15:15:30.901193",
+    "locations_derived": [
+      "Cologne, North Rhine-Westphalia, Germany"
+    ],
+    "cities_derived": [
+      "Cologne"
+    ],
+    "regions_derived": [
+      "North Rhine-Westphalia"
+    ],
+    "countries_derived": [
+      "Germany"
+    ],
+    "source": "join.com",
+    "source_type": "ats",
+    "employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "Hybrid",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "English",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Python",
+      "DevOps",
+      "Backend Engineering",
+      "Cloud Infrastructure",
+      "Docker",
+      "REST APIs"
+    ]
+  },
+  {
     "id": 2333447142,
     "title": "AI / ML Engineer (m/w/d)",
     "organization": "PROFI Engineering Systems AG",
@@ -275,6 +357,45 @@
       "Python",
       "TypeScript",
       "Node.js"
+    ]
+  },
+  {
+    "id": 2333664357,
+    "title": "Applied AI Engineer",
+    "organization": "Moss",
+    "organization_logo": "https://app.ashbyhq.com/api/images/org-theme-logo/283720e7-fc7c-4bb9-9c9a-564f104c63ae/e5c1828a-5abb-4678-8763-725df21403ca/db756cb6-7f73-4fd8-9497-033fe7a9f87f.png",
+    "url": "https://jobs.ashbyhq.com/moss/a4cd2807-aabc-4dfb-9256-0b3736582efe",
+    "date_posted": "2026-08-27T00:00:00",
+    "date_created": "2026-08-27T15:22:32.05374",
+    "locations_derived": [
+      "Berlin, Germany"
+    ],
+    "cities_derived": [
+      "Berlin"
+    ],
+    "countries_derived": [
+      "Germany"
+    ],
+    "location_type": "TELECOMMUTE",
+    "source": "ashby",
+    "source_type": "ats",
+    "employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "Hybrid",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "English",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Python",
+      "Java",
+      "LLMs",
+      "Prompt engineering",
+      "RAG",
+      "AI agents"
     ]
   },
   {
