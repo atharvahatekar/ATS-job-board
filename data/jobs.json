@@ -1,5 +1,252 @@
 [
   {
+    "id": 2340840598,
+    "title": "Senior Data Engineer (f/m/x)",
+    "organization": "exmox",
+    "organization_logo": "https://assets.cdn.personio.de/logos/266175/social/200a61f122b1c343f0d24fc495eb6ee1.jpg",
+    "url": "https://exmox-gmbh.jobs.personio.com/job/2485008",
+    "date_posted": "2026-09-01T14:42:08",
+    "date_created": "2026-09-01T12:57:47.718869",
+    "locations_derived": [
+      "Hamburg, Germany"
+    ],
+    "cities_derived": [
+      "Hamburg"
+    ],
+    "countries_derived": [
+      "Germany"
+    ],
+    "source": "personio",
+    "source_type": "ats",
+    "employment_type": [
+      "Permanent employee"
+    ],
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "Hybrid",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "English",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Data engineering",
+      "Databricks",
+      "PySpark",
+      "Python",
+      "SQL",
+      "ETL pipelines"
+    ]
+  },
+  {
+    "id": 2340942015,
+    "title": "Data Engineer II, Operations - Quick Commerce",
+    "organization": "Delivery Hero",
+    "url": "https://jobs.smartrecruiters.com/DeliveryHero/744000146730631-data-engineer-ii-operations-quick-commerce",
+    "date_posted": "2026-09-01T14:05:40.716",
+    "date_created": "2026-09-01T14:09:21.170179",
+    "locations_derived": [
+      "Berlin, Germany"
+    ],
+    "cities_derived": [
+      "Berlin"
+    ],
+    "countries_derived": [
+      "Germany"
+    ],
+    "source": "smartrecruiters",
+    "source_type": "ats",
+    "employment_type": [
+      "Full-time"
+    ],
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "On-site",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "English",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Python",
+      "Docker",
+      "Kubernetes",
+      "Postgres",
+      "AWS",
+      "GCP"
+    ]
+  },
+  {
+    "id": 2340874383,
+    "title": "AI Engineer",
+    "organization": "GlassFlow",
+    "organization_logo": "https://cdn.join.com/67890b7efaa5e600089b0f04/glass-flow-logo-m.png",
+    "url": "https://join.com/companies/getglassflow/16652236-ai-engineer",
+    "date_posted": "2026-09-01T12:28:59.849",
+    "date_created": "2026-09-01T13:35:40.607019",
+    "locations_derived": [
+      "Berlin, Germany"
+    ],
+    "cities_derived": [
+      "Berlin"
+    ],
+    "countries_derived": [
+      "Germany"
+    ],
+    "source": "join.com",
+    "source_type": "ats",
+    "employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "Hybrid",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "English",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Python",
+      "LLMs",
+      "AI agents",
+      "Retrieval systems",
+      "Machine learning",
+      "Vector search"
+    ]
+  },
+  {
+    "id": 2340804642,
+    "title": "Junior Data Engineer & Business Analyst (m/w/d)",
+    "organization": "ApoVid GmbH",
+    "organization_logo": "https://cdn.join.com/663b71c2d84c6700084a1f70/apo-vid-gmb-h-logo-m.jpg",
+    "url": "https://join.com/companies/apovid/16652225-junior-data-engineer-und-business-analyst-m-w-d",
+    "date_posted": "2026-09-01T12:03:37.623",
+    "date_created": "2026-09-01T12:33:31.181329",
+    "locations_derived": [
+      "Germany"
+    ],
+    "countries_derived": [
+      "Germany"
+    ],
+    "location_type": "TELECOMMUTE",
+    "source": "join.com",
+    "source_type": "ats",
+    "employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "Remote Solely",
+    "ai_experience_level": "0-2",
+    "ai_job_language": "German",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Data Engineering",
+      "Business Analytics",
+      "Python",
+      "PySpark",
+      "SQL",
+      "Microsoft Fabric"
+    ]
+  },
+  {
+    "id": 2340481146,
+    "title": "Planning Data Engineer (m/w/d)",
+    "organization": "E.ON",
+    "url": "https://careers.eon.com/deutschland/job/Essen-Planning-Data-Engineer-%28mwd%29/1432249333/",
+    "date_posted": "2026-09-01T00:00:00",
+    "date_created": "2026-09-01T08:47:35.632718",
+    "locations_derived": [
+      "Landshut, Bavaria, Germany",
+      "Würzburg, Bavaria, Germany",
+      "München, Brandenburg, Germany",
+      "Potsdam, Brandenburg, Germany",
+      "Wunstorf, Lower Saxony, Germany",
+      "Essen, North Rhine-Westphalia, Germany"
+    ],
+    "cities_derived": [
+      "Landshut",
+      "Potsdam",
+      "Wunstorf",
+      "Essen",
+      "München",
+      "Würzburg"
+    ],
+    "regions_derived": [
+      "Bavaria",
+      "Brandenburg",
+      "Lower Saxony",
+      "North Rhine-Westphalia",
+      "Brandenburg",
+      "Bavaria"
+    ],
+    "countries_derived": [
+      "Germany",
+      "Germany",
+      "Germany",
+      "Germany",
+      "Germany",
+      "Germany"
+    ],
+    "source": "successfactors",
+    "source_type": "ats",
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "Hybrid",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "German",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "SAP Datasphere",
+      "Data modeling",
+      "Planning and forecasting",
+      "SAP Analytics Cloud",
+      "SAP BW/4HANA",
+      "Databricks"
+    ]
+  },
+  {
+    "id": 2340871638,
+    "title": "AI Engineer (gn)",
+    "organization": "HORNBACH",
+    "organization_logo": "https://karriere.hornbach.de/technologie/uploads/01615bcd-b9ab-4913-8386-05b204f00e60/settings/creators/technologie-306-67aef20d48a5c.png",
+    "url": "https://karriere.hornbach.de/technologie/stellenangebot/ai-engineer-gn/ac76a82a-d69a-47cb-a25e-4700f7cb378a",
+    "date_posted": "2026-08-31T22:00:00",
+    "date_created": "2026-09-01T13:34:30.556068",
+    "locations_derived": [
+      "Bornheim, Rhineland-Palatinate, Germany"
+    ],
+    "cities_derived": [
+      "Bornheim"
+    ],
+    "regions_derived": [
+      "Rhineland-Palatinate"
+    ],
+    "countries_derived": [
+      "Germany"
+    ],
+    "source": "successfactors",
+    "source_type": "ats",
+    "employment_type": [
+      "full-time"
+    ],
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "On-site",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "German",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Python",
+      "Cloud Native Architecture",
+      "Google Cloud Platform",
+      "LLMs",
+      "RAG",
+      "Microservices"
+    ]
+  },
+  {
     "id": 2339060571,
     "title": "AI Engineer (m/w/d) – Machine Learning & GenAI",
     "organization": "FINNOFLEET GmbH",
@@ -248,6 +495,50 @@
       "NoSQL",
       "MongoDB",
       "Full stack development"
+    ]
+  },
+  {
+    "id": 2339670596,
+    "title": "Data Engineer",
+    "organization": "Booz Allen Hamilton",
+    "url": "https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Ramstein-Miesenbach-Rhineland-Palatinate/Data-Engineer_R0248358",
+    "date_posted": "2026-08-31T00:00:00",
+    "date_created": "2026-08-31T21:40:48.245429",
+    "locations_derived": [
+      "Ramstein-Miesenbach, Rhineland-Palatinate, Germany"
+    ],
+    "cities_derived": [
+      "Ramstein-Miesenbach"
+    ],
+    "regions_derived": [
+      "Rhineland-Palatinate"
+    ],
+    "countries_derived": [
+      "Germany"
+    ],
+    "source": "workday",
+    "source_type": "ats",
+    "employment_type": [
+      "Full time"
+    ],
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "On-site",
+    "ai_salary_currency": "USD",
+    "ai_salary_min_value": 77500,
+    "ai_salary_max_value": 176000,
+    "ai_salary_unit_text": "YEAR",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "English",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Python",
+      "SQL",
+      "Scala",
+      "R",
+      "Tableau",
+      "Qlik"
     ]
   },
   {
@@ -2203,6 +2494,47 @@
     ]
   },
   {
+    "id": 2340565427,
+    "title": "Forward Deployed AI Engineer, Germany ",
+    "organization": "ICEYE",
+    "url": "https://jobs.ashbyhq.com/iceye/f1923306-9ffa-4b2f-bee3-c7472c711167",
+    "date_posted": "2026-08-21T00:00:00",
+    "date_created": "2026-09-01T09:21:56.701681",
+    "locations_derived": [
+      "Munich, Bavaria, Germany"
+    ],
+    "cities_derived": [
+      "Munich"
+    ],
+    "regions_derived": [
+      "Bavaria"
+    ],
+    "countries_derived": [
+      "Germany"
+    ],
+    "location_type": "TELECOMMUTE",
+    "source": "ashby",
+    "source_type": "ats",
+    "employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "Hybrid",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "English",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Python",
+      "Docker",
+      "Kubernetes",
+      "LLMs",
+      "Prompt engineering",
+      "RAG systems"
+    ]
+  },
+  {
     "id": 2324343793,
     "title": "Senior Associate Biomarker Data Scientist",
     "organization": "Parexel",
@@ -3371,391 +3703,6 @@
       "Databricks",
       "Azure Data Factory",
       "Data Pipelines"
-    ]
-  },
-  {
-    "id": 2323926839,
-    "title": "Data Engineer (f/m/d)",
-    "organization": "Moonfare",
-    "url": "https://www.moonfare.com/open-position/?gh_jid=7773348003",
-    "date_posted": "2026-08-18T16:33:15",
-    "date_created": "2026-08-21T15:12:45.819241",
-    "locations_derived": [
-      "Berlin, Germany"
-    ],
-    "cities_derived": [
-      "Berlin"
-    ],
-    "countries_derived": [
-      "Germany"
-    ],
-    "source": "greenhouse",
-    "source_type": "ats",
-    "ai_employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_work_arrangement": "On-site",
-    "ai_experience_level": "2-5",
-    "ai_job_language": "English",
-    "ai_visa_sponsorship": false,
-    "ai_key_skills": [
-      "Python",
-      "SQL",
-      "AWS",
-      "DBT",
-      "Data pipelines",
-      "Data modeling"
-    ]
-  },
-  {
-    "id": 2317696459,
-    "title": "Data Engineer  (m/f/d)",
-    "organization": "Redcare Pharmacy",
-    "url": "https://jobs.smartrecruiters.com/Redcare-Pharmacy/744000144108319-data-engineer-m-f-d-",
-    "date_posted": "2026-08-18T15:18:07.687",
-    "date_created": "2026-08-18T15:21:26.356574",
-    "locations_derived": [
-      "Cologne, North Rhine-Westphalia, Germany"
-    ],
-    "cities_derived": [
-      "Cologne"
-    ],
-    "regions_derived": [
-      "North Rhine-Westphalia"
-    ],
-    "countries_derived": [
-      "Germany"
-    ],
-    "source": "smartrecruiters",
-    "source_type": "ats",
-    "employment_type": [
-      "Full-time"
-    ],
-    "ai_employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_work_arrangement": "Hybrid",
-    "ai_experience_level": "2-5",
-    "ai_job_language": "English",
-    "ai_visa_sponsorship": false,
-    "ai_key_skills": [
-      "Azure Data Services",
-      "Databricks",
-      "Apache Spark",
-      "Kafka",
-      "Flink",
-      "SQL"
-    ]
-  },
-  {
-    "id": 2317367685,
-    "title": "Data Engineer",
-    "organization": "Plato",
-    "organization_logo": "https://assets.cdn.personio.de/logos/319787/social/62093b1874eb8899d941074c1c1f52e1.png",
-    "url": "https://platoapp.jobs.personio.com/job/2758594",
-    "date_posted": "2026-08-18T12:05:29",
-    "date_created": "2026-08-18T10:56:24.448103",
-    "locations_derived": [
-      "Berlin, Germany"
-    ],
-    "cities_derived": [
-      "Berlin"
-    ],
-    "countries_derived": [
-      "Germany"
-    ],
-    "source": "personio",
-    "source_type": "ats",
-    "employment_type": [
-      "Permanent employee"
-    ],
-    "ai_employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_work_arrangement": "On-site",
-    "ai_experience_level": "2-5",
-    "ai_job_language": "English",
-    "ai_visa_sponsorship": false,
-    "ai_key_skills": [
-      "Data Engineering",
-      "SQL",
-      "Databricks",
-      "Snowflake",
-      "dbt",
-      "Python"
-    ]
-  },
-  {
-    "id": 2317344022,
-    "title": "Generative AI/Agentic AI Engineer (d/f/m) [26084]",
-    "organization": "Sopra Steria",
-    "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000144035939-generative-ai-agentic-ai-engineer-d-f-m-26084-",
-    "date_posted": "2026-08-18T10:30:15.772",
-    "date_created": "2026-08-18T10:33:11.121624",
-    "locations_derived": [
-      "Ulm, Baden-Württemberg, Germany"
-    ],
-    "cities_derived": [
-      "Ulm"
-    ],
-    "regions_derived": [
-      "Baden-Württemberg"
-    ],
-    "countries_derived": [
-      "Germany"
-    ],
-    "source": "smartrecruiters",
-    "source_type": "ats",
-    "employment_type": [
-      "Full-time"
-    ],
-    "ai_employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_work_arrangement": "On-site",
-    "ai_experience_level": "2-5",
-    "ai_job_language": "English",
-    "ai_visa_sponsorship": false,
-    "ai_key_skills": [
-      "Python",
-      "GenAI",
-      "LLM",
-      "RAG",
-      "MCP",
-      "Docker"
-    ]
-  },
-  {
-    "id": 2317332814,
-    "title": "Senior Data Scientist, Workforce Management Analytics",
-    "organization": "Wolt - English",
-    "url": "https://job-boards.greenhouse.io/wolt/jobs/8136189",
-    "date_posted": "2026-08-18T10:10:08",
-    "date_created": "2026-08-18T10:13:02.231095",
-    "locations_derived": [
-      "Berlin, Germany"
-    ],
-    "cities_derived": [
-      "Berlin"
-    ],
-    "countries_derived": [
-      "Germany"
-    ],
-    "source": "greenhouse",
-    "source_type": "ats",
-    "ai_employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_work_arrangement": "Hybrid",
-    "ai_experience_level": "5-10",
-    "ai_job_language": "English",
-    "ai_visa_sponsorship": false,
-    "ai_key_skills": [
-      "Data Science",
-      "Forecasting",
-      "Time Series Analysis",
-      "Python",
-      "R",
-      "SQL"
-    ]
-  },
-  {
-    "id": 2317291844,
-    "title": "Data Engineer - Full Stack (m/f/d)",
-    "organization": "Alcemy",
-    "organization_logo": "https://workablehr.s3.amazonaws.com/uploads/account/logo/450721/logo",
-    "url": "https://jobs.workable.com/view/2eXA9zJQi7omnjvR4X5BtH/hybrid-data-engineer---full-stack-(m%2Ff%2Fd)-in-berlin-at-alcemy",
-    "date_posted": "2026-08-18T08:47:33.873",
-    "date_created": "2026-08-18T09:36:00.958144",
-    "locations_derived": [
-      "Berlin, Germany"
-    ],
-    "cities_derived": [
-      "Berlin"
-    ],
-    "countries_derived": [
-      "Germany"
-    ],
-    "location_type": "TELECOMMUTE",
-    "source": "workable",
-    "source_type": "ats",
-    "employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_work_arrangement": "Hybrid",
-    "ai_salary_currency": "EUR",
-    "ai_salary_min_value": 60000,
-    "ai_salary_max_value": 75000,
-    "ai_salary_unit_text": "YEAR",
-    "ai_experience_level": "2-5",
-    "ai_job_language": "English",
-    "ai_visa_sponsorship": false,
-    "ai_key_skills": [
-      "Python",
-      "Data Engineering",
-      "Backend Development",
-      "PostgreSQL",
-      "SQL",
-      "Machine Learning"
-    ]
-  },
-  {
-    "id": 2317582309,
-    "title": "Senior Data Scientist - Advertising division",
-    "organization": "Amadeus",
-    "url": "https://amadeus.wd502.myworkdayjobs.com/jobs/job/Berlin/Senior-Data-Scientist---Advertising-division_R36810",
-    "date_posted": "2026-08-18T00:00:00",
-    "date_created": "2026-08-18T13:52:40.477092",
-    "locations_derived": [
-      "Berlin, Germany"
-    ],
-    "cities_derived": [
-      "Berlin"
-    ],
-    "countries_derived": [
-      "Germany"
-    ],
-    "source": "workday",
-    "source_type": "ats",
-    "employment_type": [
-      "Full time"
-    ],
-    "ai_employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_work_arrangement": "Hybrid",
-    "ai_experience_level": "5-10",
-    "ai_job_language": "English",
-    "ai_visa_sponsorship": false,
-    "ai_key_skills": [
-      "Machine Learning",
-      "Python",
-      "SQL",
-      "Statistics",
-      "Data Wrangling",
-      "Model Validation"
-    ]
-  },
-  {
-    "id": 2317498694,
-    "title": "Research Scientist – AI  in Computed Tomography Image Formation (all genders)",
-    "organization": "Philips",
-    "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Hamburg/Research-Scientist---AI--in-Computed-Tomography-Image-Formation--all-genders-_586913-1",
-    "date_posted": "2026-08-18T00:00:00",
-    "date_created": "2026-08-18T12:45:59.334813",
-    "locations_derived": [
-      "Hamburg, Germany"
-    ],
-    "cities_derived": [
-      "Hamburg"
-    ],
-    "countries_derived": [
-      "Germany"
-    ],
-    "source": "workday",
-    "source_type": "ats",
-    "employment_type": [
-      "Full time"
-    ],
-    "ai_employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_work_arrangement": "Hybrid",
-    "ai_salary_currency": "EUR",
-    "ai_salary_min_value": 75336,
-    "ai_salary_max_value": 85744.64,
-    "ai_salary_unit_text": "YEAR",
-    "ai_experience_level": "2-5",
-    "ai_job_language": "English",
-    "ai_visa_sponsorship": false,
-    "ai_key_skills": [
-      "Artificial intelligence",
-      "Computed tomography",
-      "Image reconstruction",
-      "Image denoising",
-      "Deep learning",
-      "Python"
-    ]
-  },
-  {
-    "id": 2317498655,
-    "title": "Research Scientist – Physics of Computed Tomography (all genders)",
-    "organization": "Philips",
-    "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Hamburg/Research-Scientist---Physics-of-Computed-Tomography--all-genders-_586911",
-    "date_posted": "2026-08-18T00:00:00",
-    "date_created": "2026-08-18T12:45:56.274143",
-    "locations_derived": [
-      "Hamburg, Germany"
-    ],
-    "cities_derived": [
-      "Hamburg"
-    ],
-    "countries_derived": [
-      "Germany"
-    ],
-    "source": "workday",
-    "source_type": "ats",
-    "employment_type": [
-      "Full time"
-    ],
-    "ai_employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_work_arrangement": "Hybrid",
-    "ai_salary_currency": "EUR",
-    "ai_salary_min_value": 75336,
-    "ai_salary_max_value": 85744.64,
-    "ai_salary_unit_text": "YEAR",
-    "ai_experience_level": "2-5",
-    "ai_job_language": "English",
-    "ai_visa_sponsorship": false,
-    "ai_key_skills": [
-      "Computed tomography",
-      "X-ray physics",
-      "Solid-state physics",
-      "Medical imaging",
-      "Algorithm development",
-      "Signal processing"
-    ]
-  },
-  {
-    "id": 2317272660,
-    "title": "Senior Data Engineer (f/m/d)_metrify",
-    "organization": "Enpal",
-    "url": "https://jobs.ashbyhq.com/enpal/c4a9146a-d300-4579-9e54-4cbe7805c5fc",
-    "date_posted": "2026-08-18T00:00:00",
-    "date_created": "2026-08-18T09:21:48.713624",
-    "locations_derived": [
-      "Berlin, Germany"
-    ],
-    "cities_derived": [
-      "Berlin"
-    ],
-    "countries_derived": [
-      "Germany"
-    ],
-    "source": "ashby",
-    "source_type": "ats",
-    "employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_work_arrangement": "Hybrid",
-    "ai_experience_level": "5-10",
-    "ai_job_language": "English",
-    "ai_visa_sponsorship": false,
-    "ai_key_skills": [
-      "Data engineering",
-      "Dbt",
-      "Snowflake",
-      "Airflow",
-      "Azure",
-      "Terraform"
     ]
   }
 ]
