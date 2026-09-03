@@ -1,5 +1,165 @@
 [
   {
+    "id": 2345074462,
+    "title": "Data Scientist (m/w/d)",
+    "organization": "WEFRA LIFE",
+    "organization_logo": "https://assets.cdn.personio.de/logos/21778/social/1a0c36df327ede234310716e17d8e91b.svg",
+    "url": "https://wefralife.jobs.personio.de/job/2778331",
+    "date_posted": "2026-09-03T13:10:52",
+    "date_created": "2026-09-03T11:58:00.324557",
+    "locations_derived": [
+      "Zeppelinheim, Hesse, Germany"
+    ],
+    "cities_derived": [
+      "Zeppelinheim"
+    ],
+    "regions_derived": [
+      "Hesse"
+    ],
+    "countries_derived": [
+      "Germany"
+    ],
+    "source": "personio",
+    "source_type": "ats",
+    "employment_type": [
+      "Festanstellung"
+    ],
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "Hybrid",
+    "ai_salary_currency": "EUR",
+    "ai_salary_min_value": 51000,
+    "ai_salary_unit_text": "YEAR",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "German",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Data Science",
+      "Statistics",
+      "Machine Learning",
+      "Python",
+      "Data Analysis",
+      "Predictive Modeling"
+    ]
+  },
+  {
+    "id": 2345074757,
+    "title": "Data Engineer (m/f/d)",
+    "organization": "Sandbox Interactive",
+    "organization_logo": "https://images.teamtailor-cdn.com/images/s3/teamtailor-production/logotype-v3/image_uploads/9799527f-0103-456b-9cfd-f5b07b592da3/original.png",
+    "url": "https://sandboxinteractive.teamtailor.com/jobs/8316016-data-engineer-m-f-d",
+    "date_posted": "2026-09-03T11:09:50",
+    "date_created": "2026-09-03T11:58:21.973332",
+    "locations_derived": [
+      "Berlin, Germany"
+    ],
+    "cities_derived": [
+      "Berlin"
+    ],
+    "countries_derived": [
+      "Germany"
+    ],
+    "source": "teamtailor",
+    "source_type": "ats",
+    "employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "Hybrid",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "English",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "SQL",
+      "Python",
+      "C#",
+      "Data pipelines",
+      "ETL",
+      "Data modeling"
+    ]
+  },
+  {
+    "id": 2344838838,
+    "title": "Senior Machine Learning Engineer – Video AI",
+    "organization": "Snke OS GmbH",
+    "organization_logo": "https://assets.cdn.personio.de/logos/316794/social/bfe0628cbd6badc3d7c7c286667f5a0a.png",
+    "url": "https://snke.jobs.personio.de/job/2780242",
+    "date_posted": "2026-09-03T10:12:40",
+    "date_created": "2026-09-03T09:02:40.851085",
+    "locations_derived": [
+      "Munich, Bavaria, Germany"
+    ],
+    "cities_derived": [
+      "Munich"
+    ],
+    "regions_derived": [
+      "Bavaria"
+    ],
+    "countries_derived": [
+      "Germany"
+    ],
+    "source": "personio",
+    "source_type": "ats",
+    "employment_type": [
+      "Permanent employee"
+    ],
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "Hybrid",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "English",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Machine learning",
+      "Computer vision",
+      "Python",
+      "Video analysis",
+      "Image segmentation",
+      "Object detection"
+    ]
+  },
+  {
+    "id": 2344630482,
+    "title": "Data Engineer II, Operations - Quick Commerce",
+    "organization": "Delivery Hero",
+    "url": "https://jobs.smartrecruiters.com/DeliveryHero/744000147048464-data-engineer-ii-operations-quick-commerce",
+    "date_posted": "2026-09-02T17:27:57.735",
+    "date_created": "2026-09-03T06:14:53.458121",
+    "locations_derived": [
+      "Berlin, Germany"
+    ],
+    "cities_derived": [
+      "Berlin"
+    ],
+    "countries_derived": [
+      "Germany"
+    ],
+    "source": "smartrecruiters",
+    "source_type": "ats",
+    "employment_type": [
+      "Full-time"
+    ],
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "On-site",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "English",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Python",
+      "Docker",
+      "Kubernetes",
+      "Postgres",
+      "AWS",
+      "GCP"
+    ]
+  },
+  {
     "id": 2342757528,
     "title": "AI Engineer - Dealflow (m/w/d)",
     "organization": "FLEX Capital",
@@ -1816,6 +1976,43 @@
     ]
   },
   {
+    "id": 2344895669,
+    "title": "Data Scientist und System Administrator LIMS (all genders)",
+    "organization": "Viega GmbH & Co. KG",
+    "url": "https://careers.viega.com/job/Attendorn-Data-Scientist-und-System-Administrator-LIMS-%28all-genders%29-NW-57439/1367930357/",
+    "date_posted": "2026-08-26T02:00:00",
+    "date_created": "2026-09-03T09:32:14.067358",
+    "locations_derived": [
+      "Attendorn, North Rhine-Westphalia, Germany"
+    ],
+    "cities_derived": [
+      "Attendorn"
+    ],
+    "regions_derived": [
+      "North Rhine-Westphalia"
+    ],
+    "countries_derived": [
+      "Germany"
+    ],
+    "source": "successfactors",
+    "source_type": "ats",
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "Hybrid",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "German",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "LIMS administration",
+      "SQL",
+      "Python",
+      "PowerBI",
+      "PiVision",
+      "Data analysis"
+    ]
+  },
+  {
     "id": 2331709028,
     "title": "AI Engineer (m/f/d) for Semiconductor Innovation",
     "organization": "KLA",
@@ -2950,397 +3147,6 @@
       "Agentic AI",
       "Data science",
       "Satellite imagery"
-    ]
-  },
-  {
-    "id": 2322001713,
-    "title": "Data Engineer (Professional) (Databricks) (m/w/d)",
-    "organization": "Collaboration Betters The World GmbH",
-    "organization_logo": "https://cdn.join.com/64b7c86da30d530009b73201/positive-thinking-company-gmb-h-logo-m.png",
-    "url": "https://join.com/companies/positivethinkingcompanytech/16605071-data-engineer-professional-databricks-m-w-d",
-    "date_posted": "2026-08-20T14:57:04.433",
-    "date_created": "2026-08-20T15:33:58.14988",
-    "locations_derived": [
-      "Stuttgart, Baden-Württemberg, Germany"
-    ],
-    "cities_derived": [
-      "Stuttgart"
-    ],
-    "regions_derived": [
-      "Baden-Württemberg"
-    ],
-    "countries_derived": [
-      "Germany"
-    ],
-    "source": "join.com",
-    "source_type": "ats",
-    "employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_work_arrangement": "Hybrid",
-    "ai_salary_currency": "EUR",
-    "ai_salary_min_value": 65000,
-    "ai_salary_max_value": 80000,
-    "ai_salary_unit_text": "YEAR",
-    "ai_experience_level": "2-5",
-    "ai_job_language": "German",
-    "ai_visa_sponsorship": false,
-    "ai_key_skills": [
-      "Data engineering",
-      "Databricks",
-      "SQL",
-      "Python",
-      "Azure",
-      "AWS"
-    ]
-  },
-  {
-    "id": 2322007239,
-    "title": "Junior Data Engineer (Databricks) (m/w/d)",
-    "organization": "Collaboration Betters The World GmbH",
-    "organization_logo": "https://cdn.join.com/64b7c86da30d530009b73201/positive-thinking-company-gmb-h-logo-m.png",
-    "url": "https://join.com/companies/positivethinkingcompanytech/16605070-junior-data-engineer-databricks-m-w-d",
-    "date_posted": "2026-08-20T14:55:39.8",
-    "date_created": "2026-08-20T15:36:18.216187",
-    "locations_derived": [
-      "Stuttgart, Baden-Württemberg, Germany"
-    ],
-    "cities_derived": [
-      "Stuttgart"
-    ],
-    "regions_derived": [
-      "Baden-Württemberg"
-    ],
-    "countries_derived": [
-      "Germany"
-    ],
-    "source": "join.com",
-    "source_type": "ats",
-    "employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_work_arrangement": "Hybrid",
-    "ai_salary_currency": "EUR",
-    "ai_salary_min_value": 50000,
-    "ai_salary_max_value": 65000,
-    "ai_salary_unit_text": "YEAR",
-    "ai_experience_level": "0-2",
-    "ai_job_language": "German",
-    "ai_visa_sponsorship": false,
-    "ai_key_skills": [
-      "Data engineering",
-      "Databricks",
-      "SQL",
-      "Python",
-      "Cloud technologies",
-      "Data analytics"
-    ]
-  },
-  {
-    "id": 2321999675,
-    "title": "AI Engineer (LLM/RAG) (m/w/d)",
-    "organization": "Nejo",
-    "organization_logo": "https://cdn.join.com/68d2add67f5a4300088d1339/nejo-logo-m.png",
-    "url": "https://join.com/companies/mynejocom/16605066-ai-engineer-llm-rag-m-w-d",
-    "date_posted": "2026-08-20T14:48:10.615",
-    "date_created": "2026-08-20T15:32:47.51107",
-    "locations_derived": [
-      "Cologne, North Rhine-Westphalia, Germany"
-    ],
-    "cities_derived": [
-      "Cologne"
-    ],
-    "regions_derived": [
-      "North Rhine-Westphalia"
-    ],
-    "countries_derived": [
-      "Germany"
-    ],
-    "source": "join.com",
-    "source_type": "ats",
-    "employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_work_arrangement": "Hybrid",
-    "ai_salary_currency": "EUR",
-    "ai_salary_value": 60000,
-    "ai_salary_unit_text": "YEAR",
-    "ai_experience_level": "2-5",
-    "ai_job_language": "English",
-    "ai_visa_sponsorship": false,
-    "ai_key_skills": [
-      "TypeScript",
-      "Node.js",
-      "Next.js",
-      "LLM",
-      "RAG",
-      "Postgres"
-    ],
-    "salary": {
-      "@type": "MonetaryAmount",
-      "currency": "EUR",
-      "value": {
-        "@type": "QuantitativeValue",
-        "value": 60000,
-        "unitText": "YEAR"
-      }
-    }
-  },
-  {
-    "id": 2321861404,
-    "title": "Data Scientist, Buyer",
-    "organization": "Vinted",
-    "url": "https://careers.vinted.com/jobs/4923334101?gh_jid=4923334101",
-    "date_posted": "2026-08-20T13:53:06",
-    "date_created": "2026-08-20T13:57:41.376495",
-    "locations_derived": [
-      "Berlin, Germany"
-    ],
-    "cities_derived": [
-      "Berlin"
-    ],
-    "countries_derived": [
-      "Germany"
-    ],
-    "source": "greenhouse",
-    "source_type": "ats",
-    "ai_employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_work_arrangement": "Hybrid",
-    "ai_salary_currency": "EUR",
-    "ai_salary_min_value": 61200,
-    "ai_salary_max_value": 100100,
-    "ai_salary_unit_text": "YEAR",
-    "ai_experience_level": "2-5",
-    "ai_job_language": "English",
-    "ai_visa_sponsorship": false,
-    "ai_key_skills": [
-      "Python",
-      "SQL",
-      "Machine learning",
-      "Deep learning",
-      "Gradient boosting",
-      "Information retrieval"
-    ]
-  },
-  {
-    "id": 2321614501,
-    "title": "Senior Data Scientist",
-    "organization": "Workato",
-    "url": "https://www.workato.com/careers?gh_jid=8661025002#open-roles",
-    "date_posted": "2026-08-20T10:27:00",
-    "date_created": "2026-08-20T11:12:56.125931",
-    "locations_derived": [
-      "Munich, Bavaria, Germany",
-      "Frankfurt, Hesse, Germany",
-      "Berlin, Germany"
-    ],
-    "cities_derived": [
-      "Frankfurt",
-      "Berlin",
-      "Munich"
-    ],
-    "regions_derived": [
-      "Hesse",
-      "Bavaria"
-    ],
-    "countries_derived": [
-      "Germany",
-      "Germany",
-      "Germany"
-    ],
-    "source": "greenhouse",
-    "source_type": "ats",
-    "ai_employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_work_arrangement": "Remote OK",
-    "ai_experience_level": "2-5",
-    "ai_job_language": "English",
-    "ai_visa_sponsorship": false,
-    "ai_key_skills": [
-      "Python",
-      "Machine Learning",
-      "LLM",
-      "NLP",
-      "Software Engineering",
-      "Data Science"
-    ]
-  },
-  {
-    "id": 2321439178,
-    "title": "Data & Machine Learning Engineer (All genders)",
-    "organization": "STARK",
-    "organization_logo": "https://assets.cdn.personio.de/logos/221201/social/10d52c6594577fdd7a4f540f59e3f8eb.png",
-    "url": "https://stark.jobs.personio.com/job/2761425",
-    "date_posted": "2026-08-20T10:02:46",
-    "date_created": "2026-08-20T08:57:32.347282",
-    "locations_derived": [
-      "Berlin, Germany"
-    ],
-    "cities_derived": [
-      "Berlin"
-    ],
-    "countries_derived": [
-      "Germany"
-    ],
-    "source": "personio",
-    "source_type": "ats",
-    "employment_type": [
-      "Permanent employee"
-    ],
-    "ai_employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_work_arrangement": "On-site",
-    "ai_experience_level": "2-5",
-    "ai_job_language": "English",
-    "ai_visa_sponsorship": false,
-    "ai_key_skills": [
-      "Python",
-      "SQL",
-      "Machine Learning",
-      "Data Engineering",
-      "MLOps",
-      "Scikit-learn"
-    ]
-  },
-  {
-    "id": 2321378397,
-    "title": "AI Engineer (m/w/d)",
-    "organization": "synvert consulting GmbH",
-    "organization_logo": "https://assets.cdn.personio.de/logos/285715/social/56f7adc9748a0d45c909247e838bcab1.png",
-    "url": "https://synvert.jobs.personio.com/job/2440442",
-    "date_posted": "2026-08-20T09:25:10",
-    "date_created": "2026-08-20T07:58:34.094566",
-    "locations_derived": [
-      "Munich, Bavaria, Germany",
-      "Münster, North Rhine-Westphalia, Germany",
-      "Hamburg, Germany",
-      "Baden, Aargau, Switzerland"
-    ],
-    "cities_derived": [
-      "Münster",
-      "Hamburg",
-      "Munich",
-      "Baden"
-    ],
-    "regions_derived": [
-      "North Rhine-Westphalia",
-      "Bavaria",
-      "Aargau"
-    ],
-    "countries_derived": [
-      "Germany",
-      "Germany",
-      "Germany",
-      "Switzerland"
-    ],
-    "source": "personio",
-    "source_type": "ats",
-    "employment_type": [
-      "Festanstellung"
-    ],
-    "ai_employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_work_arrangement": "Hybrid",
-    "ai_experience_level": "2-5",
-    "ai_job_language": "German",
-    "ai_visa_sponsorship": false,
-    "ai_key_skills": [
-      "Artificial Intelligence",
-      "Generative AI",
-      "Cloud Computing",
-      "Machine Learning",
-      "LLM Integration",
-      "Data Engineering"
-    ]
-  },
-  {
-    "id": 2321584501,
-    "title": "Senior Data Engineer - Lounge by Zalando (all genders)",
-    "organization": "Zalando",
-    "url": "https://zalando.wd3.myworkdayjobs.com/ZalandoSiteWD/job/Berlin/Senior-Data-Engineer---Lounge-by-Zalando--all-genders-_2724044-1",
-    "date_posted": "2026-08-20T00:00:00",
-    "date_created": "2026-08-20T10:41:51.693471",
-    "locations_derived": [
-      "Berlin, Germany"
-    ],
-    "cities_derived": [
-      "Berlin"
-    ],
-    "countries_derived": [
-      "Germany"
-    ],
-    "source": "workday",
-    "source_type": "ats",
-    "employment_type": [
-      "Full time"
-    ],
-    "ai_employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_work_arrangement": "Hybrid",
-    "ai_experience_level": "2-5",
-    "ai_job_language": "English",
-    "ai_visa_sponsorship": false,
-    "ai_key_skills": [
-      "Data engineering",
-      "Python",
-      "Java",
-      "Spark",
-      "Hadoop",
-      "Flink"
-    ]
-  },
-  {
-    "id": 2321554240,
-    "title": "Junior AI / Data Engineer (m/f/d)",
-    "organization": "DCMN GmbH",
-    "organization_logo": "https://images7.bamboohr.com/19286/logos/cropped.jpg?v=34",
-    "url": "https://dcmn.bamboohr.com/careers/20",
-    "date_posted": "2026-08-20T00:00:00",
-    "date_created": "2026-08-20T10:07:12.6998",
-    "locations_derived": [
-      "Berlin, Germany"
-    ],
-    "cities_derived": [
-      "Berlin"
-    ],
-    "countries_derived": [
-      "Germany"
-    ],
-    "source": "bamboohr",
-    "source_type": "ats",
-    "employment_type": [
-      "Full-time"
-    ],
-    "ai_employment_type": [
-      "FULL_TIME",
-      "TEMPORARY"
-    ],
-    "ai_work_arrangement": "Hybrid",
-    "ai_experience_level": "0-2",
-    "ai_job_language": "English",
-    "ai_visa_sponsorship": false,
-    "ai_key_skills": [
-      "Python",
-      "Data Engineering",
-      "Backend Engineering",
-      "Data Pipelines",
-      "APIs",
-      "Cloud Environments"
     ]
   }
 ]
