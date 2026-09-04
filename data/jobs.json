@@ -1,5 +1,112 @@
 [
   {
+    "id": 2347256316,
+    "title": "Machine Learning Engineer (m/f/x)",
+    "organization": "CarOnSale",
+    "url": "https://job-boards.eu.greenhouse.io/caronsale/jobs/4968904101",
+    "date_posted": "2026-09-04T12:58:43",
+    "date_created": "2026-09-04T13:15:31.088605",
+    "locations_derived": [
+      "Berlin, Germany"
+    ],
+    "cities_derived": [
+      "Berlin"
+    ],
+    "countries_derived": [
+      "Germany"
+    ],
+    "source": "greenhouse",
+    "source_type": "ats",
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "Hybrid",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "English",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Python",
+      "Machine Learning",
+      "SageMaker",
+      "Vertex AI",
+      "Databricks",
+      "Azure ML"
+    ]
+  },
+  {
+    "id": 2346817095,
+    "title": "Machine Learning Engineer / MLOps Engineer (m/w/d)",
+    "organization": "Rockstardevelopers GmbH",
+    "organization_logo": "https://cdn.join.com/6087daa42b5af70008af5a13/rockstardevelopers-gmb-h-logo-m.png",
+    "url": "https://join.com/companies/rockstardevelopers/16663538-machine-learning-engineer-mlops-engineer-m-w-d",
+    "date_posted": "2026-09-04T05:59:03.333",
+    "date_created": "2026-09-04T06:33:00.466655",
+    "locations_derived": [
+      "Germany"
+    ],
+    "countries_derived": [
+      "Germany"
+    ],
+    "location_type": "TELECOMMUTE",
+    "source": "join.com",
+    "source_type": "ats",
+    "employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "Hybrid",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "German",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Machine Learning",
+      "MLOps",
+      "Python",
+      "Kubernetes",
+      "Docker",
+      "CI/CD"
+    ]
+  },
+  {
+    "id": 2347461449,
+    "title": "BI Data Engineer (w/m/d)",
+    "organization": "Neumann Kaffee Gruppe (NKG)",
+    "url": "https://nkg.wd103.myworkdayjobs.com/nkg/job/Hamburg/BI-Data-Engineer--w-m-d-_JR103341-1",
+    "date_posted": "2026-09-04T00:00:00",
+    "date_created": "2026-09-04T15:32:36.160917",
+    "locations_derived": [
+      "Hamburg, Germany"
+    ],
+    "cities_derived": [
+      "Hamburg"
+    ],
+    "countries_derived": [
+      "Germany"
+    ],
+    "source": "workday",
+    "source_type": "ats",
+    "employment_type": [
+      "Full time"
+    ],
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "Hybrid",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "English",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Business Intelligence",
+      "Data visualization",
+      "SQL",
+      "Data modeling",
+      "ETL processes",
+      "Power BI"
+    ]
+  },
+  {
     "id": 2345074462,
     "title": "Data Scientist (m/w/d)",
     "organization": "WEFRA LIFE",
@@ -120,6 +227,43 @@
       "Video analysis",
       "Image segmentation",
       "Object detection"
+    ]
+  },
+  {
+    "id": 2346678370,
+    "title": "(Senior) Data Engineer (f/m/d): SAP Data on RDF Knowledge Graphs",
+    "organization": "SAP",
+    "url": "https://jobs.sap.com/job/Garching-bei-M%C3%BCnchen-%28Munich%29-%28Senior%29-Data-Engineer-%28fmd%29-SAP-Data-on-RDF-Knowledge-Graphs-85748/1401962933/",
+    "date_posted": "2026-09-03T02:00:00",
+    "date_created": "2026-09-04T04:32:38.635512",
+    "locations_derived": [
+      "Garching bei München, Bavaria, Germany"
+    ],
+    "cities_derived": [
+      "Garching bei München"
+    ],
+    "regions_derived": [
+      "Bavaria"
+    ],
+    "countries_derived": [
+      "Germany"
+    ],
+    "source": "successfactors",
+    "source_type": "ats",
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "Hybrid",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "English",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Data Engineering",
+      "Knowledge Graphs",
+      "RDF",
+      "SPARQL",
+      "Python",
+      "SQL"
     ]
   },
   {
@@ -2574,579 +2718,6 @@
       "LLMs",
       "RAG",
       "Prompting"
-    ]
-  },
-  {
-    "id": 2329230233,
-    "title": "AI Engineer / AI Platform Engineer (w/m/d)",
-    "organization": "MTG AG",
-    "organization_logo": "https://assets.cdn.personio.de/logos/182519/social/daaf508e62cdc56a6d2feccae89300ae.png",
-    "url": "https://mtg-ag.jobs.personio.de/job/2758671",
-    "date_posted": "2026-08-21T13:41:11",
-    "date_created": "2026-08-25T13:57:48.54622",
-    "locations_derived": [
-      "Darmstadt, Hesse, Germany"
-    ],
-    "cities_derived": [
-      "Darmstadt"
-    ],
-    "regions_derived": [
-      "Hesse"
-    ],
-    "countries_derived": [
-      "Germany"
-    ],
-    "source": "personio",
-    "source_type": "ats",
-    "employment_type": [
-      "Festanstellung"
-    ],
-    "ai_employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_work_arrangement": "Hybrid",
-    "ai_experience_level": "2-5",
-    "ai_job_language": "German",
-    "ai_visa_sponsorship": false,
-    "ai_key_skills": [
-      "Artificial Intelligence",
-      "Large Language Models",
-      "RAG",
-      "Vector Databases",
-      "Python",
-      "Docker"
-    ]
-  },
-  {
-    "id": 2323620413,
-    "title": "Data Scientist - Linear Optimization (All Genders)",
-    "organization": "zooplus SE",
-    "url": "https://jobs.smartrecruiters.com/ZooplusSE/744000144741253-data-scientist-linear-optimization-all-genders-",
-    "date_posted": "2026-08-21T11:08:08.387",
-    "date_created": "2026-08-21T11:09:11.832361",
-    "locations_derived": [
-      "Munich, Bavaria, Germany"
-    ],
-    "cities_derived": [
-      "Munich"
-    ],
-    "regions_derived": [
-      "Bavaria"
-    ],
-    "countries_derived": [
-      "Germany"
-    ],
-    "source": "smartrecruiters",
-    "source_type": "ats",
-    "employment_type": [
-      "Full-time"
-    ],
-    "ai_employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_work_arrangement": "Hybrid",
-    "ai_salary_currency": "EUR",
-    "ai_salary_min_value": 63300,
-    "ai_salary_max_value": 77400,
-    "ai_salary_unit_text": "YEAR",
-    "ai_experience_level": "2-5",
-    "ai_job_language": "English",
-    "ai_visa_sponsorship": false,
-    "ai_key_skills": [
-      "Linear optimization",
-      "Mixed integer programming",
-      "Gurobi",
-      "Python",
-      "SQL",
-      "Pandas"
-    ]
-  },
-  {
-    "id": 2323601004,
-    "title": "Data Engineer  (Focus AI & Data Platform) (m/w/d)",
-    "organization": "Evernest",
-    "url": "https://www.evernest.com/de/karriere/job/4957926101/?gh_jid=4957926101",
-    "date_posted": "2026-08-21T10:16:24",
-    "date_created": "2026-08-21T10:42:41.489354",
-    "locations_derived": [
-      "Hamburg, Germany"
-    ],
-    "cities_derived": [
-      "Hamburg"
-    ],
-    "countries_derived": [
-      "Germany"
-    ],
-    "source": "greenhouse",
-    "source_type": "ats",
-    "ai_employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_work_arrangement": "Hybrid",
-    "ai_experience_level": "2-5",
-    "ai_job_language": "German",
-    "ai_visa_sponsorship": false,
-    "ai_key_skills": [
-      "Data Engineering",
-      "Python",
-      "SQL",
-      "Google Cloud Platform",
-      "BigQuery",
-      "dbt"
-    ]
-  },
-  {
-    "id": 2323537954,
-    "title": "AI Engineer / Specialist (m/f/d)",
-    "organization": "REPA GROUP",
-    "url": "https://jobs.smartrecruiters.com/REPAGROUP/744000144725420-ai-engineer-specialist-m-f-d-",
-    "date_posted": "2026-08-21T09:38:53.797",
-    "date_created": "2026-08-21T09:41:11.747807",
-    "locations_derived": [
-      "Feldgeding, Bavaria, Germany"
-    ],
-    "cities_derived": [
-      "Feldgeding"
-    ],
-    "regions_derived": [
-      "Bavaria"
-    ],
-    "countries_derived": [
-      "Germany"
-    ],
-    "source": "smartrecruiters",
-    "source_type": "ats",
-    "employment_type": [
-      "Full-time"
-    ],
-    "ai_employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_work_arrangement": "Hybrid",
-    "ai_experience_level": "2-5",
-    "ai_job_language": "English",
-    "ai_visa_sponsorship": false,
-    "ai_key_skills": [
-      "Python",
-      "SQL",
-      "Generative AI",
-      "LLMs",
-      "RAG",
-      "Prompt Engineering"
-    ]
-  },
-  {
-    "id": 2323521783,
-    "title": "AI Engineer / Specialist (m/f/d)",
-    "organization": "REPA GROUP",
-    "url": "https://jobs.smartrecruiters.com/REPAGROUP/744000144722810-ai-engineer-specialist-m-f-d-",
-    "date_posted": "2026-08-21T09:25:47.523",
-    "date_created": "2026-08-21T09:29:15.175588",
-    "locations_derived": [
-      "Feldgeding, Bavaria, Germany"
-    ],
-    "cities_derived": [
-      "Feldgeding"
-    ],
-    "regions_derived": [
-      "Bavaria"
-    ],
-    "countries_derived": [
-      "Germany"
-    ],
-    "source": "smartrecruiters",
-    "source_type": "ats",
-    "employment_type": [
-      "Full-time"
-    ],
-    "ai_employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_work_arrangement": "Hybrid",
-    "ai_experience_level": "2-5",
-    "ai_job_language": "English",
-    "ai_visa_sponsorship": false,
-    "ai_key_skills": [
-      "Python",
-      "SQL",
-      "Generative AI",
-      "LLMs",
-      "RAG",
-      "Prompt Engineering"
-    ]
-  },
-  {
-    "id": 2323569685,
-    "title": "(Junior) Data Scientist (m/w/d) – Generative AI Mietwagen International",
-    "organization": "CHECK24",
-    "url": "https://jobs.smartrecruiters.com/CHECK24/744000144719238--junior-data-scientist-m-w-d-generative-ai-mietwagen-international",
-    "date_posted": "2026-08-21T09:05:25.258",
-    "date_created": "2026-08-21T10:15:47.816302",
-    "locations_derived": [
-      "Munich, Bavaria, Germany"
-    ],
-    "cities_derived": [
-      "Munich"
-    ],
-    "regions_derived": [
-      "Bavaria"
-    ],
-    "countries_derived": [
-      "Germany"
-    ],
-    "source": "smartrecruiters",
-    "source_type": "ats",
-    "employment_type": [
-      "Vollzeit"
-    ],
-    "ai_employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_work_arrangement": "On-site",
-    "ai_experience_level": "0-2",
-    "ai_job_language": "German",
-    "ai_visa_sponsorship": false,
-    "ai_key_skills": [
-      "Generative AI",
-      "Large Language Models",
-      "Python",
-      "Data Science",
-      "Context Engineering",
-      "Git"
-    ]
-  },
-  {
-    "id": 2323503943,
-    "title": "AI Engineer (m/f/d)",
-    "organization": "BEUMER Group",
-    "url": "https://jobs.smartrecruiters.com/BEUMERGroup1/744000144715728-ai-engineer-m-f-d-",
-    "date_posted": "2026-08-21T08:44:29.694",
-    "date_created": "2026-08-21T09:13:33.684898",
-    "locations_derived": [
-      "Dortmund, North Rhine-Westphalia, Germany"
-    ],
-    "cities_derived": [
-      "Dortmund"
-    ],
-    "regions_derived": [
-      "North Rhine-Westphalia"
-    ],
-    "countries_derived": [
-      "Germany"
-    ],
-    "source": "smartrecruiters",
-    "source_type": "ats",
-    "employment_type": [
-      "Full-time"
-    ],
-    "ai_employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_work_arrangement": "On-site",
-    "ai_experience_level": "2-5",
-    "ai_job_language": "English",
-    "ai_visa_sponsorship": false,
-    "ai_key_skills": [
-      "Python",
-      "JavaScript",
-      "Azure AI Foundry",
-      "Generative AI",
-      "Prompt Engineering",
-      "AI Agents"
-    ]
-  },
-  {
-    "id": 2323503946,
-    "title": "AI Engineer (m/f/d)",
-    "organization": "BEUMER Group",
-    "url": "https://jobs.smartrecruiters.com/BEUMERGroup1/744000144715588-ai-engineer-m-f-d-",
-    "date_posted": "2026-08-21T08:44:00.568",
-    "date_created": "2026-08-21T09:13:33.772217",
-    "locations_derived": [
-      "Beckum, North Rhine-Westphalia, Germany"
-    ],
-    "cities_derived": [
-      "Beckum"
-    ],
-    "regions_derived": [
-      "North Rhine-Westphalia"
-    ],
-    "countries_derived": [
-      "Germany"
-    ],
-    "source": "smartrecruiters",
-    "source_type": "ats",
-    "employment_type": [
-      "Full-time"
-    ],
-    "ai_employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_work_arrangement": "On-site",
-    "ai_experience_level": "2-5",
-    "ai_job_language": "English",
-    "ai_visa_sponsorship": false,
-    "ai_key_skills": [
-      "Python",
-      "JavaScript",
-      "Azure AI Foundry",
-      "Generative AI",
-      "Prompt Engineering",
-      "AI Agents"
-    ]
-  },
-  {
-    "id": 2323436060,
-    "title": "Data Engineer for Live Intelligence (m/w/d)",
-    "organization": "Sopra Steria",
-    "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000144707619-data-engineer-for-live-intelligence-m-w-d-",
-    "date_posted": "2026-08-21T08:02:01.789",
-    "date_created": "2026-08-21T08:21:02.137945",
-    "locations_derived": [
-      "Hamburg, Germany"
-    ],
-    "cities_derived": [
-      "Hamburg"
-    ],
-    "countries_derived": [
-      "Germany"
-    ],
-    "source": "smartrecruiters",
-    "source_type": "ats",
-    "employment_type": [
-      "Vollzeit"
-    ],
-    "ai_employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_work_arrangement": "Hybrid",
-    "ai_experience_level": "0-2",
-    "ai_job_language": "German",
-    "ai_visa_sponsorship": false,
-    "ai_key_skills": [
-      "Data engineering",
-      "Data analytics",
-      "Data science",
-      "Python",
-      "SQL",
-      "JavaScript"
-    ]
-  },
-  {
-    "id": 2340565427,
-    "title": "Forward Deployed AI Engineer, Germany ",
-    "organization": "ICEYE",
-    "url": "https://jobs.ashbyhq.com/iceye/f1923306-9ffa-4b2f-bee3-c7472c711167",
-    "date_posted": "2026-08-21T00:00:00",
-    "date_created": "2026-09-01T09:21:56.701681",
-    "locations_derived": [
-      "Munich, Bavaria, Germany"
-    ],
-    "cities_derived": [
-      "Munich"
-    ],
-    "regions_derived": [
-      "Bavaria"
-    ],
-    "countries_derived": [
-      "Germany"
-    ],
-    "location_type": "TELECOMMUTE",
-    "source": "ashby",
-    "source_type": "ats",
-    "employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_work_arrangement": "Hybrid",
-    "ai_experience_level": "2-5",
-    "ai_job_language": "English",
-    "ai_visa_sponsorship": false,
-    "ai_key_skills": [
-      "Python",
-      "Docker",
-      "Kubernetes",
-      "LLMs",
-      "Prompt engineering",
-      "RAG systems"
-    ]
-  },
-  {
-    "id": 2324343793,
-    "title": "Senior Associate Biomarker Data Scientist",
-    "organization": "Parexel",
-    "url": "https://wd1.myworkdaysite.com/recruiting/parexel/Parexel_External_Careers/job/United-Kingdom-Harrow-Remote/Senior-Associate-Biomarker-Data-Scientist_R0000044246-1",
-    "date_posted": "2026-08-21T00:00:00",
-    "date_created": "2026-08-21T19:30:53.147386",
-    "locations_derived": [
-      "Paris, Ile-de-France, France",
-      "Berlin, Germany",
-      "Harrow, England, United Kingdom",
-      "Lithuania",
-      "Poland",
-      "Romania",
-      "Serbia",
-      "Spain"
-    ],
-    "cities_derived": [
-      "Harrow",
-      "Berlin",
-      "Paris"
-    ],
-    "regions_derived": [
-      "England",
-      "Ile-de-France"
-    ],
-    "countries_derived": [
-      "Spain",
-      "United Kingdom",
-      "Germany",
-      "Romania",
-      "Lithuania",
-      "France",
-      "Serbia",
-      "Poland"
-    ],
-    "source": "workday",
-    "source_type": "ats",
-    "employment_type": [
-      "Full time"
-    ],
-    "ai_employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_work_arrangement": "Remote OK",
-    "ai_experience_level": "2-5",
-    "ai_job_language": "English",
-    "ai_visa_sponsorship": false,
-    "ai_key_skills": [
-      "R",
-      "R Shiny",
-      "Bash",
-      "Git",
-      "Claude Code",
-      "SQL"
-    ]
-  },
-  {
-    "id": 2323451236,
-    "title": "Data Scientist (w/m/d)",
-    "organization": "JENOPTIK AG",
-    "url": "https://careers.jenoptik.com/job/Jena-Data-Scientist-%28wmd%29-Thur/1365224455/",
-    "date_posted": "2026-08-21T00:00:00",
-    "date_created": "2026-08-21T08:37:43.544378",
-    "locations_derived": [
-      "Jena, Thuringia, Germany"
-    ],
-    "cities_derived": [
-      "Jena"
-    ],
-    "regions_derived": [
-      "Thuringia"
-    ],
-    "countries_derived": [
-      "Germany"
-    ],
-    "source": "successfactors",
-    "source_type": "ats",
-    "ai_employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_work_arrangement": "On-site",
-    "ai_experience_level": "2-5",
-    "ai_job_language": "German",
-    "ai_visa_sponsorship": false,
-    "ai_key_skills": [
-      "Machine Learning",
-      "Artificial Intelligence",
-      "Web Development",
-      "Fullstack Development",
-      "Docker",
-      "Kubernetes"
-    ]
-  },
-  {
-    "id": 2323451235,
-    "title": "Data Scientist (w/m/d)",
-    "organization": "JENOPTIK AG",
-    "url": "https://careers.jenoptik.com/job/Jena-Data-Scientist-%28wmd%29-Th%C3%BCr/1365224355/",
-    "date_posted": "2026-08-21T00:00:00",
-    "date_created": "2026-08-21T08:37:43.529246",
-    "locations_derived": [
-      "Jena, Thuringia, Germany"
-    ],
-    "cities_derived": [
-      "Jena"
-    ],
-    "regions_derived": [
-      "Thuringia"
-    ],
-    "countries_derived": [
-      "Germany"
-    ],
-    "source": "successfactors",
-    "source_type": "ats",
-    "ai_employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_work_arrangement": "On-site",
-    "ai_experience_level": "2-5",
-    "ai_job_language": "German",
-    "ai_visa_sponsorship": false,
-    "ai_key_skills": [
-      "Machine Learning",
-      "Artificial Intelligence",
-      "Web Development",
-      "Fullstack Development",
-      "Docker",
-      "Kubernetes"
-    ]
-  },
-  {
-    "id": 2322214637,
-    "title": "Geospatial Data Engineer - Customer & AI Solutions",
-    "organization": "VIDA.place",
-    "organization_logo": "https://assets.cdn.personio.de/logos/148404/social/11f3dcb3b1828eceb1a6c6b386b5c579.png",
-    "url": "https://vida-place.jobs.personio.de/job/2762571",
-    "date_posted": "2026-08-20T19:12:46",
-    "date_created": "2026-08-20T17:56:56.999751",
-    "locations_derived": [
-      "Munich, Bavaria, Germany",
-      "Nairobi, Nairobi County, Kenya"
-    ],
-    "cities_derived": [
-      "Munich",
-      "Nairobi"
-    ],
-    "regions_derived": [
-      "Bavaria",
-      "Nairobi County"
-    ],
-    "countries_derived": [
-      "Germany",
-      "Kenya"
-    ],
-    "source": "personio",
-    "source_type": "ats",
-    "employment_type": [
-      "Permanent employee"
-    ],
-    "ai_employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_work_arrangement": "Remote OK",
-    "ai_experience_level": "2-5",
-    "ai_job_language": "English",
-    "ai_visa_sponsorship": false,
-    "ai_key_skills": [
-      "Python",
-      "Geospatial data engineering",
-      "Software engineering",
-      "Agentic AI",
-      "Data science",
-      "Satellite imagery"
     ]
   }
 ]
