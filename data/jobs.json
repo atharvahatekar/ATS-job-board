@@ -70,6 +70,44 @@
     ]
   },
   {
+    "id": 2347658111,
+    "title": "Full Stack AI Engineer (f/m/x) - Innovation and the TDI Chief Strategy Office",
+    "organization": "Deutsche Bank",
+    "url": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Berlin-Otto-Suhr-Allee-16/Full-Stack-AI-Engineer--f-m-x----Innovation-and-the-TDI-Chief-Strategy-Office_R0448108",
+    "date_posted": "2026-09-04T00:00:00",
+    "date_created": "2026-09-04T17:43:33.133803",
+    "locations_derived": [
+      "Berlin, Germany"
+    ],
+    "cities_derived": [
+      "Berlin"
+    ],
+    "countries_derived": [
+      "Germany"
+    ],
+    "source": "workday",
+    "source_type": "ats",
+    "employment_type": [
+      "Full time"
+    ],
+    "ai_employment_type": [
+      "FULL_TIME",
+      "PART_TIME"
+    ],
+    "ai_work_arrangement": "Hybrid",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "English",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "React",
+      "Python",
+      "FastAPI",
+      "Large Language Models",
+      "Agentic AI",
+      "Frontend development"
+    ]
+  },
+  {
     "id": 2347461449,
     "title": "BI Data Engineer (w/m/d)",
     "organization": "Neumann Kaffee Gruppe (NKG)",
@@ -264,6 +302,50 @@
       "SPARQL",
       "Python",
       "SQL"
+    ]
+  },
+  {
+    "id": 2349109212,
+    "title": "AI Engineer - Automation & Data Integration",
+    "organization": "Logicalis",
+    "url": "https://logicalis.wd3.myworkdayjobs.com/LogicalisCareers/job/Frankfurt-am-Main/AI-Engineer---Automation---Data-Integration_JR05361",
+    "date_posted": "2026-09-03T00:00:00",
+    "date_created": "2026-09-05T09:28:51.904754",
+    "locations_derived": [
+      "Frankfurt, Hesse, Germany",
+      "Neu-Isenburg, Hesse, Germany"
+    ],
+    "cities_derived": [
+      "Frankfurt",
+      "Neu-Isenburg"
+    ],
+    "regions_derived": [
+      "Hesse",
+      "Hesse"
+    ],
+    "countries_derived": [
+      "Germany",
+      "Germany"
+    ],
+    "source": "workday",
+    "source_type": "ats",
+    "employment_type": [
+      "Full time"
+    ],
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "Remote OK",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "German",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Python",
+      "LangGraph",
+      "LangChain",
+      "Data integration",
+      "Automation",
+      "API development"
     ]
   },
   {
@@ -2673,51 +2755,6 @@
       "Machine Learning",
       "Product Analytics",
       "A/B Testing"
-    ]
-  },
-  {
-    "id": 2327342386,
-    "title": "Forward Deployed AI Engineer",
-    "organization": "DL Remote",
-    "organization_logo": "https://images.teamtailor-cdn.com/images/s3/teamtailor-production/logotype-v3/image_uploads/089860b7-4b5d-4dab-a282-8149ac330be6/original.png",
-    "url": "https://jobs.dl-remote.com/jobs/8255904-forward-deployed-ai-engineer",
-    "date_posted": "2026-08-22T07:33:06",
-    "date_created": "2026-08-24T14:20:39.01821",
-    "locations_derived": [
-      "Berlin, Berlin, Germany"
-    ],
-    "cities_derived": [
-      "Berlin"
-    ],
-    "regions_derived": [
-      "Berlin"
-    ],
-    "countries_derived": [
-      "Germany"
-    ],
-    "location_type": "TELECOMMUTE",
-    "source": "teamtailor",
-    "source_type": "ats",
-    "employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_work_arrangement": "Remote OK",
-    "ai_salary_currency": "EUR",
-    "ai_salary_max_value": 100000,
-    "ai_salary_unit_text": "YEAR",
-    "ai_experience_level": "2-5",
-    "ai_job_language": "German",
-    "ai_visa_sponsorship": false,
-    "ai_key_skills": [
-      "Python",
-      "TypeScript",
-      "AI Systems",
-      "LLMs",
-      "RAG",
-      "Prompting"
     ]
   }
 ]
