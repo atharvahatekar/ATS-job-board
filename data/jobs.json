@@ -427,6 +427,47 @@
     ]
   },
   {
+    "id": 2350340491,
+    "title": "Fullstack AI Engineer",
+    "organization": "CLAR AI",
+    "organization_logo": "https://app.ashbyhq.com/api/images/org-theme-logo/6670364f-2054-405b-b957-66264f459fbe/964b2813-15a9-4a43-bd27-7ebabffc3370/52dbfced-6049-4e09-bbb3-6cef3445625a.png",
+    "url": "https://jobs.ashbyhq.com/clar/8518235e-ce2b-4bf9-bff7-b088e55a8ec7",
+    "date_posted": "2026-09-02T00:00:00",
+    "date_created": "2026-09-07T00:21:40.403444",
+    "locations_derived": [
+      "Munich, Bavaria, Germany"
+    ],
+    "cities_derived": [
+      "Munich"
+    ],
+    "regions_derived": [
+      "Bavaria"
+    ],
+    "countries_derived": [
+      "Germany"
+    ],
+    "source": "ashby",
+    "source_type": "ats",
+    "employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "On-site",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "English",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Fullstack Engineering",
+      "React",
+      "Typescript",
+      "NodeJS",
+      "Python",
+      "AI Agent Development"
+    ]
+  },
+  {
     "id": 2343130493,
     "title": "Data Engineer (m/f/d)",
     "organization": "EOS",
@@ -2434,327 +2475,6 @@
       "Mathematical optimization",
       "GenAI",
       "Supply Chain Management"
-    ]
-  },
-  {
-    "id": 2327389289,
-    "title": "AI Engineer (w/m/d)",
-    "organization": "Ppc Ag",
-    "organization_logo": "https://assets.cdn.personio.de/logos/83264/social/bfe0628cbd6badc3d7c7c286667f5a0a.png",
-    "url": "https://ppc-ag.jobs.personio.de/job/2765580/apply",
-    "date_posted": "2026-08-24T15:22:26",
-    "date_created": "2026-08-24T14:59:43.097484",
-    "locations_derived": [
-      "Mannheim, Baden-Württemberg, Germany"
-    ],
-    "cities_derived": [
-      "Mannheim"
-    ],
-    "regions_derived": [
-      "Baden-Württemberg"
-    ],
-    "countries_derived": [
-      "Germany"
-    ],
-    "source": "personio",
-    "source_type": "ats",
-    "employment_type": [
-      "Festanstellung"
-    ],
-    "ai_employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_work_arrangement": "Hybrid",
-    "ai_experience_level": "2-5",
-    "ai_job_language": "German",
-    "ai_visa_sponsorship": false,
-    "ai_key_skills": [
-      "Artificial Intelligence",
-      "Machine Learning",
-      "Large Language Models",
-      "Generative AI",
-      "Python",
-      "API Integration"
-    ]
-  },
-  {
-    "id": 2327324058,
-    "title": "AI Engineer (w/m/d)",
-    "organization": "Ppc Ag",
-    "organization_logo": "https://assets.cdn.personio.de/logos/83264/social/bfe0628cbd6badc3d7c7c286667f5a0a.png",
-    "url": "https://ppc-ag.jobs.personio.de/job/2765580",
-    "date_posted": "2026-08-24T15:22:26",
-    "date_created": "2026-08-24T13:58:30.495624",
-    "locations_derived": [
-      "Mannheim, Baden-Württemberg, Germany"
-    ],
-    "cities_derived": [
-      "Mannheim"
-    ],
-    "regions_derived": [
-      "Baden-Württemberg"
-    ],
-    "countries_derived": [
-      "Germany"
-    ],
-    "source": "personio",
-    "source_type": "ats",
-    "employment_type": [
-      "Festanstellung"
-    ],
-    "ai_employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_work_arrangement": "Hybrid",
-    "ai_experience_level": "2-5",
-    "ai_job_language": "German",
-    "ai_visa_sponsorship": false,
-    "ai_key_skills": [
-      "Artificial Intelligence",
-      "Machine Learning",
-      "Large Language Models",
-      "Generative AI",
-      "Prompt Engineering",
-      "Retrieval-Augmented Generation"
-    ]
-  },
-  {
-    "id": 2327162502,
-    "title": "Full-Stack Data Engineer (w/m/d)",
-    "organization": "mellow NOIR - Karriere",
-    "organization_logo": "https://assets.cdn.personio.de/logos/182130/social/bed09569e955f6e8c3c49bd7189f0f06.png",
-    "url": "https://mellownoir.jobs.personio.com/job/2765233",
-    "date_posted": "2026-08-24T12:50:24",
-    "date_created": "2026-08-24T10:55:55.887896",
-    "locations_derived": [
-      "Frankfurt, Hesse, Germany",
-      "Berlin, Germany"
-    ],
-    "cities_derived": [
-      "Frankfurt",
-      "Berlin"
-    ],
-    "regions_derived": [
-      "Hesse"
-    ],
-    "countries_derived": [
-      "Germany",
-      "Germany"
-    ],
-    "source": "personio",
-    "source_type": "ats",
-    "employment_type": [
-      "Festanstellung"
-    ],
-    "ai_employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_work_arrangement": "Hybrid",
-    "ai_salary_currency": "EUR",
-    "ai_salary_min_value": 60000,
-    "ai_salary_max_value": 90000,
-    "ai_salary_unit_text": "YEAR",
-    "ai_experience_level": "2-5",
-    "ai_job_language": "German",
-    "ai_visa_sponsorship": false,
-    "ai_key_skills": [
-      "Data Engineering",
-      "SQL",
-      "Python",
-      "Linux",
-      "Docker",
-      "Google BigQuery"
-    ]
-  },
-  {
-    "id": 2327193115,
-    "title": "AI Engineer (m/f/d)",
-    "organization": "Lucid Labs",
-    "organization_logo": "https://cdn.join.com/67b48d9bd2c2570008b2fdc6/lucid-labs-logo-m.jpg",
-    "url": "https://join.com/companies/lucidlabs/16619397-ai-engineer-m-f-d",
-    "date_posted": "2026-08-24T11:29:59.97",
-    "date_created": "2026-08-24T11:37:37.714817",
-    "locations_derived": [
-      "Germany"
-    ],
-    "countries_derived": [
-      "Germany"
-    ],
-    "location_type": "TELECOMMUTE",
-    "source": "join.com",
-    "source_type": "ats",
-    "employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_work_arrangement": "Hybrid",
-    "ai_experience_level": "2-5",
-    "ai_job_language": "English",
-    "ai_visa_sponsorship": false,
-    "ai_key_skills": [
-      "AI Engineering",
-      "LLM",
-      "Next.js",
-      "TypeScript",
-      "React",
-      "Prompt Engineering"
-    ]
-  },
-  {
-    "id": 2327048439,
-    "title": "Data Engineer Junior - Schwerpunkt Datenpipelines (m/w/d)",
-    "organization": "Aktion Mensch e.V.",
-    "organization_logo": "https://assets.cdn.personio.de/logos/33513/social/76b66d2198f73d0e81f4f4ce8e23bb9a.png",
-    "url": "https://aktion-mensch.jobs.personio.de/job/2764882",
-    "date_posted": "2026-08-24T09:49:21",
-    "date_created": "2026-08-24T07:56:51.191695",
-    "locations_derived": [
-      "Bonn, North Rhine-Westphalia, Germany"
-    ],
-    "cities_derived": [
-      "Bonn"
-    ],
-    "regions_derived": [
-      "North Rhine-Westphalia"
-    ],
-    "countries_derived": [
-      "Germany"
-    ],
-    "source": "personio",
-    "source_type": "ats",
-    "employment_type": [
-      "Festanstellung"
-    ],
-    "ai_employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_work_arrangement": "Hybrid",
-    "ai_salary_currency": "EUR",
-    "ai_salary_min_value": 58000,
-    "ai_salary_max_value": 60000,
-    "ai_salary_unit_text": "YEAR",
-    "ai_experience_level": "0-2",
-    "ai_job_language": "German",
-    "ai_visa_sponsorship": false,
-    "ai_key_skills": [
-      "Data engineering",
-      "SQL",
-      "Python",
-      "Data modeling",
-      "ETL",
-      "ELT"
-    ]
-  },
-  {
-    "id": 2327042739,
-    "title": "Senior Machine Learning Engineer - (Logistics, Optimization)",
-    "organization": "Delivery Hero",
-    "url": "https://jobs.smartrecruiters.com/DeliveryHero/744000145204628-senior-machine-learning-engineer-logistics-optimization-",
-    "date_posted": "2026-08-24T07:37:49.881",
-    "date_created": "2026-08-24T07:41:18.891836",
-    "locations_derived": [
-      "Berlin, Germany"
-    ],
-    "cities_derived": [
-      "Berlin"
-    ],
-    "countries_derived": [
-      "Germany"
-    ],
-    "source": "smartrecruiters",
-    "source_type": "ats",
-    "employment_type": [
-      "Full-time"
-    ],
-    "ai_employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_work_arrangement": "Hybrid",
-    "ai_experience_level": "2-5",
-    "ai_job_language": "English",
-    "ai_visa_sponsorship": false,
-    "ai_key_skills": [
-      "Machine learning engineering",
-      "MLOps",
-      "Python",
-      "System design",
-      "Statistics",
-      "Probability"
-    ]
-  },
-  {
-    "id": 2327034023,
-    "title": "Data Scientist - (Logistics, Optimization)",
-    "organization": "Delivery Hero",
-    "url": "https://jobs.smartrecruiters.com/DeliveryHero/744000145203218-data-scientist-logistics-optimization-",
-    "date_posted": "2026-08-24T07:30:40.372",
-    "date_created": "2026-08-24T07:33:17.664525",
-    "locations_derived": [
-      "Berlin, Germany"
-    ],
-    "cities_derived": [
-      "Berlin"
-    ],
-    "countries_derived": [
-      "Germany"
-    ],
-    "source": "smartrecruiters",
-    "source_type": "ats",
-    "employment_type": [
-      "Full-time"
-    ],
-    "ai_employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_work_arrangement": "Hybrid",
-    "ai_experience_level": "2-5",
-    "ai_job_language": "English",
-    "ai_visa_sponsorship": false,
-    "ai_key_skills": [
-      "Machine learning",
-      "Statistics",
-      "Mathematics",
-      "Python",
-      "Pandas",
-      "Scikit-learn"
-    ]
-  },
-  {
-    "id": 2326939698,
-    "title": "Data Scientist - RealAdvisor",
-    "organization": "RealAdvisor S.A.",
-    "organization_logo": "https://workablehr.s3.amazonaws.com/uploads/account/logo/724616/logo",
-    "url": "https://jobs.workable.com/view/gWXuTsykMoyH3go552Fj2H/remote-data-scientist---realadvisor-in-germany-at-realadvisor-s.a.",
-    "date_posted": "2026-08-24T03:39:15.636",
-    "date_created": "2026-08-24T04:32:43.934846",
-    "locations_derived": [
-      "Germany"
-    ],
-    "countries_derived": [
-      "Germany"
-    ],
-    "location_type": "TELECOMMUTE",
-    "source": "workable",
-    "source_type": "ats",
-    "employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_work_arrangement": "Remote Solely",
-    "ai_experience_level": "2-5",
-    "ai_job_language": "English",
-    "ai_visa_sponsorship": false,
-    "ai_key_skills": [
-      "Python",
-      "SQL",
-      "Data Science",
-      "Machine Learning",
-      "Product Analytics",
-      "A/B Testing"
     ]
   }
 ]
