@@ -1,5 +1,329 @@
 [
   {
+    "id": 2352208337,
+    "title": "Senior AI-Native Data Engineer (f/m/x)",
+    "organization": "exmox",
+    "organization_logo": "https://assets.cdn.personio.de/logos/266175/social/200a61f122b1c343f0d24fc495eb6ee1.jpg",
+    "url": "https://exmox-gmbh.jobs.personio.com/job/2786318",
+    "date_posted": "2026-09-08T11:50:51",
+    "date_created": "2026-09-08T10:58:07.016443",
+    "locations_derived": [
+      "Hamburg, Germany"
+    ],
+    "cities_derived": [
+      "Hamburg"
+    ],
+    "countries_derived": [
+      "Germany"
+    ],
+    "source": "personio",
+    "source_type": "ats",
+    "employment_type": [
+      "Permanent employee"
+    ],
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "On-site",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "English",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Data engineering",
+      "Databricks",
+      "Python",
+      "SQL",
+      "PySpark",
+      "AWS"
+    ]
+  },
+  {
+    "id": 2352064158,
+    "title": "Senior Ai Engineer",
+    "organization": "Typeform",
+    "url": "https://job-boards.greenhouse.io/typeform/jobs/8185412",
+    "date_posted": "2026-09-08T08:30:07",
+    "date_created": "2026-09-08T09:13:35.756702",
+    "locations_derived": [
+      "Germany",
+      "Ireland",
+      "Netherlands",
+      "Portugal",
+      "Spain",
+      "United Kingdom"
+    ],
+    "countries_derived": [
+      "Netherlands",
+      "Spain",
+      "United Kingdom",
+      "Germany",
+      "Portugal",
+      "Ireland"
+    ],
+    "source": "greenhouse",
+    "source_type": "ats",
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "Remote OK",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "English",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Python",
+      "Generative AI",
+      "Large Language Models",
+      "RAG",
+      "Agentic Systems",
+      "Machine Learning"
+    ]
+  },
+  {
+    "id": 2351983249,
+    "title": "(Junior) Data Scientist (m/f/d) Search / AI Forge",
+    "organization": "CHECK24",
+    "url": "https://jobs.smartrecruiters.com/CHECK24/744000148153035--junior-data-scientist-m-f-d-search-ai-forge",
+    "date_posted": "2026-09-08T07:44:45.799",
+    "date_created": "2026-09-08T08:13:19.190846",
+    "locations_derived": [
+      "Munich, Bavaria, Germany"
+    ],
+    "cities_derived": [
+      "Munich"
+    ],
+    "regions_derived": [
+      "Bavaria"
+    ],
+    "countries_derived": [
+      "Germany"
+    ],
+    "source": "smartrecruiters",
+    "source_type": "ats",
+    "employment_type": [
+      "Full-time"
+    ],
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "Hybrid",
+    "ai_experience_level": "0-2",
+    "ai_job_language": "English",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Python",
+      "Machine Learning",
+      "Deep Learning",
+      "PyTorch",
+      "Information Retrieval",
+      "Large Language Models"
+    ]
+  },
+  {
+    "id": 2352007851,
+    "title": "Data Engineer (f/m/d)",
+    "organization": "Moonfare",
+    "url": "https://www.moonfare.com/open-position/?gh_jid=7773348003",
+    "date_posted": "2026-09-08T07:40:21",
+    "date_created": "2026-09-08T08:37:56.275522",
+    "locations_derived": [
+      "Berlin, Germany"
+    ],
+    "cities_derived": [
+      "Berlin"
+    ],
+    "countries_derived": [
+      "Germany"
+    ],
+    "source": "greenhouse",
+    "source_type": "ats",
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "On-site",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "English",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Python",
+      "SQL",
+      "AWS",
+      "DBT",
+      "Data pipelines",
+      "Data modeling"
+    ]
+  },
+  {
+    "id": 2352435968,
+    "title": "Data Scientist - Retail Analytics & AI (all genders)",
+    "organization": "GK Software",
+    "url": "https://careers.gk-software.com/job/Data-Scientist-Retail-Analytics-&-AI-%28all-genders%29/1367584355/",
+    "date_posted": "2026-09-08T00:00:00",
+    "date_created": "2026-09-08T13:48:51.897966",
+    "locations_derived": [
+      "Chemnitz, Saxony, Germany",
+      "Jena, Thuringia, Germany"
+    ],
+    "cities_derived": [
+      "Jena",
+      "Chemnitz"
+    ],
+    "regions_derived": [
+      "Thuringia",
+      "Saxony"
+    ],
+    "countries_derived": [
+      "Germany",
+      "Germany"
+    ],
+    "source": "successfactors",
+    "source_type": "ats",
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "Hybrid",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "English",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Python",
+      "SQL",
+      "Machine learning",
+      "Data science",
+      "Mathematical optimization",
+      "Demand forecasting"
+    ]
+  },
+  {
+    "id": 2352403889,
+    "title": "Data Engineer  - Remote in Germany",
+    "organization": "Synera GmbH",
+    "url": "https://synera.recruitee.com/o/data-engineer-remote-in-germany",
+    "date_posted": "2026-09-08T00:00:00",
+    "date_created": "2026-09-08T13:21:38.297831",
+    "locations_derived": [
+      "Bremen, Bremen, Germany",
+      "Bremerhaven, Bremen, Germany"
+    ],
+    "cities_derived": [
+      "Bremen",
+      "Bremerhaven"
+    ],
+    "regions_derived": [
+      "Bremen",
+      "Bremen"
+    ],
+    "countries_derived": [
+      "Germany",
+      "Germany"
+    ],
+    "location_type": "TELECOMMUTE",
+    "source": "recruitee",
+    "source_type": "ats",
+    "employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "Remote OK",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "English",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "SQL",
+      "ETL",
+      "Data pipelines",
+      "Airflow",
+      "Data modeling",
+      "LLM applications"
+    ]
+  },
+  {
+    "id": 2352030726,
+    "title": "Customer Data Scientist (m/w/d)",
+    "organization": "E.ON",
+    "url": "https://careers.eon.com/deutschland/job/M%C3%BCnchen-Customer-Data-Scientist-%28mwd%29/1434678833/",
+    "date_posted": "2026-09-08T00:00:00",
+    "date_created": "2026-09-08T08:58:17.407628",
+    "locations_derived": [
+      "München, Brandenburg, Germany",
+      "Essen, North Rhine-Westphalia, Germany"
+    ],
+    "cities_derived": [
+      "Essen",
+      "München"
+    ],
+    "regions_derived": [
+      "North Rhine-Westphalia",
+      "Brandenburg"
+    ],
+    "countries_derived": [
+      "Germany",
+      "Germany"
+    ],
+    "source": "successfactors",
+    "source_type": "ats",
+    "ai_employment_type": [
+      "FULL_TIME",
+      "PART_TIME"
+    ],
+    "ai_work_arrangement": "Hybrid",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "German",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "SQL",
+      "Python",
+      "Machine Learning",
+      "Data Science",
+      "Customer Lifetime Value",
+      "Customer Analytics"
+    ]
+  },
+  {
+    "id": 2350958874,
+    "title": "Data Engineer (f/m/d)",
+    "organization": "dksr.city",
+    "organization_logo": "https://assets.cdn.personio.de/logos/267078/social/a5b127271548cb58689287538610cf02.png",
+    "url": "https://dksr-city.jobs.personio.de/job/2724486",
+    "date_posted": "2026-09-07T18:05:32",
+    "date_created": "2026-09-07T17:03:18.133389",
+    "locations_derived": [
+      "Berlin, Germany",
+      "North Rhine-Westphalia, Germany"
+    ],
+    "cities_derived": [
+      "Berlin"
+    ],
+    "regions_derived": [
+      "North Rhine-Westphalia"
+    ],
+    "countries_derived": [
+      "Germany",
+      "Germany"
+    ],
+    "source": "personio",
+    "source_type": "ats",
+    "employment_type": [
+      "Festanstellung"
+    ],
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "On-site",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "English",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Python",
+      "SQL",
+      "Apache Airflow",
+      "Kafka",
+      "Docker",
+      "Helm"
+    ]
+  },
+  {
     "id": 2347256316,
     "title": "Machine Learning Engineer (m/f/x)",
     "organization": "CarOnSale",
@@ -2401,80 +2725,6 @@
       "Airflow",
       "Data modeling",
       "LLM applications"
-    ]
-  },
-  {
-    "id": 2328989232,
-    "title": "Oracle AI Engineer (f/m/x)",
-    "organization": "AUTO1 Group",
-    "url": "https://jobs.smartrecruiters.com/Auto1/744000145478269-oracle-ai-engineer-f-m-x-",
-    "date_posted": "2026-08-25T10:33:41.339",
-    "date_created": "2026-08-25T10:37:12.206726",
-    "locations_derived": [
-      "Berlin, Germany"
-    ],
-    "cities_derived": [
-      "Berlin"
-    ],
-    "countries_derived": [
-      "Germany"
-    ],
-    "source": "smartrecruiters",
-    "source_type": "ats",
-    "employment_type": [
-      "Full-time"
-    ],
-    "ai_employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_work_arrangement": "Remote OK",
-    "ai_experience_level": "2-5",
-    "ai_job_language": "English",
-    "ai_visa_sponsorship": false,
-    "ai_key_skills": [
-      "Oracle Cloud Infrastructure",
-      "Python",
-      "Java",
-      "Docker",
-      "n8n",
-      "SQL"
-    ]
-  },
-  {
-    "id": 2328993325,
-    "title": "Data Scientist Supply Chain Consulting (d/w/m)",
-    "organization": "4flow",
-    "url": "https://4flow.wd3.myworkdayjobs.com/4flow/job/Berlin/Data-Scientist-Supply-Chain-Consulting--d-w-m-_R4456",
-    "date_posted": "2026-08-25T00:00:00",
-    "date_created": "2026-08-25T10:39:02.478633",
-    "locations_derived": [
-      "Berlin, Germany"
-    ],
-    "cities_derived": [
-      "Berlin"
-    ],
-    "countries_derived": [
-      "Germany"
-    ],
-    "source": "workday",
-    "source_type": "ats",
-    "employment_type": [
-      "Full time"
-    ],
-    "ai_employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_work_arrangement": "Hybrid",
-    "ai_experience_level": "0-2",
-    "ai_job_language": "German",
-    "ai_visa_sponsorship": false,
-    "ai_key_skills": [
-      "Python",
-      "Data Science",
-      "Machine Learning",
-      "Mathematical optimization",
-      "GenAI",
-      "Supply Chain Management"
     ]
   }
 ]
