@@ -93,6 +93,44 @@
     }
   },
   {
+    "id": 2359335659,
+    "title": "(Junior) Data Scientist",
+    "organization": "quantilope",
+    "organization_logo": "https://assets.cdn.personio.de/logos/15146/social/725e1e52522974463a1d403922112cfc.png",
+    "url": "https://quantilope-gmbh.jobs.personio.de/job/2794175",
+    "date_posted": "2026-09-11T14:28:51",
+    "date_created": "2026-09-11T18:58:22.614095",
+    "locations_derived": [
+      "Hamburg, Germany"
+    ],
+    "cities_derived": [
+      "Hamburg"
+    ],
+    "countries_derived": [
+      "Germany"
+    ],
+    "source": "personio",
+    "source_type": "ats",
+    "employment_type": [
+      "Permanent employee"
+    ],
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "Hybrid",
+    "ai_experience_level": "0-2",
+    "ai_job_language": "English",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Python",
+      "Agentic AI",
+      "LLM integration",
+      "Prompt engineering",
+      "RAG",
+      "FastAPI"
+    ]
+  },
+  {
     "id": 2357665188,
     "title": "Data Engineer:in / IT Support (m/w/d)",
     "organization": "LOHNunion GmbH",
@@ -345,6 +383,43 @@
       "Azure Data Factory",
       "Python",
       "Git"
+    ]
+  },
+  {
+    "id": 2360479758,
+    "title": "Senior Data Engineer - Lounge by Zalando (all genders)",
+    "organization": "Zalando",
+    "url": "https://zalando.wd3.myworkdayjobs.com/ZalandoSiteWD/job/Berlin/Senior-Data-Engineer---Lounge-by-Zalando--all-genders-_2724044-1",
+    "date_posted": "2026-09-10T00:00:00",
+    "date_created": "2026-09-12T07:25:45.936739",
+    "locations_derived": [
+      "Berlin, Germany"
+    ],
+    "cities_derived": [
+      "Berlin"
+    ],
+    "countries_derived": [
+      "Germany"
+    ],
+    "source": "workday",
+    "source_type": "ats",
+    "employment_type": [
+      "Full time"
+    ],
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "Hybrid",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "English",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Data engineering",
+      "Python",
+      "Java",
+      "Spark",
+      "Hadoop",
+      "Flink"
     ]
   },
   {
@@ -2695,85 +2770,6 @@
       "dbt",
       "Python",
       "Airflow"
-    ]
-  },
-  {
-    "id": 2336074446,
-    "title": "Data Engineer",
-    "organization": "1GLOBAL",
-    "organization_logo": "https://workablehr.s3.amazonaws.com/uploads/account/logo/409431/logo",
-    "url": "https://jobs.workable.com/view/bGD3x35H48R4Q1tp1gpUFw/data-engineer-in-berlin-at-1global",
-    "date_posted": "2026-08-28T18:40:12.328",
-    "date_created": "2026-08-28T19:39:04.116006",
-    "locations_derived": [
-      "Berlin, Germany"
-    ],
-    "cities_derived": [
-      "Berlin"
-    ],
-    "countries_derived": [
-      "Germany"
-    ],
-    "source": "workable",
-    "source_type": "ats",
-    "employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_work_arrangement": "On-site",
-    "ai_experience_level": "2-5",
-    "ai_job_language": "English",
-    "ai_visa_sponsorship": false,
-    "ai_key_skills": [
-      "SQL",
-      "Python",
-      "AWS S3",
-      "AWS Glue",
-      "Athena",
-      "Kafka"
-    ]
-  },
-  {
-    "id": 2335698537,
-    "title": "Senior Data Engineer (d/w/m)",
-    "organization": "SpotmyEnergy",
-    "organization_logo": "https://assets.cdn.personio.de/logos/186023/social/0f0e3afbab976e5464dc2db169bd7df1.png",
-    "url": "https://spotmyenergy.jobs.personio.de/job/2773377",
-    "date_posted": "2026-08-28T17:38:47",
-    "date_created": "2026-08-28T15:58:20.675294",
-    "locations_derived": [
-      "Cologne, North Rhine-Westphalia, Germany"
-    ],
-    "cities_derived": [
-      "Cologne"
-    ],
-    "regions_derived": [
-      "North Rhine-Westphalia"
-    ],
-    "countries_derived": [
-      "Germany"
-    ],
-    "source": "personio",
-    "source_type": "ats",
-    "employment_type": [
-      "Festanstellung"
-    ],
-    "ai_employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_work_arrangement": "Hybrid",
-    "ai_experience_level": "2-5",
-    "ai_job_language": "German",
-    "ai_visa_sponsorship": false,
-    "ai_key_skills": [
-      "Data Engineering",
-      "Databricks",
-      "Apache Spark",
-      "Apache Airflow",
-      "SQL",
-      "PostgreSQL"
     ]
   }
 ]
