@@ -1,5 +1,502 @@
 [
   {
+    "id": 2362435504,
+    "title": "Senior Data Engineer (m/w/d)",
+    "organization": "M&M Software GmbH",
+    "organization_logo": "https://assets.cdn.personio.de/logos/242017/social/37ab03560c533d1802c222ecf486548f.png",
+    "url": "https://mm-software-gmbh.jobs.personio.com/job/2380834",
+    "date_posted": "2026-09-14T15:57:48",
+    "date_created": "2026-09-14T14:59:06.200619",
+    "locations_derived": [
+      "St. Georgen-Stadt, Baden-Württemberg, Germany",
+      "Hanover, Lower Saxony, Germany"
+    ],
+    "cities_derived": [
+      "St. Georgen-Stadt",
+      "Hanover"
+    ],
+    "regions_derived": [
+      "Baden-Württemberg",
+      "Lower Saxony"
+    ],
+    "countries_derived": [
+      "Germany",
+      "Germany"
+    ],
+    "source": "personio",
+    "source_type": "ats",
+    "employment_type": [
+      "Festanstellung"
+    ],
+    "ai_employment_type": [
+      "FULL_TIME",
+      "PART_TIME"
+    ],
+    "ai_work_arrangement": "Remote OK",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "German",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Databricks",
+      "Spark",
+      "Python",
+      "ETL/ELT processes",
+      "Azure Data Factory",
+      "Delta Lake"
+    ]
+  },
+  {
+    "id": 2362106601,
+    "title": "Senior Data Engineer (m/w/d)",
+    "organization": "MaibornWolff Career",
+    "organization_logo": "https://assets.cdn.personio.de/logos/106154/social/ddf7a041cc5312312be5181b0343ac24.png",
+    "url": "https://maibornwolff.jobs.personio.com/job/2464450",
+    "date_posted": "2026-09-14T09:30:51",
+    "date_created": "2026-09-14T08:00:51.052824",
+    "locations_derived": [
+      "Munich, Bavaria, Germany"
+    ],
+    "cities_derived": [
+      "Munich"
+    ],
+    "regions_derived": [
+      "Bavaria"
+    ],
+    "countries_derived": [
+      "Germany"
+    ],
+    "source": "personio",
+    "source_type": "ats",
+    "employment_type": [
+      "Festanstellung"
+    ],
+    "ai_employment_type": [
+      "FULL_TIME",
+      "PART_TIME"
+    ],
+    "ai_work_arrangement": "Hybrid",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "German",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Data Engineering",
+      "Business Intelligence",
+      "Python",
+      "SQL",
+      "Microsoft Fabric",
+      "Databricks"
+    ]
+  },
+  {
+    "id": 2362106599,
+    "title": "Senior Data Engineer (m/w/d)",
+    "organization": "MaibornWolff Career",
+    "organization_logo": "https://assets.cdn.personio.de/logos/106154/social/ddf7a041cc5312312be5181b0343ac24.png",
+    "url": "https://maibornwolff.jobs.personio.com/job/2464474",
+    "date_posted": "2026-09-14T09:30:48",
+    "date_created": "2026-09-14T08:00:51.041596",
+    "locations_derived": [
+      "Frankfurt, Hesse, Germany"
+    ],
+    "cities_derived": [
+      "Frankfurt"
+    ],
+    "regions_derived": [
+      "Hesse"
+    ],
+    "countries_derived": [
+      "Germany"
+    ],
+    "source": "personio",
+    "source_type": "ats",
+    "employment_type": [
+      "Festanstellung"
+    ],
+    "ai_employment_type": [
+      "FULL_TIME",
+      "PART_TIME"
+    ],
+    "ai_work_arrangement": "Hybrid",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "German",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Data Engineering",
+      "Business Intelligence",
+      "Python",
+      "SQL",
+      "Microsoft Fabric",
+      "Databricks"
+    ]
+  },
+  {
+    "id": 2362106602,
+    "title": "Senior Data Engineer (m/w/d)",
+    "organization": "MaibornWolff Career",
+    "organization_logo": "https://assets.cdn.personio.de/logos/106154/social/ddf7a041cc5312312be5181b0343ac24.png",
+    "url": "https://maibornwolff.jobs.personio.com/job/2464478",
+    "date_posted": "2026-09-14T09:30:43",
+    "date_created": "2026-09-14T08:00:51.054037",
+    "locations_derived": [
+      "Darmstadt, Hesse, Germany"
+    ],
+    "cities_derived": [
+      "Darmstadt"
+    ],
+    "regions_derived": [
+      "Hesse"
+    ],
+    "countries_derived": [
+      "Germany"
+    ],
+    "source": "personio",
+    "source_type": "ats",
+    "employment_type": [
+      "Festanstellung"
+    ],
+    "ai_employment_type": [
+      "FULL_TIME",
+      "PART_TIME"
+    ],
+    "ai_work_arrangement": "Hybrid",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "German",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Data engineering",
+      "Business intelligence",
+      "Python",
+      "SQL",
+      "Azure Fabric",
+      "Databricks"
+    ]
+  },
+  {
+    "id": 2362106607,
+    "title": "Senior Data Engineer (m/w/d)",
+    "organization": "MaibornWolff Career",
+    "organization_logo": "https://assets.cdn.personio.de/logos/106154/social/ddf7a041cc5312312be5181b0343ac24.png",
+    "url": "https://maibornwolff.jobs.personio.com/job/2464482",
+    "date_posted": "2026-09-14T09:30:40",
+    "date_created": "2026-09-14T08:00:51.655588",
+    "locations_derived": [
+      "Berlin, Berlin, Germany"
+    ],
+    "cities_derived": [
+      "Berlin"
+    ],
+    "regions_derived": [
+      "Berlin"
+    ],
+    "countries_derived": [
+      "Germany"
+    ],
+    "source": "personio",
+    "source_type": "ats",
+    "employment_type": [
+      "Festanstellung"
+    ],
+    "ai_employment_type": [
+      "FULL_TIME",
+      "PART_TIME"
+    ],
+    "ai_work_arrangement": "Hybrid",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "German",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Data engineering",
+      "Business intelligence",
+      "Python",
+      "SQL",
+      "Azure Fabric",
+      "Databricks"
+    ]
+  },
+  {
+    "id": 2362106645,
+    "title": "Senior Data Engineer (m/w/d)",
+    "organization": "MaibornWolff Career",
+    "organization_logo": "https://assets.cdn.personio.de/logos/106154/social/ddf7a041cc5312312be5181b0343ac24.png",
+    "url": "https://maibornwolff.jobs.personio.com/job/2464489",
+    "date_posted": "2026-09-14T09:30:36",
+    "date_created": "2026-09-14T08:00:56.240595",
+    "locations_derived": [
+      "Hamburg, Germany"
+    ],
+    "cities_derived": [
+      "Hamburg"
+    ],
+    "countries_derived": [
+      "Germany"
+    ],
+    "source": "personio",
+    "source_type": "ats",
+    "employment_type": [
+      "Festanstellung"
+    ],
+    "ai_employment_type": [
+      "FULL_TIME",
+      "PART_TIME"
+    ],
+    "ai_work_arrangement": "Hybrid",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "German",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Data Engineering",
+      "Business Intelligence",
+      "Python",
+      "SQL",
+      "Azure Fabric",
+      "Databricks"
+    ]
+  },
+  {
+    "id": 2362106600,
+    "title": "Senior Data Engineer (m/w/d)",
+    "organization": "MaibornWolff Career",
+    "organization_logo": "https://assets.cdn.personio.de/logos/106154/social/ddf7a041cc5312312be5181b0343ac24.png",
+    "url": "https://maibornwolff.jobs.personio.com/job/2464491",
+    "date_posted": "2026-09-14T09:30:16",
+    "date_created": "2026-09-14T08:00:51.047199",
+    "locations_derived": [
+      "Augsburg, Bavaria, Germany"
+    ],
+    "cities_derived": [
+      "Augsburg"
+    ],
+    "regions_derived": [
+      "Bavaria"
+    ],
+    "countries_derived": [
+      "Germany"
+    ],
+    "source": "personio",
+    "source_type": "ats",
+    "employment_type": [
+      "Festanstellung"
+    ],
+    "ai_employment_type": [
+      "FULL_TIME",
+      "PART_TIME"
+    ],
+    "ai_work_arrangement": "Hybrid",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "German",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Data Engineering",
+      "Business Intelligence",
+      "Python",
+      "SQL",
+      "Microsoft Fabric",
+      "Databricks"
+    ]
+  },
+  {
+    "id": 2362106642,
+    "title": "Senior Data Engineer (m/w/d)",
+    "organization": "MaibornWolff Career",
+    "organization_logo": "https://assets.cdn.personio.de/logos/106154/social/ddf7a041cc5312312be5181b0343ac24.png",
+    "url": "https://maibornwolff.jobs.personio.com/job/2464492",
+    "date_posted": "2026-09-14T09:29:47",
+    "date_created": "2026-09-14T08:00:55.703243",
+    "locations_derived": [
+      "Bonn, North Rhine-Westphalia, Germany"
+    ],
+    "cities_derived": [
+      "Bonn"
+    ],
+    "regions_derived": [
+      "North Rhine-Westphalia"
+    ],
+    "countries_derived": [
+      "Germany"
+    ],
+    "source": "personio",
+    "source_type": "ats",
+    "employment_type": [
+      "Festanstellung"
+    ],
+    "ai_employment_type": [
+      "FULL_TIME",
+      "PART_TIME"
+    ],
+    "ai_work_arrangement": "Hybrid",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "German",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Data Engineering",
+      "Business Intelligence",
+      "Azure Fabric",
+      "Databricks",
+      "Python",
+      "SQL"
+    ]
+  },
+  {
+    "id": 2362106617,
+    "title": "Senior Data Engineer (m/w/d)",
+    "organization": "MaibornWolff Career",
+    "organization_logo": "https://assets.cdn.personio.de/logos/106154/social/ddf7a041cc5312312be5181b0343ac24.png",
+    "url": "https://maibornwolff.jobs.personio.com/job/2464498",
+    "date_posted": "2026-09-14T09:29:43",
+    "date_created": "2026-09-14T08:00:52.527401",
+    "locations_derived": [
+      "Leipzig, Saxony, Germany"
+    ],
+    "cities_derived": [
+      "Leipzig"
+    ],
+    "regions_derived": [
+      "Saxony"
+    ],
+    "countries_derived": [
+      "Germany"
+    ],
+    "source": "personio",
+    "source_type": "ats",
+    "employment_type": [
+      "Festanstellung"
+    ],
+    "ai_employment_type": [
+      "FULL_TIME",
+      "PART_TIME"
+    ],
+    "ai_work_arrangement": "Hybrid",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "German",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Data Engineering",
+      "Business Intelligence",
+      "Python",
+      "SQL",
+      "Azure Fabric",
+      "Databricks"
+    ]
+  },
+  {
+    "id": 2362408510,
+    "title": "Data Scientist m/w/d",
+    "organization": "Miele",
+    "url": "https://miele.wd3.myworkdayjobs.com/miele-jobs/job/Gtersloh/Data-Scientist-m-w-d_R1414",
+    "date_posted": "2026-09-14T00:00:00",
+    "date_created": "2026-09-14T14:30:08.743171",
+    "locations_derived": [
+      "Gütersloh, North Rhine-Westphalia, Germany"
+    ],
+    "cities_derived": [
+      "Gütersloh"
+    ],
+    "regions_derived": [
+      "North Rhine-Westphalia"
+    ],
+    "countries_derived": [
+      "Germany"
+    ],
+    "source": "workday",
+    "source_type": "ats",
+    "employment_type": [
+      "Full time"
+    ],
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "Hybrid",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "German",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Data Science",
+      "Machine Learning",
+      "Artificial Intelligence",
+      "Data Mining",
+      "Statistical Analysis",
+      "MS Azure"
+    ]
+  },
+  {
+    "id": 2362404329,
+    "title": "Data Scientist (m/f/d) (18)",
+    "organization": "Machine Learning Reply",
+    "url": "https://machinelearningreply.recruitee.com/o/quantum-application-developer-mwd",
+    "date_posted": "2026-09-14T00:00:00",
+    "date_created": "2026-09-14T14:21:50.060079",
+    "locations_derived": [
+      "Munich, Bavaria, Germany"
+    ],
+    "cities_derived": [
+      "Munich"
+    ],
+    "regions_derived": [
+      "Bavaria"
+    ],
+    "countries_derived": [
+      "Germany"
+    ],
+    "source": "recruitee",
+    "source_type": "ats",
+    "employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "Hybrid",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "English",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Python",
+      "R",
+      "Machine learning",
+      "Statistics",
+      "NLP",
+      "Recommender systems"
+    ]
+  },
+  {
+    "id": 2361892335,
+    "title": "Reconstruction-AI Engineer (m/f/d)",
+    "organization": "MuRayTech",
+    "organization_logo": "https://assets.cdn.personio.de/logos/335057/social/3083f14863a2c7fb14c02c19353f2e1d.png",
+    "url": "https://muraytech.jobs.personio.com/job/2787109",
+    "date_posted": "2026-09-12T16:55:46",
+    "date_created": "2026-09-14T01:01:37.862294",
+    "locations_derived": [
+      "Hamburg, Germany"
+    ],
+    "cities_derived": [
+      "Hamburg"
+    ],
+    "countries_derived": [
+      "Germany"
+    ],
+    "source": "personio",
+    "source_type": "ats",
+    "employment_type": [
+      "Permanent employee"
+    ],
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "On-site",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "English",
+    "ai_visa_sponsorship": true,
+    "ai_key_skills": [
+      "Machine learning",
+      "Graph neural networks",
+      "Point-cloud modeling",
+      "Differentiable simulation",
+      "Physics-informed neural networks",
+      "Geant4"
+    ]
+  },
+  {
     "id": 2358856134,
     "title": "Data Scientist (all genders)",
     "organization": "Finanztip Verbraucherinformation GmbH",
@@ -2351,425 +2848,6 @@
       "LLMs",
       "RAG",
       "Microservices"
-    ]
-  },
-  {
-    "id": 2339060571,
-    "title": "AI Engineer (m/w/d) – Machine Learning & GenAI",
-    "organization": "FINNOFLEET GmbH",
-    "organization_logo": "https://assets.cdn.personio.de/logos/98029/social/ad57abd1e5f4e4b12bdccba8863764d5.jpg",
-    "url": "https://finnofleet.jobs.personio.de/job/2774857/apply",
-    "date_posted": "2026-08-31T15:42:22",
-    "date_created": "2026-08-31T15:00:47.400816",
-    "locations_derived": [
-      "Mörfelden-Walldorf, Hesse, Germany",
-      "Berlin, Germany"
-    ],
-    "cities_derived": [
-      "Mörfelden-Walldorf",
-      "Berlin"
-    ],
-    "regions_derived": [
-      "Hesse"
-    ],
-    "countries_derived": [
-      "Germany",
-      "Germany"
-    ],
-    "source": "personio",
-    "source_type": "ats",
-    "employment_type": [
-      "Festanstellung"
-    ],
-    "ai_employment_type": [
-      "FULL_TIME",
-      "PART_TIME"
-    ],
-    "ai_work_arrangement": "Hybrid",
-    "ai_experience_level": "2-5",
-    "ai_job_language": "German",
-    "ai_visa_sponsorship": false,
-    "ai_key_skills": [
-      "Python",
-      "Machine Learning",
-      "GenAI",
-      "Ollama",
-      "LangChain",
-      "RAG"
-    ]
-  },
-  {
-    "id": 2339003624,
-    "title": "AI Engineer (m/w/d) – Machine Learning & GenAI",
-    "organization": "FINNOFLEET GmbH",
-    "organization_logo": "https://assets.cdn.personio.de/logos/98029/social/ad57abd1e5f4e4b12bdccba8863764d5.jpg",
-    "url": "https://finnofleet.jobs.personio.de/job/2774857",
-    "date_posted": "2026-08-31T15:42:22",
-    "date_created": "2026-08-31T13:58:38.774847",
-    "locations_derived": [
-      "Mörfelden-Walldorf, Hesse, Germany",
-      "Berlin, Germany"
-    ],
-    "cities_derived": [
-      "Mörfelden-Walldorf",
-      "Berlin"
-    ],
-    "regions_derived": [
-      "Hesse"
-    ],
-    "countries_derived": [
-      "Germany",
-      "Germany"
-    ],
-    "source": "personio",
-    "source_type": "ats",
-    "employment_type": [
-      "Festanstellung"
-    ],
-    "ai_employment_type": [
-      "FULL_TIME",
-      "PART_TIME"
-    ],
-    "ai_work_arrangement": "Hybrid",
-    "ai_experience_level": "2-5",
-    "ai_job_language": "German",
-    "ai_visa_sponsorship": false,
-    "ai_key_skills": [
-      "Python",
-      "Machine Learning",
-      "GenAI",
-      "Ollama",
-      "LangChain",
-      "RAG"
-    ]
-  },
-  {
-    "id": 2339014373,
-    "title": "Requirements- & Data-Engineer*",
-    "organization": "BarmeniaGothaer AG",
-    "url": "https://jobs.smartrecruiters.com/BarmeniaGothaerAG/744000146466785-requirements-data-engineer-",
-    "date_posted": "2026-08-31T13:19:38.153",
-    "date_created": "2026-08-31T14:14:00.047801",
-    "locations_derived": [
-      "Cologne, North Rhine-Westphalia, Germany"
-    ],
-    "cities_derived": [
-      "Cologne"
-    ],
-    "regions_derived": [
-      "North Rhine-Westphalia"
-    ],
-    "countries_derived": [
-      "Germany"
-    ],
-    "source": "smartrecruiters",
-    "source_type": "ats",
-    "employment_type": [
-      "Vollzeit"
-    ],
-    "ai_employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_work_arrangement": "Hybrid",
-    "ai_experience_level": "2-5",
-    "ai_job_language": "German",
-    "ai_visa_sponsorship": false,
-    "ai_key_skills": [
-      "Requirements engineering",
-      "Data engineering",
-      "Data modeling",
-      "Software architecture",
-      "Agile methodology",
-      "Scrum"
-    ]
-  },
-  {
-    "id": 2338862733,
-    "title": "AI Engineer (w/m/d)",
-    "organization": "Drees & Sommer SE",
-    "url": "https://jobs.smartrecruiters.com/DreesSommerSE/744000146441679-ai-engineer-w-m-d-",
-    "date_posted": "2026-08-31T10:45:22.458",
-    "date_created": "2026-08-31T11:16:30.436023",
-    "locations_derived": [
-      "Munich, Bavaria, Germany"
-    ],
-    "cities_derived": [
-      "Munich"
-    ],
-    "regions_derived": [
-      "Bavaria"
-    ],
-    "countries_derived": [
-      "Germany"
-    ],
-    "source": "smartrecruiters",
-    "source_type": "ats",
-    "employment_type": [
-      "Vollzeit"
-    ],
-    "ai_employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_work_arrangement": "Hybrid",
-    "ai_experience_level": "2-5",
-    "ai_job_language": "German",
-    "ai_visa_sponsorship": false,
-    "ai_key_skills": [
-      "Python",
-      "TypeScript",
-      "React",
-      "FastAPI",
-      "Docker",
-      "LLM integration"
-    ]
-  },
-  {
-    "id": 2338718278,
-    "title": "AI Engineer im Data Innovation Lab (m/w/d)",
-    "organization": "AXA",
-    "organization_logo": "https://axa.icims.com/icims2/servlet/icims2?module=AppInert&action=download&id=213&hashed=555321108",
-    "url": "https://careers-de-axa.icims.com/jobs/21348/ai-engineer-%28m-w-d%29/job",
-    "date_posted": "2026-08-31T07:26:24.136",
-    "date_created": "2026-08-31T07:26:27.019145",
-    "locations_derived": [
-      "Cologne, North Rhine-Westphalia, Germany"
-    ],
-    "cities_derived": [
-      "Cologne"
-    ],
-    "regions_derived": [
-      "North Rhine-Westphalia"
-    ],
-    "countries_derived": [
-      "Germany"
-    ],
-    "source": "icims",
-    "source_type": "ats",
-    "employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_work_arrangement": "Hybrid",
-    "ai_experience_level": "2-5",
-    "ai_job_language": "German",
-    "ai_visa_sponsorship": false,
-    "ai_key_skills": [
-      "Python",
-      "Fastapi",
-      "Pydantic",
-      "Celery",
-      "Polars",
-      "Pytorch"
-    ]
-  },
-  {
-    "id": 2338960365,
-    "title": "PreMaster Programm – Data Engineer im Bereich Business Excellence",
-    "organization": "Bosch Group",
-    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000146399991-premaster-programm-data-engineer-im-bereich-business-excellence",
-    "date_posted": "2026-08-31T06:16:20.208",
-    "date_created": "2026-08-31T13:16:29.926597",
-    "locations_derived": [
-      "Happenbach, Baden-Württemberg, Germany"
-    ],
-    "cities_derived": [
-      "Happenbach"
-    ],
-    "regions_derived": [
-      "Baden-Württemberg"
-    ],
-    "countries_derived": [
-      "Germany"
-    ],
-    "source": "smartrecruiters",
-    "source_type": "ats",
-    "employment_type": [
-      "Vollzeit"
-    ],
-    "ai_employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_work_arrangement": "On-site",
-    "ai_experience_level": "0-2",
-    "ai_job_language": "German",
-    "ai_visa_sponsorship": false,
-    "ai_key_skills": [
-      "Python",
-      "TypeScript",
-      "Node.js",
-      "NoSQL",
-      "MongoDB",
-      "Full stack development"
-    ]
-  },
-  {
-    "id": 2339670596,
-    "title": "Data Engineer",
-    "organization": "Booz Allen Hamilton",
-    "url": "https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Ramstein-Miesenbach-Rhineland-Palatinate/Data-Engineer_R0248358",
-    "date_posted": "2026-08-31T00:00:00",
-    "date_created": "2026-08-31T21:40:48.245429",
-    "locations_derived": [
-      "Ramstein-Miesenbach, Rhineland-Palatinate, Germany"
-    ],
-    "cities_derived": [
-      "Ramstein-Miesenbach"
-    ],
-    "regions_derived": [
-      "Rhineland-Palatinate"
-    ],
-    "countries_derived": [
-      "Germany"
-    ],
-    "source": "workday",
-    "source_type": "ats",
-    "employment_type": [
-      "Full time"
-    ],
-    "ai_employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_work_arrangement": "On-site",
-    "ai_salary_currency": "USD",
-    "ai_salary_min_value": 77500,
-    "ai_salary_max_value": 176000,
-    "ai_salary_unit_text": "YEAR",
-    "ai_experience_level": "2-5",
-    "ai_job_language": "English",
-    "ai_visa_sponsorship": false,
-    "ai_key_skills": [
-      "Python",
-      "SQL",
-      "Scala",
-      "R",
-      "Tableau",
-      "Qlik"
-    ]
-  },
-  {
-    "id": 2338969797,
-    "title": "Data Engineer (All genders)",
-    "organization": "Zalando",
-    "url": "https://zalando.wd3.myworkdayjobs.com/ZalandoSiteWD/job/Berlin/Data-Engineer--All-genders-_2724318-1",
-    "date_posted": "2026-08-31T00:00:00",
-    "date_created": "2026-08-31T13:32:04.330985",
-    "locations_derived": [
-      "Berlin, Germany"
-    ],
-    "cities_derived": [
-      "Berlin"
-    ],
-    "countries_derived": [
-      "Germany"
-    ],
-    "source": "workday",
-    "source_type": "ats",
-    "employment_type": [
-      "Full time"
-    ],
-    "ai_employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_work_arrangement": "On-site",
-    "ai_experience_level": "2-5",
-    "ai_job_language": "English",
-    "ai_visa_sponsorship": false,
-    "ai_key_skills": [
-      "Python",
-      "Apache Spark",
-      "SQL",
-      "Data modeling",
-      "Data architecture",
-      "AWS"
-    ]
-  },
-  {
-    "id": 2338935725,
-    "title": "Marketing Data Scientist (d/m/w)",
-    "organization": "Deutsche Bank",
-    "url": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Frankfurt-Taunusanlage-12/Marketing-Data-Scientist--d-m-w-_R0448218",
-    "date_posted": "2026-08-31T00:00:00",
-    "date_created": "2026-08-31T12:41:38.388754",
-    "locations_derived": [
-      "Frankfurt, Hesse, Germany",
-      "Bonn, North Rhine-Westphalia, Germany"
-    ],
-    "cities_derived": [
-      "Frankfurt",
-      "Bonn"
-    ],
-    "regions_derived": [
-      "Hesse",
-      "North Rhine-Westphalia"
-    ],
-    "countries_derived": [
-      "Germany",
-      "Germany"
-    ],
-    "source": "workday",
-    "source_type": "ats",
-    "employment_type": [
-      "Full time"
-    ],
-    "ai_employment_type": [
-      "FULL_TIME",
-      "PART_TIME"
-    ],
-    "ai_work_arrangement": "Hybrid",
-    "ai_experience_level": "2-5",
-    "ai_job_language": "English",
-    "ai_visa_sponsorship": false,
-    "ai_key_skills": [
-      "Data Science",
-      "Predictive Analytics",
-      "Machine Learning",
-      "Marketing Analytics",
-      "Customer Journey Analytics",
-      "Statistical Modeling"
-    ]
-  },
-  {
-    "id": 2338803583,
-    "title": "(Senior) Customer Data Engineer (m/w/d)",
-    "organization": "E.ON",
-    "url": "https://careers.eon.com/deutschland/job/Essen-%28Senior%29-Customer-Data-Engineer-%28mwd%29/1431807833/",
-    "date_posted": "2026-08-31T00:00:00",
-    "date_created": "2026-08-31T09:33:27.451341",
-    "locations_derived": [
-      "München, Brandenburg, Germany",
-      "Essen, North Rhine-Westphalia, Germany"
-    ],
-    "cities_derived": [
-      "Essen",
-      "München"
-    ],
-    "regions_derived": [
-      "North Rhine-Westphalia",
-      "Brandenburg"
-    ],
-    "countries_derived": [
-      "Germany",
-      "Germany"
-    ],
-    "source": "successfactors",
-    "source_type": "ats",
-    "ai_employment_type": [
-      "FULL_TIME",
-      "PART_TIME"
-    ],
-    "ai_work_arrangement": "Hybrid",
-    "ai_experience_level": "2-5",
-    "ai_job_language": "German",
-    "ai_visa_sponsorship": false,
-    "ai_key_skills": [
-      "Data Engineering",
-      "Snowflake",
-      "SQL",
-      "dbt",
-      "Python",
-      "Airflow"
     ]
   }
 ]
