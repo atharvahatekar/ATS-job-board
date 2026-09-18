@@ -1,5 +1,234 @@
 [
   {
+    "id": 2370279258,
+    "title": "DATA ENGINEER*IN (m/w/d)",
+    "organization": "OMR",
+    "organization_logo": "https://assets.cdn.personio.de/logos/62621/social/d730cdc4de544cf34e6bc04aefc4812e.png",
+    "url": "https://ramp106-gmbh.jobs.personio.de/job/2803299",
+    "date_posted": "2026-09-18T12:35:38",
+    "date_created": "2026-09-18T10:58:28.355916",
+    "locations_derived": [
+      "Hamburg, Germany"
+    ],
+    "cities_derived": [
+      "Hamburg"
+    ],
+    "countries_derived": [
+      "Germany"
+    ],
+    "source": "personio",
+    "source_type": "ats",
+    "employment_type": [
+      "Festanstellung"
+    ],
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "On-site",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "German",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Data Engineering",
+      "Python",
+      "SQL",
+      "Airflow",
+      "Cloud Composer",
+      "BigQuery"
+    ]
+  },
+  {
+    "id": 2370045525,
+    "title": "Junior Data Engineer",
+    "organization": "Flix",
+    "url": "https://flix.careers/job/8785286002?gh_jid=8785286002",
+    "date_posted": "2026-09-18T07:07:21",
+    "date_created": "2026-09-18T07:19:55.84601",
+    "locations_derived": [
+      "Berlin, Germany"
+    ],
+    "cities_derived": [
+      "Berlin"
+    ],
+    "countries_derived": [
+      "Germany"
+    ],
+    "source": "greenhouse",
+    "source_type": "ats",
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "Hybrid",
+    "ai_experience_level": "0-2",
+    "ai_job_language": "English",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Python",
+      "Java",
+      "Scala",
+      "SQL",
+      "Data pipelines",
+      "Data modelling"
+    ]
+  },
+  {
+    "id": 2370349516,
+    "title": "AI Engineer (m/w/d)",
+    "organization": "TRUMPF",
+    "url": "https://trumpf.wd3.myworkdayjobs.com/TRUMPF_Graduates_and_Professionals/job/Ditzingen/AI-Engineer--m-w-d-_R00041337",
+    "date_posted": "2026-09-18T00:00:00",
+    "date_created": "2026-09-18T11:46:02.448731",
+    "locations_derived": [
+      "Ditzingen, Baden-Württemberg, Germany"
+    ],
+    "cities_derived": [
+      "Ditzingen"
+    ],
+    "regions_derived": [
+      "Baden-Württemberg"
+    ],
+    "countries_derived": [
+      "Germany"
+    ],
+    "source": "workday",
+    "source_type": "ats",
+    "employment_type": [
+      "Full time"
+    ],
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "On-site",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "English",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Python",
+      "Machine Learning",
+      "Computer Vision",
+      "Large Language Models",
+      "GenAI",
+      "Cloud Engineering"
+    ]
+  },
+  {
+    "id": 2370344205,
+    "title": "AI Engineer (m/w/d)",
+    "organization": "Turck",
+    "url": "https://turck.wd3.myworkdayjobs.com/Turck_Careers/job/Mlheim-an-der-Ruhr/AI-Engineer--m-w-d-_JR101129",
+    "date_posted": "2026-09-18T00:00:00",
+    "date_created": "2026-09-18T11:42:55.031571",
+    "locations_derived": [
+      "Mülheim an der Ruhr, North Rhine-Westphalia, Germany"
+    ],
+    "cities_derived": [
+      "Mülheim an der Ruhr"
+    ],
+    "regions_derived": [
+      "North Rhine-Westphalia"
+    ],
+    "countries_derived": [
+      "Germany"
+    ],
+    "source": "workday",
+    "source_type": "ats",
+    "employment_type": [
+      "Full time"
+    ],
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "Hybrid",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "German",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Artificial Intelligence",
+      "Generative AI",
+      "Microsoft Azure",
+      "Azure AI Services",
+      "Azure OpenAI",
+      "Microsoft Fabric"
+    ]
+  },
+  {
+    "id": 2370344170,
+    "title": "Data Engineer (m/w/d)",
+    "organization": "Turck",
+    "url": "https://turck.wd3.myworkdayjobs.com/Turck_Careers/job/Mlheim-an-der-Ruhr/Data-Engineer--m-w-d-_JR101130",
+    "date_posted": "2026-09-18T00:00:00",
+    "date_created": "2026-09-18T11:42:53.70054",
+    "locations_derived": [
+      "Mülheim an der Ruhr, North Rhine-Westphalia, Germany"
+    ],
+    "cities_derived": [
+      "Mülheim an der Ruhr"
+    ],
+    "regions_derived": [
+      "North Rhine-Westphalia"
+    ],
+    "countries_derived": [
+      "Germany"
+    ],
+    "source": "workday",
+    "source_type": "ats",
+    "employment_type": [
+      "Full time"
+    ],
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "Hybrid",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "German",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "SQL",
+      "Python",
+      "Data modeling",
+      "ETL/ELT processes",
+      "REST APIs",
+      "Data warehouse"
+    ]
+  },
+  {
+    "id": 2370323249,
+    "title": "Data Engineer (All genders)",
+    "organization": "Zalando",
+    "url": "https://zalando.wd3.myworkdayjobs.com/ZalandoSiteWD/job/Berlin/Data-Engineer--All-genders-_2724318-1",
+    "date_posted": "2026-09-18T00:00:00",
+    "date_created": "2026-09-18T11:34:13.190359",
+    "locations_derived": [
+      "Berlin, Germany"
+    ],
+    "cities_derived": [
+      "Berlin"
+    ],
+    "countries_derived": [
+      "Germany"
+    ],
+    "source": "workday",
+    "source_type": "ats",
+    "employment_type": [
+      "Full time"
+    ],
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "On-site",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "English",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Python",
+      "Apache Spark",
+      "SQL",
+      "Data modeling",
+      "Data architecture",
+      "AWS"
+    ]
+  },
+  {
     "id": 2368341993,
     "title": "Junior Data Engineer & MarTech Specialist (Mobile Apps) English Speaking (m/w/d)",
     "organization": "Customlytics GmbH",
@@ -129,6 +358,50 @@
       "SQL",
       "Git",
       "Cloud platforms"
+    ]
+  },
+  {
+    "id": 2369197746,
+    "title": "Data Scientist",
+    "organization": "Booz Allen Hamilton",
+    "url": "https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Wiesbaden-Hesse/Data-Scientist_R0249763",
+    "date_posted": "2026-09-17T00:00:00",
+    "date_created": "2026-09-17T21:37:20.550784",
+    "locations_derived": [
+      "Wiesbaden, Hesse, Germany"
+    ],
+    "cities_derived": [
+      "Wiesbaden"
+    ],
+    "regions_derived": [
+      "Hesse"
+    ],
+    "countries_derived": [
+      "Germany"
+    ],
+    "source": "workday",
+    "source_type": "ats",
+    "employment_type": [
+      "Full time"
+    ],
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "On-site",
+    "ai_salary_currency": "USD",
+    "ai_salary_min_value": 77500,
+    "ai_salary_max_value": 176000,
+    "ai_salary_unit_text": "YEAR",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "English",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Python",
+      "R",
+      "Scala",
+      "SQL",
+      "Data analysis",
+      "Data cleansing"
     ]
   },
   {
@@ -2856,151 +3129,6 @@
       "dbt",
       "Apache Airflow",
       "Lightdash"
-    ]
-  },
-  {
-    "id": 2347256316,
-    "title": "Machine Learning Engineer (m/f/x)",
-    "organization": "CarOnSale",
-    "url": "https://job-boards.eu.greenhouse.io/caronsale/jobs/4968904101",
-    "date_posted": "2026-09-04T12:58:43",
-    "date_created": "2026-09-04T13:15:31.088605",
-    "locations_derived": [
-      "Berlin, Germany"
-    ],
-    "cities_derived": [
-      "Berlin"
-    ],
-    "countries_derived": [
-      "Germany"
-    ],
-    "source": "greenhouse",
-    "source_type": "ats",
-    "ai_employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_work_arrangement": "Hybrid",
-    "ai_experience_level": "2-5",
-    "ai_job_language": "English",
-    "ai_visa_sponsorship": false,
-    "ai_key_skills": [
-      "Python",
-      "Machine Learning",
-      "SageMaker",
-      "Vertex AI",
-      "Databricks",
-      "Azure ML"
-    ]
-  },
-  {
-    "id": 2346817095,
-    "title": "Machine Learning Engineer / MLOps Engineer (m/w/d)",
-    "organization": "Rockstardevelopers GmbH",
-    "organization_logo": "https://cdn.join.com/6087daa42b5af70008af5a13/rockstardevelopers-gmb-h-logo-m.png",
-    "url": "https://join.com/companies/rockstardevelopers/16663538-machine-learning-engineer-mlops-engineer-m-w-d",
-    "date_posted": "2026-09-04T05:59:03.333",
-    "date_created": "2026-09-04T06:33:00.466655",
-    "locations_derived": [
-      "Germany"
-    ],
-    "countries_derived": [
-      "Germany"
-    ],
-    "location_type": "TELECOMMUTE",
-    "source": "join.com",
-    "source_type": "ats",
-    "employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_work_arrangement": "Hybrid",
-    "ai_experience_level": "2-5",
-    "ai_job_language": "German",
-    "ai_visa_sponsorship": false,
-    "ai_key_skills": [
-      "Machine Learning",
-      "MLOps",
-      "Python",
-      "Kubernetes",
-      "Docker",
-      "CI/CD"
-    ]
-  },
-  {
-    "id": 2347658111,
-    "title": "Full Stack AI Engineer (f/m/x) - Innovation and the TDI Chief Strategy Office",
-    "organization": "Deutsche Bank",
-    "url": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Berlin-Otto-Suhr-Allee-16/Full-Stack-AI-Engineer--f-m-x----Innovation-and-the-TDI-Chief-Strategy-Office_R0448108",
-    "date_posted": "2026-09-04T00:00:00",
-    "date_created": "2026-09-04T17:43:33.133803",
-    "locations_derived": [
-      "Berlin, Germany"
-    ],
-    "cities_derived": [
-      "Berlin"
-    ],
-    "countries_derived": [
-      "Germany"
-    ],
-    "source": "workday",
-    "source_type": "ats",
-    "employment_type": [
-      "Full time"
-    ],
-    "ai_employment_type": [
-      "FULL_TIME",
-      "PART_TIME"
-    ],
-    "ai_work_arrangement": "Hybrid",
-    "ai_experience_level": "2-5",
-    "ai_job_language": "English",
-    "ai_visa_sponsorship": false,
-    "ai_key_skills": [
-      "React",
-      "Python",
-      "FastAPI",
-      "Large Language Models",
-      "Agentic AI",
-      "Frontend development"
-    ]
-  },
-  {
-    "id": 2347461449,
-    "title": "BI Data Engineer (w/m/d)",
-    "organization": "Neumann Kaffee Gruppe (NKG)",
-    "url": "https://nkg.wd103.myworkdayjobs.com/nkg/job/Hamburg/BI-Data-Engineer--w-m-d-_JR103341-1",
-    "date_posted": "2026-09-04T00:00:00",
-    "date_created": "2026-09-04T15:32:36.160917",
-    "locations_derived": [
-      "Hamburg, Germany"
-    ],
-    "cities_derived": [
-      "Hamburg"
-    ],
-    "countries_derived": [
-      "Germany"
-    ],
-    "source": "workday",
-    "source_type": "ats",
-    "employment_type": [
-      "Full time"
-    ],
-    "ai_employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_work_arrangement": "Hybrid",
-    "ai_experience_level": "2-5",
-    "ai_job_language": "English",
-    "ai_visa_sponsorship": false,
-    "ai_key_skills": [
-      "Business Intelligence",
-      "Data visualization",
-      "SQL",
-      "Data modeling",
-      "ETL processes",
-      "Power BI"
     ]
   }
 ]
