@@ -72,6 +72,49 @@
     ]
   },
   {
+    "id": 2370760286,
+    "title": "Data Scientist (m/w/d)",
+    "organization": "Caterpillar Inc.",
+    "url": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Mannheim-Baden-Wurttemberg/Data-Scientist--m-w-d-_R0000394689",
+    "date_posted": "2026-09-18T00:00:00",
+    "date_created": "2026-09-18T16:42:00.154031",
+    "locations_derived": [
+      "Mannheim, Baden-Württemberg, Germany"
+    ],
+    "cities_derived": [
+      "Mannheim"
+    ],
+    "regions_derived": [
+      "Baden-Württemberg"
+    ],
+    "countries_derived": [
+      "Germany"
+    ],
+    "source": "workday",
+    "source_type": "ats",
+    "employment_type": [
+      "Full time"
+    ],
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "On-site",
+    "ai_salary_currency": "EUR",
+    "ai_salary_value": 71308.04,
+    "ai_salary_unit_text": "YEAR",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "English",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Data science",
+      "Condition monitoring",
+      "Predictive maintenance",
+      "Python",
+      "SQL",
+      "Machine learning"
+    ]
+  },
+  {
     "id": 2370349516,
     "title": "AI Engineer (m/w/d)",
     "organization": "TRUMPF",
