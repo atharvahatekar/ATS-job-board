@@ -1,5 +1,275 @@
 [
   {
+    "id": 2374056621,
+    "title": "Data Engineer (m/w/d)",
+    "organization": "Sanitätshaus Aktuell AG",
+    "organization_logo": "https://assets.cdn.personio.de/logos/100764/social/031f6d0cfb20baeac5b6b325cd6537af.jpg",
+    "url": "https://sanitaetshaus-aktuell.jobs.personio.de/job/2437636",
+    "date_posted": "2026-09-21T13:16:37",
+    "date_created": "2026-09-21T11:58:48.104725",
+    "locations_derived": [
+      "Cologne, North Rhine-Westphalia, Germany"
+    ],
+    "cities_derived": [
+      "Cologne"
+    ],
+    "regions_derived": [
+      "North Rhine-Westphalia"
+    ],
+    "countries_derived": [
+      "Germany"
+    ],
+    "source": "personio",
+    "source_type": "ats",
+    "employment_type": [
+      "Festanstellung"
+    ],
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "Hybrid",
+    "ai_salary_currency": "EUR",
+    "ai_salary_min_value": 60000,
+    "ai_salary_max_value": 80000,
+    "ai_salary_unit_text": "YEAR",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "German",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Data Engineering",
+      "ETL/ELT Pipelines",
+      "Python",
+      "AWS",
+      "Data Lake",
+      "Data Warehouse"
+    ]
+  },
+  {
+    "id": 2374056573,
+    "title": "Data Engineer (m/w/d)",
+    "organization": "joviva.de (Sani Future GmbH & Co. KG)",
+    "organization_logo": "https://assets.cdn.personio.de/logos/100764/177124/social/e3e0777968eb83769b93845ef471fa2c.png",
+    "url": "https://joviva.jobs.personio.de/job/2437636",
+    "date_posted": "2026-09-21T13:16:37",
+    "date_created": "2026-09-21T11:58:42.359822",
+    "locations_derived": [
+      "Cologne, North Rhine-Westphalia, Germany"
+    ],
+    "cities_derived": [
+      "Cologne"
+    ],
+    "regions_derived": [
+      "North Rhine-Westphalia"
+    ],
+    "countries_derived": [
+      "Germany"
+    ],
+    "source": "personio",
+    "source_type": "ats",
+    "employment_type": [
+      "Festanstellung"
+    ],
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "Hybrid",
+    "ai_salary_currency": "EUR",
+    "ai_salary_min_value": 60000,
+    "ai_salary_max_value": 80000,
+    "ai_salary_unit_text": "YEAR",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "German",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Data Engineering",
+      "ETL/ELT Pipelines",
+      "Python",
+      "AWS",
+      "Data Lake",
+      "SQL"
+    ]
+  },
+  {
+    "id": 2374128456,
+    "title": "Data Engineer",
+    "organization": "ASP Group",
+    "url": "https://join.com/companies/asp-groupcom/16733437-data-engineer",
+    "date_posted": "2026-09-21T12:53:36.924",
+    "date_created": "2026-09-21T13:13:46.046378",
+    "locations_derived": [
+      "Berlin, Germany"
+    ],
+    "cities_derived": [
+      "Berlin"
+    ],
+    "countries_derived": [
+      "Germany"
+    ],
+    "source": "join.com",
+    "source_type": "ats",
+    "employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "On-site",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "English",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Data engineering",
+      "Data pipelines",
+      "Cloud infrastructure",
+      "Microsoft Azure",
+      "Microsoft Fabric",
+      "Databricks"
+    ]
+  },
+  {
+    "id": 2373929450,
+    "title": "(Senior) Data Engineer (m/f/d)",
+    "organization": "Fehrmann Tech Group",
+    "organization_logo": "https://assets.cdn.personio.de/logos/69273/social/80067853f66252541ae176c4aa132fda.jpg",
+    "url": "https://fehrmann-tech-group.jobs.personio.de/job/2805001",
+    "date_posted": "2026-09-21T10:36:33",
+    "date_created": "2026-09-21T08:59:59.850294",
+    "locations_derived": [
+      "Hamburg, Germany"
+    ],
+    "cities_derived": [
+      "Hamburg"
+    ],
+    "countries_derived": [
+      "Germany"
+    ],
+    "source": "personio",
+    "source_type": "ats",
+    "employment_type": [
+      "Permanent employee"
+    ],
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "Hybrid",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "English",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Python",
+      "SQL",
+      "Microsoft Azure",
+      "Data Engineering",
+      "Data Modeling",
+      "DataOps"
+    ]
+  },
+  {
+    "id": 2373899276,
+    "title": "AI Engineer",
+    "organization": "DEPT®",
+    "url": "https://job-boards.greenhouse.io/dept/jobs/7613452",
+    "date_posted": "2026-09-21T07:55:49",
+    "date_created": "2026-09-21T08:11:03.695414",
+    "locations_derived": [
+      "Split, Croatia",
+      "Zagreb, Croatia",
+      "Berlin, Germany",
+      "Hamburg, Germany",
+      "Budapest, Central Hungary, Hungary",
+      "Amsterdam, North Holland, Netherlands",
+      "Rotterdam, South Holland, Netherlands",
+      "Skopje, North Macedonia",
+      "London, England, United Kingdom",
+      "Manchester, England, United Kingdom"
+    ],
+    "cities_derived": [
+      "Skopje",
+      "Hamburg",
+      "Zagreb",
+      "Berlin",
+      "Amsterdam",
+      "Manchester",
+      "Split",
+      "Budapest",
+      "Rotterdam",
+      "London"
+    ],
+    "regions_derived": [
+      "North Holland",
+      "England",
+      "Central Hungary",
+      "South Holland",
+      "England"
+    ],
+    "countries_derived": [
+      "North Macedonia",
+      "Germany",
+      "Croatia",
+      "Germany",
+      "Netherlands",
+      "United Kingdom",
+      "Croatia",
+      "Hungary",
+      "Netherlands",
+      "United Kingdom"
+    ],
+    "source": "greenhouse",
+    "source_type": "ats",
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "Hybrid",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "English",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Python",
+      "Machine Learning",
+      "Artificial Intelligence",
+      "TensorFlow",
+      "PyTorch",
+      "Scikit-learn"
+    ]
+  },
+  {
+    "id": 2373876711,
+    "title": "Data Scientist / Ingenieur / Naturwissenschaftler (w/m/d)",
+    "organization": "Salzgitter Konzern",
+    "url": "https://jobs.salzgitter-ag.com/alle/job/Salzgitter-Data-Scientist-Ingenieur-Naturwissenschaftler-%28wmd%29-NI/1439288933/",
+    "date_posted": "2026-09-21T00:00:00",
+    "date_created": "2026-09-21T07:33:33.319174",
+    "locations_derived": [
+      "Salzgitter, Lower Saxony, Germany"
+    ],
+    "cities_derived": [
+      "Salzgitter"
+    ],
+    "regions_derived": [
+      "Lower Saxony"
+    ],
+    "countries_derived": [
+      "Germany"
+    ],
+    "source": "successfactors",
+    "source_type": "ats",
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "Hybrid",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "German",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Data Science",
+      "Machine Learning",
+      "Python",
+      "Statistics",
+      "Artificial Intelligence",
+      "Pandas"
+    ]
+  },
+  {
     "id": 2370279258,
     "title": "DATA ENGINEER*IN (m/w/d)",
     "organization": "OMR",
@@ -3044,134 +3314,6 @@
       "Data Science",
       "Customer Lifetime Value",
       "Customer Analytics"
-    ]
-  },
-  {
-    "id": 2350958874,
-    "title": "Data Engineer (f/m/d)",
-    "organization": "dksr.city",
-    "organization_logo": "https://assets.cdn.personio.de/logos/267078/social/a5b127271548cb58689287538610cf02.png",
-    "url": "https://dksr-city.jobs.personio.de/job/2724486",
-    "date_posted": "2026-09-07T18:05:32",
-    "date_created": "2026-09-07T17:03:18.133389",
-    "locations_derived": [
-      "Berlin, Germany",
-      "North Rhine-Westphalia, Germany"
-    ],
-    "cities_derived": [
-      "Berlin"
-    ],
-    "regions_derived": [
-      "North Rhine-Westphalia"
-    ],
-    "countries_derived": [
-      "Germany",
-      "Germany"
-    ],
-    "source": "personio",
-    "source_type": "ats",
-    "employment_type": [
-      "Festanstellung"
-    ],
-    "ai_employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_work_arrangement": "On-site",
-    "ai_experience_level": "2-5",
-    "ai_job_language": "English",
-    "ai_visa_sponsorship": false,
-    "ai_key_skills": [
-      "Python",
-      "SQL",
-      "Apache Airflow",
-      "Kafka",
-      "Docker",
-      "Helm"
-    ]
-  },
-  {
-    "id": 2356478262,
-    "title": "Senior Professional Data-Engineer (m/w/d)",
-    "organization": "adorsys GmbH",
-    "organization_logo": "https://assets.cdn.personio.de/logos/13523/social/9d2c2ece9c438cbdf99cec806e59c858.png",
-    "url": "https://adorsys.jobs.personio.com/job/1335032",
-    "date_posted": "2026-09-07T10:14:09",
-    "date_created": "2026-09-10T09:59:40.984434",
-    "locations_derived": [
-      "Nuremberg, Bavaria, Germany"
-    ],
-    "cities_derived": [
-      "Nuremberg"
-    ],
-    "regions_derived": [
-      "Bavaria"
-    ],
-    "countries_derived": [
-      "Germany"
-    ],
-    "source": "personio",
-    "source_type": "ats",
-    "employment_type": [
-      "Festanstellung"
-    ],
-    "ai_employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_work_arrangement": "Remote OK",
-    "ai_experience_level": "2-5",
-    "ai_job_language": "German",
-    "ai_visa_sponsorship": false,
-    "ai_key_skills": [
-      "Data Engineering",
-      "Cloud-Native",
-      "Microservices",
-      "Java",
-      "Spring Boot",
-      "Kubernetes"
-    ]
-  },
-  {
-    "id": 2354581169,
-    "title": "Data Engineer Mid-Level (m/w/d)",
-    "organization": "Octopus Energy Group",
-    "organization_logo": "https://lever-client-logos.s3.us-west-2.amazonaws.com/d992cb9f-7e96-4452-9ebd-0587bfcdefee-1629204420813.png",
-    "url": "https://jobs.lever.co/octoenergy/6436f6e4-0f60-4284-b459-2af3628c6d1b",
-    "date_posted": "2026-09-07T00:00:00",
-    "date_created": "2026-09-09T13:55:59.144191",
-    "locations_derived": [
-      "Munich, Bavaria, Germany",
-      "Berlin, Germany"
-    ],
-    "cities_derived": [
-      "Berlin",
-      "Munich"
-    ],
-    "regions_derived": [
-      "Bavaria"
-    ],
-    "countries_derived": [
-      "Germany",
-      "Germany"
-    ],
-    "source": "lever.co",
-    "source_type": "ats",
-    "employment_type": [
-      "Full-time"
-    ],
-    "ai_employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_work_arrangement": "On-site",
-    "ai_experience_level": "2-5",
-    "ai_job_language": "German",
-    "ai_visa_sponsorship": false,
-    "ai_key_skills": [
-      "Databricks",
-      "Delta Lake",
-      "Unity Catalog",
-      "dbt",
-      "Apache Airflow",
-      "Lightdash"
     ]
   }
 ]
