@@ -1,5 +1,172 @@
 [
   {
+    "id": 2382765930,
+    "title": "Data Scientist – ML & Predictive Analytics *",
+    "organization": "Tri.Merge GmbH",
+    "organization_logo": "https://assets.cdn.personio.de/logos/115011/social/69038168ef5dc8cdbc302decf8cc94d4.png",
+    "url": "https://tri-merge.jobs.personio.com/job/2291727",
+    "date_posted": "2026-09-25T16:58:38",
+    "date_created": "2026-09-25T16:03:00.882791",
+    "locations_derived": [
+      "Friedrichshafen, Baden-Württemberg, Germany"
+    ],
+    "cities_derived": [
+      "Friedrichshafen"
+    ],
+    "regions_derived": [
+      "Baden-Württemberg"
+    ],
+    "countries_derived": [
+      "Germany"
+    ],
+    "source": "personio",
+    "source_type": "ats",
+    "employment_type": [
+      "Festanstellung"
+    ],
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "Hybrid",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "German",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Scikit-learn",
+      "PyTorch",
+      "TensorFlow",
+      "Python",
+      "Rust",
+      "Predictive modeling"
+    ]
+  },
+  {
+    "id": 2382310508,
+    "title": "Data Engineer (m/w/d)",
+    "organization": "ambelin",
+    "organization_logo": "https://assets.cdn.personio.de/logos/82379/social/87a4f007ee4fdf98ec2e36f7ed1be13c.jpg",
+    "url": "https://ambelin-gmbh.jobs.personio.de/job/2797664",
+    "date_posted": "2026-09-25T10:58:27",
+    "date_created": "2026-09-25T10:01:54.678245",
+    "locations_derived": [
+      "Berlin, Berlin, Germany"
+    ],
+    "cities_derived": [
+      "Berlin"
+    ],
+    "regions_derived": [
+      "Berlin"
+    ],
+    "countries_derived": [
+      "Germany"
+    ],
+    "source": "personio",
+    "source_type": "ats",
+    "employment_type": [
+      "Festanstellung"
+    ],
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "Hybrid",
+    "ai_salary_currency": "EUR",
+    "ai_salary_min_value": 70000,
+    "ai_salary_max_value": 85000,
+    "ai_salary_unit_text": "YEAR",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "German",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Data Engineering",
+      "Azure Databricks",
+      "Microsoft Azure",
+      "ETL/ELT processes",
+      "Data modeling",
+      "DevOps"
+    ]
+  },
+  {
+    "id": 2382340504,
+    "title": "Forward Deployed AI Engineer",
+    "organization": "Agile Robots SE",
+    "url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/4982847101",
+    "date_posted": "2026-09-25T10:03:25",
+    "date_created": "2026-09-25T10:31:23.985823",
+    "locations_derived": [
+      "Munich, Bavaria, Germany"
+    ],
+    "cities_derived": [
+      "Munich"
+    ],
+    "regions_derived": [
+      "Bavaria"
+    ],
+    "countries_derived": [
+      "Germany"
+    ],
+    "source": "greenhouse",
+    "source_type": "ats",
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "On-site",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "English",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Python",
+      "C++",
+      "PyTorch",
+      "TensorFlow",
+      "Computer vision",
+      "Robot learning"
+    ]
+  },
+  {
+    "id": 2382158935,
+    "title": "Software & Data Engineer*",
+    "organization": "EDAG",
+    "url": "https://careers.edag.com/job/Fulda-Software-&-Data-Engineer-Hess-36037/1441251533/",
+    "date_posted": "2026-09-25T00:00:00",
+    "date_created": "2026-09-25T07:46:47.077099",
+    "locations_derived": [
+      "Ingolstadt, Bavaria, Germany",
+      "Fulda, Hesse, Germany",
+      "Berlin, Germany"
+    ],
+    "cities_derived": [
+      "Berlin",
+      "Fulda",
+      "Ingolstadt"
+    ],
+    "regions_derived": [
+      "Hesse",
+      "Bavaria"
+    ],
+    "countries_derived": [
+      "Germany",
+      "Germany",
+      "Germany"
+    ],
+    "source": "successfactors",
+    "source_type": "ats",
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "On-site",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "German",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Python",
+      "SQL",
+      "Data Engineering",
+      "Data Pipelines",
+      "Cloud Platforms",
+      "Machine Learning"
+    ]
+  },
+  {
     "id": 2380606045,
     "title": "AI Engineer Financial Services (m/w/d)",
     "organization": "Sopra Steria",
@@ -414,6 +581,55 @@
       "Machine learning",
       "AI algorithms",
       "Git"
+    ]
+  },
+  {
+    "id": 2382196766,
+    "title": "Data & AI Engineer Public Sector (w/m/d)",
+    "organization": "Capgemini",
+    "url": "https://careers.capgemini.com/job/Berlin-Data-&-AI-Engineer-Public-Sector-%28wmd%29/1440451333/",
+    "date_posted": "2026-09-23T00:00:00",
+    "date_created": "2026-09-25T08:26:39.981261",
+    "locations_derived": [
+      "Stuttgart, Baden-Württemberg, Germany",
+      "Munich, Bavaria, Germany",
+      "Düsseldorf, North Rhine-Westphalia, Germany",
+      "Berlin, Germany"
+    ],
+    "cities_derived": [
+      "Berlin",
+      "Düsseldorf",
+      "Stuttgart",
+      "Munich"
+    ],
+    "regions_derived": [
+      "North Rhine-Westphalia",
+      "Baden-Württemberg",
+      "Bavaria"
+    ],
+    "countries_derived": [
+      "Germany",
+      "Germany",
+      "Germany",
+      "Germany"
+    ],
+    "source": "successfactors",
+    "source_type": "ats",
+    "ai_employment_type": [
+      "FULL_TIME",
+      "CONTRACTOR"
+    ],
+    "ai_work_arrangement": "Hybrid",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "German",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Data Engineering",
+      "AI Engineering",
+      "Python",
+      "Scala",
+      "SQL",
+      "Spark"
     ]
   },
   {
@@ -3137,191 +3353,5 @@
       "Physics-informed neural networks",
       "Geant4"
     ]
-  },
-  {
-    "id": 2358856134,
-    "title": "Data Scientist (all genders)",
-    "organization": "Finanztip Verbraucherinformation GmbH",
-    "organization_logo": "https://assets.cdn.personio.de/logos/93936/social/15fae6a0a94927d780334a13488bedc9.png",
-    "url": "https://finanztip.jobs.personio.de/job/2791500",
-    "date_posted": "2026-09-11T15:16:45",
-    "date_created": "2026-09-11T13:58:28.555976",
-    "locations_derived": [
-      "Munich, Bavaria, Germany"
-    ],
-    "cities_derived": [
-      "Munich"
-    ],
-    "regions_derived": [
-      "Bavaria"
-    ],
-    "countries_derived": [
-      "Germany"
-    ],
-    "source": "personio",
-    "source_type": "ats",
-    "employment_type": [
-      "Festanstellung"
-    ],
-    "ai_employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_work_arrangement": "Hybrid",
-    "ai_experience_level": "2-5",
-    "ai_job_language": "German",
-    "ai_visa_sponsorship": false,
-    "ai_key_skills": [
-      "Data analysis",
-      "Statistics",
-      "Artificial intelligence",
-      "Machine learning",
-      "Recommendation systems",
-      "Stakeholder management"
-    ]
-  },
-  {
-    "id": 2359006927,
-    "title": "Founding AI Engineer @handly - 20VC backed",
-    "organization": "handly",
-    "organization_logo": "https://cdn.join.com/69ddf3a9a8d1a200096f778b/handly-logo-m.png",
-    "url": "https://join.com/companies/handly/16694842-founding-ai-engineer-handly-20vc-backed",
-    "date_posted": "2026-09-11T15:02:51.878",
-    "date_created": "2026-09-11T15:39:16.506753",
-    "locations_derived": [
-      "Berlin, Germany"
-    ],
-    "cities_derived": [
-      "Berlin"
-    ],
-    "countries_derived": [
-      "Germany"
-    ],
-    "source": "join.com",
-    "source_type": "ats",
-    "employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_work_arrangement": "On-site",
-    "ai_salary_currency": "EUR",
-    "ai_salary_min_value": 80000,
-    "ai_salary_max_value": 110000,
-    "ai_salary_unit_text": "YEAR",
-    "ai_experience_level": "2-5",
-    "ai_job_language": "English",
-    "ai_visa_sponsorship": false,
-    "ai_key_skills": [
-      "TypeScript",
-      "Node.js",
-      "Express",
-      "Postgres",
-      "React",
-      "React Native"
-    ],
-    "salary": {
-      "@type": "MonetaryAmount",
-      "currency": "EUR",
-      "value": {
-        "@type": "QuantitativeValue",
-        "minValue": 80000,
-        "maxValue": 110000,
-        "unitText": "YEAR"
-      }
-    }
-  },
-  {
-    "id": 2359335659,
-    "title": "(Junior) Data Scientist",
-    "organization": "quantilope",
-    "organization_logo": "https://assets.cdn.personio.de/logos/15146/social/725e1e52522974463a1d403922112cfc.png",
-    "url": "https://quantilope-gmbh.jobs.personio.de/job/2794175",
-    "date_posted": "2026-09-11T14:28:51",
-    "date_created": "2026-09-11T18:58:22.614095",
-    "locations_derived": [
-      "Hamburg, Germany"
-    ],
-    "cities_derived": [
-      "Hamburg"
-    ],
-    "countries_derived": [
-      "Germany"
-    ],
-    "source": "personio",
-    "source_type": "ats",
-    "employment_type": [
-      "Permanent employee"
-    ],
-    "ai_employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_work_arrangement": "Hybrid",
-    "ai_experience_level": "0-2",
-    "ai_job_language": "English",
-    "ai_visa_sponsorship": false,
-    "ai_key_skills": [
-      "Python",
-      "Agentic AI",
-      "LLM integration",
-      "Prompt engineering",
-      "RAG",
-      "FastAPI"
-    ]
-  },
-  {
-    "id": 2357665188,
-    "title": "Data Engineer:in / IT Support (m/w/d)",
-    "organization": "LOHNunion GmbH",
-    "organization_logo": "https://cdn.join.com/63f34968c164b6000935dfc7/loh-nunion-gmb-h-logo-m.png",
-    "url": "https://join.com/companies/lohnunion/16691896-data-engineer-in-it-support-m-w-d",
-    "date_posted": "2026-09-10T22:06:07.713",
-    "date_created": "2026-09-10T22:37:34.207779",
-    "locations_derived": [
-      "Kiel, Schleswig-Holstein, Germany"
-    ],
-    "cities_derived": [
-      "Kiel"
-    ],
-    "regions_derived": [
-      "Schleswig-Holstein"
-    ],
-    "countries_derived": [
-      "Germany"
-    ],
-    "source": "join.com",
-    "source_type": "ats",
-    "employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_work_arrangement": "Hybrid",
-    "ai_salary_currency": "EUR",
-    "ai_salary_min_value": 35000,
-    "ai_salary_max_value": 55000,
-    "ai_salary_unit_text": "YEAR",
-    "ai_experience_level": "0-2",
-    "ai_job_language": "German",
-    "ai_visa_sponsorship": false,
-    "ai_key_skills": [
-      "Data engineering",
-      "IT support",
-      "Python",
-      "SQL",
-      "PHP",
-      "FastAPI"
-    ],
-    "salary": {
-      "@type": "MonetaryAmount",
-      "currency": "EUR",
-      "value": {
-        "@type": "QuantitativeValue",
-        "minValue": 35000,
-        "maxValue": 55000,
-        "unitText": "YEAR"
-      }
-    }
   }
 ]
