@@ -1063,6 +1063,46 @@
     ]
   },
   {
+    "id": 2385119820,
+    "title": "Senior Machine Learning Engineer - Recommendations (Experience)",
+    "organization": "SoundCloud",
+    "url": "https://job-boards.greenhouse.io/soundcloud71/jobs/8829912002",
+    "date_posted": "2026-09-22T11:14:37",
+    "date_created": "2026-09-27T04:23:04.719731",
+    "locations_derived": [
+      "Berlin, Germany",
+      "London, England, United Kingdom"
+    ],
+    "cities_derived": [
+      "Berlin",
+      "London"
+    ],
+    "regions_derived": [
+      "England"
+    ],
+    "countries_derived": [
+      "Germany",
+      "United Kingdom"
+    ],
+    "source": "greenhouse",
+    "source_type": "ats",
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "Hybrid",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "English",
+    "ai_visa_sponsorship": true,
+    "ai_key_skills": [
+      "Machine learning",
+      "Python",
+      "Scala",
+      "Java",
+      "BigQuery",
+      "Airflow"
+    ]
+  },
+  {
     "id": 2375798708,
     "title": "Associate Data Scientist (f/m/d)",
     "organization": "Predium Technology GmbH",
