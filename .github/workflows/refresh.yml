@@ -2,11 +2,22 @@ name: Refresh job board
 
 on:
   schedule:
-    # 14:05 UTC daily = 16:05 CEST / 15:05 CET. Cron is always UTC and does not follow
+    # 14:05 UTC Monday–Friday = 16:05 CEST / 15:05 CET. No weekend runs: Monday's gap
+    # from Friday trips the backfill below, so weekend postings still arrive, one day late. Cron is always UTC and does not follow
     # DST, so the local time shifts by an hour in winter. Five past the hour, not on it:
     # the :00 slot is the most contended and runs there queue longest.
-    - cron: '5 14 * * *'
+    #
+    # GitHub's cron is best-effort: under load it has started this run 4–8 hours late.
+    # The punctual trigger is an external scheduler calling workflow_dispatch with
+    # source=scheduler at 14:05 UTC (see the gate job). This cron stays as the fallback
+    # for a day the external call fails, and does nothing when that call already ran.
+    - cron: '5 14 * * 1-5'
   workflow_dispatch:          # lets you run it by hand from the Actions tab
+    inputs:
+      source:
+        description: "Leave as 'manual'. The external scheduler sends 'scheduler'."
+        default: manual
+        type: string
 
 permissions:
   contents: write             # needed so the bot can commit data/
@@ -25,7 +36,61 @@ env:
                               # renders (~730 B each), so this is ~860 KB, not ~4 MB.
 
 jobs:
+  # Two triggers aim at the same daily slot — the external scheduler on time, GitHub's
+  # cron hours later — and only the first to arrive should run. Each extra run would
+  # bill Apify again and commit a near-identical refresh. A run started by hand from
+  # the Actions tab always goes through.
+  gate:
+    runs-on: ubuntu-latest
+    outputs:
+      run: ${{ steps.check.outputs.run }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - id: check
+        env:
+          EVENT: ${{ github.event_name }}
+          SOURCE: ${{ inputs.source }}
+        run: |
+          set -euo pipefail
+          if [ "$EVENT" = "workflow_dispatch" ] && [ "$SOURCE" != "scheduler" ]; then
+            echo "Started by hand, so it runs regardless of the last refresh."
+            echo "run=true" >> "$GITHUB_OUTPUT"; exit 0
+          fi
+
+          # Read meta.json from the branch tip, not the checked-out commit: a scheduled
+          # run checks out the SHA from when it was queued, which predates a refresh
+          # that finished while it waited behind the concurrency group.
+          git fetch -q --depth=1 origin "${GITHUB_REF_NAME}"
+          LAST=$(git show "origin/${GITHUB_REF_NAME}:data/meta.json" 2>/dev/null \
+                   | jq -r '.last_run // ""' || true)
+
+          # The slot opens at 14:00 UTC, five minutes before either trigger fires, so
+          # an external call that lands a few seconds early still counts as today's.
+          # Before 14:00 the open slot is yesterday's, which covers a late cron that
+          # slips past midnight.
+          NOW=$(date -u +%s)
+          SLOT=$(date -u -d "today 14:00" +%s)
+          [ "$NOW" -lt "$SLOT" ] && SLOT=$(( SLOT - 86400 ))
+
+          # Weekday of the slot, not of now: Friday's cron slipping past midnight is
+          # still Friday's run, and must not be refused for landing on a Saturday.
+          if [ "$(date -u -d "@$SLOT" +%u)" -ge 6 ]; then
+            echo "The open slot is on a weekend; the board refreshes Monday–Friday only."
+            echo "run=false" >> "$GITHUB_OUTPUT"; exit 0
+          fi
+
+          if [ -n "$LAST" ] && [ "$(date -u -d "$LAST" +%s)" -ge "$SLOT" ]; then
+            echo "Already refreshed at ${LAST} for the slot opening $(date -u -d "@$SLOT" +%FT%TZ); skipping."
+            echo "run=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "No refresh yet for the slot opening $(date -u -d "@$SLOT" +%FT%TZ) (last: ${LAST:-never})."
+            echo "run=true" >> "$GITHUB_OUTPUT"
+          fi
+
   refresh:
+    needs: gate
+    if: needs.gate.outputs.run == 'true'
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -51,6 +116,11 @@ jobs:
               if [ "$GAP" -gt 129600 ]; then          # more than 36h: a run was missed
                 RANGE=7d
                 WHY="last successful run was $(( GAP / 3600 ))h ago"
+                # Weekends are not scheduled, so Monday always lands here. Say so,
+                # rather than reading like a failure; a longer gap still says it was missed.
+                if [ "$(date -u +%u)" = "1" ] && [ "$GAP" -le 302400 ]; then   # ≤ 84h
+                  WHY="Monday run covering the weekend"
+                fi
               fi
             fi
           fi
