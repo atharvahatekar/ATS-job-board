@@ -1,5 +1,247 @@
 [
   {
+    "id": 2390221122,
+    "title": "Data Engineer (m/f/d)",
+    "organization": "Superchat",
+    "url": "https://job-boards.eu.greenhouse.io/superchat/jobs/4994412101",
+    "date_posted": "2026-09-30T16:06:29",
+    "date_created": "2026-09-30T16:37:22.069835",
+    "locations_derived": [
+      "Berlin, Germany"
+    ],
+    "cities_derived": [
+      "Berlin"
+    ],
+    "countries_derived": [
+      "Germany"
+    ],
+    "source": "greenhouse",
+    "source_type": "ats",
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "Hybrid",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "English",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "SQL",
+      "dbt",
+      "AWS Redshift",
+      "Data Pipeline Engineering",
+      "Data Modeling",
+      "Python"
+    ]
+  },
+  {
+    "id": 2390102756,
+    "title": "Data Scientist / Machine Learning Engineer (m/w/d) | Healthcare & Life Science",
+    "organization": "Limebit GmbH",
+    "organization_logo": "https://cdn.join.com/61264edf42614c0008270996/limebit-gmb-h-logo-m.jpg",
+    "url": "https://join.com/companies/limebit/16771000-data-scientist-machine-learning-engineer-m-w-d-oder-healthcare-und-life-science",
+    "date_posted": "2026-09-30T15:11:19.623",
+    "date_created": "2026-09-30T15:33:39.91739",
+    "locations_derived": [
+      "Berlin, Germany"
+    ],
+    "cities_derived": [
+      "Berlin"
+    ],
+    "countries_derived": [
+      "Germany"
+    ],
+    "source": "join.com",
+    "source_type": "ats",
+    "employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "Hybrid",
+    "ai_experience_level": "0-2",
+    "ai_job_language": "German",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Python",
+      "Pandas",
+      "NumPy",
+      "SciPy",
+      "Scikit-learn",
+      "PyTorch"
+    ]
+  },
+  {
+    "id": 2389875856,
+    "title": "AI Engineer – Schwerpunkt Generative KI Systeme (m/w/d)",
+    "organization": "Thalia Bücher GmbH",
+    "url": "https://jobs.smartrecruiters.com/ThaliaBcherGmbH1/744000152677530-ai-engineer-schwerpunkt-generative-ki-systeme-m-w-d-",
+    "date_posted": "2026-09-30T12:53:45.155",
+    "date_created": "2026-09-30T12:57:22.246853",
+    "locations_derived": [
+      "Münster, North Rhine-Westphalia, Germany"
+    ],
+    "cities_derived": [
+      "Münster"
+    ],
+    "regions_derived": [
+      "North Rhine-Westphalia"
+    ],
+    "countries_derived": [
+      "Germany"
+    ],
+    "source": "smartrecruiters",
+    "source_type": "ats",
+    "employment_type": [
+      "Vollzeit"
+    ],
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "Hybrid",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "German",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Generative AI",
+      "Python",
+      "Machine Learning",
+      "Deep Learning",
+      "LLMs",
+      "Diffusion Models"
+    ]
+  },
+  {
+    "id": 2389706879,
+    "title": "Machine Learning Engineer (m/f/x)",
+    "organization": "Bertling",
+    "organization_logo": "https://assets.cdn.personio.de/logos/37599/social/3ede25223817be8183aa94435386da11.png",
+    "url": "https://f-h-bertling.jobs.personio.de/job/2821089",
+    "date_posted": "2026-09-30T12:01:10",
+    "date_created": "2026-09-30T10:58:26.803458",
+    "locations_derived": [
+      "Hamburg, Hamburg, Germany",
+      "Greater London, England, United Kingdom"
+    ],
+    "cities_derived": [
+      "Greater London",
+      "Hamburg"
+    ],
+    "regions_derived": [
+      "England",
+      "Hamburg"
+    ],
+    "countries_derived": [
+      "United Kingdom",
+      "Germany"
+    ],
+    "source": "personio",
+    "source_type": "ats",
+    "employment_type": [
+      "Permanent employee"
+    ],
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "Hybrid",
+    "ai_salary_currency": "EUR",
+    "ai_salary_min_value": 60000,
+    "ai_salary_max_value": 70000,
+    "ai_salary_unit_text": "YEAR",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "English",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Machine learning",
+      "Data science",
+      "Software engineering",
+      "Data pipelines",
+      "Feature engineering",
+      "Cloud platforms"
+    ]
+  },
+  {
+    "id": 2389328654,
+    "title": "Footprint Data Scientist (w/m/d)",
+    "organization": "Deutsche Glasfaser",
+    "url": "https://jobs.smartrecruiters.com/DeutscheGlasfaser/744000152594079-footprint-data-scientist-w-m-d-",
+    "date_posted": "2026-09-30T05:46:05.483",
+    "date_created": "2026-09-30T05:53:24.180118",
+    "locations_derived": [
+      "Dusseldorf, North Rhine-Westphalia, Germany"
+    ],
+    "cities_derived": [
+      "Dusseldorf"
+    ],
+    "regions_derived": [
+      "North Rhine-Westphalia"
+    ],
+    "countries_derived": [
+      "Germany"
+    ],
+    "source": "smartrecruiters",
+    "source_type": "ats",
+    "employment_type": [
+      "Vollzeit"
+    ],
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "Hybrid",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "German",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Data Science",
+      "Python",
+      "SQL",
+      "Machine Learning",
+      "Statistical methods",
+      "Scoring models"
+    ]
+  },
+  {
+    "id": 2388328522,
+    "title": "Senior Data Engineer ",
+    "organization": "Clarity Innovations",
+    "url": "https://job-boards.greenhouse.io/clarityinnovates/jobs/5249151007",
+    "date_posted": "2026-09-29T18:12:34",
+    "date_created": "2026-09-29T18:58:12.548494",
+    "locations_derived": [
+      "Stuttgart, Baden-Württemberg, Germany"
+    ],
+    "cities_derived": [
+      "Stuttgart"
+    ],
+    "regions_derived": [
+      "Baden-Württemberg"
+    ],
+    "countries_derived": [
+      "Germany"
+    ],
+    "source": "greenhouse",
+    "source_type": "ats",
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "On-site",
+    "ai_salary_currency": "USD",
+    "ai_salary_min_value": 90000,
+    "ai_salary_max_value": 217000,
+    "ai_salary_unit_text": "YEAR",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "English",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Data engineering",
+      "SQL",
+      "NoSQL",
+      "ETL",
+      "Data pipelining",
+      "API development"
+    ]
+  },
+  {
     "id": 2388153068,
     "title": "Applied AI Engineer",
     "organization": "Brainlab",
@@ -183,6 +425,46 @@
       "Python",
       "SQL",
       "Apache Spark"
+    ]
+  },
+  {
+    "id": 2388265666,
+    "title": "Data Scientist Production (w/m/d)",
+    "organization": "LANXESS Deutschland GmbH",
+    "url": "https://career.lanxess.com/us/en/job/LARLAHUS8271EXTERNALENUS/Data-Scientist-Production-w-m-d",
+    "date_posted": "2026-09-29T13:19:17",
+    "date_created": "2026-09-29T18:23:21.122368",
+    "locations_derived": [
+      "Cologne, North Rhine-Westphalia, Germany"
+    ],
+    "cities_derived": [
+      "Cologne"
+    ],
+    "regions_derived": [
+      "North Rhine-Westphalia"
+    ],
+    "countries_derived": [
+      "Germany"
+    ],
+    "source": "phenompeople",
+    "source_type": "ats",
+    "employment_type": [
+      "Full Time"
+    ],
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "Hybrid",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "German",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Python",
+      "Pandas",
+      "PySpark",
+      "Machine Learning",
+      "Data Analysis",
+      "Data Visualization"
     ]
   },
   {
@@ -2695,497 +2977,6 @@
       "SQL",
       "Data analysis",
       "Data cleansing"
-    ]
-  },
-  {
-    "id": 2366336168,
-    "title": "Production Data Engineer (all genders)",
-    "organization": "STARK",
-    "organization_logo": "https://assets.cdn.personio.de/logos/221201/social/10d52c6594577fdd7a4f540f59e3f8eb.png",
-    "url": "https://stark.jobs.personio.com/job/2698166",
-    "date_posted": "2026-09-16T16:21:22",
-    "date_created": "2026-09-16T14:58:44.374973",
-    "locations_derived": [
-      "Berlin, Germany"
-    ],
-    "cities_derived": [
-      "Berlin"
-    ],
-    "countries_derived": [
-      "Germany"
-    ],
-    "source": "personio",
-    "source_type": "ats",
-    "employment_type": [
-      "Intern / Student"
-    ],
-    "ai_employment_type": [
-      "INTERN",
-      "FULL_TIME"
-    ],
-    "ai_work_arrangement": "On-site",
-    "ai_experience_level": "0-2",
-    "ai_job_language": "English",
-    "ai_visa_sponsorship": false,
-    "ai_key_skills": [
-      "Manufacturing Execution Systems",
-      "SQL",
-      "Python",
-      "BI Visualization Tools",
-      "Data Pipelines",
-      "Process Digitalization"
-    ]
-  },
-  {
-    "id": 2366385988,
-    "title": "Cloud and AI Engineer",
-    "organization": "CHAPTERS Group AG",
-    "organization_logo": "https://cdn.join.com/6a8459613df3500008e90cf8/chapters-group-ag-logo-m.jpg",
-    "url": "https://join.com/companies/chaptersgroupcom/16714723-cloud-and-ai-engineer",
-    "date_posted": "2026-09-16T14:49:09.296",
-    "date_created": "2026-09-16T15:28:21.773502",
-    "locations_derived": [
-      "Cologne, North Rhine-Westphalia, Germany"
-    ],
-    "cities_derived": [
-      "Cologne"
-    ],
-    "regions_derived": [
-      "North Rhine-Westphalia"
-    ],
-    "countries_derived": [
-      "Germany"
-    ],
-    "source": "join.com",
-    "source_type": "ats",
-    "employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_work_arrangement": "Remote OK",
-    "ai_experience_level": "2-5",
-    "ai_job_language": "English",
-    "ai_visa_sponsorship": false,
-    "ai_key_skills": [
-      "Platform engineering",
-      "DevOps",
-      "SRE",
-      "Cloud operations",
-      "Azure",
-      "AWS"
-    ]
-  },
-  {
-    "id": 2366198593,
-    "title": "Machine Learning Engineer*",
-    "organization": "Tomra",
-    "url": "https://jobs.smartrecruiters.com/Tomra/744000149866469-machine-learning-engineer-",
-    "date_posted": "2026-09-16T13:16:45.505",
-    "date_created": "2026-09-16T13:17:18.305993",
-    "locations_derived": [
-      "Mülheim-Kärlich, Rhineland-Palatinate, Germany"
-    ],
-    "cities_derived": [
-      "Mülheim-Kärlich"
-    ],
-    "regions_derived": [
-      "Rhineland-Palatinate"
-    ],
-    "countries_derived": [
-      "Germany"
-    ],
-    "source": "smartrecruiters",
-    "source_type": "ats",
-    "employment_type": [
-      "Full-time"
-    ],
-    "ai_employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_work_arrangement": "Hybrid",
-    "ai_experience_level": "2-5",
-    "ai_job_language": "English",
-    "ai_visa_sponsorship": false,
-    "ai_key_skills": [
-      "Python",
-      "Computer vision",
-      "Machine learning",
-      "Deep learning",
-      "MLOps",
-      "Data modeling"
-    ]
-  },
-  {
-    "id": 2367524109,
-    "title": "Data Scientist / PostDoc - Machine Learning & Profile - Driven Enzyme Discovery",
-    "organization": "Bayer",
-    "url": "https://talent.bayer.com/careers/job/562949978335405-data-scientist-postdoc-machine-learning-profile-driven-enzyme-discovery-monheim-north-rhine-westfalia-germany",
-    "date_posted": "2026-09-16T09:08:01",
-    "date_created": "2026-09-17T02:42:18.993243",
-    "locations_derived": [
-      "Monheim am Rhein, North Rhine-Westphalia, Germany"
-    ],
-    "cities_derived": [
-      "Monheim am Rhein"
-    ],
-    "regions_derived": [
-      "North Rhine-Westphalia"
-    ],
-    "countries_derived": [
-      "Germany"
-    ],
-    "source": "eightfold",
-    "source_type": "ats",
-    "employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_work_arrangement": "On-site",
-    "ai_experience_level": "2-5",
-    "ai_job_language": "English",
-    "ai_visa_sponsorship": false,
-    "ai_key_skills": [
-      "Machine learning",
-      "Probabilistic modeling",
-      "Active learning",
-      "Protein design",
-      "Computational biology",
-      "Optimization algorithms"
-    ]
-  },
-  {
-    "id": 2365818723,
-    "title": "Data Scientist Fraud Management (m/w/d)",
-    "organization": "R+V Allgemeine Versicherung AG",
-    "url": "https://jobs.smartrecruiters.com/RVAllgemeineVersicherungenAG/744000149796390-data-scientist-fraud-management-m-w-d-",
-    "date_posted": "2026-09-16T08:09:05.174",
-    "date_created": "2026-09-16T08:09:20.005936",
-    "locations_derived": [
-      "Wiesbaden, Hesse, Germany"
-    ],
-    "cities_derived": [
-      "Wiesbaden"
-    ],
-    "regions_derived": [
-      "Hesse"
-    ],
-    "countries_derived": [
-      "Germany"
-    ],
-    "source": "smartrecruiters",
-    "source_type": "ats",
-    "employment_type": [
-      "Vollzeit"
-    ],
-    "ai_employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_work_arrangement": "Hybrid",
-    "ai_experience_level": "0-2",
-    "ai_job_language": "German",
-    "ai_visa_sponsorship": false,
-    "ai_key_skills": [
-      "Python",
-      "R",
-      "SQL",
-      "Data analysis",
-      "Fraud management",
-      "Statistical modeling"
-    ]
-  },
-  {
-    "id": 2380603266,
-    "title": "AI Engineer - Data",
-    "organization": "Almedia",
-    "organization_logo": "https://app.ashbyhq.com/api/images/org-theme-logo/252dba26-924b-45a2-8e91-a11ea9f1aa5e/c48ab77d-37f0-49fa-9193-45e5bea6e997/79ecf21b-9ac4-46a6-a86e-b7bb4452b3ce.png",
-    "url": "https://jobs.ashbyhq.com/almedia/7338fa74-0fde-4201-99ce-d313ba6ebb5d",
-    "date_posted": "2026-09-16T00:00:00",
-    "date_created": "2026-09-24T15:21:42.473408",
-    "locations_derived": [
-      "Berlin, Germany"
-    ],
-    "cities_derived": [
-      "Berlin"
-    ],
-    "countries_derived": [
-      "Germany"
-    ],
-    "source": "ashby",
-    "source_type": "ats",
-    "employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_work_arrangement": "On-site",
-    "ai_experience_level": "2-5",
-    "ai_job_language": "English",
-    "ai_visa_sponsorship": false,
-    "ai_key_skills": [
-      "Python",
-      "Artificial Intelligence",
-      "Agentic Systems",
-      "Large Language Models",
-      "LLM Pipelines",
-      "Retrieval-Augmented Generation"
-    ]
-  },
-  {
-    "id": 2368159887,
-    "title": "AI & Data Engineer (m/w/d)",
-    "organization": "Nagel-Group Logistics SE",
-    "url": "https://careers.nagel-group.com/job/Versmold-AI-&-Data-Engineer-%28mwd%29-NW-33775/1437458433/",
-    "date_posted": "2026-09-16T00:00:00",
-    "date_created": "2026-09-17T10:38:10.178123",
-    "locations_derived": [
-      "Versmold, North Rhine-Westphalia, Germany"
-    ],
-    "cities_derived": [
-      "Versmold"
-    ],
-    "regions_derived": [
-      "North Rhine-Westphalia"
-    ],
-    "countries_derived": [
-      "Germany"
-    ],
-    "source": "successfactors",
-    "source_type": "ats",
-    "ai_employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_work_arrangement": "Hybrid",
-    "ai_experience_level": "2-5",
-    "ai_job_language": "German",
-    "ai_visa_sponsorship": false,
-    "ai_key_skills": [
-      "Python",
-      "SQL",
-      "Data Engineering",
-      "Machine Learning",
-      "Cloud Platforms",
-      "Data Modeling"
-    ]
-  },
-  {
-    "id": 2366567672,
-    "title": "Data Scientist, Data Quality & Provenance",
-    "organization": "Wayve",
-    "organization_logo": "https://app.ashbyhq.com/api/images/org-theme-logo/c3dedbb7-82c2-4668-a1bf-b53c8f870af0/196ebde4-2a95-4c19-972f-c2da3f8094c4/c77da4de-3115-4c05-b6f4-ec3b7cdaf5d2.png",
-    "url": "https://jobs.ashbyhq.com/wayve/88f800a1-7109-4965-b350-f8e2f3223d2a",
-    "date_posted": "2026-09-16T00:00:00",
-    "date_created": "2026-09-16T17:23:16.938888",
-    "locations_derived": [
-      "Leonberg, Bavaria, Germany"
-    ],
-    "cities_derived": [
-      "Leonberg"
-    ],
-    "regions_derived": [
-      "Bavaria"
-    ],
-    "countries_derived": [
-      "Germany"
-    ],
-    "source": "ashby",
-    "source_type": "ats",
-    "employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_work_arrangement": "Hybrid",
-    "ai_salary_currency": "USD",
-    "ai_salary_min_value": 209700,
-    "ai_salary_max_value": 266800,
-    "ai_salary_unit_text": "YEAR",
-    "ai_experience_level": "2-5",
-    "ai_job_language": "English",
-    "ai_visa_sponsorship": false,
-    "ai_key_skills": [
-      "Data science",
-      "SQL",
-      "Python",
-      "R",
-      "Statistics",
-      "A/B testing"
-    ]
-  },
-  {
-    "id": 2366567660,
-    "title": "Data Engineer, Data Quality & Provenance",
-    "organization": "Wayve",
-    "organization_logo": "https://app.ashbyhq.com/api/images/org-theme-logo/c3dedbb7-82c2-4668-a1bf-b53c8f870af0/196ebde4-2a95-4c19-972f-c2da3f8094c4/c77da4de-3115-4c05-b6f4-ec3b7cdaf5d2.png",
-    "url": "https://jobs.ashbyhq.com/wayve/e9c191ee-5536-4f79-87ac-8a907986d688",
-    "date_posted": "2026-09-16T00:00:00",
-    "date_created": "2026-09-16T17:23:16.456346",
-    "locations_derived": [
-      "Leonberg, Bavaria, Germany"
-    ],
-    "cities_derived": [
-      "Leonberg"
-    ],
-    "regions_derived": [
-      "Bavaria"
-    ],
-    "countries_derived": [
-      "Germany"
-    ],
-    "source": "ashby",
-    "source_type": "ats",
-    "employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_work_arrangement": "Hybrid",
-    "ai_experience_level": "2-5",
-    "ai_job_language": "English",
-    "ai_visa_sponsorship": false,
-    "ai_key_skills": [
-      "Python",
-      "SQL",
-      "Data Engineering",
-      "Distributed Systems",
-      "Spark",
-      "Flyte"
-    ]
-  },
-  {
-    "id": 2366469928,
-    "title": "Data Scientist ",
-    "organization": "Melotech",
-    "organization_logo": "https://app.ashbyhq.com/api/images/org-theme-logo/d8c1b192-5902-45bd-9f46-e56a3c6e01d3/78710efc-ae18-44ce-a528-ab980ecfd923/a5535f61-75cd-42d1-807d-c6817627e126.png",
-    "url": "https://jobs.ashbyhq.com/melotech/35bdfd24-a05f-4c2d-8c55-79d7b394499f",
-    "date_posted": "2026-09-16T00:00:00",
-    "date_created": "2026-09-16T16:22:37.149249",
-    "locations_derived": [
-      "Berlin, Germany",
-      "London, England, United Kingdom",
-      "New York, New York, United States"
-    ],
-    "cities_derived": [
-      "Berlin",
-      "New York",
-      "London"
-    ],
-    "regions_derived": [
-      "New York",
-      "England"
-    ],
-    "countries_derived": [
-      "Germany",
-      "United States",
-      "United Kingdom"
-    ],
-    "source": "ashby",
-    "source_type": "ats",
-    "employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_work_arrangement": "Remote Solely",
-    "ai_experience_level": "2-5",
-    "ai_job_language": "English",
-    "ai_visa_sponsorship": false,
-    "ai_key_skills": [
-      "Python",
-      "SQL",
-      "Machine learning",
-      "Data scraping",
-      "A/B testing",
-      "Causal analysis"
-    ]
-  },
-  {
-    "id": 2366001068,
-    "title": "Data Engineer (m/f/d) – Digital R&D – Including Salary Details",
-    "organization": "Covestro",
-    "url": "https://covestro.wd3.myworkdayjobs.com/cov_external/job/Leverkusen/Data-Engineer--m-w-d----mit-Gehaltsangabe_JR-2026-01442",
-    "date_posted": "2026-09-16T00:00:00",
-    "date_created": "2026-09-16T10:48:39.620058",
-    "locations_derived": [
-      "Leverkusen, North Rhine-Westphalia, Germany"
-    ],
-    "cities_derived": [
-      "Leverkusen"
-    ],
-    "regions_derived": [
-      "North Rhine-Westphalia"
-    ],
-    "countries_derived": [
-      "Germany"
-    ],
-    "source": "workday",
-    "source_type": "ats",
-    "employment_type": [
-      "Full time"
-    ],
-    "ai_employment_type": [
-      "FULL_TIME",
-      "PART_TIME"
-    ],
-    "ai_work_arrangement": "Hybrid",
-    "ai_salary_currency": "EUR",
-    "ai_salary_min_value": 89400,
-    "ai_salary_max_value": 108500,
-    "ai_salary_unit_text": "YEAR",
-    "ai_experience_level": "2-5",
-    "ai_job_language": "English",
-    "ai_visa_sponsorship": false,
-    "ai_key_skills": [
-      "Python",
-      "Data engineering",
-      "AWS Cloud Services",
-      "SQL",
-      "PySpark",
-      "Data pipelines"
-    ]
-  },
-  {
-    "id": 2365932951,
-    "title": "Specialist AI & Data Engineer (m/w/d)",
-    "organization": "Nagel-Group Logistics SE",
-    "url": "https://careers.nagel-group.com/job/Versmold-Specialist-AI-&-Data-Engineer-%28mwd%29-NW-33775/1437458433/",
-    "date_posted": "2026-09-16T00:00:00",
-    "date_created": "2026-09-16T09:37:06.479874",
-    "locations_derived": [
-      "Versmold, North Rhine-Westphalia, Germany"
-    ],
-    "cities_derived": [
-      "Versmold"
-    ],
-    "regions_derived": [
-      "North Rhine-Westphalia"
-    ],
-    "countries_derived": [
-      "Germany"
-    ],
-    "source": "successfactors",
-    "source_type": "ats",
-    "ai_employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_work_arrangement": "Hybrid",
-    "ai_experience_level": "2-5",
-    "ai_job_language": "German",
-    "ai_visa_sponsorship": false,
-    "ai_key_skills": [
-      "Python",
-      "SQL",
-      "Data modeling",
-      "Cloud platforms",
-      "Data engineering",
-      "Machine learning"
     ]
   }
 ]
