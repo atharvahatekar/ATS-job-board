@@ -1,5 +1,400 @@
 [
   {
+    "id": 2392382892,
+    "title": "ML Engineer - Large Molecules",
+    "organization": "Apheris",
+    "organization_logo": "https://assets.cdn.personio.de/logos/32388/social/49efe88093be036a13c726d556f6369f.png",
+    "url": "https://apheris.jobs.personio.de/job/2823682",
+    "date_posted": "2026-10-01T16:24:19",
+    "date_created": "2026-10-01T16:02:03.015783",
+    "locations_derived": [
+      "Berlin, Berlin, Germany"
+    ],
+    "cities_derived": [
+      "Berlin"
+    ],
+    "regions_derived": [
+      "Berlin"
+    ],
+    "countries_derived": [
+      "Germany"
+    ],
+    "source": "personio",
+    "source_type": "ats",
+    "employment_type": [
+      "Permanent employee"
+    ],
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "Remote OK",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "English",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Machine Learning",
+      "Python",
+      "PyTorch",
+      "Deep Learning",
+      "Computational Biology",
+      "Bioinformatics"
+    ]
+  },
+  {
+    "id": 2392360246,
+    "title": "Data Scientist (w/m/d)",
+    "organization": "Kienbaum Consultants International GmbH",
+    "url": "https://kienbaum.avature.net/Hiring/FolderDetail/Comp-Data-Scientist-w-m-d/274557",
+    "date_posted": "2026-10-01T15:38:21.837",
+    "date_created": "2026-10-01T15:38:25.505254",
+    "locations_derived": [
+      "Stuttgart, Baden-Württemberg, Germany",
+      "Munich, Bavaria, Germany",
+      "Frankfurt, Hesse, Germany",
+      "Cologne, North Rhine-Westphalia, Germany",
+      "Düsseldorf, North Rhine-Westphalia, Germany",
+      "Berlin, Germany",
+      "Hamburg, Germany"
+    ],
+    "cities_derived": [
+      "Frankfurt",
+      "Hamburg",
+      "Berlin",
+      "Düsseldorf",
+      "Stuttgart",
+      "Cologne",
+      "Munich"
+    ],
+    "regions_derived": [
+      "Hesse",
+      "North Rhine-Westphalia",
+      "Baden-Württemberg",
+      "North Rhine-Westphalia",
+      "Bavaria"
+    ],
+    "countries_derived": [
+      "Germany",
+      "Germany",
+      "Germany",
+      "Germany",
+      "Germany",
+      "Germany",
+      "Germany"
+    ],
+    "source": "avature",
+    "source_type": "ats",
+    "ai_employment_type": [
+      "FULL_TIME",
+      "PART_TIME"
+    ],
+    "ai_work_arrangement": "On-site",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "German",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Data science",
+      "R",
+      "Python",
+      "Matlab",
+      "Stata",
+      "SQL"
+    ]
+  },
+  {
+    "id": 2392360245,
+    "title": "(Senior) Data Engineer | Schwerpunkt Operations (w/m/d)",
+    "organization": "Kienbaum Consultants International GmbH",
+    "url": "https://kienbaum.avature.net/Hiring/FolderDetail/Comp-Data-Engineer-Schwerpunkt-Operations-w-m-d/274595",
+    "date_posted": "2026-10-01T15:38:21.308",
+    "date_created": "2026-10-01T15:38:25.484365",
+    "locations_derived": [
+      "Stuttgart, Baden-Württemberg, Germany",
+      "Munich, Bavaria, Germany",
+      "Frankfurt, Hesse, Germany",
+      "Cologne, North Rhine-Westphalia, Germany",
+      "Düsseldorf, North Rhine-Westphalia, Germany",
+      "Berlin, Germany",
+      "Hamburg, Germany"
+    ],
+    "cities_derived": [
+      "Frankfurt",
+      "Hamburg",
+      "Berlin",
+      "Düsseldorf",
+      "Stuttgart",
+      "Cologne",
+      "Munich"
+    ],
+    "regions_derived": [
+      "Hesse",
+      "North Rhine-Westphalia",
+      "Baden-Württemberg",
+      "North Rhine-Westphalia",
+      "Bavaria"
+    ],
+    "countries_derived": [
+      "Germany",
+      "Germany",
+      "Germany",
+      "Germany",
+      "Germany",
+      "Germany",
+      "Germany"
+    ],
+    "source": "avature",
+    "source_type": "ats",
+    "ai_employment_type": [
+      "FULL_TIME",
+      "PART_TIME"
+    ],
+    "ai_work_arrangement": "On-site",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "German",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Software development",
+      "Data management",
+      "ETL",
+      "ELT",
+      "CI/CD",
+      "API development"
+    ]
+  },
+  {
+    "id": 2392320964,
+    "title": "Data Engineer (m/f/d)",
+    "organization": "REPA GROUP",
+    "url": "https://jobs.smartrecruiters.com/REPAGROUP/744000152971060-data-engineer-m-f-d-",
+    "date_posted": "2026-10-01T15:13:21.141",
+    "date_created": "2026-10-01T15:13:24.324839",
+    "locations_derived": [
+      "Feldgeding, Bavaria, Germany"
+    ],
+    "cities_derived": [
+      "Feldgeding"
+    ],
+    "regions_derived": [
+      "Bavaria"
+    ],
+    "countries_derived": [
+      "Germany"
+    ],
+    "source": "smartrecruiters",
+    "source_type": "ats",
+    "employment_type": [
+      "Full-time"
+    ],
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "Hybrid",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "English",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Data Engineering",
+      "Microsoft Fabric",
+      "Azure Data Services",
+      "SQL",
+      "Data transformation",
+      "ETL/ELT"
+    ]
+  },
+  {
+    "id": 2392320963,
+    "title": "Google Cloud Data Engineer (m/f/d)",
+    "organization": "REPA GROUP",
+    "url": "https://jobs.smartrecruiters.com/REPAGROUP/744000152971648-google-cloud-data-engineer-m-f-d-",
+    "date_posted": "2026-10-01T15:11:44.292",
+    "date_created": "2026-10-01T15:13:24.316488",
+    "locations_derived": [
+      "Feldgeding, Bavaria, Germany"
+    ],
+    "cities_derived": [
+      "Feldgeding"
+    ],
+    "regions_derived": [
+      "Bavaria"
+    ],
+    "countries_derived": [
+      "Germany"
+    ],
+    "source": "smartrecruiters",
+    "source_type": "ats",
+    "employment_type": [
+      "Full-time"
+    ],
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "Hybrid",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "English",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Google Cloud Platform",
+      "Microsoft Fabric",
+      "Data Engineering",
+      "SQL",
+      "ETL",
+      "ELT"
+    ]
+  },
+  {
+    "id": 2392249305,
+    "title": "Data Scientist AI (D/F/M), DHL Data & AI",
+    "organization": "DHL Consulting",
+    "url": "https://dhlconsulting.avature.net/en_US/careers/JobDetail/Bonn-Nordrhein-Westfalen-Germany-Data-Scientist-AI-D-F-M-DHL-Data-AI/625",
+    "date_posted": "2026-10-01T14:20:54.094",
+    "date_created": "2026-10-01T14:20:55.127226",
+    "locations_derived": [
+      "Bonn, North Rhine-Westphalia, Germany"
+    ],
+    "cities_derived": [
+      "Bonn"
+    ],
+    "regions_derived": [
+      "North Rhine-Westphalia"
+    ],
+    "countries_derived": [
+      "Germany"
+    ],
+    "source": "avature",
+    "source_type": "ats",
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "Hybrid",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "English",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Python",
+      "SQL",
+      "Machine Learning",
+      "PyTorch",
+      "Scikit-learn",
+      "MLOps"
+    ]
+  },
+  {
+    "id": 2392244267,
+    "title": "Data Engineer (m/f/d)",
+    "organization": "REPA GROUP",
+    "url": "https://jobs.smartrecruiters.com/REPAGROUP/744000152956339-data-engineer-m-f-d-",
+    "date_posted": "2026-10-01T14:17:07.693",
+    "date_created": "2026-10-01T14:17:27.472203",
+    "locations_derived": [
+      "Feldgeding, Bavaria, Germany"
+    ],
+    "cities_derived": [
+      "Feldgeding"
+    ],
+    "regions_derived": [
+      "Bavaria"
+    ],
+    "countries_derived": [
+      "Germany"
+    ],
+    "source": "smartrecruiters",
+    "source_type": "ats",
+    "employment_type": [
+      "Full-time"
+    ],
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "Hybrid",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "English",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Microsoft Fabric",
+      "Azure Data Services",
+      "SQL",
+      "Data pipelines",
+      "Data transformation",
+      "ETL/ELT"
+    ]
+  },
+  {
+    "id": 2392244277,
+    "title": "Google Cloud Data Engineer (m/f/d)",
+    "organization": "REPA GROUP",
+    "url": "https://jobs.smartrecruiters.com/REPAGROUP/744000152956069-google-cloud-data-engineer-m-f-d-",
+    "date_posted": "2026-10-01T14:16:32.188",
+    "date_created": "2026-10-01T14:17:27.855778",
+    "locations_derived": [
+      "Feldgeding, Bavaria, Germany"
+    ],
+    "cities_derived": [
+      "Feldgeding"
+    ],
+    "regions_derived": [
+      "Bavaria"
+    ],
+    "countries_derived": [
+      "Germany"
+    ],
+    "source": "smartrecruiters",
+    "source_type": "ats",
+    "employment_type": [
+      "Full-time"
+    ],
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "Hybrid",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "English",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Google Cloud Platform",
+      "Microsoft Fabric",
+      "Data Engineering",
+      "SQL",
+      "ETL/ELT",
+      "Data Integration"
+    ]
+  },
+  {
+    "id": 2392258490,
+    "title": "Data Engineer: Sales&Revenue Data (all genders)",
+    "organization": "Zalando",
+    "url": "https://zalando.wd3.myworkdayjobs.com/ZalandoSiteWD/job/Berlin/Data-Engineer--Sales-Revenue-Data--all-genders-_2724676",
+    "date_posted": "2026-10-01T00:00:00",
+    "date_created": "2026-10-01T14:32:58.128617",
+    "locations_derived": [
+      "Berlin, Germany"
+    ],
+    "cities_derived": [
+      "Berlin"
+    ],
+    "countries_derived": [
+      "Germany"
+    ],
+    "source": "workday",
+    "source_type": "ats",
+    "employment_type": [
+      "Full time"
+    ],
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "On-site",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "English",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "SQL",
+      "Python",
+      "Dbt",
+      "Data modeling",
+      "Data engineering",
+      "Data quality"
+    ]
+  },
+  {
     "id": 2390221122,
     "title": "Data Engineer (m/f/d)",
     "organization": "Superchat",
@@ -2757,226 +3152,6 @@
       "Data modeling",
       "Data architecture",
       "AWS"
-    ]
-  },
-  {
-    "id": 2368341993,
-    "title": "Junior Data Engineer & MarTech Specialist (Mobile Apps) English Speaking (m/w/d)",
-    "organization": "Customlytics GmbH",
-    "organization_logo": "https://assets.cdn.personio.de/logos/174407/413138/social/efd4bb9ec33386dbd9cd53a3375338e4.png",
-    "url": "https://customlytics.jobs.personio.de/job/2801833",
-    "date_posted": "2026-09-17T14:25:26",
-    "date_created": "2026-09-17T12:59:54.323107",
-    "locations_derived": [
-      "Berlin, Germany",
-      "Hungary",
-      "Poland",
-      "Ukraine"
-    ],
-    "cities_derived": [
-      "Berlin"
-    ],
-    "countries_derived": [
-      "Hungary",
-      "Germany",
-      "Ukraine",
-      "Poland"
-    ],
-    "source": "personio",
-    "source_type": "ats",
-    "employment_type": [
-      "Festanstellung"
-    ],
-    "ai_employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_work_arrangement": "Remote OK",
-    "ai_experience_level": "0-2",
-    "ai_job_language": "English",
-    "ai_visa_sponsorship": false,
-    "ai_key_skills": [
-      "Data engineering",
-      "Marketing technology",
-      "Mobile measurement partners",
-      "Adjust",
-      "AppsFlyer",
-      "Data pipelines"
-    ]
-  },
-  {
-    "id": 2368341688,
-    "title": "Junior Data Engineer & MarTech Specialist (Mobile Apps) English Speaking (m/w/d)",
-    "organization": "The Relevance Group",
-    "organization_logo": "https://assets.cdn.personio.de/logos/174407/social/0e88881ff724e9612abf728b2d756a63.png",
-    "url": "https://trg.jobs.personio.de/job/2801833",
-    "date_posted": "2026-09-17T14:25:26",
-    "date_created": "2026-09-17T12:58:46.804893",
-    "locations_derived": [
-      "Berlin, Germany",
-      "Hungary",
-      "Poland",
-      "Ukraine"
-    ],
-    "cities_derived": [
-      "Berlin"
-    ],
-    "countries_derived": [
-      "Hungary",
-      "Germany",
-      "Ukraine",
-      "Poland"
-    ],
-    "source": "personio",
-    "source_type": "ats",
-    "employment_type": [
-      "Festanstellung"
-    ],
-    "ai_employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_work_arrangement": "Remote OK",
-    "ai_experience_level": "0-2",
-    "ai_job_language": "English",
-    "ai_visa_sponsorship": false,
-    "ai_key_skills": [
-      "Data engineering",
-      "MarTech",
-      "Mobile measurement partners",
-      "Adjust",
-      "AppsFlyer",
-      "Data pipelines"
-    ]
-  },
-  {
-    "id": 2380141713,
-    "title": "Junior Data Engineer",
-    "organization": "reeeliance IM GmbH",
-    "organization_logo": "https://assets.cdn.personio.de/logos/250940/social/c7c5a9a5e047cf48a14d5e9cde70da3b.jpg",
-    "url": "https://reeeliance.jobs.personio.de/job/2801032/apply",
-    "date_posted": "2026-09-17T09:25:09",
-    "date_created": "2026-09-24T10:02:24.30785",
-    "locations_derived": [
-      "Berlin, Berlin, Germany",
-      "Hamburg, Germany"
-    ],
-    "cities_derived": [
-      "Hamburg",
-      "Berlin"
-    ],
-    "regions_derived": [
-      "Berlin"
-    ],
-    "countries_derived": [
-      "Germany",
-      "Germany"
-    ],
-    "source": "personio",
-    "source_type": "ats",
-    "employment_type": [
-      "Permanent employee"
-    ],
-    "ai_employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_work_arrangement": "On-site",
-    "ai_experience_level": "0-2",
-    "ai_job_language": "English",
-    "ai_visa_sponsorship": false,
-    "ai_key_skills": [
-      "Python",
-      "SQL",
-      "Data modeling",
-      "Data warehousing",
-      "Git",
-      "Azure"
-    ]
-  },
-  {
-    "id": 2367947394,
-    "title": "Junior Data Engineer",
-    "organization": "reeeliance IM GmbH",
-    "organization_logo": "https://assets.cdn.personio.de/logos/250940/social/c7c5a9a5e047cf48a14d5e9cde70da3b.jpg",
-    "url": "https://reeeliance.jobs.personio.de/job/2801032",
-    "date_posted": "2026-09-17T09:25:09",
-    "date_created": "2026-09-17T08:01:57.523911",
-    "locations_derived": [
-      "Berlin, Berlin, Germany",
-      "Hamburg, Germany"
-    ],
-    "cities_derived": [
-      "Hamburg",
-      "Berlin"
-    ],
-    "regions_derived": [
-      "Berlin"
-    ],
-    "countries_derived": [
-      "Germany",
-      "Germany"
-    ],
-    "source": "personio",
-    "source_type": "ats",
-    "employment_type": [
-      "Permanent employee"
-    ],
-    "ai_employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_work_arrangement": "On-site",
-    "ai_experience_level": "0-2",
-    "ai_job_language": "English",
-    "ai_visa_sponsorship": false,
-    "ai_key_skills": [
-      "Data modeling",
-      "Data warehousing",
-      "Python",
-      "SQL",
-      "Git",
-      "Cloud platforms"
-    ]
-  },
-  {
-    "id": 2369197746,
-    "title": "Data Scientist",
-    "organization": "Booz Allen Hamilton",
-    "url": "https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Wiesbaden-Hesse/Data-Scientist_R0249763",
-    "date_posted": "2026-09-17T00:00:00",
-    "date_created": "2026-09-17T21:37:20.550784",
-    "locations_derived": [
-      "Wiesbaden, Hesse, Germany"
-    ],
-    "cities_derived": [
-      "Wiesbaden"
-    ],
-    "regions_derived": [
-      "Hesse"
-    ],
-    "countries_derived": [
-      "Germany"
-    ],
-    "source": "workday",
-    "source_type": "ats",
-    "employment_type": [
-      "Full time"
-    ],
-    "ai_employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_work_arrangement": "On-site",
-    "ai_salary_currency": "USD",
-    "ai_salary_min_value": 77500,
-    "ai_salary_max_value": 176000,
-    "ai_salary_unit_text": "YEAR",
-    "ai_experience_level": "2-5",
-    "ai_job_language": "English",
-    "ai_visa_sponsorship": false,
-    "ai_key_skills": [
-      "Python",
-      "R",
-      "Scala",
-      "SQL",
-      "Data analysis",
-      "Data cleansing"
     ]
   }
 ]
