@@ -1,5 +1,207 @@
 [
   {
+    "id": 2397806178,
+    "title": "AI Engineer (m/w/d) - Fokus AWS",
+    "organization": "Devoteam",
+    "url": "https://jobs.smartrecruiters.com/Devoteam/744000153455400-ai-engineer-m-w-d-fokus-aws",
+    "date_posted": "2026-10-05T10:03:21.855",
+    "date_created": "2026-10-05T10:05:48.443173",
+    "locations_derived": [
+      "Frankfurt, Hesse, Germany"
+    ],
+    "cities_derived": [
+      "Frankfurt"
+    ],
+    "regions_derived": [
+      "Hesse"
+    ],
+    "countries_derived": [
+      "Germany"
+    ],
+    "source": "smartrecruiters",
+    "source_type": "ats",
+    "employment_type": [
+      "Vollzeit"
+    ],
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "Hybrid",
+    "ai_experience_level": "0-2",
+    "ai_job_language": "German",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Python",
+      "AWS",
+      "Amazon Bedrock",
+      "Amazon SageMaker",
+      "LLM development",
+      "RAG systems"
+    ]
+  },
+  {
+    "id": 2397809805,
+    "title": "AI Engineer (m/w/d) - Fokus AWS",
+    "organization": "Devoteam",
+    "url": "https://jobs.smartrecruiters.com/Devoteam/744000153455474-ai-engineer-m-w-d-fokus-aws",
+    "date_posted": "2026-10-05T10:02:39.025",
+    "date_created": "2026-10-05T10:17:26.323165",
+    "locations_derived": [
+      "Munich, Bavaria, Germany"
+    ],
+    "cities_derived": [
+      "Munich"
+    ],
+    "regions_derived": [
+      "Bavaria"
+    ],
+    "countries_derived": [
+      "Germany"
+    ],
+    "source": "smartrecruiters",
+    "source_type": "ats",
+    "employment_type": [
+      "Vollzeit"
+    ],
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "Hybrid",
+    "ai_experience_level": "0-2",
+    "ai_job_language": "German",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Python",
+      "AWS",
+      "Amazon Bedrock",
+      "Amazon SageMaker",
+      "LLM development",
+      "RAG systems"
+    ]
+  },
+  {
+    "id": 2398381008,
+    "title": "Edge AI Engineer (Mensch)",
+    "organization": "Neura Robotics",
+    "organization_logo": "https://app.ashbyhq.com/api/images/org-theme-logo/44fc3e75-d0a0-416d-a1dd-fd0c4c27f744/95151fcc-e606-4bf2-9010-61805ab12f55/097ada6d-9d61-4ef0-97c5-3cd634299e47.png",
+    "url": "https://jobs.ashbyhq.com/neura-robotics-gmbh/40c07866-7a69-42fd-8924-29842373a0cf",
+    "date_posted": "2026-10-05T00:00:00",
+    "date_created": "2026-10-05T19:22:35.941697",
+    "locations_derived": [
+      "Riederich, Baden-Württemberg, Germany"
+    ],
+    "cities_derived": [
+      "Riederich"
+    ],
+    "regions_derived": [
+      "Baden-Württemberg"
+    ],
+    "countries_derived": [
+      "Germany"
+    ],
+    "source": "ashby",
+    "source_type": "ats",
+    "employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "On-site",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "German",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Machine Learning",
+      "Embedded Systems",
+      "Robotics",
+      "Model Quantization",
+      "Pruning",
+      "Distillation"
+    ]
+  },
+  {
+    "id": 2398285995,
+    "title": "Edge AI Engineer (human)",
+    "organization": "Neura Robotics",
+    "organization_logo": "https://app.ashbyhq.com/api/images/org-theme-logo/44fc3e75-d0a0-416d-a1dd-fd0c4c27f744/95151fcc-e606-4bf2-9010-61805ab12f55/097ada6d-9d61-4ef0-97c5-3cd634299e47.png",
+    "url": "https://jobs.ashbyhq.com/neura-robotics-gmbh/b929e5f7-63c4-4b23-be24-7fb860735d0b",
+    "date_posted": "2026-10-05T00:00:00",
+    "date_created": "2026-10-05T18:22:33.946609",
+    "locations_derived": [
+      "Riederich, Baden-Württemberg, Germany"
+    ],
+    "cities_derived": [
+      "Riederich"
+    ],
+    "regions_derived": [
+      "Baden-Württemberg"
+    ],
+    "countries_derived": [
+      "Germany"
+    ],
+    "source": "ashby",
+    "source_type": "ats",
+    "employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "On-site",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "English",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Machine Learning",
+      "Embedded Systems",
+      "Robotics",
+      "Quantization",
+      "Pruning",
+      "Distillation"
+    ]
+  },
+  {
+    "id": 2398091892,
+    "title": "Machine Learning Engineer for Digital Manufacturing",
+    "organization": "GlobalFoundries",
+    "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/Dresden/Machine-Learning-Engineer-for-Digital-Manufacturing_JR-2601893",
+    "date_posted": "2026-10-05T00:00:00",
+    "date_created": "2026-10-05T15:32:46.305511",
+    "locations_derived": [
+      "Dresden, Saxony, Germany"
+    ],
+    "cities_derived": [
+      "Dresden"
+    ],
+    "regions_derived": [
+      "Saxony"
+    ],
+    "countries_derived": [
+      "Germany"
+    ],
+    "source": "workday",
+    "source_type": "ats",
+    "employment_type": [
+      "Full time"
+    ],
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "On-site",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "English",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Machine Learning",
+      "Artificial Intelligence",
+      "PyTorch",
+      "Scikit-Learn",
+      "LangChain",
+      "MLOps"
+    ]
+  },
+  {
     "id": 2394390898,
     "title": "O&M Data Engineer – Munich (Fixed Term 1 years)",
     "organization": "Sungrow Europe - Welcome traveler!",
@@ -811,6 +1013,44 @@
       "SQL",
       "ETL/ELT",
       "Data Integration"
+    ]
+  },
+  {
+    "id": 2397473154,
+    "title": "AI Engineer - Agentic BI & Semantic Layer (m/w/d)",
+    "organization": "REWE Group",
+    "organization_logo": "https://rmkcdn.successfactors.com/c92a1a54/1c0808dc-fec2-4e3f-bf0f-1.png",
+    "url": "https://karriere.rewe-group.com/konzernzentrale/job/K%C3%B6ln-AI-Engineer-Agentic-BI-&-Semantic-Layer-%28mwd%29-NW-51063/1443289633/",
+    "date_posted": "2026-10-01T00:00:00",
+    "date_created": "2026-10-04T22:29:24.835565",
+    "locations_derived": [
+      "Cologne, North Rhine-Westphalia, Germany"
+    ],
+    "cities_derived": [
+      "Cologne"
+    ],
+    "regions_derived": [
+      "North Rhine-Westphalia"
+    ],
+    "countries_derived": [
+      "Germany"
+    ],
+    "source": "successfactors",
+    "source_type": "ats",
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "Hybrid",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "German",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Python",
+      "SQL",
+      "Cloud technologies",
+      "Snowflake",
+      "dbt",
+      "GitLab"
     ]
   },
   {
@@ -3066,276 +3306,6 @@
       "Process modeling",
       "Simulation",
       "Mathematical optimization"
-    ]
-  },
-  {
-    "id": 2374056621,
-    "title": "Data Engineer (m/w/d)",
-    "organization": "Sanitätshaus Aktuell AG",
-    "organization_logo": "https://assets.cdn.personio.de/logos/100764/social/031f6d0cfb20baeac5b6b325cd6537af.jpg",
-    "url": "https://sanitaetshaus-aktuell.jobs.personio.de/job/2437636",
-    "date_posted": "2026-09-21T13:16:37",
-    "date_created": "2026-09-21T11:58:48.104725",
-    "locations_derived": [
-      "Cologne, North Rhine-Westphalia, Germany"
-    ],
-    "cities_derived": [
-      "Cologne"
-    ],
-    "regions_derived": [
-      "North Rhine-Westphalia"
-    ],
-    "countries_derived": [
-      "Germany"
-    ],
-    "source": "personio",
-    "source_type": "ats",
-    "employment_type": [
-      "Festanstellung"
-    ],
-    "ai_employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_work_arrangement": "Hybrid",
-    "ai_salary_currency": "EUR",
-    "ai_salary_min_value": 60000,
-    "ai_salary_max_value": 80000,
-    "ai_salary_unit_text": "YEAR",
-    "ai_experience_level": "2-5",
-    "ai_job_language": "German",
-    "ai_visa_sponsorship": false,
-    "ai_key_skills": [
-      "Data Engineering",
-      "ETL/ELT Pipelines",
-      "Python",
-      "AWS",
-      "Data Lake",
-      "Data Warehouse"
-    ]
-  },
-  {
-    "id": 2374056573,
-    "title": "Data Engineer (m/w/d)",
-    "organization": "joviva.de (Sani Future GmbH & Co. KG)",
-    "organization_logo": "https://assets.cdn.personio.de/logos/100764/177124/social/e3e0777968eb83769b93845ef471fa2c.png",
-    "url": "https://joviva.jobs.personio.de/job/2437636",
-    "date_posted": "2026-09-21T13:16:37",
-    "date_created": "2026-09-21T11:58:42.359822",
-    "locations_derived": [
-      "Cologne, North Rhine-Westphalia, Germany"
-    ],
-    "cities_derived": [
-      "Cologne"
-    ],
-    "regions_derived": [
-      "North Rhine-Westphalia"
-    ],
-    "countries_derived": [
-      "Germany"
-    ],
-    "source": "personio",
-    "source_type": "ats",
-    "employment_type": [
-      "Festanstellung"
-    ],
-    "ai_employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_work_arrangement": "Hybrid",
-    "ai_salary_currency": "EUR",
-    "ai_salary_min_value": 60000,
-    "ai_salary_max_value": 80000,
-    "ai_salary_unit_text": "YEAR",
-    "ai_experience_level": "2-5",
-    "ai_job_language": "German",
-    "ai_visa_sponsorship": false,
-    "ai_key_skills": [
-      "Data Engineering",
-      "ETL/ELT Pipelines",
-      "Python",
-      "AWS",
-      "Data Lake",
-      "SQL"
-    ]
-  },
-  {
-    "id": 2374128456,
-    "title": "Data Engineer",
-    "organization": "ASP Group",
-    "url": "https://join.com/companies/asp-groupcom/16733437-data-engineer",
-    "date_posted": "2026-09-21T12:53:36.924",
-    "date_created": "2026-09-21T13:13:46.046378",
-    "locations_derived": [
-      "Berlin, Germany"
-    ],
-    "cities_derived": [
-      "Berlin"
-    ],
-    "countries_derived": [
-      "Germany"
-    ],
-    "source": "join.com",
-    "source_type": "ats",
-    "employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_work_arrangement": "On-site",
-    "ai_experience_level": "2-5",
-    "ai_job_language": "English",
-    "ai_visa_sponsorship": false,
-    "ai_key_skills": [
-      "Data engineering",
-      "Data pipelines",
-      "Cloud infrastructure",
-      "Microsoft Azure",
-      "Microsoft Fabric",
-      "Databricks"
-    ]
-  },
-  {
-    "id": 2373929450,
-    "title": "(Senior) Data Engineer (m/f/d)",
-    "organization": "Fehrmann Tech Group",
-    "organization_logo": "https://assets.cdn.personio.de/logos/69273/social/80067853f66252541ae176c4aa132fda.jpg",
-    "url": "https://fehrmann-tech-group.jobs.personio.de/job/2805001",
-    "date_posted": "2026-09-21T10:36:33",
-    "date_created": "2026-09-21T08:59:59.850294",
-    "locations_derived": [
-      "Hamburg, Germany"
-    ],
-    "cities_derived": [
-      "Hamburg"
-    ],
-    "countries_derived": [
-      "Germany"
-    ],
-    "source": "personio",
-    "source_type": "ats",
-    "employment_type": [
-      "Permanent employee"
-    ],
-    "ai_employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_work_arrangement": "Hybrid",
-    "ai_experience_level": "2-5",
-    "ai_job_language": "English",
-    "ai_visa_sponsorship": false,
-    "ai_key_skills": [
-      "Python",
-      "SQL",
-      "Microsoft Azure",
-      "Data Engineering",
-      "Data Modeling",
-      "DataOps"
-    ]
-  },
-  {
-    "id": 2373899276,
-    "title": "AI Engineer",
-    "organization": "DEPT®",
-    "url": "https://job-boards.greenhouse.io/dept/jobs/7613452",
-    "date_posted": "2026-09-21T07:55:49",
-    "date_created": "2026-09-21T08:11:03.695414",
-    "locations_derived": [
-      "Split, Croatia",
-      "Zagreb, Croatia",
-      "Berlin, Germany",
-      "Hamburg, Germany",
-      "Budapest, Central Hungary, Hungary",
-      "Amsterdam, North Holland, Netherlands",
-      "Rotterdam, South Holland, Netherlands",
-      "Skopje, North Macedonia",
-      "London, England, United Kingdom",
-      "Manchester, England, United Kingdom"
-    ],
-    "cities_derived": [
-      "Skopje",
-      "Hamburg",
-      "Zagreb",
-      "Berlin",
-      "Amsterdam",
-      "Manchester",
-      "Split",
-      "Budapest",
-      "Rotterdam",
-      "London"
-    ],
-    "regions_derived": [
-      "North Holland",
-      "England",
-      "Central Hungary",
-      "South Holland",
-      "England"
-    ],
-    "countries_derived": [
-      "North Macedonia",
-      "Germany",
-      "Croatia",
-      "Germany",
-      "Netherlands",
-      "United Kingdom",
-      "Croatia",
-      "Hungary",
-      "Netherlands",
-      "United Kingdom"
-    ],
-    "source": "greenhouse",
-    "source_type": "ats",
-    "ai_employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_work_arrangement": "Hybrid",
-    "ai_experience_level": "2-5",
-    "ai_job_language": "English",
-    "ai_visa_sponsorship": false,
-    "ai_key_skills": [
-      "Python",
-      "Machine Learning",
-      "Artificial Intelligence",
-      "TensorFlow",
-      "PyTorch",
-      "Scikit-learn"
-    ]
-  },
-  {
-    "id": 2373876711,
-    "title": "Data Scientist / Ingenieur / Naturwissenschaftler (w/m/d)",
-    "organization": "Salzgitter Konzern",
-    "url": "https://jobs.salzgitter-ag.com/alle/job/Salzgitter-Data-Scientist-Ingenieur-Naturwissenschaftler-%28wmd%29-NI/1439288933/",
-    "date_posted": "2026-09-21T00:00:00",
-    "date_created": "2026-09-21T07:33:33.319174",
-    "locations_derived": [
-      "Salzgitter, Lower Saxony, Germany"
-    ],
-    "cities_derived": [
-      "Salzgitter"
-    ],
-    "regions_derived": [
-      "Lower Saxony"
-    ],
-    "countries_derived": [
-      "Germany"
-    ],
-    "source": "successfactors",
-    "source_type": "ats",
-    "ai_employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_work_arrangement": "Hybrid",
-    "ai_experience_level": "2-5",
-    "ai_job_language": "German",
-    "ai_visa_sponsorship": false,
-    "ai_key_skills": [
-      "Data Science",
-      "Machine Learning",
-      "Python",
-      "Statistics",
-      "Artificial Intelligence",
-      "Pandas"
     ]
   }
 ]
