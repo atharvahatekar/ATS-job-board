@@ -1,5 +1,221 @@
 [
   {
+    "id": 2399362882,
+    "title": "Generative AI Engineer – Agentic Systems & Automation (mensch)  ",
+    "organization": "Omnicom Media Group GmbH",
+    "url": "https://media-karriere.de/jobs-de/apply/?gh_jid=5003798007",
+    "date_posted": "2026-10-06T07:41:57",
+    "date_created": "2026-10-06T08:22:03.670971",
+    "locations_derived": [
+      "Düsseldorf, North Rhine-Westphalia, Germany",
+      "Hamburg, Germany"
+    ],
+    "cities_derived": [
+      "Hamburg",
+      "Düsseldorf"
+    ],
+    "regions_derived": [
+      "North Rhine-Westphalia"
+    ],
+    "countries_derived": [
+      "Germany",
+      "Germany"
+    ],
+    "source": "greenhouse",
+    "source_type": "ats",
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "Hybrid",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "German",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Python",
+      "Generative AI",
+      "LLMs",
+      "Agentic AI",
+      "RAG",
+      "Vector Search"
+    ]
+  },
+  {
+    "id": 2399306267,
+    "title": "Machine Learning Engineer",
+    "organization": "Quantum Machines",
+    "organization_logo": "https://www.comeet.co/pub/quantummachines/D6.000/logo?size=original&last-modified=1749558075",
+    "url": "https://www.comeet.com/jobs/quantummachines/D6.000/machine-learning-engineer/D8.37A",
+    "date_posted": "2026-10-06T07:03:29",
+    "date_created": "2026-10-06T07:15:33.297357",
+    "locations_derived": [
+      "Stuttgart, Baden-Württemberg, Germany"
+    ],
+    "cities_derived": [
+      "Stuttgart"
+    ],
+    "regions_derived": [
+      "Baden-Württemberg"
+    ],
+    "countries_derived": [
+      "Germany"
+    ],
+    "source": "comeet",
+    "source_type": "ats",
+    "employment_type": [
+      "Full Time"
+    ],
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "On-site",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "English",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Machine Learning",
+      "Deep Learning",
+      "Reinforcement Learning",
+      "Python",
+      "Bayesian Inference",
+      "Quantum Computing"
+    ]
+  },
+  {
+    "id": 2399431413,
+    "title": "Data Scientist",
+    "organization": "Almedia",
+    "organization_logo": "https://app.ashbyhq.com/api/images/org-theme-logo/252dba26-924b-45a2-8e91-a11ea9f1aa5e/c48ab77d-37f0-49fa-9193-45e5bea6e997/79ecf21b-9ac4-46a6-a86e-b7bb4452b3ce.png",
+    "url": "https://jobs.ashbyhq.com/almedia/927ae9e7-1bf8-41d3-8f56-8d5fc4dbfd8c",
+    "date_posted": "2026-10-06T00:00:00",
+    "date_created": "2026-10-06T09:21:50.183835",
+    "locations_derived": [
+      "Berlin, Germany"
+    ],
+    "cities_derived": [
+      "Berlin"
+    ],
+    "countries_derived": [
+      "Germany"
+    ],
+    "source": "ashby",
+    "source_type": "ats",
+    "employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "On-site",
+    "ai_salary_currency": "EUR",
+    "ai_salary_min_value": 80000,
+    "ai_salary_max_value": 150000,
+    "ai_salary_unit_text": "YEAR",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "English",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Python",
+      "SQL",
+      "Machine Learning",
+      "A/B Testing",
+      "Causal Reasoning",
+      "Data Infrastructure"
+    ],
+    "salary": {
+      "@type": "MonetaryAmount",
+      "currency": "EUR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 80000,
+        "maxValue": 150000,
+        "unitText": "YEAR"
+      }
+    }
+  },
+  {
+    "id": 2399363580,
+    "title": "Data Engineer, App SW",
+    "organization": "Wayve",
+    "organization_logo": "https://app.ashbyhq.com/api/images/org-theme-logo/c3dedbb7-82c2-4668-a1bf-b53c8f870af0/196ebde4-2a95-4c19-972f-c2da3f8094c4/d024591c-afbd-4cb1-9b5c-90a14198508f.png",
+    "url": "https://jobs.ashbyhq.com/wayve/5b53e31e-3903-4c9b-b359-ffbc8a186630",
+    "date_posted": "2026-10-06T00:00:00",
+    "date_created": "2026-10-06T08:22:47.406907",
+    "locations_derived": [
+      "Leonberg, Bavaria, Germany"
+    ],
+    "cities_derived": [
+      "Leonberg"
+    ],
+    "regions_derived": [
+      "Bavaria"
+    ],
+    "countries_derived": [
+      "Germany"
+    ],
+    "location_type": "TELECOMMUTE",
+    "source": "ashby",
+    "source_type": "ats",
+    "employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "Hybrid",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "English",
+    "ai_visa_sponsorship": true,
+    "ai_key_skills": [
+      "Python",
+      "SQL",
+      "PySpark",
+      "Data pipelines",
+      "Distributed systems",
+      "Airflow"
+    ]
+  },
+  {
+    "id": 2399401559,
+    "title": "AI Engineer",
+    "organization": "Geely Technology Europe",
+    "organization_logo": "https://images.teamtailor-cdn.com/images/s3/teamtailor-production/logotype-v3/image_uploads/7e6ae66f-c5cf-4ab1-a320-b9f6b6389c98/original.png",
+    "url": "https://career.geelytech.eu/jobs/8500303-ai-engineer",
+    "date_posted": "2026-10-05T14:28:45",
+    "date_created": "2026-10-06T09:02:26.12201",
+    "locations_derived": [
+      "Raunheim, Hesse, Germany"
+    ],
+    "cities_derived": [
+      "Raunheim"
+    ],
+    "regions_derived": [
+      "Hesse"
+    ],
+    "countries_derived": [
+      "Germany"
+    ],
+    "source": "teamtailor",
+    "source_type": "ats",
+    "employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "Hybrid",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "English",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Python",
+      "SQL",
+      "Machine Learning",
+      "Generative AI",
+      "LLMs",
+      "RAG"
+    ]
+  },
+  {
     "id": 2397806178,
     "title": "AI Engineer (m/w/d) - Fokus AWS",
     "organization": "Devoteam",
@@ -77,6 +293,46 @@
       "Amazon SageMaker",
       "LLM development",
       "RAG systems"
+    ]
+  },
+  {
+    "id": 2398951641,
+    "title": "Machine Learning Engineer for Digital Manufacturing",
+    "organization": "GlobalFoundries",
+    "url": "https://careers.gf.com/careers/job/563980769485126-machine-learning-engineer-for-digital-manufacturing-dresden-saxony-germany",
+    "date_posted": "2026-10-05T00:00:00",
+    "date_created": "2026-10-06T01:50:45.496544",
+    "locations_derived": [
+      "Dresden, Saxony, Germany"
+    ],
+    "cities_derived": [
+      "Dresden"
+    ],
+    "regions_derived": [
+      "Saxony"
+    ],
+    "countries_derived": [
+      "Germany"
+    ],
+    "source": "eightfold",
+    "source_type": "ats",
+    "employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "On-site",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "English",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Machine Learning",
+      "Artificial Intelligence",
+      "PyTorch",
+      "Scikit-Learn",
+      "LangChain",
+      "MLOps"
     ]
   },
   {
@@ -2739,573 +2995,6 @@
       "C++",
       "Java",
       "MLOps"
-    ]
-  },
-  {
-    "id": 2375832244,
-    "title": "Associate Data Scientist (f/m/d)",
-    "organization": "Predium",
-    "organization_logo": "https://assets.cdn.personio.de/logos/96573/social/157f8c48940f8ac470c1e2d65ca11614.png",
-    "url": "https://predium.jobs.personio.de/job/2807400",
-    "date_posted": "2026-09-22T12:55:22",
-    "date_created": "2026-09-22T11:54:27.588998",
-    "locations_derived": [
-      "Munich, Bavaria, Germany"
-    ],
-    "cities_derived": [
-      "Munich"
-    ],
-    "regions_derived": [
-      "Bavaria"
-    ],
-    "countries_derived": [
-      "Germany"
-    ],
-    "source": "personio",
-    "source_type": "ats",
-    "employment_type": [
-      "Permanent employee"
-    ],
-    "ai_employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_work_arrangement": "Hybrid",
-    "ai_experience_level": "0-2",
-    "ai_job_language": "English",
-    "ai_visa_sponsorship": false,
-    "ai_key_skills": [
-      "Python",
-      "Machine learning",
-      "Statistics",
-      "Numerical methods",
-      "Data pipelines",
-      "Physics-based modeling"
-    ]
-  },
-  {
-    "id": 2375888783,
-    "title": "Data Engineer (m, w, d)",
-    "organization": "Synpulse",
-    "url": "https://synpulse.careers.hibob.com/jobs/9a188940-4df7-45f7-81dc-06908df9bd0f",
-    "date_posted": "2026-09-22T12:04:15.168778",
-    "date_created": "2026-09-22T12:30:33.993902",
-    "locations_derived": [
-      "Ulm, Baden-Württemberg, Germany"
-    ],
-    "cities_derived": [
-      "Ulm"
-    ],
-    "regions_derived": [
-      "Baden-Württemberg"
-    ],
-    "countries_derived": [
-      "Germany"
-    ],
-    "source": "hibob",
-    "source_type": "ats",
-    "employment_type": [
-      "Permanent Employee"
-    ],
-    "ai_employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_work_arrangement": "Hybrid",
-    "ai_experience_level": "2-5",
-    "ai_job_language": "German",
-    "ai_visa_sponsorship": false,
-    "ai_key_skills": [
-      "Python",
-      "Pandas",
-      "PySpark",
-      "ETL processes",
-      "Data integration",
-      "SQL"
-    ]
-  },
-  {
-    "id": 2377055876,
-    "title": "Forward Deployed AI Engineer Energy (m/w/d)",
-    "organization": "KnowWay GmbH",
-    "organization_logo": "https://cdn.join.com/6ab12694abe911000806ffa4/know-way-gmb-h-logo-m.png",
-    "url": "https://join.com/companies/knowwayeu/16737405-forward-deployed-ai-engineer-energy-m-w-d",
-    "date_posted": "2026-09-22T11:58:01.901",
-    "date_created": "2026-09-23T00:11:51.312422",
-    "locations_derived": [
-      "Germany"
-    ],
-    "countries_derived": [
-      "Germany"
-    ],
-    "location_type": "TELECOMMUTE",
-    "source": "join.com",
-    "source_type": "ats",
-    "employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_work_arrangement": "Remote OK",
-    "ai_experience_level": "2-5",
-    "ai_job_language": "German",
-    "ai_visa_sponsorship": false,
-    "ai_key_skills": [
-      "GenAI Engineering",
-      "Python",
-      "LLMs",
-      "RAG",
-      "Prompt Engineering",
-      "Tool Use"
-    ]
-  },
-  {
-    "id": 2375751017,
-    "title": "Senior Machine Learning Engineer (m/f/d)",
-    "organization": "LIME medical GmbH",
-    "organization_logo": "https://assets.cdn.personio.de/logos/109591/social/8751030aef236a7cba3bf67d822ab8ad.jpg",
-    "url": "https://lime.jobs.personio.de/job/2806901/apply",
-    "date_posted": "2026-09-22T11:50:03",
-    "date_created": "2026-09-22T10:58:58.055702",
-    "locations_derived": [
-      "Wiesbaden, Hesse, Germany",
-      "Mainz, Rhineland-Palatinate, Germany"
-    ],
-    "cities_derived": [
-      "Wiesbaden",
-      "Mainz"
-    ],
-    "regions_derived": [
-      "Hesse",
-      "Rhineland-Palatinate"
-    ],
-    "countries_derived": [
-      "Germany",
-      "Germany"
-    ],
-    "source": "personio",
-    "source_type": "ats",
-    "employment_type": [
-      "Permanent employee"
-    ],
-    "ai_employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_work_arrangement": "Remote OK",
-    "ai_experience_level": "2-5",
-    "ai_job_language": "English",
-    "ai_visa_sponsorship": false,
-    "ai_key_skills": [
-      "Machine Learning",
-      "Computer Vision",
-      "Deep Learning",
-      "Python",
-      "PyTorch",
-      "TensorFlow"
-    ]
-  },
-  {
-    "id": 2375692191,
-    "title": "Senior Machine Learning Engineer, Action Quality Assessment (m/f/d)",
-    "organization": "LIME medical GmbH",
-    "organization_logo": "https://assets.cdn.personio.de/logos/109591/social/8751030aef236a7cba3bf67d822ab8ad.jpg",
-    "url": "https://lime.jobs.personio.de/job/2806901",
-    "date_posted": "2026-09-22T11:50:03",
-    "date_created": "2026-09-22T09:59:04.909422",
-    "locations_derived": [
-      "Wiesbaden, Hesse, Germany",
-      "Mainz, Rhineland-Palatinate, Germany"
-    ],
-    "cities_derived": [
-      "Wiesbaden",
-      "Mainz"
-    ],
-    "regions_derived": [
-      "Hesse",
-      "Rhineland-Palatinate"
-    ],
-    "countries_derived": [
-      "Germany",
-      "Germany"
-    ],
-    "source": "personio",
-    "source_type": "ats",
-    "employment_type": [
-      "Permanent employee"
-    ],
-    "ai_employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_work_arrangement": "Remote OK",
-    "ai_experience_level": "2-5",
-    "ai_job_language": "English",
-    "ai_visa_sponsorship": false,
-    "ai_key_skills": [
-      "Machine Learning",
-      "Computer Vision",
-      "Deep Learning",
-      "PyTorch",
-      "TensorFlow",
-      "Python"
-    ]
-  },
-  {
-    "id": 2385119820,
-    "title": "Senior Machine Learning Engineer - Recommendations (Experience)",
-    "organization": "SoundCloud",
-    "url": "https://job-boards.greenhouse.io/soundcloud71/jobs/8829912002",
-    "date_posted": "2026-09-22T11:14:37",
-    "date_created": "2026-09-27T04:23:04.719731",
-    "locations_derived": [
-      "Berlin, Germany",
-      "London, England, United Kingdom"
-    ],
-    "cities_derived": [
-      "Berlin",
-      "London"
-    ],
-    "regions_derived": [
-      "England"
-    ],
-    "countries_derived": [
-      "Germany",
-      "United Kingdom"
-    ],
-    "source": "greenhouse",
-    "source_type": "ats",
-    "ai_employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_work_arrangement": "Hybrid",
-    "ai_experience_level": "2-5",
-    "ai_job_language": "English",
-    "ai_visa_sponsorship": true,
-    "ai_key_skills": [
-      "Machine learning",
-      "Python",
-      "Scala",
-      "Java",
-      "BigQuery",
-      "Airflow"
-    ]
-  },
-  {
-    "id": 2375798708,
-    "title": "Associate Data Scientist (f/m/d)",
-    "organization": "Predium Technology GmbH",
-    "organization_logo": "https://cdn.join.com/625ec3c08218850008974828/predium-logo-m.png",
-    "url": "https://join.com/companies/predium/16737146-associate-data-scientist-f-m-d",
-    "date_posted": "2026-09-22T11:01:51.272",
-    "date_created": "2026-09-22T11:34:36.375679",
-    "locations_derived": [
-      "München, Brandenburg, Germany"
-    ],
-    "cities_derived": [
-      "München"
-    ],
-    "regions_derived": [
-      "Brandenburg"
-    ],
-    "countries_derived": [
-      "Germany"
-    ],
-    "source": "join.com",
-    "source_type": "ats",
-    "employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_work_arrangement": "Hybrid",
-    "ai_experience_level": "0-2",
-    "ai_job_language": "German",
-    "ai_visa_sponsorship": false,
-    "ai_key_skills": [
-      "Python",
-      "Machine Learning",
-      "Data Science",
-      "Statistics",
-      "Data Pipelines",
-      "TypeScript"
-    ]
-  },
-  {
-    "id": 2375798707,
-    "title": "Associate Data Scientist (f/m/d)",
-    "organization": "Predium Technology GmbH",
-    "organization_logo": "https://cdn.join.com/625ec3c08218850008974828/predium-logo-m.png",
-    "url": "https://join.com/companies/predium/16737145-associate-data-scientist-f-m-d",
-    "date_posted": "2026-09-22T11:01:50.785",
-    "date_created": "2026-09-22T11:34:36.357664",
-    "locations_derived": [
-      "Munich, Bavaria, Germany"
-    ],
-    "cities_derived": [
-      "Munich"
-    ],
-    "regions_derived": [
-      "Bavaria"
-    ],
-    "countries_derived": [
-      "Germany"
-    ],
-    "source": "join.com",
-    "source_type": "ats",
-    "employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_work_arrangement": "Hybrid",
-    "ai_experience_level": "0-2",
-    "ai_job_language": "English",
-    "ai_visa_sponsorship": false,
-    "ai_key_skills": [
-      "Python",
-      "Machine learning",
-      "Statistics",
-      "Data pipelines",
-      "Numerical methods",
-      "Physics-based modeling"
-    ]
-  },
-  {
-    "id": 2375717855,
-    "title": "AI Engineer (f/m/d)",
-    "organization": "Clariness",
-    "url": "https://career.clariness.com/careers/8213165?gh_jid=8213165",
-    "date_posted": "2026-09-22T10:09:49",
-    "date_created": "2026-09-22T10:22:50.738368",
-    "locations_derived": [
-      "Berlin, Germany",
-      "Hamburg, Germany"
-    ],
-    "cities_derived": [
-      "Berlin",
-      "Hamburg"
-    ],
-    "countries_derived": [
-      "Germany",
-      "Germany"
-    ],
-    "source": "greenhouse",
-    "source_type": "ats",
-    "ai_employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_work_arrangement": "Hybrid",
-    "ai_experience_level": "2-5",
-    "ai_job_language": "English",
-    "ai_visa_sponsorship": false,
-    "ai_key_skills": [
-      "Python",
-      "Machine Learning",
-      "Databricks",
-      "Spark",
-      "Delta Lake",
-      "MLflow"
-    ]
-  },
-  {
-    "id": 2375732043,
-    "title": "Graduate AI Engineer (m/f/d) - Banking Solutions",
-    "organization": "SAP Fioneer",
-    "organization_logo": "https://workablehr.s3.amazonaws.com/uploads/account/logo/562664/logo",
-    "url": "https://jobs.workable.com/view/sV7n3aVtakXicoNqh9sv3t/hybrid-graduate-ai-engineer-(m%2Ff%2Fd)---banking-solutions-in-berlin-at-sap-fioneer",
-    "date_posted": "2026-09-22T09:45:49.285",
-    "date_created": "2026-09-22T10:36:33.493953",
-    "locations_derived": [
-      "Berlin, Germany"
-    ],
-    "cities_derived": [
-      "Berlin"
-    ],
-    "countries_derived": [
-      "Germany"
-    ],
-    "location_type": "TELECOMMUTE",
-    "source": "workable",
-    "source_type": "ats",
-    "employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_work_arrangement": "Hybrid",
-    "ai_experience_level": "0-2",
-    "ai_job_language": "English",
-    "ai_visa_sponsorship": false,
-    "ai_key_skills": [
-      "Python",
-      "Java",
-      "JavaScript",
-      "C++",
-      "R",
-      "Generative AI"
-    ]
-  },
-  {
-    "id": 2375732045,
-    "title": "Graduate AI Engineer (m/f/d) - Banking Solutions",
-    "organization": "SAP Fioneer",
-    "organization_logo": "https://workablehr.s3.amazonaws.com/uploads/account/logo/562664/logo",
-    "url": "https://jobs.workable.com/view/v7qxarNuDiQi2ogDiBcVqN/hybrid-graduate-ai-engineer-(m%2Ff%2Fd)---banking-solutions-in-walldorf-at-sap-fioneer",
-    "date_posted": "2026-09-22T09:45:47.659",
-    "date_created": "2026-09-22T10:36:33.58814",
-    "locations_derived": [
-      "Walldorf, Baden-Württemberg, Germany"
-    ],
-    "cities_derived": [
-      "Walldorf"
-    ],
-    "regions_derived": [
-      "Baden-Württemberg"
-    ],
-    "countries_derived": [
-      "Germany"
-    ],
-    "location_type": "TELECOMMUTE",
-    "source": "workable",
-    "source_type": "ats",
-    "employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_work_arrangement": "Hybrid",
-    "ai_experience_level": "0-2",
-    "ai_job_language": "English",
-    "ai_visa_sponsorship": false,
-    "ai_key_skills": [
-      "Python",
-      "Java",
-      "JavaScript",
-      "C++",
-      "R",
-      "Generative AI"
-    ]
-  },
-  {
-    "id": 2375732079,
-    "title": "Graduate AI Engineer (m/f/d) - Banking Solutions",
-    "organization": "SAP Fioneer",
-    "organization_logo": "https://workablehr.s3.amazonaws.com/uploads/account/logo/562664/logo",
-    "url": "https://jobs.workable.com/view/iYsndUWVUEcnLAcYaQz8J3/hybrid-graduate-ai-engineer-(m%2Ff%2Fd)---banking-solutions-in-munich-at-sap-fioneer",
-    "date_posted": "2026-09-22T09:45:46.614",
-    "date_created": "2026-09-22T10:36:34.779203",
-    "locations_derived": [
-      "Munich, Bavaria, Germany"
-    ],
-    "cities_derived": [
-      "Munich"
-    ],
-    "regions_derived": [
-      "Bavaria"
-    ],
-    "countries_derived": [
-      "Germany"
-    ],
-    "location_type": "TELECOMMUTE",
-    "source": "workable",
-    "source_type": "ats",
-    "employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_work_arrangement": "Hybrid",
-    "ai_experience_level": "0-2",
-    "ai_job_language": "English",
-    "ai_visa_sponsorship": false,
-    "ai_key_skills": [
-      "Python",
-      "Java",
-      "JavaScript",
-      "C++",
-      "R",
-      "Generative AI"
-    ]
-  },
-  {
-    "id": 2375989370,
-    "title": "Machine Learning Engineer",
-    "organization": "Intapp",
-    "url": "https://intapp.wd1.myworkdayjobs.com/Intapp/job/Germany-Berlin/Machine-Learning-Engineer_R2025276-2",
-    "date_posted": "2026-09-22T00:00:00",
-    "date_created": "2026-09-22T13:41:11.493576",
-    "locations_derived": [
-      "Berlin, Germany"
-    ],
-    "cities_derived": [
-      "Berlin"
-    ],
-    "countries_derived": [
-      "Germany"
-    ],
-    "source": "workday",
-    "source_type": "ats",
-    "employment_type": [
-      "Full time"
-    ],
-    "ai_employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_work_arrangement": "Hybrid",
-    "ai_experience_level": "2-5",
-    "ai_job_language": "English",
-    "ai_visa_sponsorship": false,
-    "ai_key_skills": [
-      "Natural Language Processing",
-      "Machine Learning",
-      "Python",
-      "Data Pipelines",
-      "Agentic Workflows",
-      "Large-scale data processing"
-    ]
-  },
-  {
-    "id": 2375779553,
-    "title": "Data Scientist (m/w/d)",
-    "organization": "Evonik",
-    "url": "https://evonik.wd3.myworkdayjobs.com/External_Careers/job/Hanau/Data-Scientist--m-w-d-_R51430-1",
-    "date_posted": "2026-09-22T00:00:00",
-    "date_created": "2026-09-22T11:25:49.136192",
-    "locations_derived": [
-      "Hanau, Hesse, Germany"
-    ],
-    "cities_derived": [
-      "Hanau"
-    ],
-    "regions_derived": [
-      "Hesse"
-    ],
-    "countries_derived": [
-      "Germany"
-    ],
-    "source": "workday",
-    "source_type": "ats",
-    "employment_type": [
-      "Full time"
-    ],
-    "ai_employment_type": [
-      "FULL_TIME",
-      "TEMPORARY"
-    ],
-    "ai_work_arrangement": "On-site",
-    "ai_experience_level": "2-5",
-    "ai_job_language": "English",
-    "ai_visa_sponsorship": false,
-    "ai_key_skills": [
-      "Artificial Intelligence",
-      "Machine Learning",
-      "Data-driven modeling",
-      "Process modeling",
-      "Simulation",
-      "Mathematical optimization"
     ]
   }
 ]
