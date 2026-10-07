@@ -1,5 +1,304 @@
 [
   {
+    "id": 2402205534,
+    "title": "Data Engineer",
+    "organization": "Booz Allen Hamilton",
+    "url": "https://careers.boozallen.com/careers/JobDetail/131548",
+    "date_posted": "2026-10-07T16:50:31.502",
+    "date_created": "2026-10-07T16:50:34.444624",
+    "locations_derived": [
+      "Stuttgart, Baden-Württemberg, Germany"
+    ],
+    "cities_derived": [
+      "Stuttgart"
+    ],
+    "regions_derived": [
+      "Baden-Württemberg"
+    ],
+    "countries_derived": [
+      "Germany"
+    ],
+    "source": "avature",
+    "source_type": "ats",
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "On-site",
+    "ai_salary_currency": "USD",
+    "ai_salary_min_value": 99000,
+    "ai_salary_max_value": 225000,
+    "ai_salary_unit_text": "YEAR",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "English",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Machine learning",
+      "AI-driven applications",
+      "Data pipelines",
+      "ML pipelines",
+      "Python",
+      "SQL"
+    ]
+  },
+  {
+    "id": 2401984113,
+    "title": "Applied AI Data Scientist",
+    "organization": "Flatiron Health",
+    "url": "https://flatiron.com/careers/open-positions/job?gh_jid=8249709",
+    "date_posted": "2026-10-07T14:39:38",
+    "date_created": "2026-10-07T14:40:31.259533",
+    "locations_derived": [
+      "Berlin, Germany"
+    ],
+    "cities_derived": [
+      "Berlin"
+    ],
+    "countries_derived": [
+      "Germany"
+    ],
+    "source": "greenhouse",
+    "source_type": "ats",
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "On-site",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "English",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Applied Data Science",
+      "Machine Learning",
+      "Generative AI",
+      "Large Language Models",
+      "Python",
+      "Pandas"
+    ]
+  },
+  {
+    "id": 2401970230,
+    "title": "Data Scientist",
+    "organization": "N26",
+    "url": "https://n26.com/en-eu/careers/positions/8260904?gh_jid=8260904",
+    "date_posted": "2026-10-07T14:23:22",
+    "date_created": "2026-10-07T14:34:14.413519",
+    "locations_derived": [
+      "Berlin, Germany"
+    ],
+    "cities_derived": [
+      "Berlin"
+    ],
+    "countries_derived": [
+      "Germany"
+    ],
+    "source": "greenhouse",
+    "source_type": "ats",
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "Hybrid",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "English",
+    "ai_visa_sponsorship": true,
+    "ai_key_skills": [
+      "Python",
+      "SQL",
+      "Machine learning",
+      "CatBoost",
+      "XGBoost",
+      "LightGBM"
+    ]
+  },
+  {
+    "id": 2401905931,
+    "title": "(Junior) ML Engineer",
+    "organization": "Vattenfall",
+    "url": "https://jobs.smartrecruiters.com/Vattenfall/744000154112978--junior-ml-engineer",
+    "date_posted": "2026-10-07T13:56:35.75",
+    "date_created": "2026-10-07T13:57:23.587126",
+    "locations_derived": [
+      "Berlin, Germany"
+    ],
+    "cities_derived": [
+      "Berlin"
+    ],
+    "countries_derived": [
+      "Germany"
+    ],
+    "source": "smartrecruiters",
+    "source_type": "ats",
+    "employment_type": [
+      "Vollzeit"
+    ],
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "Hybrid",
+    "ai_experience_level": "0-2",
+    "ai_job_language": "German",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Machine Learning",
+      "Python",
+      "SQL",
+      "Microsoft Azure",
+      "Databricks",
+      "Spark"
+    ]
+  },
+  {
+    "id": 2401524653,
+    "title": "Junior Data Engineer & Analytics (Data-Driven Business Steering) (w/m/d)",
+    "organization": "E.ON",
+    "url": "https://fa-eylc-saasfaeuraprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/571",
+    "date_posted": "2026-10-07T09:00:37",
+    "date_created": "2026-10-07T09:09:54.671686",
+    "locations_derived": [
+      "Essen, North Rhine-Westphalia, Germany"
+    ],
+    "cities_derived": [
+      "Essen"
+    ],
+    "regions_derived": [
+      "North Rhine-Westphalia"
+    ],
+    "countries_derived": [
+      "Germany"
+    ],
+    "source": "oraclecloud",
+    "source_type": "ats",
+    "ai_employment_type": [
+      "FULL_TIME",
+      "PART_TIME"
+    ],
+    "ai_work_arrangement": "Hybrid",
+    "ai_experience_level": "0-2",
+    "ai_job_language": "German",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Data Engineering",
+      "Data Analytics",
+      "Business Intelligence",
+      "Microsoft Power BI",
+      "Azure Data Platform",
+      "Microsoft Fabric"
+    ]
+  },
+  {
+    "id": 2401404363,
+    "title": "Senior Data Scientist, Growth (f/m/x)",
+    "organization": "HelloFresh",
+    "url": "https://careers.hellofresh.com/global/en/job/8232751?gh_jid=8232751",
+    "date_posted": "2026-10-07T07:15:20",
+    "date_created": "2026-10-07T07:27:23.706373",
+    "locations_derived": [
+      "Berlin, Germany"
+    ],
+    "cities_derived": [
+      "Berlin"
+    ],
+    "countries_derived": [
+      "Germany"
+    ],
+    "source": "greenhouse",
+    "source_type": "ats",
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "On-site",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "English",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Python",
+      "SQL",
+      "Machine learning",
+      "Statistical modeling",
+      "Data science",
+      "Experimentation"
+    ]
+  },
+  {
+    "id": 2401697633,
+    "title": "Data Scientist / Analyst prüfungsnahe Beratung (Financial Services) (w/m/d)",
+    "organization": "EY",
+    "url": "https://careers.ey.com/ey/job/Eschborn-Frankfurt-%28Main%29-Data-Scientist-Analyst-pr%C3%BCfungsnahe-Beratung-%28Financial-Services%29-%28wmd%29-HE-65760/1212578001/",
+    "date_posted": "2026-10-07T02:01:00",
+    "date_created": "2026-10-07T11:33:13.549896",
+    "locations_derived": [
+      "Eschborn, Hesse, Germany"
+    ],
+    "cities_derived": [
+      "Eschborn"
+    ],
+    "regions_derived": [
+      "Hesse"
+    ],
+    "countries_derived": [
+      "Germany"
+    ],
+    "source": "successfactors",
+    "source_type": "ats",
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "Hybrid",
+    "ai_experience_level": "0-2",
+    "ai_job_language": "German",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Data analysis",
+      "ETL processes",
+      "Data mining",
+      "Machine learning",
+      "Data visualization",
+      "Python"
+    ]
+  },
+  {
+    "id": 2402201732,
+    "title": "Data Engineer",
+    "organization": "Booz Allen Hamilton",
+    "url": "https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Stuttgart-Baden-Wurttemberg/Data-Engineer_R0251214",
+    "date_posted": "2026-10-07T00:00:00",
+    "date_created": "2026-10-07T16:49:03.288172",
+    "locations_derived": [
+      "Stuttgart, Baden-Württemberg, Germany"
+    ],
+    "cities_derived": [
+      "Stuttgart"
+    ],
+    "regions_derived": [
+      "Baden-Württemberg"
+    ],
+    "countries_derived": [
+      "Germany"
+    ],
+    "source": "workday",
+    "source_type": "ats",
+    "employment_type": [
+      "Full time"
+    ],
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "Hybrid",
+    "ai_salary_currency": "USD",
+    "ai_salary_min_value": 99000,
+    "ai_salary_max_value": 225000,
+    "ai_salary_unit_text": "YEAR",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "English",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Data engineering",
+      "Machine learning",
+      "Artificial intelligence",
+      "Data science",
+      "Python",
+      "SQL"
+    ]
+  },
+  {
     "id": 2399362882,
     "title": "Generative AI Engineer – Agentic Systems & Automation (mensch)  ",
     "organization": "Omnicom Media Group GmbH",
@@ -2734,267 +3033,6 @@
       "Statistics",
       "NLP",
       "Recommender systems"
-    ]
-  },
-  {
-    "id": 2378289412,
-    "title": "AI Engineer – Open-Source LLM Adaptation (m/f/d)",
-    "organization": "GREENPEAK Partners GmbH",
-    "organization_logo": "https://assets.cdn.personio.de/logos/176689/social/809978d3345e174cf14701a8f573c9b3.jpg",
-    "url": "https://greenpeak.jobs.personio.de/job/2811486",
-    "date_posted": "2026-09-23T16:42:32",
-    "date_created": "2026-09-23T15:00:43.678414",
-    "locations_derived": [
-      "Munich, Bavaria, Germany"
-    ],
-    "cities_derived": [
-      "Munich"
-    ],
-    "regions_derived": [
-      "Bavaria"
-    ],
-    "countries_derived": [
-      "Germany"
-    ],
-    "source": "personio",
-    "source_type": "ats",
-    "employment_type": [
-      "Festanstellung"
-    ],
-    "ai_employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_work_arrangement": "On-site",
-    "ai_experience_level": "2-5",
-    "ai_job_language": "English",
-    "ai_visa_sponsorship": false,
-    "ai_key_skills": [
-      "Python",
-      "PyTorch",
-      "Hugging Face",
-      "vLLM",
-      "LLM",
-      "Fine-tuning"
-    ]
-  },
-  {
-    "id": 2378104708,
-    "title": "Data Engineer",
-    "organization": "Bookboost",
-    "organization_logo": "https://assets.cdn.personio.de/logos/253666/social/898264dc936b8e219894282bcd80f4f9.png",
-    "url": "https://bookboost.jobs.personio.com/job/2811191",
-    "date_posted": "2026-09-23T14:33:27",
-    "date_created": "2026-09-23T12:58:28.0887",
-    "locations_derived": [
-      "Munich, Bavaria, Germany"
-    ],
-    "cities_derived": [
-      "Munich"
-    ],
-    "regions_derived": [
-      "Bavaria"
-    ],
-    "countries_derived": [
-      "Germany"
-    ],
-    "source": "personio",
-    "source_type": "ats",
-    "employment_type": [
-      "Permanent employee"
-    ],
-    "ai_employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_work_arrangement": "Hybrid",
-    "ai_experience_level": "2-5",
-    "ai_job_language": "English",
-    "ai_visa_sponsorship": false,
-    "ai_key_skills": [
-      "Data engineering",
-      "AWS",
-      "PySpark",
-      "Data pipelines",
-      "Cloud infrastructure",
-      "RDS"
-    ]
-  },
-  {
-    "id": 2377501652,
-    "title": "Actuarial Data Scientist (m/w/d)",
-    "organization": "R+V Allgemeine Versicherung AG",
-    "url": "https://jobs.smartrecruiters.com/RVAllgemeineVersicherungenAG/744000151292088-actuarial-data-scientist-m-w-d-",
-    "date_posted": "2026-09-23T05:10:00.967",
-    "date_created": "2026-09-23T05:13:14.581512",
-    "locations_derived": [
-      "Wiesbaden, Hesse, Germany"
-    ],
-    "cities_derived": [
-      "Wiesbaden"
-    ],
-    "regions_derived": [
-      "Hesse"
-    ],
-    "countries_derived": [
-      "Germany"
-    ],
-    "source": "smartrecruiters",
-    "source_type": "ats",
-    "employment_type": [
-      "Vollzeit"
-    ],
-    "ai_employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_work_arrangement": "Hybrid",
-    "ai_experience_level": "2-5",
-    "ai_job_language": "German",
-    "ai_visa_sponsorship": false,
-    "ai_key_skills": [
-      "Actuarial modeling",
-      "Data science",
-      "Python",
-      "Machine learning",
-      "AI algorithms",
-      "Git"
-    ]
-  },
-  {
-    "id": 2382196766,
-    "title": "Data & AI Engineer Public Sector (w/m/d)",
-    "organization": "Capgemini",
-    "url": "https://careers.capgemini.com/job/Berlin-Data-&-AI-Engineer-Public-Sector-%28wmd%29/1440451333/",
-    "date_posted": "2026-09-23T00:00:00",
-    "date_created": "2026-09-25T08:26:39.981261",
-    "locations_derived": [
-      "Stuttgart, Baden-Württemberg, Germany",
-      "Munich, Bavaria, Germany",
-      "Düsseldorf, North Rhine-Westphalia, Germany",
-      "Berlin, Germany"
-    ],
-    "cities_derived": [
-      "Berlin",
-      "Düsseldorf",
-      "Stuttgart",
-      "Munich"
-    ],
-    "regions_derived": [
-      "North Rhine-Westphalia",
-      "Baden-Württemberg",
-      "Bavaria"
-    ],
-    "countries_derived": [
-      "Germany",
-      "Germany",
-      "Germany",
-      "Germany"
-    ],
-    "source": "successfactors",
-    "source_type": "ats",
-    "ai_employment_type": [
-      "FULL_TIME",
-      "CONTRACTOR"
-    ],
-    "ai_work_arrangement": "Hybrid",
-    "ai_experience_level": "2-5",
-    "ai_job_language": "German",
-    "ai_visa_sponsorship": false,
-    "ai_key_skills": [
-      "Data Engineering",
-      "AI Engineering",
-      "Python",
-      "Scala",
-      "SQL",
-      "Spark"
-    ]
-  },
-  {
-    "id": 2377893972,
-    "title": "Data & AI Engineer Public Sector (w/m/d)",
-    "organization": "Capgemini",
-    "url": "https://careers.capgemini.com/job/Bremen-Data-&-AI-Engineer-Public-Sector-%28wmd%29/1440451333/",
-    "date_posted": "2026-09-23T00:00:00",
-    "date_created": "2026-09-23T10:26:09.355373",
-    "locations_derived": [
-      "Stuttgart, Baden-Württemberg, Germany",
-      "Munich, Bavaria, Germany",
-      "Bremen, Bremen, Germany",
-      "Düsseldorf, North Rhine-Westphalia, Germany"
-    ],
-    "cities_derived": [
-      "Düsseldorf",
-      "Bremen",
-      "Stuttgart",
-      "Munich"
-    ],
-    "regions_derived": [
-      "North Rhine-Westphalia",
-      "Bremen",
-      "Baden-Württemberg",
-      "Bavaria"
-    ],
-    "countries_derived": [
-      "Germany",
-      "Germany",
-      "Germany",
-      "Germany"
-    ],
-    "source": "successfactors",
-    "source_type": "ats",
-    "ai_employment_type": [
-      "FULL_TIME",
-      "CONTRACTOR"
-    ],
-    "ai_work_arrangement": "Hybrid",
-    "ai_experience_level": "2-5",
-    "ai_job_language": "German",
-    "ai_visa_sponsorship": false,
-    "ai_key_skills": [
-      "Data Engineering",
-      "AI Engineering",
-      "Python",
-      "Scala",
-      "SQL",
-      "Spark"
-    ]
-  },
-  {
-    "id": 2377843635,
-    "title": "AI Engineer - Spacecraft Operations Domain",
-    "organization": "Leonardo",
-    "url": "https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/DE---Darmstadt---Europahaus/AI-Engineer---Spacecraft-Operations-Domain_R0033499",
-    "date_posted": "2026-09-23T00:00:00",
-    "date_created": "2026-09-23T09:39:42.975574",
-    "locations_derived": [
-      "Darmstadt, Hesse, Germany"
-    ],
-    "cities_derived": [
-      "Darmstadt"
-    ],
-    "regions_derived": [
-      "Hesse"
-    ],
-    "countries_derived": [
-      "Germany"
-    ],
-    "source": "workday",
-    "source_type": "ats",
-    "employment_type": [
-      "Full time"
-    ],
-    "ai_employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_work_arrangement": "Hybrid",
-    "ai_experience_level": "0-2",
-    "ai_job_language": "English",
-    "ai_visa_sponsorship": false,
-    "ai_key_skills": [
-      "Artificial Intelligence",
-      "Spacecraft Operations",
-      "Python",
-      "C++",
-      "Java",
-      "MLOps"
     ]
   }
 ]
