@@ -1,5 +1,306 @@
 [
   {
+    "id": 2406214289,
+    "title": "AI Engineer – Open-Source LLM Adaptation (m/f/d)",
+    "organization": "GREENPEAK Partners GmbH",
+    "organization_logo": "https://assets.cdn.personio.de/logos/176689/social/809978d3345e174cf14701a8f573c9b3.jpg",
+    "url": "https://greenpeak.jobs.personio.de/job/2811486",
+    "date_posted": "2026-10-09T14:47:17",
+    "date_created": "2026-10-09T12:57:24.05354",
+    "locations_derived": [
+      "Munich, Bavaria, Germany"
+    ],
+    "cities_derived": [
+      "Munich"
+    ],
+    "regions_derived": [
+      "Bavaria"
+    ],
+    "countries_derived": [
+      "Germany"
+    ],
+    "source": "personio",
+    "source_type": "ats",
+    "employment_type": [
+      "Festanstellung"
+    ],
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "Hybrid",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "English",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "AI Engineering",
+      "LLM Adaptation",
+      "Python",
+      "PyTorch",
+      "Hugging Face",
+      "vLLM"
+    ]
+  },
+  {
+    "id": 2406214600,
+    "title": "Senior Data Scientist (m/w/d) – Fokus Business Analytics",
+    "organization": "AT GmbH",
+    "organization_logo": "https://assets.cdn.personio.de/logos/16246/social/eed19c5e06fc864fb68d3896221a56eb.png",
+    "url": "https://alexander-thamm-gmbh.jobs.personio.de/job/2836358",
+    "date_posted": "2026-10-09T14:42:50",
+    "date_created": "2026-10-09T12:57:31.720205",
+    "locations_derived": [
+      "Munich, Bavaria, Germany",
+      "Nuremberg, Bavaria, Germany",
+      "Frankfurt, Hesse, Germany",
+      "Essen, North Rhine-Westphalia, Germany",
+      "Leipzig, Saxony, Germany",
+      "Berlin, Germany"
+    ],
+    "cities_derived": [
+      "Nuremberg",
+      "Berlin",
+      "Leipzig",
+      "Munich",
+      "Essen",
+      "Frankfurt"
+    ],
+    "regions_derived": [
+      "Bavaria",
+      "Saxony",
+      "Bavaria",
+      "North Rhine-Westphalia",
+      "Hesse"
+    ],
+    "countries_derived": [
+      "Germany",
+      "Germany",
+      "Germany",
+      "Germany",
+      "Germany",
+      "Germany"
+    ],
+    "source": "personio",
+    "source_type": "ats",
+    "employment_type": [
+      "Festanstellung"
+    ],
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "Hybrid",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "German",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Data Science",
+      "Artificial Intelligence",
+      "Business Analytics",
+      "Python",
+      "Machine Learning",
+      "Statistical Analysis"
+    ]
+  },
+  {
+    "id": 2406127534,
+    "title": "Data & AI Engineer (m/w/d)",
+    "organization": "AT GmbH",
+    "organization_logo": "https://assets.cdn.personio.de/logos/16246/social/eed19c5e06fc864fb68d3896221a56eb.png",
+    "url": "https://alexander-thamm-gmbh.jobs.personio.de/job/2836147",
+    "date_posted": "2026-10-09T13:33:42",
+    "date_created": "2026-10-09T11:56:15.797229",
+    "locations_derived": [
+      "Munich, Bavaria, Germany"
+    ],
+    "cities_derived": [
+      "Munich"
+    ],
+    "regions_derived": [
+      "Bavaria"
+    ],
+    "countries_derived": [
+      "Germany"
+    ],
+    "source": "personio",
+    "source_type": "ats",
+    "employment_type": [
+      "Festanstellung"
+    ],
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "Hybrid",
+    "ai_experience_level": "0-2",
+    "ai_job_language": "German",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Python",
+      "SQL",
+      "Azure",
+      "Databricks",
+      "Snowflake",
+      "Spark"
+    ]
+  },
+  {
+    "id": 2405970094,
+    "title": "Data Scientist - Remote Mexico (m/f/d) - New York Team",
+    "organization": "7Learnings GmbH",
+    "organization_logo": "https://assets.cdn.personio.de/logos/49036/social/9ab5f10eed400d4a37d2a2e9cddc46a2.png",
+    "url": "https://7learnings.jobs.personio.com/job/2819017",
+    "date_posted": "2026-10-09T10:59:56",
+    "date_created": "2026-10-09T09:57:05.592612",
+    "locations_derived": [
+      "Berlin, Germany"
+    ],
+    "cities_derived": [
+      "Berlin"
+    ],
+    "countries_derived": [
+      "Germany"
+    ],
+    "source": "personio",
+    "source_type": "ats",
+    "employment_type": [
+      "Permanent employee"
+    ],
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "Remote Solely",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "English",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Data science",
+      "Machine learning",
+      "Predictive modeling",
+      "Software engineering",
+      "Git",
+      "TensorFlow"
+    ]
+  },
+  {
+    "id": 2405748794,
+    "title": "AI Engineer (m/w/d) Machine Learning & GenAI",
+    "organization": "Finnofleet GmbH",
+    "organization_logo": "https://cdn.join.com/69f0a324f724ef0008eb08f3/finnofleet-gmb-h-logo-m.png",
+    "url": "https://join.com/companies/finnofleetcom/16804212-ai-engineer-m-w-d-machine-learning-und-genai",
+    "date_posted": "2026-10-09T06:26:02.691",
+    "date_created": "2026-10-09T06:35:40.501428",
+    "locations_derived": [
+      "Berlin, Berlin, Germany"
+    ],
+    "cities_derived": [
+      "Berlin"
+    ],
+    "regions_derived": [
+      "Berlin"
+    ],
+    "countries_derived": [
+      "Germany"
+    ],
+    "source": "join.com",
+    "source_type": "ats",
+    "employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "Hybrid",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "German",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Python",
+      "Machine Learning",
+      "GenAI",
+      "Ollama",
+      "LangChain",
+      "RAG"
+    ]
+  },
+  {
+    "id": 2406431946,
+    "title": "Senior ML Engineer - Speech (m/f/d)",
+    "organization": "voize",
+    "organization_logo": "https://app.ashbyhq.com/api/images/org-theme-logo/cfabe164-11bb-47a0-96bb-1802c858137f/f46f1522-d3e4-49a7-9157-c9cddcf6d477/bb57e78f-5425-4f2e-a3f3-89e4ad0ed487.png",
+    "url": "https://jobs.ashbyhq.com/voize/31a2c1ca-0655-458c-a281-759c515ee9e8",
+    "date_posted": "2026-10-09T00:00:00",
+    "date_created": "2026-10-09T15:22:40.415252",
+    "locations_derived": [
+      "Berlin, Germany"
+    ],
+    "cities_derived": [
+      "Berlin"
+    ],
+    "countries_derived": [
+      "Germany"
+    ],
+    "location_type": "TELECOMMUTE",
+    "source": "ashby",
+    "source_type": "ats",
+    "employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "Hybrid",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "English",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Deep learning",
+      "Speech recognition",
+      "ASR systems",
+      "STT development",
+      "Python",
+      "PyTorch"
+    ]
+  },
+  {
+    "id": 2406158520,
+    "title": "(Senior) Robotics AI Engineer – Training & Deployment (Physical AI) (Mensch)",
+    "organization": "Neura Robotics",
+    "organization_logo": "https://app.ashbyhq.com/api/images/org-theme-logo/44fc3e75-d0a0-416d-a1dd-fd0c4c27f744/95151fcc-e606-4bf2-9010-61805ab12f55/097ada6d-9d61-4ef0-97c5-3cd634299e47.png",
+    "url": "https://jobs.ashbyhq.com/neura-robotics-gmbh/db6b339d-78d4-4c76-9da4-7140818b4cc8",
+    "date_posted": "2026-10-09T00:00:00",
+    "date_created": "2026-10-09T12:23:10.933122",
+    "locations_derived": [
+      "Aachen, North Rhine-Westphalia, Germany"
+    ],
+    "cities_derived": [
+      "Aachen"
+    ],
+    "regions_derived": [
+      "North Rhine-Westphalia"
+    ],
+    "countries_derived": [
+      "Germany"
+    ],
+    "source": "ashby",
+    "source_type": "ats",
+    "employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "On-site",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "German",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Robotics",
+      "Artificial Intelligence",
+      "Physical AI",
+      "Embodied AI",
+      "Robot Learning",
+      "VLA Models"
+    ]
+  },
+  {
     "id": 2404442007,
     "title": "Data Engineer",
     "organization": "Booz Allen Hamilton",
@@ -2783,350 +3084,6 @@
       "Predictive Maintenance",
       "Anomaly Detection",
       "Process Optimization"
-    ]
-  },
-  {
-    "id": 2386785976,
-    "title": "Data Engineer – Pipelines & Integration *",
-    "organization": "Tri.Merge GmbH",
-    "organization_logo": "https://assets.cdn.personio.de/logos/115011/social/69038168ef5dc8cdbc302decf8cc94d4.png",
-    "url": "https://tri-merge.jobs.personio.com/job/2268607",
-    "date_posted": "2026-09-25T17:00:17",
-    "date_created": "2026-09-28T23:02:15.53318",
-    "locations_derived": [
-      "Friedrichshafen, Baden-Württemberg, Germany"
-    ],
-    "cities_derived": [
-      "Friedrichshafen"
-    ],
-    "regions_derived": [
-      "Baden-Württemberg"
-    ],
-    "countries_derived": [
-      "Germany"
-    ],
-    "source": "personio",
-    "source_type": "ats",
-    "employment_type": [
-      "Festanstellung"
-    ],
-    "ai_employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_work_arrangement": "Hybrid",
-    "ai_experience_level": "2-5",
-    "ai_job_language": "German",
-    "ai_visa_sponsorship": false,
-    "ai_key_skills": [
-      "Kafka",
-      "Airflow",
-      "Dbt",
-      "Python",
-      "Rust",
-      "SQL"
-    ]
-  },
-  {
-    "id": 2382765930,
-    "title": "Data Scientist – ML & Predictive Analytics *",
-    "organization": "Tri.Merge GmbH",
-    "organization_logo": "https://assets.cdn.personio.de/logos/115011/social/69038168ef5dc8cdbc302decf8cc94d4.png",
-    "url": "https://tri-merge.jobs.personio.com/job/2291727",
-    "date_posted": "2026-09-25T16:58:38",
-    "date_created": "2026-09-25T16:03:00.882791",
-    "locations_derived": [
-      "Friedrichshafen, Baden-Württemberg, Germany"
-    ],
-    "cities_derived": [
-      "Friedrichshafen"
-    ],
-    "regions_derived": [
-      "Baden-Württemberg"
-    ],
-    "countries_derived": [
-      "Germany"
-    ],
-    "source": "personio",
-    "source_type": "ats",
-    "employment_type": [
-      "Festanstellung"
-    ],
-    "ai_employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_work_arrangement": "Hybrid",
-    "ai_experience_level": "2-5",
-    "ai_job_language": "German",
-    "ai_visa_sponsorship": false,
-    "ai_key_skills": [
-      "Scikit-learn",
-      "PyTorch",
-      "TensorFlow",
-      "Python",
-      "Rust",
-      "Predictive modeling"
-    ]
-  },
-  {
-    "id": 2382310508,
-    "title": "Data Engineer (m/w/d)",
-    "organization": "ambelin",
-    "organization_logo": "https://assets.cdn.personio.de/logos/82379/social/87a4f007ee4fdf98ec2e36f7ed1be13c.jpg",
-    "url": "https://ambelin-gmbh.jobs.personio.de/job/2797664",
-    "date_posted": "2026-09-25T10:58:27",
-    "date_created": "2026-09-25T10:01:54.678245",
-    "locations_derived": [
-      "Berlin, Berlin, Germany"
-    ],
-    "cities_derived": [
-      "Berlin"
-    ],
-    "regions_derived": [
-      "Berlin"
-    ],
-    "countries_derived": [
-      "Germany"
-    ],
-    "source": "personio",
-    "source_type": "ats",
-    "employment_type": [
-      "Festanstellung"
-    ],
-    "ai_employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_work_arrangement": "Hybrid",
-    "ai_salary_currency": "EUR",
-    "ai_salary_min_value": 70000,
-    "ai_salary_max_value": 85000,
-    "ai_salary_unit_text": "YEAR",
-    "ai_experience_level": "2-5",
-    "ai_job_language": "German",
-    "ai_visa_sponsorship": false,
-    "ai_key_skills": [
-      "Data Engineering",
-      "Azure Databricks",
-      "Microsoft Azure",
-      "ETL/ELT processes",
-      "Data modeling",
-      "DevOps"
-    ]
-  },
-  {
-    "id": 2382340504,
-    "title": "Forward Deployed AI Engineer",
-    "organization": "Agile Robots SE",
-    "url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/4982847101",
-    "date_posted": "2026-09-25T10:03:25",
-    "date_created": "2026-09-25T10:31:23.985823",
-    "locations_derived": [
-      "Munich, Bavaria, Germany"
-    ],
-    "cities_derived": [
-      "Munich"
-    ],
-    "regions_derived": [
-      "Bavaria"
-    ],
-    "countries_derived": [
-      "Germany"
-    ],
-    "source": "greenhouse",
-    "source_type": "ats",
-    "ai_employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_work_arrangement": "On-site",
-    "ai_experience_level": "2-5",
-    "ai_job_language": "English",
-    "ai_visa_sponsorship": false,
-    "ai_key_skills": [
-      "Python",
-      "C++",
-      "PyTorch",
-      "TensorFlow",
-      "Computer vision",
-      "Robot learning"
-    ]
-  },
-  {
-    "id": 2384173884,
-    "title": "Data Scientist - Digital Finance Transformation (f/m/div)",
-    "organization": "Infineon",
-    "url": "https://jobs.infineon.com/careers/job/563808972054857-data-scientist-digital-finance-transformation-engineer-munich",
-    "date_posted": "2026-09-25T09:45:12",
-    "date_created": "2026-09-26T06:48:47.080527",
-    "locations_derived": [
-      "Villach, Carinthia, Austria",
-      "Munich, Bavaria, Germany",
-      "Regensburg, Bavaria, Germany",
-      "Dresden, Saxony, Germany"
-    ],
-    "cities_derived": [
-      "Dresden",
-      "Villach",
-      "Munich",
-      "Regensburg"
-    ],
-    "regions_derived": [
-      "Saxony",
-      "Carinthia",
-      "Bavaria",
-      "Bavaria"
-    ],
-    "countries_derived": [
-      "Germany",
-      "Austria",
-      "Germany",
-      "Germany"
-    ],
-    "source": "eightfold",
-    "source_type": "ats",
-    "employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_work_arrangement": "Hybrid",
-    "ai_experience_level": "2-5",
-    "ai_job_language": "English",
-    "ai_visa_sponsorship": false,
-    "ai_key_skills": [
-      "Data science",
-      "Process automation",
-      "Workflow optimization",
-      "KNIME",
-      "Databricks",
-      "LLMs"
-    ]
-  },
-  {
-    "id": 2386127126,
-    "title": "Software & Data Engineer (m/w/d)",
-    "organization": "EDAG",
-    "url": "https://careers.edag.com/job/Fulda-Software-&-Data-Engineer-%28mwd%29-Hess-36037/1441251533/",
-    "date_posted": "2026-09-25T00:00:00",
-    "date_created": "2026-09-28T14:34:52.718571",
-    "locations_derived": [
-      "Ingolstadt, Bavaria, Germany",
-      "Fulda, Hesse, Germany",
-      "Berlin, Germany"
-    ],
-    "cities_derived": [
-      "Berlin",
-      "Fulda",
-      "Ingolstadt"
-    ],
-    "regions_derived": [
-      "Hesse",
-      "Bavaria"
-    ],
-    "countries_derived": [
-      "Germany",
-      "Germany",
-      "Germany"
-    ],
-    "source": "successfactors",
-    "source_type": "ats",
-    "ai_employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_work_arrangement": "On-site",
-    "ai_experience_level": "2-5",
-    "ai_job_language": "German",
-    "ai_visa_sponsorship": false,
-    "ai_key_skills": [
-      "Python",
-      "SQL",
-      "Data Engineering",
-      "Data Pipelines",
-      "Cloud Platforms",
-      "Machine Learning"
-    ]
-  },
-  {
-    "id": 2384128064,
-    "title": "Junior Applied AI Engineer (all genders)",
-    "organization": "Accenture",
-    "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Kronberg-Campus-Kronberg-1/AI-Native-Software-Engineering--Junior-_R00345665",
-    "date_posted": "2026-09-25T00:00:00",
-    "date_created": "2026-09-26T06:26:02.518945",
-    "locations_derived": [
-      "Kronberg, Hesse, Germany"
-    ],
-    "cities_derived": [
-      "Kronberg"
-    ],
-    "regions_derived": [
-      "Hesse"
-    ],
-    "countries_derived": [
-      "Germany"
-    ],
-    "source": "workday",
-    "source_type": "ats",
-    "employment_type": [
-      "Full time"
-    ],
-    "ai_employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_work_arrangement": "Hybrid",
-    "ai_experience_level": "0-2",
-    "ai_job_language": "English",
-    "ai_visa_sponsorship": false,
-    "ai_key_skills": [
-      "Python",
-      "Java",
-      "TypeScript",
-      "LLM APIs",
-      "Prompt engineering",
-      "Agile"
-    ]
-  },
-  {
-    "id": 2382158935,
-    "title": "Software & Data Engineer*",
-    "organization": "EDAG",
-    "url": "https://careers.edag.com/job/Fulda-Software-&-Data-Engineer-Hess-36037/1441251533/",
-    "date_posted": "2026-09-25T00:00:00",
-    "date_created": "2026-09-25T07:46:47.077099",
-    "locations_derived": [
-      "Ingolstadt, Bavaria, Germany",
-      "Fulda, Hesse, Germany",
-      "Berlin, Germany"
-    ],
-    "cities_derived": [
-      "Berlin",
-      "Fulda",
-      "Ingolstadt"
-    ],
-    "regions_derived": [
-      "Hesse",
-      "Bavaria"
-    ],
-    "countries_derived": [
-      "Germany",
-      "Germany",
-      "Germany"
-    ],
-    "source": "successfactors",
-    "source_type": "ats",
-    "ai_employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_work_arrangement": "On-site",
-    "ai_experience_level": "2-5",
-    "ai_job_language": "German",
-    "ai_visa_sponsorship": false,
-    "ai_key_skills": [
-      "Python",
-      "SQL",
-      "Data Engineering",
-      "Data Pipelines",
-      "Cloud Platforms",
-      "Machine Learning"
     ]
   }
 ]
