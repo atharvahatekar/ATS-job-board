@@ -1,5 +1,316 @@
 [
   {
+    "id": 2409995328,
+    "title": "Data Scientist / Teamleiter (m/w/d)",
+    "organization": "AITAD GmbH",
+    "organization_logo": "https://cdn.join.com/60f92a0aa0385a000978954b/aitad-gmb-h-logo-m.png",
+    "url": "https://join.com/companies/aitad/16820490-data-scientist-teamleiter-m-w-d",
+    "date_posted": "2026-10-12T14:49:38.961",
+    "date_created": "2026-10-12T15:35:40.731716",
+    "locations_derived": [
+      "Offenburg, Baden-Württemberg, Germany"
+    ],
+    "cities_derived": [
+      "Offenburg"
+    ],
+    "regions_derived": [
+      "Baden-Württemberg"
+    ],
+    "countries_derived": [
+      "Germany"
+    ],
+    "source": "join.com",
+    "source_type": "ats",
+    "employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "On-site",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "German",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Python",
+      "C",
+      "Data Science",
+      "Machine Learning",
+      "Embedded Systems",
+      "Digital Signal Processing"
+    ]
+  },
+  {
+    "id": 2409929472,
+    "title": "Data Engineer/ Scientist in der Sachversicherung (m/w/d)",
+    "organization": "AXA",
+    "organization_logo": "https://axa.icims.com/icims2/servlet/icims2?module=AppInert&action=download&id=213&hashed=555321108",
+    "url": "https://careers-de-axa.icims.com/jobs/28892/data-engineer--scientist-in-der-sachversicherung-%28m-w-d%29/job",
+    "date_posted": "2026-10-12T14:26:33.617",
+    "date_created": "2026-10-12T14:26:36.403025",
+    "locations_derived": [
+      "Cologne, North Rhine-Westphalia, Germany"
+    ],
+    "cities_derived": [
+      "Cologne"
+    ],
+    "regions_derived": [
+      "North Rhine-Westphalia"
+    ],
+    "countries_derived": [
+      "Germany"
+    ],
+    "source": "icims",
+    "source_type": "ats",
+    "employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "Hybrid",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "German",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Data engineering",
+      "Data science",
+      "SQL",
+      "Database systems",
+      "Python",
+      "Docker"
+    ]
+  },
+  {
+    "id": 2409934400,
+    "title": "Data Scientist - RealAdvisor",
+    "organization": "RealAdvisor S.A.",
+    "organization_logo": "https://workablehr.s3.amazonaws.com/uploads/account/logo/724616/logo",
+    "url": "https://jobs.workable.com/view/gWXuTsykMoyH3go552Fj2H/remote-data-scientist---realadvisor-in-germany-at-realadvisor-s.a.",
+    "date_posted": "2026-10-12T14:17:34.244",
+    "date_created": "2026-10-12T14:34:07.354969",
+    "locations_derived": [
+      "Germany"
+    ],
+    "countries_derived": [
+      "Germany"
+    ],
+    "location_type": "TELECOMMUTE",
+    "source": "workable",
+    "source_type": "ats",
+    "employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "Remote Solely",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "English",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Python",
+      "SQL",
+      "Data science",
+      "Product analytics",
+      "Machine learning",
+      "A/B testing"
+    ]
+  },
+  {
+    "id": 2410048188,
+    "title": "Foward Deployed AI Engineer (m/d/w)",
+    "organization": "Neurawork GmbH & Co. KG",
+    "organization_logo": "https://cdn.join.com/66e3e4277a9472000939679a/neurawork-logo-m.png",
+    "url": "https://join.com/companies/neurawork/16818665-foward-deployed-ai-engineer-m-d-w",
+    "date_posted": "2026-10-12T10:13:10",
+    "date_created": "2026-10-12T17:35:39.692788",
+    "locations_derived": [
+      "Germany"
+    ],
+    "countries_derived": [
+      "Germany"
+    ],
+    "location_type": "TELECOMMUTE",
+    "source": "join.com",
+    "source_type": "ats",
+    "employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "Hybrid",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "German",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Artificial Intelligence",
+      "LLMs",
+      "RAG",
+      "Agentic AI",
+      "Python",
+      "Cloud Computing"
+    ]
+  },
+  {
+    "id": 2409617530,
+    "title": "AI Engineer (m/w/d)",
+    "organization": "NetPlans GmbH",
+    "organization_logo": "https://assets.cdn.personio.de/logos/47594/social/8e47ac98518a335b5d7919a0d1f8471d.png",
+    "url": "https://netplans.jobs.personio.com/job/2837819",
+    "date_posted": "2026-10-12T09:42:20",
+    "date_created": "2026-10-12T07:57:40.819534",
+    "locations_derived": [
+      "Heilbronn, Baden-Württemberg, Germany"
+    ],
+    "cities_derived": [
+      "Heilbronn"
+    ],
+    "regions_derived": [
+      "Baden-Württemberg"
+    ],
+    "countries_derived": [
+      "Germany"
+    ],
+    "source": "personio",
+    "source_type": "ats",
+    "employment_type": [
+      "Festanstellung"
+    ],
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "On-site",
+    "ai_experience_level": "0-2",
+    "ai_job_language": "German",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "AI Engineering",
+      "n8n",
+      "Microsoft Copilot",
+      "Power Automate",
+      "JavaScript",
+      "TypeScript"
+    ]
+  },
+  {
+    "id": 2409867225,
+    "title": "Data Scientist",
+    "organization": "KAYAK",
+    "organization_logo": "https://app.ashbyhq.com/api/images/org-theme-logo/438bf580-e307-402b-a0ca-bcc1ec945da8/741dbae0-0e7d-4716-9e36-3dc35073b8cf/143a228c-c4dc-435f-8564-b6873fab8b23.png",
+    "url": "https://jobs.ashbyhq.com/KAYAK/0c1aad83-c097-4464-ad6b-2cfc46c2cc3c",
+    "date_posted": "2026-10-12T00:00:00",
+    "date_created": "2026-10-12T13:22:18.312824",
+    "locations_derived": [
+      "Berlin, Germany"
+    ],
+    "cities_derived": [
+      "Berlin"
+    ],
+    "countries_derived": [
+      "Germany"
+    ],
+    "location_type": "TELECOMMUTE",
+    "source": "ashby",
+    "source_type": "ats",
+    "employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "Hybrid",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "English",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Data science",
+      "Machine learning",
+      "Statistics",
+      "Programming",
+      "Recommendation systems",
+      "Modeling"
+    ]
+  },
+  {
+    "id": 2409738397,
+    "title": "AI / ML Engineer (m/w/d)",
+    "organization": "SWMH (Südwestdeutsche Medienholding)",
+    "url": "https://karriere.swmh.de/job/M%C3%BCnchen-AI-ML-Engineer-%28mwd%29-BY-81677/1371268255/",
+    "date_posted": "2026-10-12T00:00:00",
+    "date_created": "2026-10-12T10:42:44.53877",
+    "locations_derived": [
+      "Munich, Bavaria, Germany"
+    ],
+    "cities_derived": [
+      "Munich"
+    ],
+    "regions_derived": [
+      "Bavaria"
+    ],
+    "countries_derived": [
+      "Germany"
+    ],
+    "source": "successfactors",
+    "source_type": "ats",
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "Hybrid",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "German",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Python",
+      "TypeScript",
+      "Machine Learning",
+      "Generative AI",
+      "Natural Language Processing",
+      "LLMs"
+    ]
+  },
+  {
+    "id": 2409707046,
+    "title": "AI Engineer - AI Lab (m/w/d)",
+    "organization": "master-TMS",
+    "url": "https://simon-kucher.csod.com/ux/ats/careersite/6/home/requisition/4304?c=simon-kucher",
+    "date_posted": "2026-10-12T00:00:00",
+    "date_created": "2026-10-12T09:59:55.066759",
+    "locations_derived": [
+      "Frankfurt, Hesse, Germany",
+      "Berlin, Germany"
+    ],
+    "cities_derived": [
+      "Frankfurt",
+      "Berlin"
+    ],
+    "regions_derived": [
+      "Hesse"
+    ],
+    "countries_derived": [
+      "Germany",
+      "Germany"
+    ],
+    "source": "csod",
+    "source_type": "ats",
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "Hybrid",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "English",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Python",
+      "Generative AI",
+      "LLMs",
+      "RAG",
+      "Hugging Face Transformers",
+      "LangChain"
+    ]
+  },
+  {
     "id": 2406214289,
     "title": "AI Engineer – Open-Source LLM Adaptation (m/f/d)",
     "organization": "GREENPEAK Partners GmbH",
@@ -2921,169 +3232,6 @@
       "Agentic workflows",
       "Data pipelines",
       "Model training"
-    ]
-  },
-  {
-    "id": 2386143959,
-    "title": "Data Scientist - Linear Optimization (All Genders)",
-    "organization": "zooplus SE",
-    "url": "https://jobs.smartrecruiters.com/ZooplusSE/744000152202489-data-scientist-linear-optimization-all-genders-",
-    "date_posted": "2026-09-28T14:51:07.852",
-    "date_created": "2026-09-28T14:53:21.09157",
-    "locations_derived": [
-      "Munich, Bavaria, Germany"
-    ],
-    "cities_derived": [
-      "Munich"
-    ],
-    "regions_derived": [
-      "Bavaria"
-    ],
-    "countries_derived": [
-      "Germany"
-    ],
-    "source": "smartrecruiters",
-    "source_type": "ats",
-    "employment_type": [
-      "Full-time"
-    ],
-    "ai_employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_work_arrangement": "Hybrid",
-    "ai_salary_currency": "EUR",
-    "ai_salary_min_value": 56200,
-    "ai_salary_max_value": 77400,
-    "ai_salary_unit_text": "YEAR",
-    "ai_experience_level": "2-5",
-    "ai_job_language": "English",
-    "ai_visa_sponsorship": false,
-    "ai_key_skills": [
-      "Linear Optimization",
-      "Mixed-Integer Optimization",
-      "Gurobi",
-      "Python",
-      "Pandas",
-      "NumPy"
-    ]
-  },
-  {
-    "id": 2385821250,
-    "title": "Data Scientist Messtechnik (m/w/d)",
-    "organization": "pmX Group",
-    "organization_logo": "https://assets.cdn.personio.de/logos/127622/social/3d167a16daec8af93d223e10147564d9.png",
-    "url": "https://pmx.jobs.personio.de/job/2816607",
-    "date_posted": "2026-09-28T09:09:05",
-    "date_created": "2026-09-28T08:00:59.178469",
-    "locations_derived": [
-      "Oberkochen, Baden-Württemberg, Germany"
-    ],
-    "cities_derived": [
-      "Oberkochen"
-    ],
-    "regions_derived": [
-      "Baden-Württemberg"
-    ],
-    "countries_derived": [
-      "Germany"
-    ],
-    "source": "personio",
-    "source_type": "ats",
-    "employment_type": [
-      "Festanstellung"
-    ],
-    "ai_employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_work_arrangement": "On-site",
-    "ai_experience_level": "2-5",
-    "ai_job_language": "German",
-    "ai_visa_sponsorship": false,
-    "ai_key_skills": [
-      "Data Science",
-      "Machine Learning",
-      "Python",
-      "Algorithm Engineering",
-      "Software Development",
-      "Optical Physics"
-    ]
-  },
-  {
-    "id": 2386017346,
-    "title": "AI Engineer Electronics (m/w/d)",
-    "organization": "Brose",
-    "url": "https://job.brose.com/job/Bamberg-AI-Engineer-Electronics-%28mwd%29-96052/1373323357/",
-    "date_posted": "2026-09-28T00:00:00",
-    "date_created": "2026-09-28T12:35:06.908423",
-    "locations_derived": [
-      "Bamberg, Bavaria, Germany"
-    ],
-    "cities_derived": [
-      "Bamberg"
-    ],
-    "regions_derived": [
-      "Bavaria"
-    ],
-    "countries_derived": [
-      "Germany"
-    ],
-    "source": "successfactors",
-    "source_type": "ats",
-    "ai_employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_work_arrangement": "Hybrid",
-    "ai_experience_level": "2-5",
-    "ai_job_language": "German",
-    "ai_visa_sponsorship": false,
-    "ai_key_skills": [
-      "Python",
-      "Artificial Intelligence",
-      "Machine Learning",
-      "Data Science",
-      "Generative AI",
-      "Large Language Models"
-    ]
-  },
-  {
-    "id": 2383829720,
-    "title": "Applied AI Engineer (m/w/d)",
-    "organization": "INSTATIQ",
-    "organization_logo": "https://cdn.join.com/67c5cd49d3fd6e0009fb89b5/pm-3-d-tec-logo-m.JPG",
-    "url": "https://join.com/companies/karlos-3d/16752445-applied-ai-engineer-m-w-d",
-    "date_posted": "2026-09-26T01:40:05.88",
-    "date_created": "2026-09-26T02:33:15.239241",
-    "locations_derived": [
-      "Stuttgart, Baden-Württemberg, Germany"
-    ],
-    "cities_derived": [
-      "Stuttgart"
-    ],
-    "regions_derived": [
-      "Baden-Württemberg"
-    ],
-    "countries_derived": [
-      "Germany"
-    ],
-    "source": "join.com",
-    "source_type": "ats",
-    "employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_work_arrangement": "Hybrid",
-    "ai_experience_level": "2-5",
-    "ai_job_language": "German",
-    "ai_visa_sponsorship": false,
-    "ai_key_skills": [
-      "Python",
-      "Machine Learning",
-      "Generative AI",
-      "Predictive Maintenance",
-      "Anomaly Detection",
-      "Process Optimization"
     ]
   }
 ]
