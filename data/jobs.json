@@ -1,5 +1,83 @@
 [
   {
+    "id": 2427248330,
+    "title": "AI-Engineer (m/w/d) - remote & deutschlandweit",
+    "organization": "MD-IT GmbH",
+    "organization_logo": "https://assets.cdn.personio.de/logos/311069/social/1da46f4a113d18b8513d12289c67bd19.png",
+    "url": "https://mditgmbh.jobs.personio.com/job/2716284",
+    "date_posted": "2026-10-22T07:57:36.587",
+    "date_created": "2026-10-22T07:57:36.742516",
+    "locations_derived": [
+      "Berlin, Germany"
+    ],
+    "cities_derived": [
+      "Berlin"
+    ],
+    "countries_derived": [
+      "Germany"
+    ],
+    "source": "personio",
+    "source_type": "ats",
+    "employment_type": [
+      "Festanstellung"
+    ],
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "Remote OK",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "German",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Python",
+      "LLMs",
+      "RAG",
+      "Backend development",
+      "GitLab",
+      "Docker"
+    ]
+  },
+  {
+    "id": 2427233346,
+    "title": "Machine Learning Engineer (f/m/d)",
+    "organization": "Aptiv",
+    "url": "https://aptiv.wd5.myworkdayjobs.com/APTIV_CAREERS/job/DEU-Wuppertal-Tech-Ctr/Machine-Learning-Engineer_J000702430",
+    "date_posted": "2026-10-22T00:00:00",
+    "date_created": "2026-10-22T07:40:43.998913",
+    "locations_derived": [
+      "Wuppertal, North Rhine-Westphalia, Germany"
+    ],
+    "cities_derived": [
+      "Wuppertal"
+    ],
+    "regions_derived": [
+      "North Rhine-Westphalia"
+    ],
+    "countries_derived": [
+      "Germany"
+    ],
+    "source": "workday",
+    "source_type": "ats",
+    "employment_type": [
+      "Full time"
+    ],
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "On-site",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "English",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Machine learning",
+      "Computer vision",
+      "Python",
+      "PyTorch",
+      "TensorFlow",
+      "3D reconstruction"
+    ]
+  },
+  {
     "id": 2425756508,
     "title": "Data Scientist (m/w/d)",
     "organization": "WEFRA LIFE",
@@ -536,6 +614,47 @@
       "Prompt engineering",
       "RAG",
       "LangGraph"
+    ]
+  },
+  {
+    "id": 2426631964,
+    "title": "Junior Data Scientist für automatische Dienstplanung (m/w/d)",
+    "organization": "Nesto Software GmbH",
+    "organization_logo": "https://assets.cdn.personio.de/logos/323241/social/b9e58a7ce00981d94a349dfece2993c2.png",
+    "url": "https://nesto-1.jobs.personio.com/job/2850871",
+    "date_posted": "2026-10-20T13:51:37",
+    "date_created": "2026-10-22T00:57:34.013935",
+    "locations_derived": [
+      "Karlsruhe, Baden-Württemberg, Germany"
+    ],
+    "cities_derived": [
+      "Karlsruhe"
+    ],
+    "regions_derived": [
+      "Baden-Württemberg"
+    ],
+    "countries_derived": [
+      "Germany"
+    ],
+    "source": "personio",
+    "source_type": "ats",
+    "employment_type": [
+      "Festanstellung"
+    ],
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "Hybrid",
+    "ai_experience_level": "0-2",
+    "ai_job_language": "German",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Python",
+      "Operations Research",
+      "Linear Programming",
+      "Gurobi",
+      "MongoDB",
+      "Machine Learning"
     ]
   },
   {
@@ -2713,317 +2832,6 @@
       "Embodied AI",
       "Robot Learning",
       "VLA Models"
-    ]
-  },
-  {
-    "id": 2404442007,
-    "title": "Data Engineer",
-    "organization": "Booz Allen Hamilton",
-    "url": "https://careers.boozallen.com/careers/JobDetail/131600",
-    "date_posted": "2026-10-08T16:33:57.057",
-    "date_created": "2026-10-08T16:33:59.056921",
-    "locations_derived": [
-      "Wiesbaden, Hesse, Germany"
-    ],
-    "cities_derived": [
-      "Wiesbaden"
-    ],
-    "regions_derived": [
-      "Hesse"
-    ],
-    "countries_derived": [
-      "Germany"
-    ],
-    "source": "avature",
-    "source_type": "ats",
-    "ai_employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_work_arrangement": "On-site",
-    "ai_salary_currency": "USD",
-    "ai_salary_min_value": 61900,
-    "ai_salary_max_value": 141000,
-    "ai_salary_unit_text": "YEAR",
-    "ai_experience_level": "2-5",
-    "ai_job_language": "English",
-    "ai_visa_sponsorship": false,
-    "ai_key_skills": [
-      "Data engineering",
-      "Application development",
-      "ETL",
-      "ELT",
-      "Python",
-      "SQL"
-    ]
-  },
-  {
-    "id": 2404471349,
-    "title": "AI Engineer",
-    "organization": "BIP Consulting",
-    "url": "https://fa-etjb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2554",
-    "date_posted": "2026-10-08T16:24:04",
-    "date_created": "2026-10-08T16:48:16.642286",
-    "locations_derived": [
-      "Munich, Bavaria, Germany"
-    ],
-    "cities_derived": [
-      "Munich"
-    ],
-    "regions_derived": [
-      "Bavaria"
-    ],
-    "countries_derived": [
-      "Germany"
-    ],
-    "source": "oraclecloud",
-    "source_type": "ats",
-    "employment_type": [
-      "Full time"
-    ],
-    "ai_employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_work_arrangement": "Hybrid",
-    "ai_salary_currency": "EUR",
-    "ai_salary_min_value": 75000,
-    "ai_salary_max_value": 85000,
-    "ai_salary_unit_text": "YEAR",
-    "ai_experience_level": "2-5",
-    "ai_job_language": "English",
-    "ai_visa_sponsorship": false,
-    "ai_key_skills": [
-      "Python",
-      "AI",
-      "LLM",
-      "RAG",
-      "Azure",
-      "Vector databases"
-    ]
-  },
-  {
-    "id": 2404270065,
-    "title": "Stelle Junior AI Engineer (m/w/d)",
-    "organization": "High-Tech Gründerfonds Management GmbH",
-    "organization_logo": "https://assets.cdn.personio.de/logos/15717/social/2d51a498a39087b76c592e3eb9001ab1.png",
-    "url": "https://htgf.jobs.personio.de/job/2834849",
-    "date_posted": "2026-10-08T15:48:12",
-    "date_created": "2026-10-08T14:54:55.627355",
-    "locations_derived": [
-      "Bonn, North Rhine-Westphalia, Germany"
-    ],
-    "cities_derived": [
-      "Bonn"
-    ],
-    "regions_derived": [
-      "North Rhine-Westphalia"
-    ],
-    "countries_derived": [
-      "Germany"
-    ],
-    "source": "personio",
-    "source_type": "ats",
-    "employment_type": [
-      "Festanstellung"
-    ],
-    "ai_employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_work_arrangement": "Hybrid",
-    "ai_experience_level": "0-2",
-    "ai_job_language": "German",
-    "ai_visa_sponsorship": false,
-    "ai_key_skills": [
-      "Python",
-      "Async Python",
-      "JavaScript",
-      "TypeScript",
-      "React",
-      "Tailwind"
-    ]
-  },
-  {
-    "id": 2403730500,
-    "title": "Data Scientist - AI Engineer",
-    "organization": "Shine",
-    "organization_logo": "https://images.teamtailor-cdn.com/images/s3/teamtailor-production/logotype-v3/image_uploads/49733647-a74e-47b0-b6f7-1965b120583b/original.png",
-    "url": "https://careers.shine.co/jobs/8515437-data-scientist-ai-engineer",
-    "date_posted": "2026-10-08T07:43:18",
-    "date_created": "2026-10-08T09:03:42.929227",
-    "locations_derived": [
-      "Copenhagen Municipality, Capital Region of Denmark, Denmark",
-      "Berlin, Germany",
-      "Amsterdam, North Holland, Netherlands"
-    ],
-    "cities_derived": [
-      "Berlin",
-      "Amsterdam",
-      "Copenhagen Municipality"
-    ],
-    "regions_derived": [
-      "North Holland",
-      "Capital Region of Denmark"
-    ],
-    "countries_derived": [
-      "Germany",
-      "Netherlands",
-      "Denmark"
-    ],
-    "source": "teamtailor",
-    "source_type": "ats",
-    "employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_work_arrangement": "Hybrid",
-    "ai_experience_level": "2-5",
-    "ai_job_language": "English",
-    "ai_visa_sponsorship": false,
-    "ai_key_skills": [
-      "Data Science",
-      "AI Engineering",
-      "LLM",
-      "Evaluation Metrics",
-      "Agentic Systems",
-      "Orchestration"
-    ]
-  },
-  {
-    "id": 2403628675,
-    "title": "Senior Data Engineer (Full-time) ",
-    "organization": "Glimmer",
-    "organization_logo": "https://cdn.join.com/6ac355ba9bbfe900082a8917/keleya-digital-health-solutions-gmb-h-logo-m.png",
-    "url": "https://join.com/companies/keleya/16800202-senior-data-engineer-full-time",
-    "date_posted": "2026-10-08T07:16:00.885",
-    "date_created": "2026-10-08T07:34:47.170478",
-    "locations_derived": [
-      "Berlin, Berlin, Germany"
-    ],
-    "cities_derived": [
-      "Berlin"
-    ],
-    "regions_derived": [
-      "Berlin"
-    ],
-    "countries_derived": [
-      "Germany"
-    ],
-    "source": "join.com",
-    "source_type": "ats",
-    "employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_work_arrangement": "Hybrid",
-    "ai_salary_currency": "EUR",
-    "ai_salary_value": 70000,
-    "ai_salary_unit_text": "YEAR",
-    "ai_experience_level": "2-5",
-    "ai_job_language": "English",
-    "ai_visa_sponsorship": false,
-    "ai_key_skills": [
-      "SQL",
-      "Python",
-      "PostgreSQL",
-      "AWS",
-      "Data engineering",
-      "ETL/ELT pipelines"
-    ],
-    "salary": {
-      "@type": "MonetaryAmount",
-      "currency": "EUR",
-      "value": {
-        "@type": "QuantitativeValue",
-        "value": 70000,
-        "unitText": "YEAR"
-      }
-    }
-  },
-  {
-    "id": 2404481377,
-    "title": "Data Engineer",
-    "organization": "Booz Allen Hamilton",
-    "url": "https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Wiesbaden-Hesse/Data-Engineer_R0251281",
-    "date_posted": "2026-10-08T00:00:00",
-    "date_created": "2026-10-08T16:58:14.972419",
-    "locations_derived": [
-      "Wiesbaden, Hesse, Germany"
-    ],
-    "cities_derived": [
-      "Wiesbaden"
-    ],
-    "regions_derived": [
-      "Hesse"
-    ],
-    "countries_derived": [
-      "Germany"
-    ],
-    "source": "workday",
-    "source_type": "ats",
-    "employment_type": [
-      "Full time"
-    ],
-    "ai_employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_work_arrangement": "On-site",
-    "ai_salary_currency": "USD",
-    "ai_salary_min_value": 61900,
-    "ai_salary_max_value": 141000,
-    "ai_salary_unit_text": "YEAR",
-    "ai_experience_level": "2-5",
-    "ai_job_language": "English",
-    "ai_visa_sponsorship": false,
-    "ai_key_skills": [
-      "Data engineering",
-      "Application development",
-      "ETL",
-      "ELT",
-      "Python",
-      "SQL"
-    ]
-  },
-  {
-    "id": 2404221652,
-    "title": "AI Engineer (f/m/d) - Life Science and Diagnostics (f/m/d)",
-    "organization": "QIAGEN",
-    "url": "https://qiagen.wd502.myworkdayjobs.com/QIAGEN/job/Hilden/Senior-Software-Engineer---Life-Science-and-Diagnostics--f-m-d-_JR00000900-1",
-    "date_posted": "2026-10-08T00:00:00",
-    "date_created": "2026-10-08T14:17:52.967961",
-    "locations_derived": [
-      "Hilden, North Rhine-Westphalia, Germany"
-    ],
-    "cities_derived": [
-      "Hilden"
-    ],
-    "regions_derived": [
-      "North Rhine-Westphalia"
-    ],
-    "countries_derived": [
-      "Germany"
-    ],
-    "source": "workday",
-    "source_type": "ats",
-    "employment_type": [
-      "Full time"
-    ],
-    "ai_employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_work_arrangement": "Hybrid",
-    "ai_experience_level": "2-5",
-    "ai_job_language": "English",
-    "ai_visa_sponsorship": false,
-    "ai_key_skills": [
-      "Python",
-      "AI agents",
-      "LLM-based applications",
-      "Software engineering",
-      "Git",
-      "CI/CD pipelines"
     ]
   }
 ]
