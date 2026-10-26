@@ -1,5 +1,405 @@
 [
   {
+    "id": 2433783288,
+    "title": "Data Scientist",
+    "organization": "Booz Allen Hamilton",
+    "url": "https://careers.boozallen.com/careers/JobDetail/132283",
+    "date_posted": "2026-10-26T16:44:02.321",
+    "date_created": "2026-10-26T16:44:05.997532",
+    "locations_derived": [
+      "Wiesbaden, Hesse, Germany"
+    ],
+    "cities_derived": [
+      "Wiesbaden"
+    ],
+    "regions_derived": [
+      "Hesse"
+    ],
+    "countries_derived": [
+      "Germany"
+    ],
+    "source": "avature",
+    "source_type": "ats",
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "On-site",
+    "ai_salary_currency": "USD",
+    "ai_salary_min_value": 77500,
+    "ai_salary_max_value": 176000,
+    "ai_salary_unit_text": "YEAR",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "English",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Data Exploration",
+      "Data Cleaning",
+      "Data Analysis",
+      "Data Visualization",
+      "Data Mining",
+      "Statistical Programming"
+    ]
+  },
+  {
+    "id": 2433532847,
+    "title": "Senior Data Scientist für Demand Forecasting und Workforce Analytics (m/w/d)",
+    "organization": "Nesto Software GmbH",
+    "organization_logo": "https://assets.cdn.personio.de/logos/323241/social/b9e58a7ce00981d94a349dfece2993c2.png",
+    "url": "https://nesto-1.jobs.personio.com/job/2860408",
+    "date_posted": "2026-10-26T12:59:01.22",
+    "date_created": "2026-10-26T12:59:01.286443",
+    "locations_derived": [
+      "Karlsruhe, Baden-Württemberg, Germany"
+    ],
+    "cities_derived": [
+      "Karlsruhe"
+    ],
+    "regions_derived": [
+      "Baden-Württemberg"
+    ],
+    "countries_derived": [
+      "Germany"
+    ],
+    "source": "personio",
+    "source_type": "ats",
+    "employment_type": [
+      "Festanstellung"
+    ],
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "Hybrid",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "German",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Data Science",
+      "Machine Learning",
+      "Time Series Forecasting",
+      "Python",
+      "AWS",
+      "Feature Engineering"
+    ]
+  },
+  {
+    "id": 2433911517,
+    "title": "Senior Data Scientist - Commodity Intelligence m/f/d",
+    "organization": "Nextens",
+    "url": "https://relx.wd3.myworkdayjobs.com/RiskSolutions/job/Germany---Karlsruhe/Senior-Data-Scientist---Commodity-Intelligence-m-f-d_R120150",
+    "date_posted": "2026-10-26T00:00:00",
+    "date_created": "2026-10-26T18:19:50.052064",
+    "locations_derived": [
+      "Karlsruhe, Baden-Württemberg, Germany",
+      "London, England, United Kingdom"
+    ],
+    "cities_derived": [
+      "Karlsruhe",
+      "London"
+    ],
+    "regions_derived": [
+      "Baden-Württemberg",
+      "England"
+    ],
+    "countries_derived": [
+      "Germany",
+      "United Kingdom"
+    ],
+    "source": "workday",
+    "source_type": "ats",
+    "employment_type": [
+      "Full time"
+    ],
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "On-site",
+    "ai_salary_currency": "EUR",
+    "ai_salary_min_value": 71600,
+    "ai_salary_max_value": 119400,
+    "ai_salary_unit_text": "YEAR",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "English",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Predictive Modeling",
+      "Commodity Market Modeling",
+      "Python",
+      "SQL",
+      "Data Cleaning and Imputation",
+      "Scenario Modeling"
+    ]
+  },
+  {
+    "id": 2433911515,
+    "title": "Senior Data Scientist / Quantitative Analyst - Commodity Global Trade Shipping & Logistics m/f/d",
+    "organization": "Nextens",
+    "url": "https://relx.wd3.myworkdayjobs.com/RiskSolutions/job/Germany---Karlsruhe/Senior-Data-Scientist---Quantitative-Analyst---Commodity-Global-Trade-Shipping---Logistics-m-f-d_R120157",
+    "date_posted": "2026-10-26T00:00:00",
+    "date_created": "2026-10-26T18:19:49.729018",
+    "locations_derived": [
+      "Karlsruhe, Baden-Württemberg, Germany",
+      "London, England, United Kingdom"
+    ],
+    "cities_derived": [
+      "Karlsruhe",
+      "London"
+    ],
+    "regions_derived": [
+      "Baden-Württemberg",
+      "England"
+    ],
+    "countries_derived": [
+      "Germany",
+      "United Kingdom"
+    ],
+    "source": "workday",
+    "source_type": "ats",
+    "employment_type": [
+      "Full time"
+    ],
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "On-site",
+    "ai_salary_currency": "EUR",
+    "ai_salary_min_value": 71600,
+    "ai_salary_max_value": 119400,
+    "ai_salary_unit_text": "YEAR",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "English",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Predictive Modeling",
+      "Commodity Market Modeling",
+      "Python",
+      "SQL",
+      "Mathematical Optimization",
+      "Linear Programming"
+    ]
+  },
+  {
+    "id": 2433897182,
+    "title": "Senior Data Scientist / Quantitative Analyst - Commodity Global Trade Shipping & Logistics m/f/d",
+    "organization": "RELX",
+    "url": "https://relx.wd3.myworkdayjobs.com/relx/job/Germany---Karlsruhe/Senior-Data-Scientist---Quantitative-Analyst---Commodity-Global-Trade-Shipping---Logistics-m-f-d_R120157-1",
+    "date_posted": "2026-10-26T00:00:00",
+    "date_created": "2026-10-26T18:07:54.587565",
+    "locations_derived": [
+      "Karlsruhe, Baden-Württemberg, Germany",
+      "London, England, United Kingdom"
+    ],
+    "cities_derived": [
+      "Karlsruhe",
+      "London"
+    ],
+    "regions_derived": [
+      "Baden-Württemberg",
+      "England"
+    ],
+    "countries_derived": [
+      "Germany",
+      "United Kingdom"
+    ],
+    "source": "workday",
+    "source_type": "ats",
+    "employment_type": [
+      "Full time"
+    ],
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "On-site",
+    "ai_salary_currency": "EUR",
+    "ai_salary_min_value": 71600,
+    "ai_salary_max_value": 119400,
+    "ai_salary_unit_text": "YEAR",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "English",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Predictive Modeling",
+      "Commodity Market Modeling",
+      "Python",
+      "SQL",
+      "Mathematical Optimization",
+      "Linear Programming"
+    ]
+  },
+  {
+    "id": 2433897165,
+    "title": "Senior Data Scientist - Commodity Intelligence m/f/d",
+    "organization": "RELX",
+    "url": "https://relx.wd3.myworkdayjobs.com/relx/job/Germany---Karlsruhe/Senior-Data-Scientist---Commodity-Intelligence-m-f-d_R120150-1",
+    "date_posted": "2026-10-26T00:00:00",
+    "date_created": "2026-10-26T18:07:54.185595",
+    "locations_derived": [
+      "Karlsruhe, Baden-Württemberg, Germany",
+      "London, England, United Kingdom"
+    ],
+    "cities_derived": [
+      "Karlsruhe",
+      "London"
+    ],
+    "regions_derived": [
+      "Baden-Württemberg",
+      "England"
+    ],
+    "countries_derived": [
+      "Germany",
+      "United Kingdom"
+    ],
+    "source": "workday",
+    "source_type": "ats",
+    "employment_type": [
+      "Full time"
+    ],
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "On-site",
+    "ai_salary_currency": "EUR",
+    "ai_salary_min_value": 71600,
+    "ai_salary_max_value": 119400,
+    "ai_salary_unit_text": "YEAR",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "English",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Predictive Modeling",
+      "Commodity Market Modeling",
+      "Python",
+      "SQL",
+      "Scenario Modeling",
+      "Marginal Supply Cost Curves"
+    ]
+  },
+  {
+    "id": 2433702942,
+    "title": "Data Scientist",
+    "organization": "Booz Allen Hamilton",
+    "url": "https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Wiesbaden-Hesse/Data-Scientist_R0252305",
+    "date_posted": "2026-10-26T00:00:00",
+    "date_created": "2026-10-26T15:47:51.278737",
+    "locations_derived": [
+      "Wiesbaden, Hesse, Germany"
+    ],
+    "cities_derived": [
+      "Wiesbaden"
+    ],
+    "regions_derived": [
+      "Hesse"
+    ],
+    "countries_derived": [
+      "Germany"
+    ],
+    "source": "workday",
+    "source_type": "ats",
+    "employment_type": [
+      "Full time"
+    ],
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "Hybrid",
+    "ai_salary_currency": "USD",
+    "ai_salary_min_value": 77500,
+    "ai_salary_max_value": 176000,
+    "ai_salary_unit_text": "YEAR",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "English",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Data exploration",
+      "Data cleaning",
+      "Data analysis",
+      "Data visualization",
+      "Data mining",
+      "Statistical programming"
+    ]
+  },
+  {
+    "id": 2430337402,
+    "title": "Forward Deployed AI Engineer (w/d/m)",
+    "organization": "WEBUILDAI GmbH",
+    "organization_logo": "https://cdn.join.com/6787bbbdfaa5e600089b073b/we-build-ai-logo-m.png",
+    "url": "https://join.com/companies/we-build-ai/16866939-forward-deployed-ai-engineer-w-d-m",
+    "date_posted": "2026-10-23T17:16:57.569",
+    "date_created": "2026-10-23T18:38:20.787785",
+    "locations_derived": [
+      "Cologne, North Rhine-Westphalia, Germany"
+    ],
+    "cities_derived": [
+      "Cologne"
+    ],
+    "regions_derived": [
+      "North Rhine-Westphalia"
+    ],
+    "countries_derived": [
+      "Germany"
+    ],
+    "source": "join.com",
+    "source_type": "ats",
+    "employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "Hybrid",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "German",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Python",
+      "FastAPI",
+      "Agentic AI",
+      "LLM APIs",
+      "REST APIs",
+      "Microsoft Graph"
+    ]
+  },
+  {
+    "id": 2430240132,
+    "title": "(Senior) AI Engineer (w/d/m)",
+    "organization": "WEBUILDAI GmbH",
+    "organization_logo": "https://cdn.join.com/6787bbbdfaa5e600089b073b/we-build-ai-logo-m.png",
+    "url": "https://join.com/companies/we-build-ai/16866722-senior-ai-engineer-w-d-m",
+    "date_posted": "2026-10-23T16:48:09.606",
+    "date_created": "2026-10-23T17:36:25.739656",
+    "locations_derived": [
+      "Cologne, North Rhine-Westphalia, Germany"
+    ],
+    "cities_derived": [
+      "Cologne"
+    ],
+    "regions_derived": [
+      "North Rhine-Westphalia"
+    ],
+    "countries_derived": [
+      "Germany"
+    ],
+    "source": "join.com",
+    "source_type": "ats",
+    "employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "Hybrid",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "German",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Artificial Intelligence",
+      "Python",
+      "LLM",
+      "RAG",
+      "Agentic AI",
+      "FastAPI"
+    ]
+  },
+  {
     "id": 2429476004,
     "title": "Senior Big Data Engineer (m/w/d)",
     "organization": "Sopra Steria",
@@ -108,6 +508,54 @@
     ]
   },
   {
+    "id": 2430263281,
+    "title": "Data Engineer",
+    "organization": "MSA, The Safety Company",
+    "url": "https://careers.msasafety.com/jobs/10195",
+    "date_posted": "2026-10-22T20:31:00",
+    "date_created": "2026-10-23T17:52:18.354147",
+    "locations_derived": [
+      "Berlin, Germany"
+    ],
+    "cities_derived": [
+      "Berlin"
+    ],
+    "countries_derived": [
+      "Germany"
+    ],
+    "source": "icims",
+    "source_type": "ats",
+    "employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "Hybrid",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "English",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "SQL",
+      "Python",
+      "Snowflake",
+      "Dbt",
+      "AWS",
+      "Airflow"
+    ],
+    "salary": {
+      "@type": "MonetaryAmount",
+      "currency": "USD",
+      "value": {
+        "@type": "QuantitativeValue",
+        "value": 0,
+        "minValue": 0,
+        "maxValue": 0,
+        "unitText": "YEAR"
+      }
+    }
+  },
+  {
     "id": 2427248330,
     "title": "AI-Engineer (m/w/d) - remote & deutschlandweit",
     "organization": "MD-IT GmbH",
@@ -143,6 +591,54 @@
       "Backend development",
       "GitLab",
       "Docker"
+    ]
+  },
+  {
+    "id": 2431599250,
+    "title": "Data & AI Engineer Public Sector (w/m/d)",
+    "organization": "Capgemini",
+    "url": "https://careers.capgemini.com/job/Berlin-Data-&-AI-Engineer-Public-Sector-%28wmd%29/1440451333/",
+    "date_posted": "2026-10-22T02:01:00",
+    "date_created": "2026-10-24T08:26:59.7475",
+    "locations_derived": [
+      "Stuttgart, Baden-Württemberg, Germany",
+      "Munich, Bavaria, Germany",
+      "Düsseldorf, North Rhine-Westphalia, Germany",
+      "Berlin, Germany"
+    ],
+    "cities_derived": [
+      "Berlin",
+      "Düsseldorf",
+      "Stuttgart",
+      "Munich"
+    ],
+    "regions_derived": [
+      "North Rhine-Westphalia",
+      "Baden-Württemberg",
+      "Bavaria"
+    ],
+    "countries_derived": [
+      "Germany",
+      "Germany",
+      "Germany",
+      "Germany"
+    ],
+    "source": "successfactors",
+    "source_type": "ats",
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "Hybrid",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "German",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Data Engineering",
+      "AI Engineering",
+      "Python",
+      "Scala",
+      "SQL",
+      "Spark"
     ]
   },
   {
@@ -1308,6 +1804,44 @@
       "Data engineering",
       "Data pipelines",
       "Relational database design"
+    ]
+  },
+  {
+    "id": 2433470593,
+    "title": "Data Scientist – Machine Learning (m/w/d)",
+    "organization": "AERTiCKET Gruppe",
+    "organization_logo": "https://assets.cdn.personio.de/logos/23185/social/e2651006028a25e093a86d1dabbc72f9.png",
+    "url": "https://aer-group.jobs.personio.de/job/2848271/apply",
+    "date_posted": "2026-10-19T11:13:13",
+    "date_created": "2026-10-26T11:56:51.256544",
+    "locations_derived": [
+      "Berlin, Germany"
+    ],
+    "cities_derived": [
+      "Berlin"
+    ],
+    "countries_derived": [
+      "Germany"
+    ],
+    "source": "personio",
+    "source_type": "ats",
+    "employment_type": [
+      "Festanstellung"
+    ],
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "Hybrid",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "German",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Python",
+      "Pandas",
+      "NumPy",
+      "Scikit-Learn",
+      "TensorFlow",
+      "PyTorch"
     ]
   },
   {
@@ -2535,317 +3069,6 @@
       "Google Cloud Platform",
       "Vertex AI",
       "BigQuery"
-    ]
-  },
-  {
-    "id": 2409995328,
-    "title": "Data Scientist / Teamleiter (m/w/d)",
-    "organization": "AITAD GmbH",
-    "organization_logo": "https://cdn.join.com/60f92a0aa0385a000978954b/aitad-gmb-h-logo-m.png",
-    "url": "https://join.com/companies/aitad/16820490-data-scientist-teamleiter-m-w-d",
-    "date_posted": "2026-10-12T14:49:38.961",
-    "date_created": "2026-10-12T15:35:40.731716",
-    "locations_derived": [
-      "Offenburg, Baden-Württemberg, Germany"
-    ],
-    "cities_derived": [
-      "Offenburg"
-    ],
-    "regions_derived": [
-      "Baden-Württemberg"
-    ],
-    "countries_derived": [
-      "Germany"
-    ],
-    "source": "join.com",
-    "source_type": "ats",
-    "employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_work_arrangement": "On-site",
-    "ai_experience_level": "2-5",
-    "ai_job_language": "German",
-    "ai_visa_sponsorship": false,
-    "ai_key_skills": [
-      "Python",
-      "C",
-      "Data Science",
-      "Machine Learning",
-      "Embedded Systems",
-      "Digital Signal Processing"
-    ]
-  },
-  {
-    "id": 2409929472,
-    "title": "Data Engineer/ Scientist in der Sachversicherung (m/w/d)",
-    "organization": "AXA",
-    "organization_logo": "https://axa.icims.com/icims2/servlet/icims2?module=AppInert&action=download&id=213&hashed=555321108",
-    "url": "https://careers-de-axa.icims.com/jobs/28892/data-engineer--scientist-in-der-sachversicherung-%28m-w-d%29/job",
-    "date_posted": "2026-10-12T14:26:33.617",
-    "date_created": "2026-10-12T14:26:36.403025",
-    "locations_derived": [
-      "Cologne, North Rhine-Westphalia, Germany"
-    ],
-    "cities_derived": [
-      "Cologne"
-    ],
-    "regions_derived": [
-      "North Rhine-Westphalia"
-    ],
-    "countries_derived": [
-      "Germany"
-    ],
-    "source": "icims",
-    "source_type": "ats",
-    "employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_work_arrangement": "Hybrid",
-    "ai_experience_level": "2-5",
-    "ai_job_language": "German",
-    "ai_visa_sponsorship": false,
-    "ai_key_skills": [
-      "Data engineering",
-      "Data science",
-      "SQL",
-      "Database systems",
-      "Python",
-      "Docker"
-    ]
-  },
-  {
-    "id": 2409934400,
-    "title": "Data Scientist - RealAdvisor",
-    "organization": "RealAdvisor S.A.",
-    "organization_logo": "https://workablehr.s3.amazonaws.com/uploads/account/logo/724616/logo",
-    "url": "https://jobs.workable.com/view/gWXuTsykMoyH3go552Fj2H/remote-data-scientist---realadvisor-in-germany-at-realadvisor-s.a.",
-    "date_posted": "2026-10-12T14:17:34.244",
-    "date_created": "2026-10-12T14:34:07.354969",
-    "locations_derived": [
-      "Germany"
-    ],
-    "countries_derived": [
-      "Germany"
-    ],
-    "location_type": "TELECOMMUTE",
-    "source": "workable",
-    "source_type": "ats",
-    "employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_work_arrangement": "Remote Solely",
-    "ai_experience_level": "2-5",
-    "ai_job_language": "English",
-    "ai_visa_sponsorship": false,
-    "ai_key_skills": [
-      "Python",
-      "SQL",
-      "Data science",
-      "Product analytics",
-      "Machine learning",
-      "A/B testing"
-    ]
-  },
-  {
-    "id": 2410048188,
-    "title": "Foward Deployed AI Engineer (m/d/w)",
-    "organization": "Neurawork GmbH & Co. KG",
-    "organization_logo": "https://cdn.join.com/66e3e4277a9472000939679a/neurawork-logo-m.png",
-    "url": "https://join.com/companies/neurawork/16818665-foward-deployed-ai-engineer-m-d-w",
-    "date_posted": "2026-10-12T10:13:10",
-    "date_created": "2026-10-12T17:35:39.692788",
-    "locations_derived": [
-      "Germany"
-    ],
-    "countries_derived": [
-      "Germany"
-    ],
-    "location_type": "TELECOMMUTE",
-    "source": "join.com",
-    "source_type": "ats",
-    "employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_work_arrangement": "Hybrid",
-    "ai_experience_level": "2-5",
-    "ai_job_language": "German",
-    "ai_visa_sponsorship": false,
-    "ai_key_skills": [
-      "Artificial Intelligence",
-      "LLMs",
-      "RAG",
-      "Agentic AI",
-      "Python",
-      "Cloud Computing"
-    ]
-  },
-  {
-    "id": 2409617530,
-    "title": "AI Engineer (m/w/d)",
-    "organization": "NetPlans GmbH",
-    "organization_logo": "https://assets.cdn.personio.de/logos/47594/social/8e47ac98518a335b5d7919a0d1f8471d.png",
-    "url": "https://netplans.jobs.personio.com/job/2837819",
-    "date_posted": "2026-10-12T09:42:20",
-    "date_created": "2026-10-12T07:57:40.819534",
-    "locations_derived": [
-      "Heilbronn, Baden-Württemberg, Germany"
-    ],
-    "cities_derived": [
-      "Heilbronn"
-    ],
-    "regions_derived": [
-      "Baden-Württemberg"
-    ],
-    "countries_derived": [
-      "Germany"
-    ],
-    "source": "personio",
-    "source_type": "ats",
-    "employment_type": [
-      "Festanstellung"
-    ],
-    "ai_employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_work_arrangement": "On-site",
-    "ai_experience_level": "0-2",
-    "ai_job_language": "German",
-    "ai_visa_sponsorship": false,
-    "ai_key_skills": [
-      "AI Engineering",
-      "n8n",
-      "Microsoft Copilot",
-      "Power Automate",
-      "JavaScript",
-      "TypeScript"
-    ]
-  },
-  {
-    "id": 2409867225,
-    "title": "Data Scientist",
-    "organization": "KAYAK",
-    "organization_logo": "https://app.ashbyhq.com/api/images/org-theme-logo/438bf580-e307-402b-a0ca-bcc1ec945da8/741dbae0-0e7d-4716-9e36-3dc35073b8cf/143a228c-c4dc-435f-8564-b6873fab8b23.png",
-    "url": "https://jobs.ashbyhq.com/KAYAK/0c1aad83-c097-4464-ad6b-2cfc46c2cc3c",
-    "date_posted": "2026-10-12T00:00:00",
-    "date_created": "2026-10-12T13:22:18.312824",
-    "locations_derived": [
-      "Berlin, Germany"
-    ],
-    "cities_derived": [
-      "Berlin"
-    ],
-    "countries_derived": [
-      "Germany"
-    ],
-    "location_type": "TELECOMMUTE",
-    "source": "ashby",
-    "source_type": "ats",
-    "employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_work_arrangement": "Hybrid",
-    "ai_experience_level": "2-5",
-    "ai_job_language": "English",
-    "ai_visa_sponsorship": false,
-    "ai_key_skills": [
-      "Data science",
-      "Machine learning",
-      "Statistics",
-      "Programming",
-      "Recommendation systems",
-      "Modeling"
-    ]
-  },
-  {
-    "id": 2409738397,
-    "title": "AI / ML Engineer (m/w/d)",
-    "organization": "SWMH (Südwestdeutsche Medienholding)",
-    "url": "https://karriere.swmh.de/job/M%C3%BCnchen-AI-ML-Engineer-%28mwd%29-BY-81677/1371268255/",
-    "date_posted": "2026-10-12T00:00:00",
-    "date_created": "2026-10-12T10:42:44.53877",
-    "locations_derived": [
-      "Munich, Bavaria, Germany"
-    ],
-    "cities_derived": [
-      "Munich"
-    ],
-    "regions_derived": [
-      "Bavaria"
-    ],
-    "countries_derived": [
-      "Germany"
-    ],
-    "source": "successfactors",
-    "source_type": "ats",
-    "ai_employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_work_arrangement": "Hybrid",
-    "ai_experience_level": "2-5",
-    "ai_job_language": "German",
-    "ai_visa_sponsorship": false,
-    "ai_key_skills": [
-      "Python",
-      "TypeScript",
-      "Machine Learning",
-      "Generative AI",
-      "Natural Language Processing",
-      "LLMs"
-    ]
-  },
-  {
-    "id": 2409707046,
-    "title": "AI Engineer - AI Lab (m/w/d)",
-    "organization": "master-TMS",
-    "url": "https://simon-kucher.csod.com/ux/ats/careersite/6/home/requisition/4304?c=simon-kucher",
-    "date_posted": "2026-10-12T00:00:00",
-    "date_created": "2026-10-12T09:59:55.066759",
-    "locations_derived": [
-      "Frankfurt, Hesse, Germany",
-      "Berlin, Germany"
-    ],
-    "cities_derived": [
-      "Frankfurt",
-      "Berlin"
-    ],
-    "regions_derived": [
-      "Hesse"
-    ],
-    "countries_derived": [
-      "Germany",
-      "Germany"
-    ],
-    "source": "csod",
-    "source_type": "ats",
-    "ai_employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_work_arrangement": "Hybrid",
-    "ai_experience_level": "2-5",
-    "ai_job_language": "English",
-    "ai_visa_sponsorship": false,
-    "ai_key_skills": [
-      "Python",
-      "Generative AI",
-      "LLMs",
-      "RAG",
-      "Hugging Face Transformers",
-      "LangChain"
     ]
   }
 ]
