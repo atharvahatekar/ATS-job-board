@@ -1,5 +1,512 @@
 [
   {
+    "id": 2435396986,
+    "title": "Forward Deployed AI Engineer (m/f/d)",
+    "organization": "Sportradar",
+    "url": "https://jobs.smartrecruiters.com/Sportradar/744000158082579-forward-deployed-ai-engineer-m-f-d-",
+    "date_posted": "2026-10-27T15:27:33.19",
+    "date_created": "2026-10-27T15:29:15.368415",
+    "locations_derived": [
+      "Leipzig, Saxony, Germany"
+    ],
+    "cities_derived": [
+      "Leipzig"
+    ],
+    "regions_derived": [
+      "Saxony"
+    ],
+    "countries_derived": [
+      "Germany"
+    ],
+    "source": "smartrecruiters",
+    "source_type": "ats",
+    "employment_type": [
+      "Full-time"
+    ],
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "On-site",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "English",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Python",
+      "Software engineering",
+      "LLM APIs",
+      "RAG",
+      "AI agents",
+      "SQL"
+    ]
+  },
+  {
+    "id": 2435448038,
+    "title": "Data Engineer (m/f/d)",
+    "organization": "Flink",
+    "url": "https://jobs.smartrecruiters.com/Flink3/744000158076659-data-engineer-m-f-d-",
+    "date_posted": "2026-10-27T15:06:53.118",
+    "date_created": "2026-10-27T16:02:31.799032",
+    "locations_derived": [
+      "Berlin, Germany"
+    ],
+    "cities_derived": [
+      "Berlin"
+    ],
+    "countries_derived": [
+      "Germany"
+    ],
+    "source": "smartrecruiters",
+    "source_type": "ats",
+    "employment_type": [
+      "Contract"
+    ],
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "On-site",
+    "ai_salary_currency": "EUR",
+    "ai_salary_min_value": 62000,
+    "ai_salary_max_value": 75000,
+    "ai_salary_unit_text": "YEAR",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "English",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Python",
+      "SQL",
+      "Apache Airflow",
+      "Google Cloud Platform",
+      "BigQuery",
+      "Pub/Sub"
+    ]
+  },
+  {
+    "id": 2435170747,
+    "title": "AI Engineer | IT & Development (m/w/d)",
+    "organization": "DARKSIDE GmbH",
+    "organization_logo": "https://assets.cdn.personio.de/logos/70148/social/508c050da018a2fa57caf662f835660b.png",
+    "url": "https://darkside.jobs.personio.de/job/2862772",
+    "date_posted": "2026-10-27T13:57:28",
+    "date_created": "2026-10-27T13:58:54.786346",
+    "locations_derived": [
+      "Munich, Bavaria, Germany"
+    ],
+    "cities_derived": [
+      "Munich"
+    ],
+    "regions_derived": [
+      "Bavaria"
+    ],
+    "countries_derived": [
+      "Germany"
+    ],
+    "source": "personio",
+    "source_type": "ats",
+    "employment_type": [
+      "Festanstellung"
+    ],
+    "ai_employment_type": [
+      "FULL_TIME",
+      "PART_TIME"
+    ],
+    "ai_work_arrangement": "Hybrid",
+    "ai_salary_currency": "EUR",
+    "ai_salary_min_value": 45000,
+    "ai_salary_max_value": 55000,
+    "ai_salary_unit_text": "YEAR",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "German",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Programming",
+      "Scripting",
+      "Linux",
+      "Docker",
+      "Virtual machines",
+      "MySQL"
+    ]
+  },
+  {
+    "id": 2435491265,
+    "title": "AI Engineer Cybersecurity (m/w/d)",
+    "organization": "Sopra Steria",
+    "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000158047447-ai-engineer-cybersecurity-m-w-d-",
+    "date_posted": "2026-10-27T13:37:31.54",
+    "date_created": "2026-10-27T16:18:30.918229",
+    "locations_derived": [
+      "Hanover, Lower Saxony, Germany"
+    ],
+    "cities_derived": [
+      "Hanover"
+    ],
+    "regions_derived": [
+      "Lower Saxony"
+    ],
+    "countries_derived": [
+      "Germany"
+    ],
+    "source": "smartrecruiters",
+    "source_type": "ats",
+    "employment_type": [
+      "Vollzeit"
+    ],
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "Hybrid",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "German",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Artificial Intelligence",
+      "Cybersecurity",
+      "LLM development",
+      "RAG",
+      "Agentic workflows",
+      "Threat intelligence"
+    ]
+  },
+  {
+    "id": 2435416861,
+    "title": "Graduate AI Engineer (m/f/d) - Banking Solutions",
+    "organization": "SAP Fioneer",
+    "organization_logo": "https://workablehr.s3.amazonaws.com/uploads/account/logo/562664/logo",
+    "url": "https://jobs.workable.com/view/sV7n3aVtakXicoNqh9sv3t/hybrid-graduate-ai-engineer-(m%2Ff%2Fd)---banking-solutions-in-berlin-at-sap-fioneer",
+    "date_posted": "2026-10-27T09:07:29.111",
+    "date_created": "2026-10-27T15:39:00.079233",
+    "locations_derived": [
+      "Berlin, Germany"
+    ],
+    "cities_derived": [
+      "Berlin"
+    ],
+    "countries_derived": [
+      "Germany"
+    ],
+    "location_type": "TELECOMMUTE",
+    "source": "workable",
+    "source_type": "ats",
+    "employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "Hybrid",
+    "ai_experience_level": "0-2",
+    "ai_job_language": "English",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Artificial intelligence",
+      "Generative AI",
+      "Python",
+      "Java",
+      "JavaScript",
+      "C++"
+    ]
+  },
+  {
+    "id": 2435416907,
+    "title": "Graduate AI Engineer (m/f/d) - Banking Solutions",
+    "organization": "SAP Fioneer",
+    "organization_logo": "https://workablehr.s3.amazonaws.com/uploads/account/logo/562664/logo",
+    "url": "https://jobs.workable.com/view/v7qxarNuDiQi2ogDiBcVqN/hybrid-graduate-ai-engineer-(m%2Ff%2Fd)---banking-solutions-in-walldorf-at-sap-fioneer",
+    "date_posted": "2026-10-27T09:07:28.282",
+    "date_created": "2026-10-27T15:39:01.111966",
+    "locations_derived": [
+      "Walldorf, Baden-Württemberg, Germany"
+    ],
+    "cities_derived": [
+      "Walldorf"
+    ],
+    "regions_derived": [
+      "Baden-Württemberg"
+    ],
+    "countries_derived": [
+      "Germany"
+    ],
+    "location_type": "TELECOMMUTE",
+    "source": "workable",
+    "source_type": "ats",
+    "employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "Hybrid",
+    "ai_experience_level": "0-2",
+    "ai_job_language": "English",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Python",
+      "Java",
+      "JavaScript",
+      "C++",
+      "R",
+      "Generative AI"
+    ]
+  },
+  {
+    "id": 2435416905,
+    "title": "Graduate AI Engineer (m/f/d) - Banking Solutions",
+    "organization": "SAP Fioneer",
+    "organization_logo": "https://workablehr.s3.amazonaws.com/uploads/account/logo/562664/logo",
+    "url": "https://jobs.workable.com/view/iYsndUWVUEcnLAcYaQz8J3/hybrid-graduate-ai-engineer-(m%2Ff%2Fd)---banking-solutions-in-munich-at-sap-fioneer",
+    "date_posted": "2026-10-27T09:07:27.927",
+    "date_created": "2026-10-27T15:39:01.10183",
+    "locations_derived": [
+      "Munich, Bavaria, Germany"
+    ],
+    "cities_derived": [
+      "Munich"
+    ],
+    "regions_derived": [
+      "Bavaria"
+    ],
+    "countries_derived": [
+      "Germany"
+    ],
+    "location_type": "TELECOMMUTE",
+    "source": "workable",
+    "source_type": "ats",
+    "employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "Hybrid",
+    "ai_experience_level": "0-2",
+    "ai_job_language": "English",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Generative AI",
+      "Large Language Model Integration",
+      "Python",
+      "Java",
+      "JavaScript",
+      "C++"
+    ]
+  },
+  {
+    "id": 2435436478,
+    "title": "(Junior) Cloud Data Engineer (m/w/d)",
+    "organization": "flaschenpost SE",
+    "url": "https://flaschenpost.wd103.myworkdayjobs.com/flaschenpost/job/Office-Mnster/XMLNAME--Junior--Cloud-Data-Engineer--m-w-d-_JR1299",
+    "date_posted": "2026-10-27T00:00:00",
+    "date_created": "2026-10-27T15:48:00.036135",
+    "locations_derived": [
+      "Cologne, North Rhine-Westphalia, Germany",
+      "Münster, North Rhine-Westphalia, Germany",
+      "Berlin, Germany"
+    ],
+    "cities_derived": [
+      "Berlin",
+      "Münster",
+      "Cologne"
+    ],
+    "regions_derived": [
+      "North Rhine-Westphalia",
+      "North Rhine-Westphalia"
+    ],
+    "countries_derived": [
+      "Germany",
+      "Germany",
+      "Germany"
+    ],
+    "source": "workday",
+    "source_type": "ats",
+    "employment_type": [
+      "Full time"
+    ],
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "Hybrid",
+    "ai_experience_level": "0-2",
+    "ai_job_language": "German",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Data engineering",
+      "SQL",
+      "Python",
+      "C#",
+      ".NET",
+      "Azure"
+    ]
+  },
+  {
+    "id": 2435375316,
+    "title": "Junior Data Scientist",
+    "organization": "Almedia",
+    "organization_logo": "https://app.ashbyhq.com/api/images/org-theme-logo/252dba26-924b-45a2-8e91-a11ea9f1aa5e/c48ab77d-37f0-49fa-9193-45e5bea6e997/79ecf21b-9ac4-46a6-a86e-b7bb4452b3ce.png",
+    "url": "https://jobs.ashbyhq.com/almedia/5c6dcc91-e246-4fb3-89d0-6b90a80d8740",
+    "date_posted": "2026-10-27T00:00:00",
+    "date_created": "2026-10-27T15:21:59.506311",
+    "locations_derived": [
+      "Berlin, Germany"
+    ],
+    "cities_derived": [
+      "Berlin"
+    ],
+    "countries_derived": [
+      "Germany"
+    ],
+    "source": "ashby",
+    "source_type": "ats",
+    "employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "On-site",
+    "ai_salary_currency": "EUR",
+    "ai_salary_min_value": 60000,
+    "ai_salary_max_value": 85000,
+    "ai_salary_unit_text": "YEAR",
+    "ai_experience_level": "0-2",
+    "ai_job_language": "English",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Python",
+      "SQL",
+      "Machine Learning",
+      "Data Pipelines",
+      "A/B Testing",
+      "Predictive Modeling"
+    ],
+    "salary": {
+      "@type": "MonetaryAmount",
+      "currency": "EUR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 60000,
+        "maxValue": 85000,
+        "unitText": "YEAR"
+      }
+    }
+  },
+  {
+    "id": 2435115329,
+    "title": "Data Engineer - Schwerpunkt Cloud (m/w/d)",
+    "organization": "GRENKE",
+    "url": "https://jobs.grenke.com/job/Karlsruhe-Data-Engineer-Schwerpunkt-Cloud-%28mwd%29-76131/1451687233/",
+    "date_posted": "2026-10-27T00:00:00",
+    "date_created": "2026-10-27T13:29:58.051658",
+    "locations_derived": [
+      "Karlsruhe, Baden-Württemberg, Germany"
+    ],
+    "cities_derived": [
+      "Karlsruhe"
+    ],
+    "regions_derived": [
+      "Baden-Württemberg"
+    ],
+    "countries_derived": [
+      "Germany"
+    ],
+    "source": "successfactors",
+    "source_type": "ats",
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "Hybrid",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "German",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Azure Data Factory",
+      "Python",
+      "Spark",
+      "SQL",
+      "Data pipelines",
+      "Microsoft Fabric"
+    ]
+  },
+  {
+    "id": 2435036603,
+    "title": "Data Engineer / Scientist (m/w/d) Payment",
+    "organization": "Deutscher Sparkassen Verlag GmbH",
+    "url": "https://dsvgruppe.wd103.myworkdayjobs.com/DSV/job/Stuttgart/Data-Engineer---Scientist--m-w-d--Payment_JR101484",
+    "date_posted": "2026-10-27T00:00:00",
+    "date_created": "2026-10-27T12:40:35.972244",
+    "locations_derived": [
+      "Stuttgart, Baden-Württemberg, Germany",
+      "Frankfurt, Hesse, Germany"
+    ],
+    "cities_derived": [
+      "Frankfurt",
+      "Stuttgart"
+    ],
+    "regions_derived": [
+      "Hesse",
+      "Baden-Württemberg"
+    ],
+    "countries_derived": [
+      "Germany",
+      "Germany"
+    ],
+    "source": "workday",
+    "source_type": "ats",
+    "employment_type": [
+      "Full time"
+    ],
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "Hybrid",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "German",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Python",
+      "Spark",
+      "PySpark",
+      "Hadoop",
+      "SQL",
+      "Big Data"
+    ]
+  },
+  {
+    "id": 2434748494,
+    "title": "Data Scientist (w/m/d) – Applied AI",
+    "organization": "Bertelsmann",
+    "url": "https://jobsearch.createyourowncareer.com/smartclip/job/Berlin-Data-Scientist-%28wmd%29-Applied-AI/1451567233/",
+    "date_posted": "2026-10-27T00:00:00",
+    "date_created": "2026-10-27T09:33:38.880662",
+    "locations_derived": [
+      "Berlin, Berlin, Germany"
+    ],
+    "cities_derived": [
+      "Berlin"
+    ],
+    "regions_derived": [
+      "Berlin"
+    ],
+    "countries_derived": [
+      "Germany"
+    ],
+    "source": "successfactors",
+    "source_type": "ats",
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "Hybrid",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "German",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Python",
+      "Machine Learning",
+      "Data Science",
+      "Spark",
+      "LLM Agents",
+      "Agentic Retrieval"
+    ]
+  },
+  {
     "id": 2433783288,
     "title": "Data Scientist",
     "organization": "Booz Allen Hamilton",
@@ -38,6 +545,43 @@
       "Data Visualization",
       "Data Mining",
       "Statistical Programming"
+    ]
+  },
+  {
+    "id": 2434424675,
+    "title": "Flight Dynamics Data Engineer (All Genders)",
+    "organization": "STARK",
+    "url": "https://job-boards.eu.greenhouse.io/skdse/jobs/5004028101",
+    "date_posted": "2026-10-26T14:07:50",
+    "date_created": "2026-10-27T01:37:35.844848",
+    "locations_derived": [
+      "Munich, Bavaria, Germany"
+    ],
+    "cities_derived": [
+      "Munich"
+    ],
+    "regions_derived": [
+      "Bavaria"
+    ],
+    "countries_derived": [
+      "Germany"
+    ],
+    "source": "greenhouse",
+    "source_type": "ats",
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "On-site",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "English",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Python",
+      "Rust",
+      "Go",
+      "Data Pipelines",
+      "Cloud Infrastructure",
+      "AWS"
     ]
   },
   {
@@ -554,6 +1098,61 @@
         "unitText": "YEAR"
       }
     }
+  },
+  {
+    "id": 2434846921,
+    "title": "Data Engineer",
+    "organization": "IPRally",
+    "organization_logo": "https://images.teamtailor-cdn.com/images/s3/teamtailor-production/logotype-v3/image_uploads/5895019c-ac69-4ba4-abe7-fa2ffab1bd3b/original.svg",
+    "url": "https://iprally.teamtailor.com/jobs/8588724-data-engineer",
+    "date_posted": "2026-10-22T08:18:12",
+    "date_created": "2026-10-27T11:01:13.212862",
+    "locations_derived": [
+      "Helsinki, Uusimaa, Finland",
+      "Berlin, Germany",
+      "Stockholm, Sweden",
+      "London, England, United Kingdom"
+    ],
+    "cities_derived": [
+      "Berlin",
+      "Stockholm",
+      "Helsinki",
+      "London"
+    ],
+    "regions_derived": [
+      "Uusimaa",
+      "England"
+    ],
+    "countries_derived": [
+      "Germany",
+      "Sweden",
+      "Finland",
+      "United Kingdom"
+    ],
+    "source": "teamtailor",
+    "source_type": "ats",
+    "employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "Remote OK",
+    "ai_salary_currency": "EUR",
+    "ai_salary_min_value": 5500,
+    "ai_salary_max_value": 7000,
+    "ai_salary_unit_text": "MONTH",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "English",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Python",
+      "Dagster",
+      "Data Engineering",
+      "Machine Learning",
+      "Data Modeling",
+      "Pipeline Development"
+    ]
   },
   {
     "id": 2427248330,

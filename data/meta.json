@@ -1,12 +1,12 @@
 {
-  "last_run": "2026-10-26T19:50:48Z",
-  "range": "7d",
+  "last_run": "2026-10-27T19:21:03Z",
+  "range": "24h",
   "window_days": 14,
   "max_records": 1200,
-  "fetched": 37,
-  "added": 12,
-  "total": 72,
-  "in_window": 72,
+  "fetched": 18,
+  "added": 14,
+  "total": 86,
+  "in_window": 86,
   "truncated": 0,
   "hit_limit": false,
   "searching": [
