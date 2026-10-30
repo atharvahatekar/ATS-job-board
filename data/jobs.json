@@ -1,5 +1,379 @@
 [
   {
+    "id": 2442000921,
+    "title": "AI Engineer (m/w/d) – Generative AI & AI-Agenten",
+    "organization": "AXA",
+    "organization_logo": "https://axa.icims.com/icims2/servlet/icims2?module=AppInert&action=download&id=213&hashed=555321108",
+    "url": "https://careers-de-axa.icims.com/jobs/29964/ai-engineer-%28m-w-d%29-%e2%80%93-generative-ai-%26-ai-agenten/job",
+    "date_posted": "2026-10-30T16:28:39.956",
+    "date_created": "2026-10-30T16:28:42.486931",
+    "locations_derived": [
+      "Cologne, North Rhine-Westphalia, Germany"
+    ],
+    "cities_derived": [
+      "Cologne"
+    ],
+    "regions_derived": [
+      "North Rhine-Westphalia"
+    ],
+    "countries_derived": [
+      "Germany"
+    ],
+    "source": "icims",
+    "source_type": "ats",
+    "employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "Hybrid",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "German",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Python",
+      "Generative AI",
+      "AI Agents",
+      "LLM Evaluation",
+      "Software Engineering",
+      "SAP"
+    ]
+  },
+  {
+    "id": 2441858625,
+    "title": "AI Engineer - Large Scale Pre-Training",
+    "organization": "Vesoma",
+    "organization_logo": "https://assets.cdn.personio.de/logos/307282/social/e6a581f75b9dfe0d601867906ea74b24.png",
+    "url": "https://vesoma.jobs.personio.com/job/2869693",
+    "date_posted": "2026-10-30T14:57:08.001",
+    "date_created": "2026-10-30T14:57:08.066497",
+    "locations_derived": [
+      "Limassol, Limassol District, Cyprus",
+      "Garching bei München, Bavaria, Germany"
+    ],
+    "cities_derived": [
+      "Limassol",
+      "Garching bei München"
+    ],
+    "regions_derived": [
+      "Limassol District",
+      "Bavaria"
+    ],
+    "countries_derived": [
+      "Cyprus",
+      "Germany"
+    ],
+    "source": "personio",
+    "source_type": "ats",
+    "employment_type": [
+      "Permanent employee"
+    ],
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "On-site",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "English",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Python",
+      "PyTorch",
+      "JAX",
+      "CUDA",
+      "Distributed Training",
+      "GPU Clusters"
+    ]
+  },
+  {
+    "id": 2441858624,
+    "title": "AI Engineer - Simulation Environments",
+    "organization": "Vesoma",
+    "organization_logo": "https://assets.cdn.personio.de/logos/307282/social/e6a581f75b9dfe0d601867906ea74b24.png",
+    "url": "https://vesoma.jobs.personio.com/job/2869707",
+    "date_posted": "2026-10-30T14:57:08.001",
+    "date_created": "2026-10-30T14:57:08.064761",
+    "locations_derived": [
+      "Limassol, Limassol District, Cyprus",
+      "Garching bei München, Bavaria, Germany"
+    ],
+    "cities_derived": [
+      "Limassol",
+      "Garching bei München"
+    ],
+    "regions_derived": [
+      "Limassol District",
+      "Bavaria"
+    ],
+    "countries_derived": [
+      "Cyprus",
+      "Germany"
+    ],
+    "source": "personio",
+    "source_type": "ats",
+    "employment_type": [
+      "Permanent employee"
+    ],
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "On-site",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "English",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Physics simulation",
+      "Robotics",
+      "MuJoCo",
+      "Isaac Lab",
+      "Python",
+      "C++"
+    ]
+  },
+  {
+    "id": 2441858623,
+    "title": "AI Engineer - RL Post-Training and Agentic Systems",
+    "organization": "Vesoma",
+    "organization_logo": "https://assets.cdn.personio.de/logos/307282/social/e6a581f75b9dfe0d601867906ea74b24.png",
+    "url": "https://vesoma.jobs.personio.com/job/2869701",
+    "date_posted": "2026-10-30T14:57:08.002",
+    "date_created": "2026-10-30T14:57:08.060926",
+    "locations_derived": [
+      "Limassol, Limassol District, Cyprus",
+      "Garching bei München, Bavaria, Germany"
+    ],
+    "cities_derived": [
+      "Limassol",
+      "Garching bei München"
+    ],
+    "regions_derived": [
+      "Limassol District",
+      "Bavaria"
+    ],
+    "countries_derived": [
+      "Cyprus",
+      "Germany"
+    ],
+    "source": "personio",
+    "source_type": "ats",
+    "employment_type": [
+      "Permanent employee"
+    ],
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "On-site",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "English",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Reinforcement Learning",
+      "Python",
+      "PyTorch",
+      "JAX",
+      "CUDA",
+      "Distributed Systems"
+    ]
+  },
+  {
+    "id": 2441836178,
+    "title": "Databricks Data Engineer (m/w/d)",
+    "organization": "Devoteam",
+    "url": "https://jobs.smartrecruiters.com/Devoteam/744000158763469-databricks-data-engineer-m-w-d-",
+    "date_posted": "2026-10-30T14:35:38.568",
+    "date_created": "2026-10-30T14:37:26.976918",
+    "locations_derived": [
+      "Frankfurt, Hesse, Germany"
+    ],
+    "cities_derived": [
+      "Frankfurt"
+    ],
+    "regions_derived": [
+      "Hesse"
+    ],
+    "countries_derived": [
+      "Germany"
+    ],
+    "source": "smartrecruiters",
+    "source_type": "ats",
+    "employment_type": [
+      "Vollzeit"
+    ],
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "Hybrid",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "German",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Data Engineering",
+      "Databricks",
+      "Apache Spark",
+      "Python",
+      "Scala",
+      "SQL"
+    ]
+  },
+  {
+    "id": 2441828122,
+    "title": "Databricks Data Engineer (m/w/d)",
+    "organization": "Devoteam",
+    "url": "https://jobs.smartrecruiters.com/Devoteam/744000158757051-databricks-data-engineer-m-w-d-",
+    "date_posted": "2026-10-30T14:31:58.296",
+    "date_created": "2026-10-30T14:33:29.239865",
+    "locations_derived": [
+      "Frankfurt, Hesse, Germany"
+    ],
+    "cities_derived": [
+      "Frankfurt"
+    ],
+    "regions_derived": [
+      "Hesse"
+    ],
+    "countries_derived": [
+      "Germany"
+    ],
+    "source": "smartrecruiters",
+    "source_type": "ats",
+    "employment_type": [
+      "Vollzeit"
+    ],
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "Hybrid",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "German",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Databricks",
+      "Apache Spark",
+      "Python",
+      "Scala",
+      "PySpark",
+      "SQL"
+    ]
+  },
+  {
+    "id": 2441770533,
+    "title": "Data Engineer - Commercial BI (m/f/d)",
+    "organization": "Westwing GmbH",
+    "organization_logo": "https://assets.cdn.personio.de/logos/133034/social/9052ba3afbfdf0dfd6c85929c3ea4233.jpg",
+    "url": "https://westwing.jobs.personio.com/job/2865868",
+    "date_posted": "2026-10-30T13:56:10.785",
+    "date_created": "2026-10-30T13:56:10.851983",
+    "locations_derived": [
+      "Munich, Bavaria, Germany"
+    ],
+    "cities_derived": [
+      "Munich"
+    ],
+    "regions_derived": [
+      "Bavaria"
+    ],
+    "countries_derived": [
+      "Germany"
+    ],
+    "source": "personio",
+    "source_type": "ats",
+    "employment_type": [
+      "Permanent employee"
+    ],
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "Hybrid",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "English",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Data Engineering",
+      "dbt",
+      "SQL",
+      "Snowflake",
+      "Data Modeling",
+      "Dimensional Modeling"
+    ]
+  },
+  {
+    "id": 2441601964,
+    "title": "AI Engineer - Generative AI m/w/d",
+    "organization": "BayWa AG",
+    "url": "https://jobs.smartrecruiters.com/BayWaAG/744000158725628-ai-engineer-generative-ai-m-w-d",
+    "date_posted": "2026-10-30T11:53:20.394",
+    "date_created": "2026-10-30T11:57:17.369967",
+    "locations_derived": [
+      "Munich, Bavaria, Germany"
+    ],
+    "cities_derived": [
+      "Munich"
+    ],
+    "regions_derived": [
+      "Bavaria"
+    ],
+    "countries_derived": [
+      "Germany"
+    ],
+    "source": "smartrecruiters",
+    "source_type": "ats",
+    "employment_type": [
+      "Vollzeit"
+    ],
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "Hybrid",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "German",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Python",
+      "TypeScript",
+      "Generative AI",
+      "LLMs",
+      "RAG",
+      "Cloud Computing"
+    ]
+  },
+  {
+    "id": 2442017050,
+    "title": "Machine Learning Engineer",
+    "organization": "Just Eat Takeaway.com",
+    "url": "https://wd3.myworkdaysite.com/recruiting/takeaway/JET-ECS-R/job/Berlin-Office/Machine-Learning-Engineer_R_053708-1",
+    "date_posted": "2026-10-30T00:00:00",
+    "date_created": "2026-10-30T16:34:52.885189",
+    "locations_derived": [
+      "Berlin, Germany"
+    ],
+    "cities_derived": [
+      "Berlin"
+    ],
+    "countries_derived": [
+      "Germany"
+    ],
+    "source": "workday",
+    "source_type": "ats",
+    "employment_type": [
+      "Full time"
+    ],
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "Hybrid",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "English",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Machine Learning",
+      "Python",
+      "Cloud Services",
+      "Amazon Web Services",
+      "Google Cloud Platform",
+      "Microservices"
+    ]
+  },
+  {
     "id": 2439687439,
     "title": "Data Engineer (m/f/d)",
     "organization": "A11",
@@ -3304,307 +3678,6 @@
       "Machine Learning",
       "Statistical Methods",
       "Python"
-    ]
-  },
-  {
-    "id": 2418194182,
-    "title": "Junior AI Engineer (m/w/d)",
-    "organization": "Snocks GmbH",
-    "organization_logo": "https://assets.cdn.personio.de/logos/29157/social/2663b6975d507b8887b71b42690d6b53.png",
-    "url": "https://snocks.jobs.personio.de/job/2846820",
-    "date_posted": "2026-10-16T15:57:09.844",
-    "date_created": "2026-10-16T15:57:09.909771",
-    "locations_derived": [
-      "Mannheim, Baden-Württemberg, Germany",
-      "Berlin, Germany",
-      "Hamburg, Germany"
-    ],
-    "cities_derived": [
-      "Hamburg",
-      "Berlin",
-      "Mannheim"
-    ],
-    "regions_derived": [
-      "Baden-Württemberg"
-    ],
-    "countries_derived": [
-      "Germany",
-      "Germany",
-      "Germany"
-    ],
-    "source": "personio",
-    "source_type": "ats",
-    "employment_type": [
-      "Festanstellung"
-    ],
-    "ai_employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_work_arrangement": "Remote OK",
-    "ai_experience_level": "0-2",
-    "ai_job_language": "German",
-    "ai_visa_sponsorship": false,
-    "ai_key_skills": [
-      "Python",
-      "SQL",
-      "REST APIs",
-      "Git",
-      "Methodical Debugging",
-      "Large Language Models"
-    ]
-  },
-  {
-    "id": 2418017508,
-    "title": "Data Engineer (m/w/d)",
-    "organization": "Pixum",
-    "organization_logo": "https://assets.cdn.personio.de/logos/110/social/aa48c3d33ac9b6f5ec0cced0f2f76d98.jpg",
-    "url": "https://pixum.jobs.personio.de/job/2844930",
-    "date_posted": "2026-10-16T15:06:54",
-    "date_created": "2026-10-16T13:53:49.937499",
-    "locations_derived": [
-      "Cologne, North Rhine-Westphalia, Germany"
-    ],
-    "cities_derived": [
-      "Cologne"
-    ],
-    "regions_derived": [
-      "North Rhine-Westphalia"
-    ],
-    "countries_derived": [
-      "Germany"
-    ],
-    "source": "personio",
-    "source_type": "ats",
-    "employment_type": [
-      "Festanstellung"
-    ],
-    "ai_employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_work_arrangement": "On-site",
-    "ai_salary_currency": "EUR",
-    "ai_salary_min_value": 55000,
-    "ai_salary_max_value": 60000,
-    "ai_salary_unit_text": "YEAR",
-    "ai_experience_level": "2-5",
-    "ai_job_language": "German",
-    "ai_visa_sponsorship": false,
-    "ai_key_skills": [
-      "SQL",
-      "Python",
-      "ETL Processes",
-      "Data Warehouse Development",
-      "Data Integration",
-      "Technical Tracking"
-    ]
-  },
-  {
-    "id": 2418072175,
-    "title": "Data Scientist - Data Analytics im Schadenmanagement (m/w/d)",
-    "organization": "AXA",
-    "organization_logo": "https://axa.icims.com/icims2/servlet/icims2?module=AppInert&action=download&id=213&hashed=555321108",
-    "url": "https://careers-de-axa.icims.com/jobs/29332/data-scientist---data-analytics-im-schadenmanagement-%28m-w-d%29/job",
-    "date_posted": "2026-10-16T14:27:52.733",
-    "date_created": "2026-10-16T14:27:56.088774",
-    "locations_derived": [
-      "Cologne, North Rhine-Westphalia, Germany"
-    ],
-    "cities_derived": [
-      "Cologne"
-    ],
-    "regions_derived": [
-      "North Rhine-Westphalia"
-    ],
-    "countries_derived": [
-      "Germany"
-    ],
-    "source": "icims",
-    "source_type": "ats",
-    "employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_work_arrangement": "Hybrid",
-    "ai_experience_level": "2-5",
-    "ai_job_language": "German",
-    "ai_visa_sponsorship": false,
-    "ai_key_skills": [
-      "SQL",
-      "Python",
-      "R",
-      "Power BI",
-      "Tableau",
-      "Data Analysis"
-    ]
-  },
-  {
-    "id": 2417765250,
-    "title": "Data Engineer / Analytics Engineer (m/w/d)",
-    "organization": "BV Bestseller Verlag GmbH",
-    "organization_logo": "https://assets.cdn.personio.de/build/client/img/logo-personio-wordmark.png",
-    "url": "https://karriere-dirkkreuter222.jobs.personio.com/job/2846149",
-    "date_posted": "2026-10-16T12:03:44",
-    "date_created": "2026-10-16T10:57:44.613935",
-    "locations_derived": [
-      "Bochum, North Rhine-Westphalia, Germany"
-    ],
-    "cities_derived": [
-      "Bochum"
-    ],
-    "regions_derived": [
-      "North Rhine-Westphalia"
-    ],
-    "countries_derived": [
-      "Germany"
-    ],
-    "source": "personio",
-    "source_type": "ats",
-    "employment_type": [
-      "Festanstellung"
-    ],
-    "ai_employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_work_arrangement": "On-site",
-    "ai_salary_currency": "EUR",
-    "ai_salary_min_value": 50000,
-    "ai_salary_max_value": 65000,
-    "ai_salary_unit_text": "YEAR",
-    "ai_experience_level": "2-5",
-    "ai_job_language": "German",
-    "ai_visa_sponsorship": false,
-    "ai_key_skills": [
-      "SQL",
-      "PostgreSQL",
-      "Data Modeling",
-      "API Integration",
-      "ETL/ELT Processes",
-      "TypeScript"
-    ]
-  },
-  {
-    "id": 2417732792,
-    "title": "Junior Data Scientist",
-    "organization": "Almedia",
-    "organization_logo": "https://app.ashbyhq.com/api/images/org-theme-logo/252dba26-924b-45a2-8e91-a11ea9f1aa5e/c48ab77d-37f0-49fa-9193-45e5bea6e997/79ecf21b-9ac4-46a6-a86e-b7bb4452b3ce.png",
-    "url": "https://jobs.ashbyhq.com/almedia/5c6dcc91-e246-4fb3-89d0-6b90a80d8740",
-    "date_posted": "2026-10-16T00:00:00",
-    "date_created": "2026-10-16T10:22:25.604587",
-    "locations_derived": [
-      "Berlin, Germany"
-    ],
-    "cities_derived": [
-      "Berlin"
-    ],
-    "countries_derived": [
-      "Germany"
-    ],
-    "source": "ashby",
-    "source_type": "ats",
-    "employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_work_arrangement": "On-site",
-    "ai_salary_currency": "EUR",
-    "ai_salary_min_value": 60000,
-    "ai_salary_max_value": 85000,
-    "ai_salary_unit_text": "YEAR",
-    "ai_experience_level": "0-2",
-    "ai_job_language": "English",
-    "ai_visa_sponsorship": false,
-    "ai_key_skills": [
-      "Python",
-      "SQL",
-      "Machine learning",
-      "Data pipelines",
-      "A/B testing",
-      "Predictive modeling"
-    ],
-    "salary": {
-      "@type": "MonetaryAmount",
-      "currency": "EUR",
-      "value": {
-        "@type": "QuantitativeValue",
-        "minValue": 60000,
-        "maxValue": 85000,
-        "unitText": "YEAR"
-      }
-    }
-  },
-  {
-    "id": 2417533172,
-    "title": "Machine Learning Engineer, Applied AI",
-    "organization": "Bjak",
-    "url": "https://jobs.ashbyhq.com/bjakcareer/32b583f0-aa63-499b-9ca7-d3583242941c",
-    "date_posted": "2026-10-16T00:00:00",
-    "date_created": "2026-10-16T07:22:07.606442",
-    "locations_derived": [
-      "Germany"
-    ],
-    "countries_derived": [
-      "Germany"
-    ],
-    "location_type": "TELECOMMUTE",
-    "source": "ashby",
-    "source_type": "ats",
-    "employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_work_arrangement": "Remote OK",
-    "ai_experience_level": "2-5",
-    "ai_job_language": "English",
-    "ai_visa_sponsorship": false,
-    "ai_key_skills": [
-      "Machine Learning",
-      "Python",
-      "PyTorch",
-      "JAX",
-      "Classification",
-      "Ranking"
-    ]
-  },
-  {
-    "id": 2416629866,
-    "title": "Forward Deployed AI Engineer",
-    "organization": "CHAPTERS Group AG",
-    "organization_logo": "https://cdn.join.com/6a8459613df3500008e90cf8/chapters-group-ag-logo-m.jpg",
-    "url": "https://join.com/companies/chaptersgroupcom/16835165-forward-deployed-ai-engineer",
-    "date_posted": "2026-10-15T20:03:12.882",
-    "date_created": "2026-10-15T21:31:58.324101",
-    "locations_derived": [
-      "Germany"
-    ],
-    "countries_derived": [
-      "Germany"
-    ],
-    "location_type": "TELECOMMUTE",
-    "source": "join.com",
-    "source_type": "ats",
-    "employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_work_arrangement": "Remote OK",
-    "ai_experience_level": "2-5",
-    "ai_job_language": "English",
-    "ai_visa_sponsorship": false,
-    "ai_key_skills": [
-      "Python",
-      "Docker",
-      "CI/CD",
-      "Linux",
-      "Azure",
-      "LLMs"
     ]
   }
 ]
