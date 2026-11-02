@@ -1,5 +1,195 @@
 [
   {
+    "id": 2446105228,
+    "title": "Data & AI Engineer (m/f/d)",
+    "organization": "JUNI gGmbH",
+    "organization_logo": "https://assets.cdn.personio.de/logos/292532/social/0619a9015ac2273457d4350bb74f5616.jpg",
+    "url": "https://juni.jobs.personio.de/job/2872093",
+    "date_posted": "2026-11-02T19:56:47.607",
+    "date_created": "2026-11-02T19:56:47.671311",
+    "locations_derived": [
+      "Berlin, Germany"
+    ],
+    "cities_derived": [
+      "Berlin"
+    ],
+    "countries_derived": [
+      "Germany"
+    ],
+    "source": "personio",
+    "source_type": "ats",
+    "employment_type": [
+      "Permanent employee"
+    ],
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "Hybrid",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "English",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Data Engineering",
+      "SQL",
+      "Postgres",
+      "Python",
+      "Pandas",
+      "API Integration"
+    ]
+  },
+  {
+    "id": 2445477172,
+    "title": "Machine Learning Data Scientist posting",
+    "organization": "Differential Bio",
+    "organization_logo": "https://app.ashbyhq.com/api/images/org-theme-logo/b1f7807b-3bbb-432f-a8ee-063d11371ee0/9e294026-0232-4ce1-836d-047451b1b591/53b6168f-c13f-4a0b-9f1c-0920bdd33432.png",
+    "url": "https://jobs.ashbyhq.com/differential.bio/c2e3b1f1-38c3-4901-9686-675a5edb8933",
+    "date_posted": "2026-11-02T00:00:00",
+    "date_created": "2026-11-02T11:21:26.643729",
+    "locations_derived": [
+      "Munich, Bavaria, Germany"
+    ],
+    "cities_derived": [
+      "Munich"
+    ],
+    "regions_derived": [
+      "Bavaria"
+    ],
+    "countries_derived": [
+      "Germany"
+    ],
+    "location_type": "TELECOMMUTE",
+    "source": "ashby",
+    "source_type": "ats",
+    "employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "Hybrid",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "English",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Machine learning",
+      "Bioprocess modelling",
+      "Python",
+      "PyTorch",
+      "JAX",
+      "Scikit-learn"
+    ]
+  },
+  {
+    "id": 2444912412,
+    "title": "(Senior) AI Engineer (m/w/d)",
+    "organization": "MAIA",
+    "organization_logo": "https://cdn.join.com/66bca24d3969a40008452f93/prodlane-logo-m.png",
+    "url": "https://join.com/companies/prodlane/16900350-senior-ai-engineer-m-w-d",
+    "date_posted": "2026-11-01T15:15:07.028",
+    "date_created": "2026-11-01T17:34:50.942593",
+    "locations_derived": [
+      "Leipzig, Saxony, Germany"
+    ],
+    "cities_derived": [
+      "Leipzig"
+    ],
+    "regions_derived": [
+      "Saxony"
+    ],
+    "countries_derived": [
+      "Germany"
+    ],
+    "source": "join.com",
+    "source_type": "ats",
+    "employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "Hybrid",
+    "ai_salary_currency": "EUR",
+    "ai_salary_min_value": 75000,
+    "ai_salary_max_value": 95000,
+    "ai_salary_unit_text": "YEAR",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "German",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "TypeScript",
+      "Python",
+      "Go",
+      "LLM",
+      "RAG",
+      "Embeddings"
+    ],
+    "salary": {
+      "@type": "MonetaryAmount",
+      "currency": "EUR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 75000,
+        "maxValue": 95000,
+        "unitText": "YEAR"
+      }
+    }
+  },
+  {
+    "id": 2445095945,
+    "title": "Senior Data Engineer - Azure Cloud (m/w/d)",
+    "organization": "KRALLMANN AG",
+    "organization_logo": "https://cdn.join.com/6ae2732c08a66300095481d5/krallmann-ag-logo-m.png",
+    "url": "https://join.com/companies/krallmannag/16899406-senior-data-engineer-azure-cloud-m-w-d",
+    "date_posted": "2026-11-01T12:21:05.499",
+    "date_created": "2026-11-02T00:13:29.581939",
+    "locations_derived": [
+      "Berlin, Berlin, Germany"
+    ],
+    "cities_derived": [
+      "Berlin"
+    ],
+    "regions_derived": [
+      "Berlin"
+    ],
+    "countries_derived": [
+      "Germany"
+    ],
+    "source": "join.com",
+    "source_type": "ats",
+    "employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "Hybrid",
+    "ai_salary_currency": "EUR",
+    "ai_salary_min_value": 70000,
+    "ai_salary_max_value": 100000,
+    "ai_salary_unit_text": "YEAR",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "German",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Microsoft Azure",
+      "Data Engineering",
+      "SQL",
+      "Python",
+      "Data Integration",
+      "Data Modeling"
+    ],
+    "salary": {
+      "@type": "MonetaryAmount",
+      "currency": "EUR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 70000,
+        "maxValue": 100000,
+        "unitText": "YEAR"
+      }
+    }
+  },
+  {
     "id": 2442000921,
     "title": "AI Engineer (m/w/d) – Generative AI & AI-Agenten",
     "organization": "AXA",
@@ -3213,471 +3403,6 @@
       "SQL",
       "Data modeling",
       "Data integration"
-    ]
-  },
-  {
-    "id": 2422220154,
-    "title": "AI Engineer (f/m/d)",
-    "organization": "SAP IT Business Systeme",
-    "url": "https://jobs.smartrecruiters.com/SAPITBusinessSysteme/744000156366769-ai-engineer-f-m-d-",
-    "date_posted": "2026-10-19T15:59:50.5",
-    "date_created": "2026-10-19T22:25:59.288204",
-    "locations_derived": [
-      "Garching bei München, Bavaria, Germany"
-    ],
-    "cities_derived": [
-      "Garching bei München"
-    ],
-    "regions_derived": [
-      "Bavaria"
-    ],
-    "countries_derived": [
-      "Germany"
-    ],
-    "source": "smartrecruiters",
-    "source_type": "ats",
-    "employment_type": [
-      "Full-time"
-    ],
-    "ai_employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_work_arrangement": "On-site",
-    "ai_salary_currency": "EUR",
-    "ai_salary_min_value": 55700,
-    "ai_salary_max_value": 90700,
-    "ai_salary_unit_text": "YEAR",
-    "ai_experience_level": "2-5",
-    "ai_job_language": "English",
-    "ai_visa_sponsorship": false,
-    "ai_key_skills": [
-      "Python",
-      "LLMs",
-      "Prompt engineering",
-      "RAG",
-      "Vector databases",
-      "Agentic AI"
-    ]
-  },
-  {
-    "id": 2421814328,
-    "title": "AI Engineer (Associate AI Developer) (f/m/d)",
-    "organization": "SAP IT Business Systeme",
-    "url": "https://jobs.smartrecruiters.com/SAPITBusinessSysteme/744000156367113-ai-engineer-associate-ai-developer-f-m-d-",
-    "date_posted": "2026-10-19T15:56:00.574",
-    "date_created": "2026-10-19T15:57:20.5018",
-    "locations_derived": [
-      "Garching bei München, Bavaria, Germany"
-    ],
-    "cities_derived": [
-      "Garching bei München"
-    ],
-    "regions_derived": [
-      "Bavaria"
-    ],
-    "countries_derived": [
-      "Germany"
-    ],
-    "source": "smartrecruiters",
-    "source_type": "ats",
-    "employment_type": [
-      "Vollzeit"
-    ],
-    "ai_employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_work_arrangement": "On-site",
-    "ai_salary_currency": "EUR",
-    "ai_salary_min_value": 43400,
-    "ai_salary_max_value": 69200,
-    "ai_salary_unit_text": "YEAR",
-    "ai_experience_level": "0-2",
-    "ai_job_language": "English",
-    "ai_visa_sponsorship": false,
-    "ai_key_skills": [
-      "Python",
-      "Generative AI",
-      "Large Language Models",
-      "Prompt Engineering",
-      "Retrieval-Augmented Generation",
-      "AI Agents"
-    ]
-  },
-  {
-    "id": 2421814330,
-    "title": "AI Engineer (Associate AI Developer) (f/m/d)",
-    "organization": "SAP IT Business Systeme",
-    "url": "https://jobs.smartrecruiters.com/SAPITBusinessSysteme/744000156367698-ai-engineer-associate-ai-developer-f-m-d-",
-    "date_posted": "2026-10-19T15:55:27.89",
-    "date_created": "2026-10-19T15:57:20.554162",
-    "locations_derived": [
-      "Garching bei München, Bavaria, Germany"
-    ],
-    "cities_derived": [
-      "Garching bei München"
-    ],
-    "regions_derived": [
-      "Bavaria"
-    ],
-    "countries_derived": [
-      "Germany"
-    ],
-    "source": "smartrecruiters",
-    "source_type": "ats",
-    "employment_type": [
-      "Full-time"
-    ],
-    "ai_employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_work_arrangement": "On-site",
-    "ai_salary_currency": "EUR",
-    "ai_salary_min_value": 43400,
-    "ai_salary_max_value": 69200,
-    "ai_salary_unit_text": "YEAR",
-    "ai_experience_level": "0-2",
-    "ai_job_language": "English",
-    "ai_visa_sponsorship": false,
-    "ai_key_skills": [
-      "Python",
-      "Generative AI",
-      "Large Language Models",
-      "Prompt Engineering",
-      "Retrieval-Augmented Generation",
-      "AI Agents"
-    ]
-  },
-  {
-    "id": 2428049217,
-    "title": "Data Engineer – Healthcare",
-    "organization": "PAICON",
-    "organization_logo": "https://cdn.join.com/62d7f69649073a000802876a/paicon-logo-m.png",
-    "url": "https://join.com/companies/paicon/16848219-data-engineer-healthcare",
-    "date_posted": "2026-10-19T12:33:30.187",
-    "date_created": "2026-10-22T17:38:20.844767",
-    "locations_derived": [
-      "Heidelberg, Baden-Württemberg, Germany"
-    ],
-    "cities_derived": [
-      "Heidelberg"
-    ],
-    "regions_derived": [
-      "Baden-Württemberg"
-    ],
-    "countries_derived": [
-      "Germany"
-    ],
-    "source": "join.com",
-    "source_type": "ats",
-    "employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_work_arrangement": "Hybrid",
-    "ai_experience_level": "2-5",
-    "ai_job_language": "English",
-    "ai_visa_sponsorship": false,
-    "ai_key_skills": [
-      "SQL",
-      "Python",
-      "R",
-      "Data engineering",
-      "Data pipelines",
-      "Relational database design"
-    ]
-  },
-  {
-    "id": 2433470593,
-    "title": "Data Scientist – Machine Learning (m/w/d)",
-    "organization": "AERTiCKET Gruppe",
-    "organization_logo": "https://assets.cdn.personio.de/logos/23185/social/e2651006028a25e093a86d1dabbc72f9.png",
-    "url": "https://aer-group.jobs.personio.de/job/2848271/apply",
-    "date_posted": "2026-10-19T11:13:13",
-    "date_created": "2026-10-26T11:56:51.256544",
-    "locations_derived": [
-      "Berlin, Germany"
-    ],
-    "cities_derived": [
-      "Berlin"
-    ],
-    "countries_derived": [
-      "Germany"
-    ],
-    "source": "personio",
-    "source_type": "ats",
-    "employment_type": [
-      "Festanstellung"
-    ],
-    "ai_employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_work_arrangement": "Hybrid",
-    "ai_experience_level": "2-5",
-    "ai_job_language": "German",
-    "ai_visa_sponsorship": false,
-    "ai_key_skills": [
-      "Python",
-      "Pandas",
-      "NumPy",
-      "Scikit-Learn",
-      "TensorFlow",
-      "PyTorch"
-    ]
-  },
-  {
-    "id": 2421477329,
-    "title": "Data Scientist – Machine Learning (m/w/d)",
-    "organization": "https://www.aerticket.de/",
-    "organization_logo": "https://assets.cdn.personio.de/logos/23185/social/e2651006028a25e093a86d1dabbc72f9.png",
-    "url": "https://aer-group.jobs.personio.de/job/2848271",
-    "date_posted": "2026-10-19T09:57:00.608",
-    "date_created": "2026-10-19T09:57:00.676049",
-    "locations_derived": [
-      "Berlin, Germany"
-    ],
-    "cities_derived": [
-      "Berlin"
-    ],
-    "countries_derived": [
-      "Germany"
-    ],
-    "source": "personio",
-    "source_type": "ats",
-    "employment_type": [
-      "Festanstellung"
-    ],
-    "ai_employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_work_arrangement": "Hybrid",
-    "ai_experience_level": "2-5",
-    "ai_job_language": "German",
-    "ai_visa_sponsorship": false,
-    "ai_key_skills": [
-      "Python",
-      "Pandas",
-      "NumPy",
-      "Scikit-Learn",
-      "TensorFlow",
-      "PyTorch"
-    ]
-  },
-  {
-    "id": 2421475519,
-    "title": "Data Scientist – Machine Learning (m/w/d)",
-    "organization": "https://www.aerticket.de/",
-    "organization_logo": "https://assets.cdn.personio.de/logos/23185/9664/social/01656492eaf2f94f19a73722be2880cf.png",
-    "url": "https://aerticket.jobs.personio.com/job/2848271",
-    "date_posted": "2026-10-19T09:55:52.549",
-    "date_created": "2026-10-19T09:55:52.618954",
-    "locations_derived": [
-      "Berlin, Germany"
-    ],
-    "cities_derived": [
-      "Berlin"
-    ],
-    "countries_derived": [
-      "Germany"
-    ],
-    "source": "personio",
-    "source_type": "ats",
-    "employment_type": [
-      "Festanstellung"
-    ],
-    "ai_employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_work_arrangement": "Hybrid",
-    "ai_experience_level": "2-5",
-    "ai_job_language": "German",
-    "ai_visa_sponsorship": false,
-    "ai_key_skills": [
-      "Python",
-      "Pandas",
-      "NumPy",
-      "Scikit-Learn",
-      "TensorFlow",
-      "PyTorch"
-    ]
-  },
-  {
-    "id": 2421390180,
-    "title": "ML-Engineer (m/w/d) – Machine Learning für Recyclinganlagen",
-    "organization": "Eggersmann - Gruppe",
-    "organization_logo": "https://cdn.join.com/6229d4bf86adfd0009660fb5/eggersmann-logo-m.png",
-    "url": "https://join.com/companies/eggersmann-group/16846234-ml-engineer-m-w-d-machine-learning-fuer-recyclinganlagen",
-    "date_posted": "2026-10-19T07:02:56.534",
-    "date_created": "2026-10-19T07:40:29.727112",
-    "locations_derived": [
-      "Aachen, North Rhine-Westphalia, Germany"
-    ],
-    "cities_derived": [
-      "Aachen"
-    ],
-    "regions_derived": [
-      "North Rhine-Westphalia"
-    ],
-    "countries_derived": [
-      "Germany"
-    ],
-    "source": "join.com",
-    "source_type": "ats",
-    "employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_work_arrangement": "Hybrid",
-    "ai_experience_level": "2-5",
-    "ai_job_language": "German",
-    "ai_visa_sponsorship": false,
-    "ai_key_skills": [
-      "Machine Learning",
-      "Python",
-      "AWS",
-      "SQL",
-      "Time series analysis",
-      "Anomaly detection"
-    ]
-  },
-  {
-    "id": 2421390289,
-    "title": "Data Scientist (m/w/d) – Anomalieerkennung für Recyclinganlagen",
-    "organization": "Eggersmann - Gruppe",
-    "organization_logo": "https://cdn.join.com/6229d4bf86adfd0009660fb5/eggersmann-logo-m.png",
-    "url": "https://join.com/companies/eggersmann-group/16846209-data-scientist-m-w-d-anomalieerkennung-fuer-recyclinganlagen",
-    "date_posted": "2026-10-19T06:48:44.607",
-    "date_created": "2026-10-19T07:40:37.415325",
-    "locations_derived": [
-      "Aachen, North Rhine-Westphalia, Germany"
-    ],
-    "cities_derived": [
-      "Aachen"
-    ],
-    "regions_derived": [
-      "North Rhine-Westphalia"
-    ],
-    "countries_derived": [
-      "Germany"
-    ],
-    "source": "join.com",
-    "source_type": "ats",
-    "employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_work_arrangement": "Hybrid",
-    "ai_experience_level": "2-5",
-    "ai_job_language": "German",
-    "ai_visa_sponsorship": false,
-    "ai_key_skills": [
-      "Machine Learning",
-      "Python",
-      "SQL",
-      "Time series analysis",
-      "Anomaly detection",
-      "Data modeling"
-    ]
-  },
-  {
-    "id": 2428753184,
-    "title": "(Junior) Data Engineer Datawarehouse (all genders)",
-    "organization": "DeinDesign GmbH",
-    "url": "https://cewe.wd3.myworkdayjobs.com/Jobs_at_CEWEGroup/job/Oldenburg/Data-Engineer-Datawarehouse--all-genders-_R_00218-1",
-    "date_posted": "2026-10-19T00:00:00",
-    "date_created": "2026-10-23T00:56:24.385581",
-    "locations_derived": [
-      "Oldenburg, Lower Saxony, Germany"
-    ],
-    "cities_derived": [
-      "Oldenburg"
-    ],
-    "regions_derived": [
-      "Lower Saxony"
-    ],
-    "countries_derived": [
-      "Germany"
-    ],
-    "source": "workday",
-    "source_type": "ats",
-    "employment_type": [
-      "Full time"
-    ],
-    "ai_employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_work_arrangement": "Hybrid",
-    "ai_experience_level": "0-2",
-    "ai_job_language": "German",
-    "ai_visa_sponsorship": false,
-    "ai_key_skills": [
-      "Data engineering",
-      "Data modeling",
-      "Enterprise data warehouse",
-      "Oracle BI",
-      "Analytics",
-      "In-memory technology"
-    ]
-  },
-  {
-    "id": 2421565080,
-    "title": "Data Scientist, GenAI & Advanced Analytics",
-    "organization": "IQVIA",
-    "url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Frankfurt-Hesse-Germany/Data-Scientist--GenAI---Advanced-Analytics_R1565189-1",
-    "date_posted": "2026-10-19T00:00:00",
-    "date_created": "2026-10-19T11:47:43.464115",
-    "locations_derived": [
-      "Frankfurt, Hesse, Germany",
-      "Milan, Lombardy, Italy",
-      "Amsterdam, North Holland, Netherlands",
-      "Barcelona, Catalonia, Spain",
-      "Madrid, Community of Madrid, Spain"
-    ],
-    "cities_derived": [
-      "Frankfurt",
-      "Barcelona",
-      "Milan",
-      "Madrid",
-      "Amsterdam"
-    ],
-    "regions_derived": [
-      "Hesse",
-      "Catalonia",
-      "Lombardy",
-      "Community of Madrid",
-      "North Holland"
-    ],
-    "countries_derived": [
-      "Germany",
-      "Spain",
-      "Italy",
-      "Spain",
-      "Netherlands"
-    ],
-    "source": "workday",
-    "source_type": "ats",
-    "employment_type": [
-      "Full time"
-    ],
-    "ai_employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_work_arrangement": "On-site",
-    "ai_experience_level": "2-5",
-    "ai_job_language": "English",
-    "ai_visa_sponsorship": false,
-    "ai_key_skills": [
-      "Data Science",
-      "Artificial Intelligence",
-      "Generative AI",
-      "Machine Learning",
-      "Statistical Methods",
-      "Python"
     ]
   }
 ]
