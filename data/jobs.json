@@ -1,5 +1,287 @@
 [
   {
+    "id": 2452029306,
+    "title": "Analytics Engineer / Data Engineer (m/f/d)",
+    "organization": "A11",
+    "url": "https://job-boards.greenhouse.io/projectaservicesgmbhcokg/jobs/8932169002",
+    "date_posted": "2026-11-05T16:42:52",
+    "date_created": "2026-11-05T16:53:27.619495",
+    "locations_derived": [
+      "Berlin, Germany"
+    ],
+    "cities_derived": [
+      "Berlin"
+    ],
+    "countries_derived": [
+      "Germany"
+    ],
+    "source": "greenhouse",
+    "source_type": "ats",
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "On-site",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "German",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "SQL",
+      "Python",
+      "dbt",
+      "Data engineering",
+      "Analytics engineering",
+      "Data warehousing"
+    ]
+  },
+  {
+    "id": 2452029811,
+    "title": "ML Ops & Data Engineer (m/f/d)",
+    "organization": "A11",
+    "url": "https://job-boards.greenhouse.io/projectaservicesgmbhcokg/jobs/8932160002",
+    "date_posted": "2026-11-05T16:39:32",
+    "date_created": "2026-11-05T16:54:09.365661",
+    "locations_derived": [
+      "Berlin, Germany"
+    ],
+    "cities_derived": [
+      "Berlin"
+    ],
+    "countries_derived": [
+      "Germany"
+    ],
+    "source": "greenhouse",
+    "source_type": "ats",
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "On-site",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "German",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "SQL",
+      "Python",
+      "dbt",
+      "Data warehousing",
+      "Cloud infrastructure",
+      "Machine learning"
+    ]
+  },
+  {
+    "id": 2451802869,
+    "title": "Junior Data Engineer for Live Intelligence (m/w/d)",
+    "organization": "Sopra Steria",
+    "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000159869467-junior-data-engineer-for-live-intelligence-m-w-d-",
+    "date_posted": "2026-11-05T13:36:50.913",
+    "date_created": "2026-11-05T14:33:54.164401",
+    "locations_derived": [
+      "Hamburg, Germany"
+    ],
+    "cities_derived": [
+      "Hamburg"
+    ],
+    "countries_derived": [
+      "Germany"
+    ],
+    "source": "smartrecruiters",
+    "source_type": "ats",
+    "employment_type": [
+      "Vollzeit"
+    ],
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "Hybrid",
+    "ai_experience_level": "0-2",
+    "ai_job_language": "German",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Data engineering",
+      "Python",
+      "SQL",
+      "Data modeling",
+      "Knowledge graphs",
+      "NoSQL"
+    ]
+  },
+  {
+    "id": 2451440339,
+    "title": "Data Engineer II - (Global Discovery, Consumer)",
+    "organization": "Delivery Hero",
+    "url": "https://jobs.smartrecruiters.com/DeliveryHero/744000159819620-data-engineer-ii-global-discovery-consumer-",
+    "date_posted": "2026-11-05T09:38:40.874",
+    "date_created": "2026-11-05T09:41:06.767672",
+    "locations_derived": [
+      "Berlin, Germany"
+    ],
+    "cities_derived": [
+      "Berlin"
+    ],
+    "countries_derived": [
+      "Germany"
+    ],
+    "source": "smartrecruiters",
+    "source_type": "ats",
+    "employment_type": [
+      "Full-time"
+    ],
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "Hybrid",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "English",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Python",
+      "SQL",
+      "BigQuery",
+      "Airflow",
+      "Dbt",
+      "Data engineering"
+    ]
+  },
+  {
+    "id": 2451174102,
+    "title": "Data Scientist (m/w/d)",
+    "organization": "Contilia",
+    "url": "https://jobs.smartrecruiters.com/Contilia1/744000159785739-data-scientist-m-w-d-",
+    "date_posted": "2026-11-05T06:06:13.476",
+    "date_created": "2026-11-05T06:13:06.823472",
+    "locations_derived": [
+      "Essen, North Rhine-Westphalia, Germany"
+    ],
+    "cities_derived": [
+      "Essen"
+    ],
+    "regions_derived": [
+      "North Rhine-Westphalia"
+    ],
+    "countries_derived": [
+      "Germany"
+    ],
+    "source": "smartrecruiters",
+    "source_type": "ats",
+    "employment_type": [
+      "Vollzeit"
+    ],
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "Hybrid",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "German",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Data management",
+      "Business intelligence",
+      "Data modeling",
+      "Microsoft Excel",
+      "PowerQuery",
+      "PowerPivot"
+    ]
+  },
+  {
+    "id": 2451588640,
+    "title": "Associate Data Engineer",
+    "organization": "S&P Global Mobility",
+    "url": "https://mobility.wd503.myworkdayjobs.com/Mobility/job/Bengaluru-Karnataka/Associate-Data-Engineer_645",
+    "date_posted": "2026-11-05T00:00:00",
+    "date_created": "2026-11-05T11:49:08.302012",
+    "locations_derived": [
+      "Püttlingen, Saarland, Germany",
+      "Bengaluru, Karnataka, India"
+    ],
+    "cities_derived": [
+      "Bengaluru",
+      "Püttlingen"
+    ],
+    "regions_derived": [
+      "Karnataka",
+      "Saarland"
+    ],
+    "countries_derived": [
+      "India",
+      "Germany"
+    ],
+    "source": "workday",
+    "source_type": "ats",
+    "employment_type": [
+      "Full time"
+    ],
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "Hybrid",
+    "ai_experience_level": "0-2",
+    "ai_job_language": "English",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Python",
+      "SQL",
+      "Data engineering",
+      "ETL/ELT",
+      "Data pipelines",
+      "Data quality"
+    ]
+  },
+  {
+    "id": 2451575774,
+    "title": "Data Scientist, GenAI & Advanced Analytics",
+    "organization": "IQVIA",
+    "url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Frankfurt-Hesse-Germany/Data-Scientist--GenAI---Advanced-Analytics_R1565189-1",
+    "date_posted": "2026-11-05T00:00:00",
+    "date_created": "2026-11-05T11:39:03.977084",
+    "locations_derived": [
+      "Frankfurt, Hesse, Germany",
+      "Milan, Lombardy, Italy",
+      "Amsterdam, North Holland, Netherlands",
+      "Barcelona, Catalonia, Spain",
+      "Madrid, Community of Madrid, Spain"
+    ],
+    "cities_derived": [
+      "Frankfurt",
+      "Barcelona",
+      "Milan",
+      "Madrid",
+      "Amsterdam"
+    ],
+    "regions_derived": [
+      "Hesse",
+      "Catalonia",
+      "Lombardy",
+      "Community of Madrid",
+      "North Holland"
+    ],
+    "countries_derived": [
+      "Germany",
+      "Spain",
+      "Italy",
+      "Spain",
+      "Netherlands"
+    ],
+    "source": "workday",
+    "source_type": "ats",
+    "employment_type": [
+      "Full time"
+    ],
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "On-site",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "English",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Data Science",
+      "Machine Learning",
+      "GenAI",
+      "Python",
+      "SQL",
+      "Azure"
+    ]
+  },
+  {
     "id": 2450096937,
     "title": "Applied AI Engineer",
     "organization": "Fuse Energy",
@@ -2932,361 +3214,6 @@
       "Data science",
       "Data engineering",
       "Statistical programming"
-    ]
-  },
-  {
-    "id": 2430263281,
-    "title": "Data Engineer",
-    "organization": "MSA, The Safety Company",
-    "url": "https://careers.msasafety.com/jobs/10195",
-    "date_posted": "2026-10-22T20:31:00",
-    "date_created": "2026-10-23T17:52:18.354147",
-    "locations_derived": [
-      "Berlin, Germany"
-    ],
-    "cities_derived": [
-      "Berlin"
-    ],
-    "countries_derived": [
-      "Germany"
-    ],
-    "source": "icims",
-    "source_type": "ats",
-    "employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_work_arrangement": "Hybrid",
-    "ai_experience_level": "2-5",
-    "ai_job_language": "English",
-    "ai_visa_sponsorship": false,
-    "ai_key_skills": [
-      "SQL",
-      "Python",
-      "Snowflake",
-      "Dbt",
-      "AWS",
-      "Airflow"
-    ],
-    "salary": {
-      "@type": "MonetaryAmount",
-      "currency": "USD",
-      "value": {
-        "@type": "QuantitativeValue",
-        "value": 0,
-        "minValue": 0,
-        "maxValue": 0,
-        "unitText": "YEAR"
-      }
-    }
-  },
-  {
-    "id": 2434846921,
-    "title": "Data Engineer",
-    "organization": "IPRally",
-    "organization_logo": "https://images.teamtailor-cdn.com/images/s3/teamtailor-production/logotype-v3/image_uploads/5895019c-ac69-4ba4-abe7-fa2ffab1bd3b/original.svg",
-    "url": "https://iprally.teamtailor.com/jobs/8588724-data-engineer",
-    "date_posted": "2026-10-22T08:18:12",
-    "date_created": "2026-10-27T11:01:13.212862",
-    "locations_derived": [
-      "Helsinki, Uusimaa, Finland",
-      "Berlin, Germany",
-      "Stockholm, Sweden",
-      "London, England, United Kingdom"
-    ],
-    "cities_derived": [
-      "Berlin",
-      "Stockholm",
-      "Helsinki",
-      "London"
-    ],
-    "regions_derived": [
-      "Uusimaa",
-      "England"
-    ],
-    "countries_derived": [
-      "Germany",
-      "Sweden",
-      "Finland",
-      "United Kingdom"
-    ],
-    "source": "teamtailor",
-    "source_type": "ats",
-    "employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_work_arrangement": "Remote OK",
-    "ai_salary_currency": "EUR",
-    "ai_salary_min_value": 5500,
-    "ai_salary_max_value": 7000,
-    "ai_salary_unit_text": "MONTH",
-    "ai_experience_level": "2-5",
-    "ai_job_language": "English",
-    "ai_visa_sponsorship": false,
-    "ai_key_skills": [
-      "Python",
-      "Dagster",
-      "Data Engineering",
-      "Machine Learning",
-      "Data Modeling",
-      "Pipeline Development"
-    ]
-  },
-  {
-    "id": 2427248330,
-    "title": "AI-Engineer (m/w/d) - remote & deutschlandweit",
-    "organization": "MD-IT GmbH",
-    "organization_logo": "https://assets.cdn.personio.de/logos/311069/social/1da46f4a113d18b8513d12289c67bd19.png",
-    "url": "https://mditgmbh.jobs.personio.com/job/2716284",
-    "date_posted": "2026-10-22T07:57:36.587",
-    "date_created": "2026-10-22T07:57:36.742516",
-    "locations_derived": [
-      "Berlin, Germany"
-    ],
-    "cities_derived": [
-      "Berlin"
-    ],
-    "countries_derived": [
-      "Germany"
-    ],
-    "source": "personio",
-    "source_type": "ats",
-    "employment_type": [
-      "Festanstellung"
-    ],
-    "ai_employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_work_arrangement": "Remote OK",
-    "ai_experience_level": "2-5",
-    "ai_job_language": "German",
-    "ai_visa_sponsorship": false,
-    "ai_key_skills": [
-      "Python",
-      "LLMs",
-      "RAG",
-      "Backend development",
-      "GitLab",
-      "Docker"
-    ]
-  },
-  {
-    "id": 2431599250,
-    "title": "Data & AI Engineer Public Sector (w/m/d)",
-    "organization": "Capgemini",
-    "url": "https://careers.capgemini.com/job/Berlin-Data-&-AI-Engineer-Public-Sector-%28wmd%29/1440451333/",
-    "date_posted": "2026-10-22T02:01:00",
-    "date_created": "2026-10-24T08:26:59.7475",
-    "locations_derived": [
-      "Stuttgart, Baden-Württemberg, Germany",
-      "Munich, Bavaria, Germany",
-      "Düsseldorf, North Rhine-Westphalia, Germany",
-      "Berlin, Germany"
-    ],
-    "cities_derived": [
-      "Berlin",
-      "Düsseldorf",
-      "Stuttgart",
-      "Munich"
-    ],
-    "regions_derived": [
-      "North Rhine-Westphalia",
-      "Baden-Württemberg",
-      "Bavaria"
-    ],
-    "countries_derived": [
-      "Germany",
-      "Germany",
-      "Germany",
-      "Germany"
-    ],
-    "source": "successfactors",
-    "source_type": "ats",
-    "ai_employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_work_arrangement": "Hybrid",
-    "ai_experience_level": "2-5",
-    "ai_job_language": "German",
-    "ai_visa_sponsorship": false,
-    "ai_key_skills": [
-      "Data Engineering",
-      "AI Engineering",
-      "Python",
-      "Scala",
-      "SQL",
-      "Spark"
-    ]
-  },
-  {
-    "id": 2428420991,
-    "title": "Data Scientist (Measurement & Signal Processing) (f/m/d)",
-    "organization": "QuantumDiamonds",
-    "organization_logo": "https://app.ashbyhq.com/api/images/org-theme-logo/bf6468fa-d3f0-46d3-b56d-82d901e27a22/29081beb-94d1-4731-a47f-3818ac8f16a1/b1187b99-5631-41ea-9c66-74bdc5a899cf.png",
-    "url": "https://jobs.ashbyhq.com/quantumdiamonds/d78ae1f9-be20-4501-a4d6-b9b306955ea2",
-    "date_posted": "2026-10-22T00:00:00",
-    "date_created": "2026-10-22T21:24:26.894524",
-    "locations_derived": [
-      "Munich, Bavaria, Germany"
-    ],
-    "cities_derived": [
-      "Munich"
-    ],
-    "regions_derived": [
-      "Bavaria"
-    ],
-    "countries_derived": [
-      "Germany"
-    ],
-    "source": "ashby",
-    "source_type": "ats",
-    "employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_work_arrangement": "On-site",
-    "ai_experience_level": "2-5",
-    "ai_job_language": "English",
-    "ai_visa_sponsorship": false,
-    "ai_key_skills": [
-      "Data science",
-      "Signal processing",
-      "Image processing",
-      "Python",
-      "Statistics",
-      "Measurement systems"
-    ]
-  },
-  {
-    "id": 2428327350,
-    "title": "Junior Applied AI Engineer (all genders)",
-    "organization": "Accenture",
-    "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Kronberg/Graduate-Applied-AI-Engineer--all-genders-_R00364674-1",
-    "date_posted": "2026-10-22T00:00:00",
-    "date_created": "2026-10-22T20:22:00.651776",
-    "locations_derived": [
-      "Kronberg, Hesse, Germany"
-    ],
-    "cities_derived": [
-      "Kronberg"
-    ],
-    "regions_derived": [
-      "Hesse"
-    ],
-    "countries_derived": [
-      "Germany"
-    ],
-    "source": "workday",
-    "source_type": "ats",
-    "employment_type": [
-      "Full time"
-    ],
-    "ai_employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_work_arrangement": "Hybrid",
-    "ai_experience_level": "0-2",
-    "ai_job_language": "German",
-    "ai_visa_sponsorship": false,
-    "ai_key_skills": [
-      "Python",
-      "Java",
-      "TypeScript",
-      "Node.js",
-      "JavaScript",
-      "HTML"
-    ]
-  },
-  {
-    "id": 2428288124,
-    "title": "Data Engineer - Stuttgart",
-    "organization": "Agile Defense",
-    "organization_logo": "https://lever-client-logos.s3.us-west-2.amazonaws.com/517e38cc-c363-4789-bfef-b98015a6d8ac-1714394198743.png",
-    "url": "https://jobs.lever.co/agile-defense/1d4cd31a-a96a-438e-8cc5-887b43f2216d",
-    "date_posted": "2026-10-22T00:00:00",
-    "date_created": "2026-10-22T19:56:19.714769",
-    "locations_derived": [
-      "Stuttgart, Baden-Württemberg, Germany"
-    ],
-    "cities_derived": [
-      "Stuttgart"
-    ],
-    "regions_derived": [
-      "Baden-Württemberg"
-    ],
-    "countries_derived": [
-      "Germany"
-    ],
-    "source": "lever.co",
-    "source_type": "ats",
-    "employment_type": [
-      "Regular"
-    ],
-    "ai_employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_work_arrangement": "On-site",
-    "ai_salary_currency": "USD",
-    "ai_salary_min_value": 135000,
-    "ai_salary_max_value": 165000,
-    "ai_salary_unit_text": "YEAR",
-    "ai_experience_level": "2-5",
-    "ai_job_language": "English",
-    "ai_visa_sponsorship": false,
-    "ai_key_skills": [
-      "Data Engineering",
-      "Python",
-      "SQL",
-      "ETL/ELT",
-      "Databricks",
-      "Spark"
-    ]
-  },
-  {
-    "id": 2427233346,
-    "title": "Machine Learning Engineer (f/m/d)",
-    "organization": "Aptiv",
-    "url": "https://aptiv.wd5.myworkdayjobs.com/APTIV_CAREERS/job/DEU-Wuppertal-Tech-Ctr/Machine-Learning-Engineer_J000702430",
-    "date_posted": "2026-10-22T00:00:00",
-    "date_created": "2026-10-22T07:40:43.998913",
-    "locations_derived": [
-      "Wuppertal, North Rhine-Westphalia, Germany"
-    ],
-    "cities_derived": [
-      "Wuppertal"
-    ],
-    "regions_derived": [
-      "North Rhine-Westphalia"
-    ],
-    "countries_derived": [
-      "Germany"
-    ],
-    "source": "workday",
-    "source_type": "ats",
-    "employment_type": [
-      "Full time"
-    ],
-    "ai_employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_work_arrangement": "On-site",
-    "ai_experience_level": "2-5",
-    "ai_job_language": "English",
-    "ai_visa_sponsorship": false,
-    "ai_key_skills": [
-      "Machine learning",
-      "Computer vision",
-      "Python",
-      "PyTorch",
-      "TensorFlow",
-      "3D reconstruction"
     ]
   }
 ]
