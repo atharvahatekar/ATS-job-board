@@ -1,5 +1,165 @@
 [
   {
+    "id": 2453928553,
+    "title": "AI Engineer (w/m/d)",
+    "organization": "Drees & Sommer SE",
+    "url": "https://jobs.smartrecruiters.com/DreesSommerSE/744000160200490-ai-engineer-w-m-d-",
+    "date_posted": "2026-11-06T13:24:24.145",
+    "date_created": "2026-11-06T13:25:07.257779",
+    "locations_derived": [
+      "Stuttgart, Baden-Württemberg, Germany"
+    ],
+    "cities_derived": [
+      "Stuttgart"
+    ],
+    "regions_derived": [
+      "Baden-Württemberg"
+    ],
+    "countries_derived": [
+      "Germany"
+    ],
+    "source": "smartrecruiters",
+    "source_type": "ats",
+    "employment_type": [
+      "Vollzeit"
+    ],
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "Hybrid",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "German",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Python",
+      "TypeScript",
+      "React",
+      "FastAPI",
+      "Docker",
+      "LLM integration"
+    ]
+  },
+  {
+    "id": 2453861070,
+    "title": "AI Engineer",
+    "organization": "Control Risks",
+    "organization_logo": "https://workablehr.s3.amazonaws.com/uploads/account/logo/482301/logo",
+    "url": "https://jobs.workable.com/view/qCVDfFf9qo7bnBFe9dxc22/hybrid-ai-engineer-in-berlin-at-control-risks",
+    "date_posted": "2026-11-06T11:41:28.075",
+    "date_created": "2026-11-06T12:35:57.002823",
+    "locations_derived": [
+      "Berlin, Germany"
+    ],
+    "cities_derived": [
+      "Berlin"
+    ],
+    "countries_derived": [
+      "Germany"
+    ],
+    "location_type": "TELECOMMUTE",
+    "source": "workable",
+    "source_type": "ats",
+    "employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "Hybrid",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "English",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "AI Engineering",
+      "Knowledge Graphs",
+      "Neo4j",
+      "Cypher",
+      "LLM APIs",
+      "Prompt Engineering"
+    ]
+  },
+  {
+    "id": 2453689045,
+    "title": "Applied AI Engineer (m/w/d)",
+    "organization": "SIXT",
+    "url": "https://jobs.smartrecruiters.com/SIXT/744000160164257-applied-ai-engineer-m-w-d-",
+    "date_posted": "2026-11-06T10:41:02.817",
+    "date_created": "2026-11-06T10:45:23.189285",
+    "locations_derived": [
+      "München, Brandenburg, Germany"
+    ],
+    "cities_derived": [
+      "München"
+    ],
+    "regions_derived": [
+      "Brandenburg"
+    ],
+    "countries_derived": [
+      "Germany"
+    ],
+    "source": "smartrecruiters",
+    "source_type": "ats",
+    "employment_type": [
+      "Vollzeit"
+    ],
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "Hybrid",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "German",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Python",
+      "GenAI",
+      "LangChain",
+      "MCP",
+      "PyTorch",
+      "Scikit-learn"
+    ]
+  },
+  {
+    "id": 2453531562,
+    "title": "AI Engineer (all genders)",
+    "organization": "Schlafender Hase GmbH",
+    "organization_logo": "https://assets.cdn.personio.de/logos/67648/social/975e19c6d42a0d955b22821b47be4baa.jpg",
+    "url": "https://schlafender-hase-gmbh.jobs.personio.de/job/2877042",
+    "date_posted": "2026-11-06T08:55:41.024",
+    "date_created": "2026-11-06T08:55:41.09398",
+    "locations_derived": [
+      "Frankfurt, Hesse, Germany"
+    ],
+    "cities_derived": [
+      "Frankfurt"
+    ],
+    "regions_derived": [
+      "Hesse"
+    ],
+    "countries_derived": [
+      "Germany"
+    ],
+    "source": "personio",
+    "source_type": "ats",
+    "employment_type": [
+      "Permanent employee"
+    ],
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "Hybrid",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "English",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Artificial Intelligence",
+      "Machine Learning",
+      "LLM",
+      "OCR",
+      "NLP",
+      "Computer vision"
+    ]
+  },
+  {
     "id": 2452029306,
     "title": "Analytics Engineer / Data Engineer (m/f/d)",
     "organization": "A11",
@@ -3023,196 +3183,6 @@
       "Data analysis",
       "Data visualization",
       "Data mining",
-      "Statistical programming"
-    ]
-  },
-  {
-    "id": 2430337402,
-    "title": "Forward Deployed AI Engineer (w/d/m)",
-    "organization": "WEBUILDAI GmbH",
-    "organization_logo": "https://cdn.join.com/6787bbbdfaa5e600089b073b/we-build-ai-logo-m.png",
-    "url": "https://join.com/companies/we-build-ai/16866939-forward-deployed-ai-engineer-w-d-m",
-    "date_posted": "2026-10-23T17:16:57.569",
-    "date_created": "2026-10-23T18:38:20.787785",
-    "locations_derived": [
-      "Cologne, North Rhine-Westphalia, Germany"
-    ],
-    "cities_derived": [
-      "Cologne"
-    ],
-    "regions_derived": [
-      "North Rhine-Westphalia"
-    ],
-    "countries_derived": [
-      "Germany"
-    ],
-    "source": "join.com",
-    "source_type": "ats",
-    "employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_work_arrangement": "Hybrid",
-    "ai_experience_level": "2-5",
-    "ai_job_language": "German",
-    "ai_visa_sponsorship": false,
-    "ai_key_skills": [
-      "Python",
-      "FastAPI",
-      "Agentic AI",
-      "LLM APIs",
-      "REST APIs",
-      "Microsoft Graph"
-    ]
-  },
-  {
-    "id": 2430240132,
-    "title": "(Senior) AI Engineer (w/d/m)",
-    "organization": "WEBUILDAI GmbH",
-    "organization_logo": "https://cdn.join.com/6787bbbdfaa5e600089b073b/we-build-ai-logo-m.png",
-    "url": "https://join.com/companies/we-build-ai/16866722-senior-ai-engineer-w-d-m",
-    "date_posted": "2026-10-23T16:48:09.606",
-    "date_created": "2026-10-23T17:36:25.739656",
-    "locations_derived": [
-      "Cologne, North Rhine-Westphalia, Germany"
-    ],
-    "cities_derived": [
-      "Cologne"
-    ],
-    "regions_derived": [
-      "North Rhine-Westphalia"
-    ],
-    "countries_derived": [
-      "Germany"
-    ],
-    "source": "join.com",
-    "source_type": "ats",
-    "employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_work_arrangement": "Hybrid",
-    "ai_experience_level": "2-5",
-    "ai_job_language": "German",
-    "ai_visa_sponsorship": false,
-    "ai_key_skills": [
-      "Artificial Intelligence",
-      "Python",
-      "LLM",
-      "RAG",
-      "Agentic AI",
-      "FastAPI"
-    ]
-  },
-  {
-    "id": 2429476004,
-    "title": "Senior Big Data Engineer (m/w/d)",
-    "organization": "Sopra Steria",
-    "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000157422809-senior-big-data-engineer-m-w-d-",
-    "date_posted": "2026-10-23T09:15:28.691",
-    "date_created": "2026-10-23T09:17:14.129522",
-    "locations_derived": [
-      "Hanover, Lower Saxony, Germany"
-    ],
-    "cities_derived": [
-      "Hanover"
-    ],
-    "regions_derived": [
-      "Lower Saxony"
-    ],
-    "countries_derived": [
-      "Germany"
-    ],
-    "source": "smartrecruiters",
-    "source_type": "ats",
-    "employment_type": [
-      "Vollzeit"
-    ],
-    "ai_employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_work_arrangement": "Hybrid",
-    "ai_experience_level": "2-5",
-    "ai_job_language": "German",
-    "ai_visa_sponsorship": false,
-    "ai_key_skills": [
-      "Big Data strategy",
-      "Batch processing",
-      "Streaming processing",
-      "Data Mesh",
-      "Data Lakehouse",
-      "Data Fabric"
-    ]
-  },
-  {
-    "id": 2429605047,
-    "title": "AI Engineer",
-    "organization": "ICON plc",
-    "url": "https://icon.wd3.myworkdayjobs.com/broadbean_external/job/Ireland-Dublin/AI-Engineer_JR163069",
-    "date_posted": "2026-10-23T00:00:00",
-    "date_created": "2026-10-23T10:40:14.875897",
-    "locations_derived": [
-      "Sofia, Sofia-City, Bulgaria",
-      "Paris, Ile-de-France, France",
-      "Frankfurt, Hesse, Germany",
-      "Dublin, Leinster, Ireland",
-      "Warsaw, Masovian Voivodeship, Poland",
-      "Johannesburg, Gauteng, South Africa",
-      "Madrid, Community of Madrid, Spain",
-      "Reading, England, United Kingdom"
-    ],
-    "cities_derived": [
-      "Frankfurt",
-      "Johannesburg",
-      "Paris",
-      "Warsaw",
-      "Madrid",
-      "Dublin",
-      "Reading",
-      "Sofia"
-    ],
-    "regions_derived": [
-      "Hesse",
-      "Gauteng",
-      "Ile-de-France",
-      "Masovian Voivodeship",
-      "Community of Madrid",
-      "Leinster",
-      "England",
-      "Sofia-City"
-    ],
-    "countries_derived": [
-      "Germany",
-      "South Africa",
-      "France",
-      "Poland",
-      "Spain",
-      "Ireland",
-      "United Kingdom",
-      "Bulgaria"
-    ],
-    "source": "workday",
-    "source_type": "ats",
-    "employment_type": [
-      "Full time"
-    ],
-    "ai_employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_work_arrangement": "Remote OK",
-    "ai_experience_level": "2-5",
-    "ai_job_language": "English",
-    "ai_visa_sponsorship": false,
-    "ai_key_skills": [
-      "Python",
-      "AWS",
-      "Cloud platforms",
-      "Data science",
-      "Data engineering",
       "Statistical programming"
     ]
   }
