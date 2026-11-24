@@ -1,5 +1,190 @@
 [
   {
+    "id": 2482019214,
+    "title": "Senior Data Engineer",
+    "organization": "BLACKLANE",
+    "url": "https://job-boards.greenhouse.io/blacklane/jobs/8933129002",
+    "date_posted": "2026-11-23T14:52:11",
+    "date_created": "2026-11-23T15:34:59.514548",
+    "locations_derived": [
+      "Berlin, Germany"
+    ],
+    "cities_derived": [
+      "Berlin"
+    ],
+    "countries_derived": [
+      "Germany"
+    ],
+    "source": "greenhouse",
+    "source_type": "ats",
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "Hybrid",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "English",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "SQL",
+      "Python",
+      "Data Pipeline Development",
+      "Data Modeling",
+      "Data Warehousing",
+      "Cloud Data Platforms"
+    ]
+  },
+  {
+    "id": 2481808710,
+    "title": "Junior Data Engineer (m/w/d)",
+    "organization": "ENERCON",
+    "url": "https://career.enercon.de/job/Aurich-Junior-Data-Engineer-%28mwd%29-NI-26605/1378082655/",
+    "date_posted": "2026-11-23T00:00:00",
+    "date_created": "2026-11-23T11:35:22.934584",
+    "locations_derived": [
+      "Bremen, Bremen, Germany",
+      "Aurich, Lower Saxony, Germany"
+    ],
+    "cities_derived": [
+      "Bremen",
+      "Aurich"
+    ],
+    "regions_derived": [
+      "Bremen",
+      "Lower Saxony"
+    ],
+    "countries_derived": [
+      "Germany",
+      "Germany"
+    ],
+    "source": "successfactors",
+    "source_type": "ats",
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "Hybrid",
+    "ai_salary_currency": "EUR",
+    "ai_salary_min_value": 54450,
+    "ai_salary_max_value": 59900,
+    "ai_salary_unit_text": "YEAR",
+    "ai_experience_level": "0-2",
+    "ai_job_language": "German",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Data Engineering",
+      "Azure Databricks",
+      "PySpark",
+      "Data Pipelines",
+      "Data Modeling",
+      "Data Integration"
+    ]
+  },
+  {
+    "id": 2481666922,
+    "title": "Google Cloud AI Engineer (all genders)",
+    "organization": "Accenture",
+    "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Kronberg-Building-Beta/Google-Cloud-AI-Engineer--all-genders-_R00374003",
+    "date_posted": "2026-11-23T00:00:00",
+    "date_created": "2026-11-23T07:46:10.036324",
+    "locations_derived": [
+      "Stuttgart, Baden-Württemberg, Germany",
+      "Munich, Bavaria, Germany",
+      "Kronberg, Hesse, Germany",
+      "Düsseldorf, North Rhine-Westphalia, Germany",
+      "Essen, North Rhine-Westphalia, Germany",
+      "Dresden, Saxony, Germany",
+      "Berlin, Germany",
+      "Hamburg, Germany"
+    ],
+    "cities_derived": [
+      "Hamburg",
+      "Berlin",
+      "Dresden",
+      "Düsseldorf",
+      "Stuttgart",
+      "Kronberg",
+      "Munich",
+      "Essen"
+    ],
+    "regions_derived": [
+      "Saxony",
+      "North Rhine-Westphalia",
+      "Baden-Württemberg",
+      "Hesse",
+      "Bavaria",
+      "North Rhine-Westphalia"
+    ],
+    "countries_derived": [
+      "Germany",
+      "Germany",
+      "Germany",
+      "Germany",
+      "Germany",
+      "Germany",
+      "Germany",
+      "Germany"
+    ],
+    "source": "workday",
+    "source_type": "ats",
+    "employment_type": [
+      "Full time"
+    ],
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "Hybrid",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "German",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Google Cloud Platform",
+      "Python",
+      "Generative AI",
+      "Prompt Engineering",
+      "Retrieval-Augmented Generation",
+      "Data Engineering"
+    ]
+  },
+  {
+    "id": 2481431915,
+    "title": "Data Scientist (m/f/x)",
+    "organization": "Diamontech AG",
+    "url": "https://join.com/companies/diamontechde/16972206-data-scientist-m-f-x",
+    "date_posted": "2026-11-20T16:21:05.206",
+    "date_created": "2026-11-23T00:13:32.545217",
+    "locations_derived": [
+      "Berlin, Berlin, Germany"
+    ],
+    "cities_derived": [
+      "Berlin"
+    ],
+    "regions_derived": [
+      "Berlin"
+    ],
+    "countries_derived": [
+      "Germany"
+    ],
+    "source": "join.com",
+    "source_type": "ats",
+    "employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "On-site",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "English",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Data science",
+      "Machine learning",
+      "Python",
+      "Signal processing",
+      "Scikit-learn",
+      "PyTorch"
+    ]
+  },
+  {
     "id": 2478157993,
     "title": "AI Engineer – Generative AI & LLM (m/w/d)",
     "organization": "Thalia Bücher GmbH",
@@ -1274,6 +1459,47 @@
     ]
   },
   {
+    "id": 2482122258,
+    "title": "Junior Inhouse Data Engineer (all genders)",
+    "organization": "DYMATRIX GmbH",
+    "organization_logo": "https://assets.cdn.personio.de/logos/71113/social/17adb3ab024401457dfecd24576915bc.png",
+    "url": "https://dymatrix.jobs.personio.de/job/2890477/apply",
+    "date_posted": "2026-11-16T15:10:52",
+    "date_created": "2026-11-23T16:54:02.394",
+    "locations_derived": [
+      "Stuttgart, Baden-Württemberg, Germany"
+    ],
+    "cities_derived": [
+      "Stuttgart"
+    ],
+    "regions_derived": [
+      "Baden-Württemberg"
+    ],
+    "countries_derived": [
+      "Germany"
+    ],
+    "source": "personio",
+    "source_type": "ats",
+    "employment_type": [
+      "Festanstellung"
+    ],
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "On-site",
+    "ai_experience_level": "0-2",
+    "ai_job_language": "German",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "C# .NET",
+      "Python",
+      "PySpark",
+      "SQL",
+      "Azure",
+      "Cloud Architecture"
+    ]
+  },
+  {
     "id": 2469800069,
     "title": "Data Scientist (all genders)",
     "organization": "DYMATRIX GmbH",
@@ -2057,61 +2283,6 @@
         "@type": "QuantitativeValue",
         "minValue": 60000,
         "maxValue": 100000,
-        "unitText": "YEAR"
-      }
-    }
-  },
-  {
-    "id": 2471769836,
-    "title": "Machine Learning Engineer (m/w/d)",
-    "organization": "PROCITEC GmbH",
-    "organization_logo": "https://app.softgarden.io/assets/public/media/get/22e3ef07-4270-4269-a42c-2667e8f4bc21/1645785129631/Bild_eingefuegt_am_2021-10-26_13-56.png",
-    "url": "https://careerplathgroup.softgarden.io/job/67262440",
-    "date_posted": "2026-11-08T14:05:11.396",
-    "date_created": "2026-11-17T17:17:56.982993",
-    "locations_derived": [
-      "Pforzheim, Baden-Württemberg, Germany"
-    ],
-    "cities_derived": [
-      "Pforzheim"
-    ],
-    "regions_derived": [
-      "Baden-Württemberg"
-    ],
-    "countries_derived": [
-      "Germany"
-    ],
-    "source": "softgarden",
-    "source_type": "ats",
-    "employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_work_arrangement": "Hybrid",
-    "ai_salary_currency": "EUR",
-    "ai_salary_min_value": 65000,
-    "ai_salary_max_value": 90000,
-    "ai_salary_unit_text": "YEAR",
-    "ai_experience_level": "2-5",
-    "ai_job_language": "German",
-    "ai_visa_sponsorship": false,
-    "ai_key_skills": [
-      "Python",
-      "Machine learning",
-      "Neural networks",
-      "Signal processing",
-      "PyTorch",
-      "Keras"
-    ],
-    "salary": {
-      "@type": "MonetaryAmount",
-      "currency": "EUR",
-      "value": {
-        "@type": "QuantitativeValue",
-        "minValue": 65000,
-        "maxValue": 90000,
         "unitText": "YEAR"
       }
     }
