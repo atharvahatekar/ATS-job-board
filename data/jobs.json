@@ -1,5 +1,215 @@
 [
   {
+    "id": 2483842475,
+    "title": "Data & AI Engineer (Frankfurt or Munich, Germany)",
+    "organization": "Unit8 SA",
+    "organization_logo": "https://workablehr.s3.amazonaws.com/uploads/account/logo/363118/logo",
+    "url": "https://jobs.workable.com/view/j3r84mNtfPsVUjeYPuuKxH/hybrid-data-%26-ai-engineer-(frankfurt-or-munich%2C-germany)-in-munich-at-unit8-sa",
+    "date_posted": "2026-11-24T15:58:45.237",
+    "date_created": "2026-11-24T16:36:37.981937",
+    "locations_derived": [
+      "Munich, Bavaria, Germany"
+    ],
+    "cities_derived": [
+      "Munich"
+    ],
+    "regions_derived": [
+      "Bavaria"
+    ],
+    "countries_derived": [
+      "Germany"
+    ],
+    "location_type": "TELECOMMUTE",
+    "source": "workable",
+    "source_type": "ats",
+    "employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "Hybrid",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "English",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Python",
+      "GenAI",
+      "AI Engineering",
+      "Machine Learning",
+      "Data Platforms",
+      "Cloud Computing"
+    ]
+  },
+  {
+    "id": 2483842474,
+    "title": "Data & AI Engineer (Frankfurt or Munich, Germany)",
+    "organization": "Unit8 SA",
+    "organization_logo": "https://workablehr.s3.amazonaws.com/uploads/account/logo/363118/logo",
+    "url": "https://jobs.workable.com/view/6XkaCVwsywiqAUy5Ef1ny3/hybrid-data-%26-ai-engineer-(frankfurt-or-munich%2C-germany)-in-frankfurt-at-unit8-sa",
+    "date_posted": "2026-11-24T15:58:44.974",
+    "date_created": "2026-11-24T16:36:37.978948",
+    "locations_derived": [
+      "Frankfurt, Hesse, Germany"
+    ],
+    "cities_derived": [
+      "Frankfurt"
+    ],
+    "regions_derived": [
+      "Hesse"
+    ],
+    "countries_derived": [
+      "Germany"
+    ],
+    "location_type": "TELECOMMUTE",
+    "source": "workable",
+    "source_type": "ats",
+    "employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "Hybrid",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "English",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Python",
+      "Generative AI",
+      "AI Engineering",
+      "Machine Learning",
+      "Data Science",
+      "Software Engineering"
+    ]
+  },
+  {
+    "id": 2483851913,
+    "title": "AI Engineer (m/w/x)",
+    "organization": "ZEISS Group",
+    "url": "https://zeissgroup.wd3.myworkdayjobs.com/External/job/Oberkochen/AI-Engineer--m-w-x-_JR_1052196-1",
+    "date_posted": "2026-11-24T00:00:00",
+    "date_created": "2026-11-24T16:39:15.328923",
+    "locations_derived": [
+      "Oberkochen, Baden-Württemberg, Germany"
+    ],
+    "cities_derived": [
+      "Oberkochen"
+    ],
+    "regions_derived": [
+      "Baden-Württemberg"
+    ],
+    "countries_derived": [
+      "Germany"
+    ],
+    "source": "workday",
+    "source_type": "ats",
+    "employment_type": [
+      "Full time"
+    ],
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "On-site",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "German",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Python",
+      "Agentic AI",
+      "Data Engineering",
+      "Cloud Computing",
+      "Microsoft Azure",
+      "Kubernetes"
+    ]
+  },
+  {
+    "id": 2483817626,
+    "title": "Data Engineer",
+    "organization": "LIQID Investments GmbH",
+    "organization_logo": "https://app.ashbyhq.com/api/images/org-theme-logo/a8d9eda3-545f-4289-878b-090cc43280f3/cf2d3a68-728a-4fc5-a6c7-43aa42ff3089/22e52490-6c7a-4514-8e64-e75d8027490d.png",
+    "url": "https://jobs.ashbyhq.com/liqid-lig/d8bca956-3fa9-4eb5-8dce-ad4d0257aadf",
+    "date_posted": "2026-11-24T00:00:00",
+    "date_created": "2026-11-24T16:22:53.841233",
+    "locations_derived": [
+      "Berlin, Germany"
+    ],
+    "cities_derived": [
+      "Berlin"
+    ],
+    "countries_derived": [
+      "Germany"
+    ],
+    "source": "ashby",
+    "source_type": "ats",
+    "employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "On-site",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "English",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "SQL",
+      "Python",
+      "ETL/ELT",
+      "Data Pipeline Development",
+      "Data Modeling",
+      "Data Warehousing"
+    ]
+  },
+  {
+    "id": 2483680135,
+    "title": "Machine Learning Engineer – KI-Sprachmodelle (LLM) (m/w/d)",
+    "organization": "Infios",
+    "url": "https://infios.wd502.myworkdayjobs.com/Infios/job/Bremen-Germany/Machine-Learning-Engineer---KI-Sprachmodelle--LLM---m-w-d-_JR103089",
+    "date_posted": "2026-11-24T00:00:00",
+    "date_created": "2026-11-24T14:42:05.59347",
+    "locations_derived": [
+      "Bremen, Bremen, Germany",
+      "Bad Nauheim, Hesse, Germany",
+      "Münster, North Rhine-Westphalia, Germany"
+    ],
+    "cities_derived": [
+      "Bremen",
+      "Münster",
+      "Bad Nauheim"
+    ],
+    "regions_derived": [
+      "Bremen",
+      "North Rhine-Westphalia",
+      "Hesse"
+    ],
+    "countries_derived": [
+      "Germany",
+      "Germany",
+      "Germany"
+    ],
+    "source": "workday",
+    "source_type": "ats",
+    "employment_type": [
+      "Full time"
+    ],
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "On-site",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "German",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Large Language Model Training and Fine-Tuning",
+      "Python",
+      "Data Preparation",
+      "Model Evaluation",
+      "Statistical Analysis",
+      "Open-Source Model Assessment"
+    ]
+  },
+  {
     "id": 2482019214,
     "title": "Senior Data Engineer",
     "organization": "BLACKLANE",
@@ -31,6 +241,52 @@
       "Data Modeling",
       "Data Warehousing",
       "Cloud Data Platforms"
+    ]
+  },
+  {
+    "id": 2483277920,
+    "title": "Forward Deployed AI Engineer / Strategic Customer Advisor (m/w/d/x)",
+    "organization": "Deutsche Telekom",
+    "url": "https://telekom-growthhub.eightfold.ai/careers/job/563465374938279-forward-deployed-ai-engineer-strategic-customer-advisor-m-w-d-x--bonn-friedrich-ebert-allee-140-",
+    "date_posted": "2026-11-23T10:14:19",
+    "date_created": "2026-11-24T08:46:16.865326",
+    "locations_derived": [
+      "Frankfurt, Hesse, Germany",
+      "Berlin, Germany",
+      "Brunei"
+    ],
+    "cities_derived": [
+      "Frankfurt",
+      "Berlin"
+    ],
+    "regions_derived": [
+      "Hesse"
+    ],
+    "countries_derived": [
+      "Germany",
+      "Germany",
+      "Brunei"
+    ],
+    "source": "eightfold",
+    "source_type": "ats",
+    "employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_employment_type": [
+      "FULL_TIME",
+      "PART_TIME"
+    ],
+    "ai_work_arrangement": "Hybrid",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "English",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Python",
+      "REST APIs",
+      "Enterprise system integration",
+      "LLM applications",
+      "Prompt engineering",
+      "RAG"
     ]
   },
   {
@@ -2229,61 +2485,6 @@
         "minValue": 0,
         "maxValue": 0,
         "unitText": "MONTH"
-      }
-    }
-  },
-  {
-    "id": 2469251136,
-    "title": "AI Engineer (m/w/d)",
-    "organization": "Royal Runtimes GmbH",
-    "organization_logo": "https://cdn.join.com/6af35d6cc50b510009d4b856/royal-runtimes-gmb-h-logo-m.jpg",
-    "url": "https://join.com/companies/royalruntimescom/16937022-ai-engineer-m-w-d",
-    "date_posted": "2026-11-10T18:10:50.431",
-    "date_created": "2026-11-16T00:11:42.866046",
-    "locations_derived": [
-      "Hamburg, Hamburg, Germany"
-    ],
-    "cities_derived": [
-      "Hamburg"
-    ],
-    "regions_derived": [
-      "Hamburg"
-    ],
-    "countries_derived": [
-      "Germany"
-    ],
-    "source": "join.com",
-    "source_type": "ats",
-    "employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_work_arrangement": "On-site",
-    "ai_salary_currency": "EUR",
-    "ai_salary_min_value": 60000,
-    "ai_salary_max_value": 100000,
-    "ai_salary_unit_text": "YEAR",
-    "ai_experience_level": "2-5",
-    "ai_job_language": "German",
-    "ai_visa_sponsorship": false,
-    "ai_key_skills": [
-      "AI Systems",
-      "Software Architecture",
-      "Python",
-      "Google Cloud",
-      "Machine Learning",
-      "Agentic Workflows"
-    ],
-    "salary": {
-      "@type": "MonetaryAmount",
-      "currency": "EUR",
-      "value": {
-        "@type": "QuantitativeValue",
-        "minValue": 60000,
-        "maxValue": 100000,
-        "unitText": "YEAR"
       }
     }
   }
