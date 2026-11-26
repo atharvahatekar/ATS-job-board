@@ -565,6 +565,49 @@
     ]
   },
   {
+    "id": 2488263198,
+    "title": "Data Scientist (m/w/d)",
+    "organization": "Machine Learning Reply",
+    "url": "https://machinelearningreply.recruitee.com/o/data-scientist-mwd-11",
+    "date_posted": "2026-11-23T00:00:00",
+    "date_created": "2026-11-26T17:22:22.793591",
+    "locations_derived": [
+      "Munich, Bavaria, Germany",
+      "Berlin, Germany"
+    ],
+    "cities_derived": [
+      "Berlin",
+      "Munich"
+    ],
+    "regions_derived": [
+      "Bavaria"
+    ],
+    "countries_derived": [
+      "Germany",
+      "Germany"
+    ],
+    "source": "recruitee",
+    "source_type": "ats",
+    "employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "Hybrid",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "German",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Python",
+      "R",
+      "Rust",
+      "Pyspark",
+      "SQL",
+      "Machine Learning"
+    ]
+  },
+  {
     "id": 2481808710,
     "title": "Junior Data Engineer (m/w/d)",
     "organization": "ENERCON",
@@ -2571,145 +2614,5 @@
         "unitText": "YEAR"
       }
     }
-  },
-  {
-    "id": 2472163639,
-    "title": "AI Engineer (m/w/d)",
-    "organization": "regiocom SE",
-    "organization_logo": "https://app.softgarden.io/assets/public/media/get/71c476c4-2bd9-4214-b587-7f6cf6c8323d/1745311846337/Profilbild_Faecher_-_blank.png",
-    "url": "https://karriereregiocom.softgarden.io/job/68193811",
-    "date_posted": "2026-11-12T12:52:12.098",
-    "date_created": "2026-11-17T20:35:47.317261",
-    "locations_derived": [
-      "Magdeburg, Saxony-Anhalt, Germany"
-    ],
-    "cities_derived": [
-      "Magdeburg"
-    ],
-    "regions_derived": [
-      "Saxony-Anhalt"
-    ],
-    "countries_derived": [
-      "Germany"
-    ],
-    "source": "softgarden",
-    "source_type": "ats",
-    "employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_work_arrangement": "Hybrid",
-    "ai_experience_level": "2-5",
-    "ai_job_language": "German",
-    "ai_visa_sponsorship": false,
-    "ai_key_skills": [
-      "Python",
-      "Kubernetes",
-      "Large Language Models",
-      "AI Agents",
-      "API Development",
-      "Database Management"
-    ],
-    "salary": {
-      "@type": "MonetaryAmount",
-      "currency": "EUR",
-      "value": {
-        "@type": "QuantitativeValue",
-        "minValue": 0,
-        "maxValue": 0,
-        "unitText": "MONTH"
-      }
-    }
-  },
-  {
-    "id": 2473184648,
-    "title": "Data Engineer (m/w/d)",
-    "organization": "Occhio GmbH",
-    "organization_logo": "https://app.softgarden.io/assets/public/media/get/d0cf9d5b-49f5-4c3d-9279-1d6173699105/1649662714995/occ_Logo_112_112.png",
-    "url": "https://companyocchio.softgarden.io/job/68245891",
-    "date_posted": "2026-11-12T08:23:40.238",
-    "date_created": "2026-11-18T05:33:32.193116",
-    "locations_derived": [
-      "Munich, Bavaria, Germany"
-    ],
-    "cities_derived": [
-      "Munich"
-    ],
-    "regions_derived": [
-      "Bavaria"
-    ],
-    "countries_derived": [
-      "Germany"
-    ],
-    "source": "softgarden",
-    "source_type": "ats",
-    "employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_work_arrangement": "Hybrid",
-    "ai_experience_level": "2-5",
-    "ai_job_language": "German",
-    "ai_visa_sponsorship": false,
-    "ai_key_skills": [
-      "SQL",
-      "Python",
-      "Data engineering",
-      "ETL processes",
-      "Data pipelines",
-      "Azure Data Factory"
-    ],
-    "salary": {
-      "@type": "MonetaryAmount",
-      "currency": "EUR",
-      "value": {
-        "@type": "QuantitativeValue",
-        "minValue": 0,
-        "maxValue": 0,
-        "unitText": "MONTH"
-      }
-    }
-  },
-  {
-    "id": 2478424389,
-    "title": "Data Engineer Analytics (m/w/d)",
-    "organization": "REWE Group",
-    "organization_logo": "https://rmkcdn.successfactors.com/c92a1a54/1c0808dc-fec2-4e3f-bf0f-1.png",
-    "url": "https://karriere.rewe-group.com/konzernzentrale/job/K%C3%B6ln-Data-Engineer-Analytics-%28mwd%29-NW-51063/1370657733/",
-    "date_posted": "2026-11-12T00:00:00",
-    "date_created": "2026-11-20T16:48:30.003638",
-    "locations_derived": [
-      "Cologne, North Rhine-Westphalia, Germany"
-    ],
-    "cities_derived": [
-      "Cologne"
-    ],
-    "regions_derived": [
-      "North Rhine-Westphalia"
-    ],
-    "countries_derived": [
-      "Germany"
-    ],
-    "source": "successfactors",
-    "source_type": "ats",
-    "ai_employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_work_arrangement": "Hybrid",
-    "ai_experience_level": "2-5",
-    "ai_job_language": "German",
-    "ai_visa_sponsorship": false,
-    "ai_key_skills": [
-      "Data Engineering",
-      "SQL",
-      "Python",
-      "Snowflake",
-      "GCP",
-      "Terraform"
-    ]
   }
 ]
