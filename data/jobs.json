@@ -1,5 +1,472 @@
 [
   {
+    "id": 2490097494,
+    "title": "Senior Data Scientist Supply Chain Management (m/w/d)",
+    "organization": "aioneers Technologies GmbH",
+    "organization_logo": "https://assets.cdn.personio.de/logos/70129/social/8e1d28cb9c5e4301783bf68f91c495d1.png",
+    "url": "https://aioneers.jobs.personio.com/job/2910252",
+    "date_posted": "2026-11-27T15:54:47.131",
+    "date_created": "2026-11-27T15:54:47.202047",
+    "locations_derived": [
+      "Mannheim, Baden-Württemberg, Germany",
+      "Munich, Bavaria, Germany"
+    ],
+    "cities_derived": [
+      "Mannheim",
+      "Munich"
+    ],
+    "regions_derived": [
+      "Baden-Württemberg",
+      "Bavaria"
+    ],
+    "countries_derived": [
+      "Germany",
+      "Germany"
+    ],
+    "source": "personio",
+    "source_type": "ats",
+    "employment_type": [
+      "Festanstellung"
+    ],
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "Hybrid",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "German",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Data Science",
+      "Supply Chain Management",
+      "Machine Learning",
+      "Artificial Intelligence",
+      "Mathematical Optimization",
+      "Python"
+    ]
+  },
+  {
+    "id": 2490097484,
+    "title": "Senior Data Scientist Supply Chain Management (m/w/d)",
+    "organization": "aioneers Technologies GmbH",
+    "organization_logo": "https://assets.cdn.personio.de/logos/70129/social/8e1d28cb9c5e4301783bf68f91c495d1.png",
+    "url": "https://aioneers.jobs.personio.com/job/2909993",
+    "date_posted": "2026-11-27T15:54:46.863",
+    "date_created": "2026-11-27T15:54:46.929605",
+    "locations_derived": [
+      "Mannheim, Baden-Württemberg, Germany",
+      "Munich, Bavaria, Germany"
+    ],
+    "cities_derived": [
+      "Mannheim",
+      "Munich"
+    ],
+    "regions_derived": [
+      "Baden-Württemberg",
+      "Bavaria"
+    ],
+    "countries_derived": [
+      "Germany",
+      "Germany"
+    ],
+    "source": "personio",
+    "source_type": "ats",
+    "employment_type": [
+      "Festanstellung"
+    ],
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "Hybrid",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "German",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Data Science",
+      "Supply Chain Management",
+      "Machine Learning",
+      "Artificial Intelligence",
+      "Mathematical Optimization",
+      "Operations Research"
+    ]
+  },
+  {
+    "id": 2490082286,
+    "title": "Senior Data Engineer- Data & AI Platform (f/m/d)",
+    "organization": "7NXT GmbH",
+    "organization_logo": "https://cdn.join.com/6ac5fb819bbfe900082a8cb7/7-nxt-gmb-h-logo-m.png",
+    "url": "https://join.com/companies/7nxt/16993059-senior-data-engineer-data-and-ai-platform-f-m-d",
+    "date_posted": "2026-11-27T14:50:54.635",
+    "date_created": "2026-11-27T15:36:27.250959",
+    "locations_derived": [
+      "Berlin, Berlin, Germany"
+    ],
+    "cities_derived": [
+      "Berlin"
+    ],
+    "regions_derived": [
+      "Berlin"
+    ],
+    "countries_derived": [
+      "Germany"
+    ],
+    "source": "join.com",
+    "source_type": "ats",
+    "employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "Hybrid",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "English",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Data Engineering",
+      "SQL",
+      "Python",
+      "dbt",
+      "BigQuery",
+      "GCP"
+    ]
+  },
+  {
+    "id": 2490010539,
+    "title": "Automotive Data Engineer / Vehicle Data Engineer (m/w/d)",
+    "organization": "GreenTech Hub GmbH",
+    "organization_logo": "https://cdn.join.com/6a301f6e10530300080351fd/green-tech-hub-gmb-h-logo-m.png",
+    "url": "https://join.com/companies/gt-hubde/16992670-automotive-data-engineer-vehicle-data-engineer-m-w-d",
+    "date_posted": "2026-11-27T13:04:04.307",
+    "date_created": "2026-11-27T14:30:46.588405",
+    "locations_derived": [
+      "Memmingen, Bavaria, Germany"
+    ],
+    "regions_derived": [
+      "Bavaria"
+    ],
+    "countries_derived": [
+      "Germany"
+    ],
+    "source": "join.com",
+    "source_type": "ats",
+    "employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "On-site",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "German",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Python",
+      "SQL",
+      "REST APIs",
+      "JSON",
+      "Data modeling",
+      "Time series analysis"
+    ]
+  },
+  {
+    "id": 2489883760,
+    "title": "Data Scientist für die Energiewende (m/w/d)*",
+    "organization": "Scalian Germany AG",
+    "organization_logo": "https://assets.cdn.personio.de/logos/15076/social/e8095c527baa79004b76a948f221ca7a.jpg",
+    "url": "https://scalian-germany.jobs.personio.de/job/2909989",
+    "date_posted": "2026-11-27T12:56:15.057",
+    "date_created": "2026-11-27T12:56:15.192127",
+    "locations_derived": [
+      "Cologne, North Rhine-Westphalia, Germany"
+    ],
+    "cities_derived": [
+      "Cologne"
+    ],
+    "regions_derived": [
+      "North Rhine-Westphalia"
+    ],
+    "countries_derived": [
+      "Germany"
+    ],
+    "source": "personio",
+    "source_type": "ats",
+    "employment_type": [
+      "Festanstellung"
+    ],
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "Hybrid",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "German",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Data analysis",
+      "Data modeling",
+      "Software development",
+      "Python",
+      "SQL",
+      "Cloud computing"
+    ]
+  },
+  {
+    "id": 2489883754,
+    "title": "Data Scientist für die Energiewende (m/w/d)*",
+    "organization": "Scalian Germany AG",
+    "organization_logo": "https://assets.cdn.personio.de/logos/15076/social/e8095c527baa79004b76a948f221ca7a.jpg",
+    "url": "https://scalian-germany.jobs.personio.de/job/2909983",
+    "date_posted": "2026-11-27T12:56:15.036",
+    "date_created": "2026-11-27T12:56:15.114788",
+    "locations_derived": [
+      "Hamburg, Hamburg, Germany"
+    ],
+    "cities_derived": [
+      "Hamburg"
+    ],
+    "regions_derived": [
+      "Hamburg"
+    ],
+    "countries_derived": [
+      "Germany"
+    ],
+    "source": "personio",
+    "source_type": "ats",
+    "employment_type": [
+      "Festanstellung"
+    ],
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "Hybrid",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "German",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Data analysis",
+      "Data modeling",
+      "Software development",
+      "ETL processes",
+      "Python",
+      "SQL"
+    ]
+  },
+  {
+    "id": 2490036772,
+    "title": "Senior Research Data Scientist",
+    "organization": "Clue",
+    "organization_logo": "https://images4.bamboohr.com/45841/logos/cropped.jpg?v=35",
+    "url": "https://helloclue.bamboohr.com/careers/54",
+    "date_posted": "2026-11-27T00:00:00",
+    "date_created": "2026-11-27T14:56:42.993937",
+    "locations_derived": [
+      "Berlin, Germany"
+    ],
+    "cities_derived": [
+      "Berlin"
+    ],
+    "countries_derived": [
+      "Germany"
+    ],
+    "source": "bamboohr",
+    "source_type": "ats",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "Hybrid",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "English",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Statistical modeling",
+      "Python",
+      "R",
+      "SQL",
+      "Data analysis",
+      "Data visualization"
+    ]
+  },
+  {
+    "id": 2489528188,
+    "title": "Junior Software & AI Engineer (mfd)",
+    "organization": "NTT Global Data Centers",
+    "url": "https://nttglobaldatacenters.wd501.myworkdayjobs.com/External/job/Frankfurt-Germany/Junior-Software---AI-Engineer--mfd-_JR102375",
+    "date_posted": "2026-11-27T00:00:00",
+    "date_created": "2026-11-27T08:38:47.941067",
+    "locations_derived": [
+      "Frankfurt, Hesse, Germany",
+      "City of London, England, United Kingdom",
+      "Hemel Hempstead, England, United Kingdom",
+      "London, England, United Kingdom",
+      "Slough, England, United Kingdom"
+    ],
+    "cities_derived": [
+      "Frankfurt",
+      "Hemel Hempstead",
+      "Slough",
+      "London",
+      "City of London"
+    ],
+    "regions_derived": [
+      "Hesse",
+      "England",
+      "England",
+      "England",
+      "England"
+    ],
+    "countries_derived": [
+      "Germany",
+      "United Kingdom",
+      "United Kingdom",
+      "United Kingdom",
+      "United Kingdom"
+    ],
+    "source": "workday",
+    "source_type": "ats",
+    "employment_type": [
+      "Full time"
+    ],
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "On-site",
+    "ai_experience_level": "0-2",
+    "ai_job_language": "English",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Python",
+      "Artificial Intelligence",
+      "Software Development",
+      "Large Language Models",
+      "Retrieval-Augmented Generation",
+      "Automation"
+    ]
+  },
+  {
+    "id": 2490568545,
+    "title": "Senior Agentic AI Engineer (all genders)",
+    "organization": "Adesso SE",
+    "url": "https://jobs.adesso-group.com/job/Dortmund-Senior-Agentic-AI-Engineer-%28all-genders%29-NW-44269/1344753255/",
+    "date_posted": "2026-11-26T02:00:00",
+    "date_created": "2026-11-27T20:45:07.00535",
+    "locations_derived": [
+      "Karlsruhe, Baden-Württemberg, Germany",
+      "Stuttgart, Baden-Württemberg, Germany",
+      "Walldorf, Baden-Württemberg, Germany",
+      "Augsburg, Bavaria, Germany",
+      "Munich, Bavaria, Germany",
+      "Nuremberg, Bavaria, Germany",
+      "Bremen, Bremen, Germany",
+      "Hanover, Lower Saxony, Germany",
+      "Rostock, Mecklenburg-Vorpommern, Germany",
+      "Stralsund, Mecklenburg-Vorpommern, Germany",
+      "Dortmund, North Rhine-Westphalia, Germany",
+      "Dusseldorf, North Rhine-Westphalia, Germany",
+      "Essen, North Rhine-Westphalia, Germany",
+      "Münster, North Rhine-Westphalia, Germany",
+      "Paderborn, North Rhine-Westphalia, Germany",
+      "Saarbrücken, Saarland, Germany",
+      "Dresden, Saxony, Germany",
+      "Leipzig, Saxony, Germany",
+      "Kiel, Schleswig-Holstein, Germany",
+      "Neumünster, Schleswig-Holstein, Germany",
+      "Jena, Thuringia, Germany",
+      "Berlin, Germany",
+      "Hamburg, Germany"
+    ],
+    "cities_derived": [
+      "Jena",
+      "Augsburg",
+      "Stralsund",
+      "Hamburg",
+      "Essen",
+      "Leipzig",
+      "Kiel",
+      "Rostock",
+      "Bremen",
+      "Karlsruhe",
+      "Dusseldorf",
+      "Stuttgart",
+      "Münster",
+      "Nuremberg",
+      "Hanover",
+      "Munich",
+      "Dortmund",
+      "Berlin",
+      "Paderborn",
+      "Walldorf",
+      "Saarbrücken",
+      "Dresden"
+    ],
+    "regions_derived": [
+      "Thuringia",
+      "Bavaria",
+      "Mecklenburg-Vorpommern",
+      "North Rhine-Westphalia",
+      "Saxony",
+      "Schleswig-Holstein",
+      "Mecklenburg-Vorpommern",
+      "Bremen",
+      "Baden-Württemberg",
+      "North Rhine-Westphalia",
+      "Baden-Württemberg",
+      "North Rhine-Westphalia",
+      "Bavaria",
+      "Lower Saxony",
+      "Bavaria",
+      "North Rhine-Westphalia",
+      "Schleswig-Holstein",
+      "North Rhine-Westphalia",
+      "Baden-Württemberg",
+      "Saarland",
+      "Saxony"
+    ],
+    "countries_derived": [
+      "Germany",
+      "Germany",
+      "Germany",
+      "Germany",
+      "Germany",
+      "Germany",
+      "Germany",
+      "Germany",
+      "Germany",
+      "Germany",
+      "Germany",
+      "Germany",
+      "Germany",
+      "Germany",
+      "Germany",
+      "Germany",
+      "Germany",
+      "Germany",
+      "Germany",
+      "Germany",
+      "Germany",
+      "Germany",
+      "Germany"
+    ],
+    "source": "successfactors",
+    "source_type": "ats",
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "Hybrid",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "German",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Agentic AI",
+      "Multi-Agent Systems",
+      "LangGraph",
+      "CrewAI",
+      "Reinforcement Learning",
+      "Cloud Computing"
+    ]
+  },
+  {
     "id": 2486237802,
     "title": "Data & AI Engineer (m/w/d)",
     "organization": "Collaboration Betters The World GmbH",
@@ -716,6 +1183,101 @@
       "Prompt Engineering",
       "Retrieval-Augmented Generation",
       "Data Engineering"
+    ]
+  },
+  {
+    "id": 2490568402,
+    "title": "Data Engineer Salesforce Data Cloud (all genders)",
+    "organization": "Adesso SE",
+    "url": "https://jobs.adesso-group.com/job/Berlin-Data-Engineer-Salesforce-Data-Cloud-%28all-genders%29-BE-10969/1344200555/",
+    "date_posted": "2026-11-21T02:00:00",
+    "date_created": "2026-11-27T20:44:52.491236",
+    "locations_derived": [
+      "Stuttgart, Baden-Württemberg, Germany",
+      "Munich, Bavaria, Germany",
+      "Nuremberg, Bavaria, Germany",
+      "Bremen, Bremen, Germany",
+      "Frankfurt, Hesse, Germany",
+      "Bonn, North Rhine-Westphalia, Germany",
+      "Cologne, North Rhine-Westphalia, Germany",
+      "Dortmund, North Rhine-Westphalia, Germany",
+      "Dusseldorf, North Rhine-Westphalia, Germany",
+      "Essen, North Rhine-Westphalia, Germany",
+      "Paderborn, North Rhine-Westphalia, Germany",
+      "Dresden, Saxony, Germany",
+      "Leipzig, Saxony, Germany",
+      "Jena, Thuringia, Germany",
+      "Berlin, Germany",
+      "Hamburg, Germany"
+    ],
+    "cities_derived": [
+      "Jena",
+      "Hamburg",
+      "Bonn",
+      "Essen",
+      "Leipzig",
+      "Bremen",
+      "Frankfurt",
+      "Dusseldorf",
+      "Stuttgart",
+      "Nuremberg",
+      "Cologne",
+      "Munich",
+      "Dortmund",
+      "Berlin",
+      "Paderborn",
+      "Dresden"
+    ],
+    "regions_derived": [
+      "Thuringia",
+      "North Rhine-Westphalia",
+      "North Rhine-Westphalia",
+      "Saxony",
+      "Bremen",
+      "Hesse",
+      "North Rhine-Westphalia",
+      "Baden-Württemberg",
+      "Bavaria",
+      "North Rhine-Westphalia",
+      "Bavaria",
+      "North Rhine-Westphalia",
+      "North Rhine-Westphalia",
+      "Saxony"
+    ],
+    "countries_derived": [
+      "Germany",
+      "Germany",
+      "Germany",
+      "Germany",
+      "Germany",
+      "Germany",
+      "Germany",
+      "Germany",
+      "Germany",
+      "Germany",
+      "Germany",
+      "Germany",
+      "Germany",
+      "Germany",
+      "Germany",
+      "Germany"
+    ],
+    "source": "successfactors",
+    "source_type": "ats",
+    "ai_employment_type": [
+      "FULL_TIME"
+    ],
+    "ai_work_arrangement": "On-site",
+    "ai_experience_level": "2-5",
+    "ai_job_language": "German",
+    "ai_visa_sponsorship": false,
+    "ai_key_skills": [
+      "Salesforce Data Cloud",
+      "Data Integration",
+      "ETL/ELT Processes",
+      "Data Modeling",
+      "SQL",
+      "JSON"
     ]
   },
   {
@@ -2563,55 +3125,6 @@
         "minValue": 600,
         "maxValue": 602,
         "unitText": "MONTH"
-      }
-    }
-  },
-  {
-    "id": 2473416766,
-    "title": "Data Engineer (m/w/d)",
-    "organization": "VRG GmbH",
-    "organization_logo": "https://app.softgarden.io/assets/public/media/get/51851e8a-d9b2-405f-b7a6-05cbedc0828d/1706792000544/Favicon_256x256.jpg",
-    "url": "https://vrgjobs.softgarden.io/job/67981302",
-    "date_posted": "2026-11-13T19:37:25.466",
-    "date_created": "2026-11-18T08:31:15.372323",
-    "locations_derived": [
-      "Berlin, Berlin, Germany"
-    ],
-    "cities_derived": [
-      "Berlin"
-    ],
-    "regions_derived": [
-      "Berlin"
-    ],
-    "countries_derived": [
-      "Germany"
-    ],
-    "source": "softgarden",
-    "source_type": "ats",
-    "employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_employment_type": [
-      "FULL_TIME"
-    ],
-    "ai_work_arrangement": "Remote OK",
-    "ai_experience_level": "2-5",
-    "ai_job_language": "German",
-    "ai_visa_sponsorship": false,
-    "ai_key_skills": [
-      "Machine Learning",
-      "Software Development",
-      "Data Engineering",
-      "Statistical Modeling",
-      "Data Preparation",
-      "Python"
-    ],
-    "salary": {
-      "@type": "MonetaryAmount",
-      "currency": "EUR",
-      "value": {
-        "@type": "QuantitativeValue",
-        "unitText": "YEAR"
       }
     }
   }
